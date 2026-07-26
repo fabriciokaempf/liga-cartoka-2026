@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-07-26T21:43:49.260Z",
+  "geradoEm": "2026-07-26T23:56:52.336Z",
   "temporada": 2026,
   "liga": {
     "nome": "Liga Cartoka de pontos corridos 2026",
@@ -198,7 +198,7 @@
       "nome": "Corticeira's Farm FC",
       "nomeCartola": "H.Marasca",
       "escudoTime": "https://s2-cartola.glbimg.com/zd9zfLQ0AYEGw5qXRWqD_HGMhFc=/https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/cartola_assets_3/escudo/bc/45/27/004926d3d5-155d-4a83-83dc-b0667af6d0bc20260126204527",
-      "pago": false,
+      "pago": true,
       "clube": {
         "id": 276,
         "slug": "sao-paulo",
@@ -397,8 +397,8 @@
           "foraTimeId": 90277,
           "dataPartida": "2026-07-26 18:30:00",
           "valida": true,
-          "placarCasa": 0,
-          "placarFora": 0,
+          "placarCasa": 1,
+          "placarFora": 1,
           "pontosCasa": null,
           "pontosFora": null,
           "resultado": null
@@ -410,8 +410,8 @@
           "foraTimeId": 3419812,
           "dataPartida": "2026-07-26 18:30:00",
           "valida": true,
-          "placarCasa": 0,
-          "placarFora": 0,
+          "placarCasa": 1,
+          "placarFora": 1,
           "pontosCasa": null,
           "pontosFora": null,
           "resultado": null
@@ -423,8 +423,8 @@
           "foraTimeId": 2963331,
           "dataPartida": "2026-07-26 19:30:00",
           "valida": true,
-          "placarCasa": null,
-          "placarFora": null,
+          "placarCasa": 2,
+          "placarFora": 0,
           "pontosCasa": null,
           "pontosFora": null,
           "resultado": null
@@ -436,8 +436,8 @@
           "foraTimeId": 1067774,
           "dataPartida": "2026-07-26 19:30:00",
           "valida": true,
-          "placarCasa": null,
-          "placarFora": null,
+          "placarCasa": 0,
+          "placarFora": 1,
           "pontosCasa": null,
           "pontosFora": null,
           "resultado": null

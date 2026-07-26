@@ -25,7 +25,7 @@
     { "timeId": 2963331, "nome": "SampaMissiones FC", "clubeSlug": "vitoria", "clubeNome": "Vitória", "pago": false },
     { "timeId": 27772103, "nome": "Mandrackefc", "clubeSlug": "corinthians", "clubeNome": "Corinthians", "pago": false },
     { "timeId": 6742039, "nome": "Tricolor Lvfc", "clubeSlug": "coritiba", "clubeNome": "Coritiba", "pago": false },
-    { "timeId": 3419812, "nome": "Corticeira's Farm FC", "clubeSlug": "sao-paulo", "clubeNome": "São Paulo", "pago": false },
+    { "timeId": 3419812, "nome": "Corticeira's Farm FC", "clubeSlug": "sao-paulo", "clubeNome": "São Paulo", "pago": true },
     { "timeId": 47572160, "nome": "Madalena Club", "clubeSlug": "bragantino", "clubeNome": "Bragantino", "pago": true },
     { "timeId": 15282074, "nome": "Horst Braun", "clubeSlug": "internacional", "clubeNome": "Internacional", "pago": false },
     { "timeId": 47653263, "nome": "Esporte Clube Barão", "clubeSlug": "bahia", "clubeNome": "Bahia", "pago": false },
