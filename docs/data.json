@@ -1,10 +1,11 @@
 {
-  "geradoEm": "2026-07-26T21:22:30.125Z",
+  "geradoEm": "2026-07-26T21:43:49.260Z",
   "temporada": 2026,
   "liga": {
     "nome": "Liga Cartoka de pontos corridos 2026",
     "turno": "2º turno",
     "inscricao": 100,
+    "prazoPagamento": "2026-08-10",
     "premios": [
       750,
       550,
@@ -20,7 +21,7 @@
   "rodadaFinal": 38,
   "rodadaAtual": 20,
   "statusMercado": 2,
-  "bolaRolando": false,
+  "bolaRolando": true,
   "gameOver": false,
   "ultimaRodadaFechada": null,
   "jogadores": [
@@ -383,8 +384,8 @@
           "foraTimeId": 6742039,
           "dataPartida": "2026-07-26 18:30:00",
           "valida": true,
-          "placarCasa": null,
-          "placarFora": null,
+          "placarCasa": 0,
+          "placarFora": 0,
           "pontosCasa": null,
           "pontosFora": null,
           "resultado": null
@@ -396,8 +397,8 @@
           "foraTimeId": 90277,
           "dataPartida": "2026-07-26 18:30:00",
           "valida": true,
-          "placarCasa": null,
-          "placarFora": null,
+          "placarCasa": 0,
+          "placarFora": 0,
           "pontosCasa": null,
           "pontosFora": null,
           "resultado": null
@@ -409,8 +410,8 @@
           "foraTimeId": 3419812,
           "dataPartida": "2026-07-26 18:30:00",
           "valida": true,
-          "placarCasa": null,
-          "placarFora": null,
+          "placarCasa": 0,
+          "placarFora": 0,
           "pontosCasa": null,
           "pontosFora": null,
           "resultado": null

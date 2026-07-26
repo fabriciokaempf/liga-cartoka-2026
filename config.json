@@ -9,6 +9,7 @@
     "pontosEmpate": 1,
     "empateLimite": 2,
     "inscricao": 100,
+    "prazoPagamento": "2026-08-10",
     "premios": [750, 550, 300, 200, 100]
   },
   "jogadores": [

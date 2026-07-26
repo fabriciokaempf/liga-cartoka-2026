@@ -364,6 +364,7 @@ async function principal() {
       nome: config.liga.nome,
       turno: config.liga.turno,
       inscricao: config.liga.inscricao,
+      prazoPagamento: config.liga.prazoPagamento || null,
       premios: config.liga.premios,
       pontosVitoria: config.liga.pontosVitoria,
       pontosEmpate: config.liga.pontosEmpate,
