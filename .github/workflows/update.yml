@@ -1,0 +1,40 @@
+name: Atualiza dados da liga
+
+on:
+  schedule:
+    - cron: '23 3,9,15,21 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'docs/data.json'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualiza-dados
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar repositorio
+        uses: actions/checkout@v4
+
+      - name: Rodar o robo de dados
+        run: node scripts/update.js
+
+      - name: Commit se os dados mudaram
+        run: |
+          if [ -n "$(git status --porcelain docs/data.json)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add docs/data.json
+            git commit -m "dados: atualizacao automatica"
+            git pull --rebase origin main
+            git push
+          else
+            echo "Sem mudancas para publicar."
+          fi

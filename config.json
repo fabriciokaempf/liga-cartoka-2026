@@ -1,0 +1,36 @@
+{
+  "temporada": 2026,
+  "liga": {
+    "nome": "Liga Cartoka de pontos corridos 2026",
+    "turno": "2º turno",
+    "rodadaInicial": 20,
+    "rodadaFinal": 38,
+    "pontosVitoria": 3,
+    "pontosEmpate": 1,
+    "empateLimite": 2,
+    "inscricao": 100,
+    "premios": [750, 550, 300, 200, 100]
+  },
+  "jogadores": [
+    { "timeId": 13912942, "nome": "Kidiabense FC", "clubeSlug": "gremio", "clubeNome": "Grêmio", "pago": false },
+    { "timeId": 90277, "nome": "Gaudérios FC", "clubeSlug": "fluminense", "clubeNome": "Fluminense", "pago": false },
+    { "timeId": 487118, "nome": "Kaempfs F.C.", "clubeSlug": "mirassol", "clubeNome": "Mirassol", "pago": true },
+    { "timeId": 49288650, "nome": "Resina Club", "clubeSlug": "remo", "clubeNome": "Remo", "pago": true },
+    { "timeId": 26079439, "nome": "Alemonstro FBPA", "clubeSlug": "chapecoense", "clubeNome": "Chapecoense", "pago": false },
+    { "timeId": 753775, "nome": "Império da Caipira", "clubeSlug": "cruzeiro", "clubeNome": "Cruzeiro", "pago": false },
+    { "timeId": 25278938, "nome": "Parizi 01", "clubeSlug": "botafogo", "clubeNome": "Botafogo", "pago": false },
+    { "timeId": 309735, "nome": "Urachfc", "clubeSlug": "palmeiras", "clubeNome": "Palmeiras", "pago": false },
+    { "timeId": 1067774, "nome": "VIERTRICOLOR", "clubeSlug": "atletico-mg", "clubeNome": "Atlético-MG", "pago": false },
+    { "timeId": 2963331, "nome": "SampaMissiones FC", "clubeSlug": "vitoria", "clubeNome": "Vitória", "pago": false },
+    { "timeId": 27772103, "nome": "Mandrackefc", "clubeSlug": "corinthians", "clubeNome": "Corinthians", "pago": false },
+    { "timeId": 6742039, "nome": "Tricolor Lvfc", "clubeSlug": "coritiba", "clubeNome": "Coritiba", "pago": false },
+    { "timeId": 3419812, "nome": "Corticeira's Farm FC", "clubeSlug": "sao-paulo", "clubeNome": "São Paulo", "pago": false },
+    { "timeId": 47572160, "nome": "Madalena Club", "clubeSlug": "bragantino", "clubeNome": "Bragantino", "pago": true },
+    { "timeId": 15282074, "nome": "Horst Braun", "clubeSlug": "internacional", "clubeNome": "Internacional", "pago": false },
+    { "timeId": 47653263, "nome": "Esporte Clube Barão", "clubeSlug": "bahia", "clubeNome": "Bahia", "pago": false },
+    { "timeId": 4997197, "nome": "Baade FC", "clubeSlug": "santos", "clubeNome": "Santos", "pago": true },
+    { "timeId": 3250219, "nome": "Brocador do Bonja", "clubeSlug": "vasco", "clubeNome": "Vasco", "pago": true },
+    { "timeId": 423154, "nome": "Berwinha FC", "clubeSlug": "flamengo", "clubeNome": "Flamengo", "pago": false },
+    { "timeId": 17382079, "nome": "pietro filho", "clubeSlug": "atletico-pr", "clubeNome": "Athletico-PR", "pago": false }
+  ]
+}
