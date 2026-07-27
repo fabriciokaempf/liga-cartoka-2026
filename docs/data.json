@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-07-26T23:56:52.336Z",
+  "geradoEm": "2026-07-27T00:15:19.952Z",
   "temporada": 2026,
   "liga": {
     "nome": "Liga Cartoka de pontos corridos 2026",
@@ -436,8 +436,8 @@
           "foraTimeId": 1067774,
           "dataPartida": "2026-07-26 19:30:00",
           "valida": true,
-          "placarCasa": 0,
-          "placarFora": 1,
+          "placarCasa": 1,
+          "placarFora": 2,
           "pontosCasa": null,
           "pontosFora": null,
           "resultado": null
