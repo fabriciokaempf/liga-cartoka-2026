@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-07-27T15:24:49.733Z",
+  "geradoEm": "2026-07-27T21:19:48.306Z",
   "temporada": 2026,
   "liga": {
     "nome": "Liga Cartoka de pontos corridos 2026",
@@ -30,7 +30,7 @@
       "nome": "Kidiabense FC",
       "nomeCartola": "Eduardo Ludwig",
       "escudoTime": "https://s2-cartola.glbimg.com/Qma7GHoxKZ10qT8WpgQRrU7Cyto=/https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/cartola_assets_3/escudo/a4/46/52/00d27e331c-ecf1-4a43-9212-e179c0fecda420260126204652",
-      "pago": false,
+      "pago": true,
       "clube": {
         "id": 284,
         "slug": "gremio",
