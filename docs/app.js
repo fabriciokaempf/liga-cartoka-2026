@@ -308,7 +308,7 @@
         cartao.appendChild(el("p", null, bloco.texto || ""));
         conteudo.appendChild(cartao);
       });
-      conteudo.appendChild(el("p", "resenha-assinatura", "Zé Resenha 🤖 · comentarista oficial da liga"));
+      conteudo.appendChild(el("p", "resenha-assinatura", "Zé Resenha 🎙️ · comentarista oficial da liga"));
     }
 
     botaoAnterior.addEventListener("click", function () {

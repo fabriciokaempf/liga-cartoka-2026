@@ -2,12 +2,12 @@
   {
     "id": "abertura",
     "rodada": null,
-    "titulo": "Apita o robô: começou a Cartoka!",
+    "titulo": "Apita o Zé: começou a Cartoka!",
     "blocos": [
       {
         "icone": "🎙️",
         "titulo": "Microfone aberto, bola rolando",
-        "texto": "Senhoras e senhores, o robô declara aberto o returno da Cartoka! São 20 cartoleiros, 19 rodadas e confrontos copiando a tabela real do Brasileirão. Quem pontuar mais no Cartola leva os 3 pontos da rodada, e no fim tem R$ 750 para o campeão, com prêmio até o 5º lugar. Pode ir escolhendo o lugar do troféu na estante, mas só depois da rodada 38."
+        "texto": "Senhoras e senhores, o Zé Resenha declara aberto o returno da Cartoka! São 20 cartoleiros, 19 rodadas e confrontos copiando a tabela real do Brasileirão. Quem pontuar mais no Cartola leva os 3 pontos da rodada, e no fim tem R$ 750 para o campeão, com prêmio até o 5º lugar. Pode ir escolhendo o lugar do troféu na estante, mas só depois da rodada 38."
       },
       {
         "icone": "🔥",
@@ -17,7 +17,7 @@
       {
         "icone": "🐴",
         "titulo": "O xodó do returno",
-        "texto": "Respeitem o HORST BRAUN, azarão oficial do returno: 1016,7 pontos no 1º turno, a uns 400 pontos do pelotão. A suspeita do grupo é que ele escalou o time por telepatia em algumas rodadas. Mas ninguém engana o robô: todo mundo zoa e torce escondido pelo colorado. Se ele mitar uma rodada que seja, a resenha para e o aplauso é de pé."
+        "texto": "Respeitem o HORST BRAUN, azarão oficial do returno: 1016,7 pontos no 1º turno, a uns 400 pontos do pelotão. A suspeita do grupo é que ele escalou o time por telepatia em algumas rodadas. Mas ninguém engana o Zé: todo mundo zoa e torce escondido pelo colorado. Se ele mitar uma rodada que seja, a resenha para e o aplauso é de pé."
       },
       {
         "icone": "⚔️",
@@ -32,7 +32,7 @@
       {
         "icone": "🍿",
         "titulo": "Liga o modo resenha",
-        "texto": "De agora em diante, toda rodada tem resenha nova deste robô: zoeira fresquinha e ranking na mesa. Prepara o coração, o time titular e o dedo para o print. São 19 rodadas para virar lenda ou virar meme na Cartoka 2026. Bola pra frente que atrás vem resenha!"
+        "texto": "De agora em diante, toda rodada tem resenha nova do Zé: zoeira fresquinha e ranking na mesa. Prepara o coração, o time titular e o dedo para o print. São 19 rodadas para virar lenda ou virar meme na Cartoka 2026. Bola pra frente que atrás vem resenha!"
       }
     ],
     "geradaEm": "2026-07-27T00:15:00.000Z"
