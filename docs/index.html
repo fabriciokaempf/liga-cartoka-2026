@@ -15,7 +15,7 @@
   <meta property="og:image:height" content="630">
   <meta name="twitter:card" content="summary_large_image">
   <link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3Ctext%20y='0.9em'%20font-size='90'%3E%F0%9F%8F%86%3C/text%3E%3C/svg%3E">
-  <link rel="stylesheet" href="styles.css?v=2">
+  <link rel="stylesheet" href="styles.css?v=3">
 </head>
 <body>
   <header class="hero">
@@ -32,6 +32,7 @@
 
   <nav class="navega" aria-label="Seções da página">
     <a href="#secao-classificacao" class="ativo">Tabela</a>
+    <a href="#secao-resenha">Resenha</a>
     <a href="#secao-confrontos">Rodadas</a>
     <a href="#secao-inscritos">Inscritos</a>
     <a href="#secao-regras">Regras</a>
@@ -60,6 +61,16 @@
         </table>
       </div>
       <div id="legenda-zonas" class="legenda-zonas"></div>
+    </section>
+
+    <section id="secao-resenha" class="cartao" hidden>
+      <h2><span class="h2-icone" aria-hidden="true">🎙️</span>Resenha da rodada</h2>
+      <div id="seletor-resenha" class="seletor-rodada" hidden>
+        <button id="botao-resenha-anterior" type="button" aria-label="Resenha anterior">‹</button>
+        <span id="rotulo-resenha"></span>
+        <button id="botao-resenha-seguinte" type="button" aria-label="Resenha seguinte">›</button>
+      </div>
+      <div id="conteudo-resenha"></div>
     </section>
 
     <section id="secao-confrontos" class="cartao" hidden>
@@ -101,6 +112,6 @@
     <p class="rodape-credito">Liga Cartoka · organização: Fabricio Kaempf</p>
   </footer>
 
-  <script src="app.js?v=2" defer></script>
+  <script src="app.js?v=3" defer></script>
 </body>
 </html>

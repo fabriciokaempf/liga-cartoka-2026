@@ -272,6 +272,61 @@
     });
   }
 
+  function montarResenha(resenhas) {
+    var conteudo = document.getElementById("conteudo-resenha");
+    var seletor = document.getElementById("seletor-resenha");
+
+    if (!Array.isArray(resenhas) || resenhas.length === 0) {
+      var aviso = el("div", "resenha-teaser");
+      aviso.appendChild(el("div", "resenha-teaser-icone", "🎤"));
+      aviso.appendChild(el("p", null, "O Zé Resenha está aquecendo o microfone. A primeira resenha sai assim que a rodada fechar!"));
+      conteudo.appendChild(aviso);
+      return;
+    }
+
+    var indice = resenhas.length - 1;
+    var botaoAnterior = document.getElementById("botao-resenha-anterior");
+    var botaoSeguinte = document.getElementById("botao-resenha-seguinte");
+    seletor.hidden = resenhas.length < 2;
+
+    function renderizarResenha() {
+      var resenha = resenhas[indice];
+      conteudo.textContent = "";
+
+      var rotulo = document.getElementById("rotulo-resenha");
+      rotulo.textContent = resenha.rodada ? "Rodada " + resenha.rodada : "Abertura do returno";
+      botaoAnterior.disabled = indice <= 0;
+      botaoSeguinte.disabled = indice >= resenhas.length - 1;
+
+      if (resenha.titulo) conteudo.appendChild(el("h3", "resenha-titulo", resenha.titulo));
+      (resenha.blocos || []).forEach(function (bloco) {
+        var cartao = el("div", "bloco-resenha");
+        var topo = el("div", "bloco-resenha-topo");
+        if (bloco.icone) topo.appendChild(el("span", "bloco-resenha-icone", bloco.icone));
+        if (bloco.titulo) topo.appendChild(el("span", null, bloco.titulo));
+        cartao.appendChild(topo);
+        cartao.appendChild(el("p", null, bloco.texto || ""));
+        conteudo.appendChild(cartao);
+      });
+      conteudo.appendChild(el("p", "resenha-assinatura", "Zé Resenha 🤖 · comentarista oficial da liga"));
+    }
+
+    botaoAnterior.addEventListener("click", function () {
+      if (indice > 0) {
+        indice -= 1;
+        renderizarResenha();
+      }
+    });
+    botaoSeguinte.addEventListener("click", function () {
+      if (indice < resenhas.length - 1) {
+        indice += 1;
+        renderizarResenha();
+      }
+    });
+
+    renderizarResenha();
+  }
+
   function montarRodape(dados) {
     var quando = new Date(dados.geradoEm);
     var texto = "";
@@ -304,7 +359,7 @@
     });
   }
 
-  function montar(dados) {
+  function montar(dados, resenhas) {
     var jogadoresPorId = {};
     dados.jogadores.forEach(function (jogador) {
       jogadoresPorId[jogador.timeId] = jogador;
@@ -312,25 +367,38 @@
 
     montarHero(dados);
     montarClassificacao(dados, jogadoresPorId);
+    montarResenha(resenhas);
     montarConfrontos(dados, jogadoresPorId);
     montarInscritos(dados);
     montarRegras(dados);
     montarRodape(dados);
 
     document.getElementById("carregando").hidden = true;
-    ["secao-classificacao", "secao-confrontos", "secao-inscritos", "secao-regras"].forEach(function (id) {
+    ["secao-classificacao", "secao-resenha", "secao-confrontos", "secao-inscritos", "secao-regras"].forEach(function (id) {
       document.getElementById(id).hidden = false;
     });
     ativarNavegacao();
   }
 
   function carregar() {
-    fetch("data.json?v=" + Date.now(), { cache: "no-store" })
+    var buscaDados = fetch("data.json?v=" + Date.now(), { cache: "no-store" })
       .then(function (resposta) {
         if (!resposta.ok) throw new Error("HTTP " + resposta.status);
         return resposta.json();
+      });
+    var buscaResenhas = fetch("resenhas.json?v=" + Date.now(), { cache: "no-store" })
+      .then(function (resposta) {
+        if (!resposta.ok) return [];
+        return resposta.json();
       })
-      .then(montar)
+      .catch(function () {
+        return [];
+      });
+
+    Promise.all([buscaDados, buscaResenhas])
+      .then(function (resultados) {
+        montar(resultados[0], resultados[1]);
+      })
       .catch(function () {
         document.getElementById("carregando").textContent = "Não foi possível carregar os dados da liga. Atualize a página em alguns instantes.";
       });

@@ -403,6 +403,74 @@ tr.zona-lanterna .badge-pos {
   background: var(--vermelho);
 }
 
+/* Resenha da rodada */
+
+.resenha-titulo {
+  margin: 2px 0 12px;
+  font-size: 17px;
+  font-weight: 800;
+  line-height: 1.35;
+  color: #ffe9b0;
+}
+
+.bloco-resenha {
+  background: rgba(255, 255, 255, 0.022);
+  border: 1px solid var(--borda);
+  border-left: 3px solid var(--laranja);
+  border-radius: 12px;
+  padding: 11px 13px;
+  margin-bottom: 10px;
+}
+
+.bloco-resenha-topo {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 12px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  color: var(--laranja-claro);
+  margin-bottom: 6px;
+}
+
+.bloco-resenha-icone {
+  font-size: 15px;
+}
+
+.bloco-resenha p {
+  margin: 0;
+  font-size: 13.5px;
+  line-height: 1.6;
+  color: #cfe0d5;
+}
+
+.resenha-assinatura {
+  margin: 12px 2px 0;
+  font-size: 11.5px;
+  font-style: italic;
+  text-align: right;
+  color: var(--texto-apagado);
+}
+
+.resenha-teaser {
+  text-align: center;
+  padding: 18px 12px;
+  border: 1px dashed var(--borda);
+  border-radius: 12px;
+  color: var(--texto-suave);
+  font-size: 13px;
+}
+
+.resenha-teaser-icone {
+  font-size: 30px;
+  margin-bottom: 6px;
+}
+
+.resenha-teaser p {
+  margin: 0;
+}
+
 /* Confrontos */
 
 .seletor-rodada {
