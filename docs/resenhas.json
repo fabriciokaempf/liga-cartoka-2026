@@ -36,5 +36,43 @@
       }
     ],
     "geradaEm": "2026-07-27T00:15:00.000Z"
+  },
+  {
+    "id": "rodada-20",
+    "rodada": 20,
+    "titulo": "Urachfc detona, HORST BRAUN vira lanterna e o returno já engata treta",
+    "blocos": [
+      {
+        "icone": "🏆",
+        "titulo": "Cartoleiro da rodada",
+        "texto": "Quem abriu o returno com show de bola foi o Urachfc, que passou o rodo no VIERTRICOLOR por 127,41 a 86,65 no Cartola e já assume a ponta da tabela. Foi camisa 10 do início ao fim, sem departamento médico e sem susto, só pontuação de gente grande. Se a régua for essa o returno inteiro, já dá para separar espaço na estante para os R$ 750 do primeiro lugar."
+      },
+      {
+        "icone": "🤡",
+        "titulo": "Vexame da rodada",
+        "texto": "Já o HORST BRAUN estreou com a pior de todas: apenas 72,61 pontos e lanterna isolada logo de cara. Time colorado que prometia ser o Beira-Rio da Cartoka virou pousada por uma rodada inteira. Recomendação do Zé: reveja a escalação antes que a lanterna vire hábito."
+      },
+      {
+        "icone": "🔥",
+        "titulo": "Jogo da rodada",
+        "texto": "O confronto mais equilibrado ficou por conta do Esporte Clube Barão contra o Mandrackefc, decidido por apenas 2,50 pontos (103,81 a 101,31). Foi treta até o último apito da rodada, sem espaço para relaxar no sofá. Coração fraco que nem tente acompanhar o Cartola ao vivo nesses jogos."
+      },
+      {
+        "icone": "📊",
+        "titulo": "Sobe e desce da tabela",
+        "texto": "A rodada 20 não teve nenhum empate: foram dez vitórias líquidas, sem margem para acordo. O Urachfc assume a ponta isolado, e o HORST BRAUN já estreia na lanterna, exatamente onde ninguém quer passar o returno inteiro. Com o pelotão de cima embolado entre 100 e 108 pontos, essa tabela promete virar de rodada em rodada."
+      },
+      {
+        "icone": "🔮",
+        "titulo": "Espiada na próxima rodada",
+        "texto": "Na rodada 21, o líder Urachfc visita o SampaMissiones FC, que já quer tirar pontos do ponteiro logo na sequência. O vexame HORST BRAUN tenta reação diante do Berwinha FC, e o duelo Mandrackefc contra pietro filho promete outra pontuação apertada. Bola rolando de novo, e o grupo do WhatsApp já deve estar fervendo com os palpites."
+      },
+      {
+        "icone": "💸",
+        "titulo": "Recado das inscrições",
+        "texto": "A diretoria pede paciência, mas cobra: ainda faltam 14 cartoleiros regularizarem a inscrição de R$ 100, e o prazo segue firme até 10/08/2026. Depois dessa data o Zé não garante nem consolo para quem ficar de fora da briga pelos R$ 750 do título. Corre lá que o boleto não pontua sozinho."
+      }
+    ],
+    "geradaEm": "2026-07-27T15:26:44.000Z"
   }
 ]
