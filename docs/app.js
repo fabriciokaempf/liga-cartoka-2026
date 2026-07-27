@@ -121,7 +121,8 @@
       rodadasPorNumero[rodada.rodada] = rodada;
     });
 
-    var selecionada = Math.min(Math.max(dados.rodadaAtual, dados.rodadaInicial), dados.rodadaFinal);
+    var rodadaPadrao = dados.ultimaRodadaFechada || dados.rodadaAtual;
+    var selecionada = Math.min(Math.max(rodadaPadrao, dados.rodadaInicial), dados.rodadaFinal);
     var botaoAnterior = document.getElementById("botao-rodada-anterior");
     var botaoSeguinte = document.getElementById("botao-rodada-seguinte");
 
