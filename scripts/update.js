@@ -186,13 +186,21 @@ async function principal() {
 
   // Confrontos por rodada. Rodadas ja fechadas no cache ficam congeladas
   // (a tabela do Brasileirao nao muda depois que a rodada termina).
+  // Rodadas futuras distantes sao reaproveitadas do cache e renovadas uma
+  // vez por dia (na janela de 9h UTC), para o robo de 10 em 10 minutos nao
+  // bombardear a API; a rodada atual e a seguinte sao renovadas sempre.
+  const atualizacaoCompleta = simulacao || !cacheValido || new Date().getUTCHours() === 9;
+  const fixtureRenovaSempre = (r) => r === rodadaAtual || r === rodadaAtual + 1;
+  const temConfrontosNoCache = (registro) => registro && Array.isArray(registro.confrontos) && registro.confrontos.length > 0;
+
   const rodadas = [];
   for (let r = rodadaIni; r <= rodadaFim; r++) {
     const fechada = rodadaEstaFechada(r);
     const antesR = rodadasAnteriores.get(r);
     let confrontos = null;
 
-    if (fechada && antesR && antesR.fechada === true && Array.isArray(antesR.confrontos) && antesR.confrontos.length > 0) {
+    const reaproveitaAberta = !fechada && temConfrontosNoCache(antesR) && !atualizacaoCompleta && !fixtureRenovaSempre(r);
+    if ((fechada && antesR && antesR.fechada === true && Array.isArray(antesR.confrontos) && antesR.confrontos.length > 0) || reaproveitaAberta) {
       confrontos = antesR.confrontos.map((c) => ({
         casaClubeId: c.casaClubeId,
         foraClubeId: c.foraClubeId,
@@ -279,6 +287,63 @@ async function principal() {
     const porTime = pontuacoes[String(timeId)];
     return porTime && typeof porTime[r] === "number" ? porTime[r] : null;
   };
+
+  // Parciais ao vivo da rodada em andamento: escalacoes congeladas no
+  // fechamento do mercado (buscadas uma unica vez por rodada e mantidas em
+  // cache) somadas com /atletas/pontuados. Capitao vale 1,5x (validado
+  // contra a pontuacao oficial das 20 equipes na rodada 20). Substituicoes
+  // automaticas de banco ficam de fora: o valor e parcial e a pontuacao
+  // oficial entra no fechamento.
+  const MULTIPLICADOR_CAPITAO = 1.5;
+  let escalacoes = null;
+  let parciais = null;
+
+  if (!simulacao && !gameOver && status.status_mercado === 2) {
+    escalacoes = (cacheValido && anterior.escalacoes && anterior.escalacoes.rodada === rodadaAtual && anterior.escalacoes.times)
+      ? anterior.escalacoes
+      : { rodada: rodadaAtual, times: {} };
+
+    for (const jogador of jogadores) {
+      const chave = String(jogador.timeId);
+      if (escalacoes.times[chave]) continue;
+      await pausa(ESPERA_MS);
+      console.log("Escalacao da rodada " + rodadaAtual + ": " + jogador.nome + "...");
+      const resposta = await buscarJson("/time/id/" + jogador.timeId, { permitir404: true });
+      if (resposta && Array.isArray(resposta.atletas) && resposta.atletas.length > 0) {
+        escalacoes.times[chave] = {
+          atletas: resposta.atletas.map((a) => a.atleta_id).filter((id) => typeof id === "number"),
+          capitaoId: typeof resposta.capitao_id === "number" ? resposta.capitao_id : null
+        };
+      } else {
+        escalacoes.times[chave] = { atletas: [], capitaoId: null };
+        console.warn("Aviso: " + jogador.nome + " sem escalacao na rodada " + rodadaAtual + ".");
+      }
+    }
+
+    await pausa(ESPERA_MS);
+    const pontuados = await buscarJson("/atletas/pontuados", { permitir404: true });
+    if (pontuados && pontuados.rodada === rodadaAtual && pontuados.atletas && Object.keys(pontuados.atletas).length > 0) {
+      const porTime = {};
+      for (const jogador of jogadores) {
+        const escalacao = escalacoes.times[String(jogador.timeId)];
+        let total = 0;
+        for (const atletaId of escalacao.atletas) {
+          const atleta = pontuados.atletas[String(atletaId)];
+          if (!atleta || typeof atleta.pontuacao !== "number" || !isFinite(atleta.pontuacao)) continue;
+          total += atletaId === escalacao.capitaoId ? atleta.pontuacao * MULTIPLICADOR_CAPITAO : atleta.pontuacao;
+        }
+        porTime[String(jogador.timeId)] = round2(total);
+      }
+      parciais = {
+        rodada: rodadaAtual,
+        atualizadoEm: new Date().toISOString(),
+        porTime
+      };
+      console.log("Parciais da rodada " + rodadaAtual + " calculadas para " + Object.keys(porTime).length + " times.");
+    } else {
+      console.log("Sem parciais no momento (jogos da rodada " + rodadaAtual + " ainda nao comecaram).");
+    }
+  }
 
   // Resultados dos confrontos e classificacao (sempre recalculados do zero,
   // assim qualquer correcao de regra vale tambem para rodadas antigas).
@@ -378,6 +443,8 @@ async function principal() {
     gameOver,
     ultimaRodadaFechada: numerosRodadasFechadas.length > 0 ? Math.max(...numerosRodadasFechadas) : null,
     jogadores,
+    escalacoes,
+    parciais,
     pontuacoes,
     rodadas,
     classificacao
@@ -408,12 +475,15 @@ async function principal() {
     console.log(divergencias === 0 ? "Conferencia concluida sem divergencias." : "Conferencia com " + divergencias + " divergencia(s)!");
   }
 
-  // So reescreve quando o conteudo realmente mudou (ignorando o carimbo
+  // So reescreve quando o conteudo realmente mudou (ignorando os carimbos
   // de horario), para o workflow nao gerar commits vazios.
+  const semCarimbos = (objeto) => JSON.stringify({
+    ...objeto,
+    geradoEm: null,
+    parciais: objeto.parciais ? { ...objeto.parciais, atualizadoEm: null } : null
+  });
   if (!simulacao && anterior) {
-    const atualSemCarimbo = JSON.stringify({ ...saida, geradoEm: null });
-    const anteriorSemCarimbo = JSON.stringify({ ...anterior, geradoEm: null });
-    if (atualSemCarimbo === anteriorSemCarimbo) {
+    if (semCarimbos(saida) === semCarimbos(anterior)) {
       console.log("Sem mudancas nos dados. Arquivo mantido como esta.");
       return;
     }

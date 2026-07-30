@@ -47,10 +47,18 @@
     return texto.slice(8, 10) + "/" + texto.slice(5, 7);
   }
 
+  function fmtHora(iso) {
+    var data = new Date(iso);
+    if (isNaN(data.getTime())) return "";
+    return data.toLocaleTimeString("pt-BR", { timeZone: "America/Sao_Paulo", hour: "2-digit", minute: "2-digit" });
+  }
+
   function statusDaRodada(dados) {
     if (dados.gameOver) return "Temporada encerrada · classificação final";
     if (dados.statusMercado === 1) return "Mercado aberto · rodada " + dados.rodadaAtual + " em breve";
-    if (dados.bolaRolando) return "Rodada " + dados.rodadaAtual + " em andamento";
+    if (dados.bolaRolando) {
+      return dados.parciais ? "Rodada " + dados.rodadaAtual + " em andamento · parciais ao vivo" : "Rodada " + dados.rodadaAtual + " em andamento";
+    }
     return "Rodada " + dados.rodadaAtual + " · aguardando fechamento";
   }
 
@@ -121,12 +129,19 @@
       rodadasPorNumero[rodada.rodada] = rodada;
     });
 
-    var rodadaPadrao = dados.ultimaRodadaFechada || dados.rodadaAtual;
+    var parciaisRodada = dados.parciais && typeof dados.parciais.rodada === "number" ? dados.parciais.rodada : null;
+    var rodadaPadrao = parciaisRodada || dados.ultimaRodadaFechada || dados.rodadaAtual;
     var selecionada = Math.min(Math.max(rodadaPadrao, dados.rodadaInicial), dados.rodadaFinal);
     var botaoAnterior = document.getElementById("botao-rodada-anterior");
     var botaoSeguinte = document.getElementById("botao-rodada-seguinte");
 
-    function linhaDeTime(jogador, pontos, ehVencedor, houveEmpate, rodadaFechada) {
+    function lerParcial(timeId) {
+      if (!dados.parciais || timeId === null) return null;
+      var valor = dados.parciais.porTime[String(timeId)];
+      return typeof valor === "number" ? valor : null;
+    }
+
+    function linhaDeTime(jogador, pontos, ehVencedor, houveEmpate, modo) {
       var linha = el("div", "linha-time" + (ehVencedor ? " linha-vencedor" : ""));
       if (jogador) {
         linha.appendChild(criarEscudo(jogador.clube.escudo, jogador.clube.abreviacao));
@@ -137,10 +152,12 @@
       } else {
         linha.appendChild(el("span", "time-nome", "Sem jogador"));
       }
-      if (rodadaFechada) {
+      if (modo === "fechada") {
         linha.appendChild(el("span", "pontos", pontos === null ? "-" : fmt1(pontos)));
         if (ehVencedor) linha.appendChild(el("span", "selo selo-vitoria", "V"));
         if (houveEmpate) linha.appendChild(el("span", "selo selo-empate", "E"));
+      } else if (modo === "parcial") {
+        linha.appendChild(el("span", "pontos pontos-parcial", pontos === null ? "-" : fmt1(pontos)));
       }
       return linha;
     }
@@ -152,10 +169,12 @@
       var lista = document.getElementById("lista-confrontos");
       lista.textContent = "";
 
+      var parciaisAtivas = Boolean(rodada && !rodada.fechada && parciaisRodada === selecionada);
+
       var situacao;
       if (!rodada) situacao = "";
       else if (rodada.fechada) situacao = "encerrada";
-      else if (selecionada === dados.rodadaAtual) situacao = dados.bolaRolando ? "em andamento" : (dados.statusMercado === 1 ? "mercado aberto" : "aguardando fechamento");
+      else if (selecionada === dados.rodadaAtual) situacao = dados.bolaRolando ? (parciaisAtivas ? "em andamento · parcial" : "em andamento") : (dados.statusMercado === 1 ? "mercado aberto" : "aguardando fechamento");
       else situacao = "a disputar";
       rotulo.textContent = "Rodada " + selecionada + (situacao ? " · " + situacao : "");
 
@@ -166,7 +185,16 @@
         aviso.textContent = "Os confrontos desta rodada ainda não foram divulgados.";
         return;
       }
-      aviso.textContent = rodada.fechada ? "" : "As pontuações aparecem aqui depois que a rodada fecha no Cartola.";
+      if (rodada.fechada) {
+        aviso.textContent = "";
+      } else if (parciaisAtivas) {
+        var hora = fmtHora(dados.parciais.atualizadoEm);
+        aviso.textContent = "Pontuações parciais, sem substituições automáticas. A pontuação oficial sai no fechamento da rodada." + (hora ? " Atualizadas às " + hora + "." : "");
+      } else {
+        aviso.textContent = "As pontuações aparecem aqui depois que a rodada fecha no Cartola.";
+      }
+
+      var modo = rodada.fechada ? "fechada" : (parciaisAtivas ? "parcial" : "sem");
 
       rodada.confrontos.forEach(function (confronto) {
         var casa = confronto.casaTimeId !== null ? jogadoresPorId[confronto.casaTimeId] : null;
@@ -175,14 +203,19 @@
         var cartao = el("div", "confronto");
         var cabecalho = el("div", "confronto-cabecalho");
         cabecalho.appendChild(el("span", null, fmtDataPartida(confronto.dataPartida)));
+        if (modo === "parcial") {
+          cabecalho.appendChild(el("span", "selo selo-parcial", "Parcial"));
+        }
         if (confronto.placarCasa !== null && confronto.placarFora !== null) {
           cabecalho.appendChild(el("span", "confronto-placar-real", "Jogo: " + confronto.placarCasa + " x " + confronto.placarFora));
         }
         cartao.appendChild(cabecalho);
 
         var houveEmpate = confronto.resultado === "empate";
-        cartao.appendChild(linhaDeTime(casa, confronto.pontosCasa, confronto.resultado === "casa", houveEmpate, rodada.fechada));
-        cartao.appendChild(linhaDeTime(fora, confronto.pontosFora, confronto.resultado === "fora", houveEmpate, rodada.fechada));
+        var pontosCasa = modo === "parcial" ? lerParcial(confronto.casaTimeId) : confronto.pontosCasa;
+        var pontosFora = modo === "parcial" ? lerParcial(confronto.foraTimeId) : confronto.pontosFora;
+        cartao.appendChild(linhaDeTime(casa, pontosCasa, confronto.resultado === "casa", houveEmpate, modo));
+        cartao.appendChild(linhaDeTime(fora, pontosFora, confronto.resultado === "fora", houveEmpate, modo));
 
         if (confronto.valida === false && confronto.placarCasa === null && confronto.placarFora === null) {
           cartao.appendChild(el("div", "nota-confronto", "Partida real adiada. O confronto vale pela pontuação da rodada."));
@@ -379,6 +412,13 @@
       document.getElementById(id).hidden = false;
     });
     ativarNavegacao();
+
+    // Durante os jogos a pagina se recarrega sozinha para acompanhar as parciais.
+    if (dados.bolaRolando) {
+      setTimeout(function () {
+        window.location.reload();
+      }, 300000);
+    }
   }
 
   function carregar() {

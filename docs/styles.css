@@ -607,6 +607,27 @@ tr.zona-lanterna .badge-pos {
   border: 1px solid rgba(255, 201, 51, 0.3);
 }
 
+.selo-parcial {
+  background: rgba(255, 122, 26, 0.14);
+  color: var(--laranja-claro);
+  border: 1px solid rgba(255, 122, 26, 0.4);
+  text-transform: uppercase;
+  animation: pulso-parcial 1.6s ease-in-out infinite;
+}
+
+@keyframes pulso-parcial {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
+.pontos-parcial {
+  color: var(--laranja-claro);
+}
+
 .linha-vencedor .time-nome,
 .linha-vencedor .pontos {
   color: var(--verde-claro);
