@@ -162,6 +162,23 @@ section {
   border-color: rgba(255, 122, 26, 0.35);
 }
 
+.navega a.atalho-parciais {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  color: var(--laranja-claro);
+  background: rgba(255, 122, 26, 0.1);
+  border-color: rgba(255, 122, 26, 0.45);
+}
+
+.ponto-vivo {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #ff4d4d;
+  animation: pulso-parcial 1.2s ease-in-out infinite;
+}
+
 @media (min-width: 600px) {
   .navega {
     justify-content: center;

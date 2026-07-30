@@ -2,6 +2,7 @@
 
 (function () {
   var DIAS_SEMANA = ["dom", "seg", "ter", "qua", "qui", "sex", "sáb"];
+  var pularParaRodada = null;
 
   function fmt1(n) {
     return n.toLocaleString("pt-BR", { minimumFractionDigits: 1, maximumFractionDigits: 1 });
@@ -241,6 +242,12 @@
       }
     });
 
+    pularParaRodada = function (numero) {
+      if (!rodadasPorNumero[numero]) return;
+      selecionada = Math.min(Math.max(numero, dados.rodadaInicial), dados.rodadaFinal);
+      renderizar();
+    };
+
     renderizar();
   }
 
@@ -378,7 +385,9 @@
   }
 
   function ativarNavegacao() {
-    var links = Array.prototype.slice.call(document.querySelectorAll(".navega a"));
+    var links = Array.prototype.slice.call(document.querySelectorAll(".navega a")).filter(function (link) {
+      return link.id !== "atalho-parciais";
+    });
     if (!("IntersectionObserver" in window)) return;
     var observador = new IntersectionObserver(function (entradas) {
       entradas.forEach(function (entrada) {
@@ -411,6 +420,15 @@
     ["secao-classificacao", "secao-resenha", "secao-confrontos", "secao-inscritos", "secao-regras"].forEach(function (id) {
       document.getElementById(id).hidden = false;
     });
+
+    var atalhoParciais = document.getElementById("atalho-parciais");
+    if (dados.parciais && typeof dados.parciais.rodada === "number") {
+      atalhoParciais.hidden = false;
+      atalhoParciais.addEventListener("click", function () {
+        if (pularParaRodada) pularParaRodada(dados.parciais.rodada);
+      });
+    }
+
     ativarNavegacao();
 
     // Durante os jogos a pagina se recarrega sozinha para acompanhar as parciais.
