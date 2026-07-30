@@ -79,35 +79,150 @@
     return "zona-neutra";
   }
 
+  function calcularProjecao(dados, jogadoresPorId) {
+    if (!dados.parciais || typeof dados.parciais.rodada !== "number") return null;
+    var rodadaViva = null;
+    dados.rodadas.forEach(function (rodada) {
+      if (rodada.rodada === dados.parciais.rodada && !rodada.fechada) rodadaViva = rodada;
+    });
+    if (!rodadaViva || !Array.isArray(rodadaViva.confrontos) || rodadaViva.confrontos.length === 0) return null;
+
+    var estatisticas = {};
+    dados.classificacao.forEach(function (linha) {
+      estatisticas[linha.timeId] = { timeId: linha.timeId, pg: linha.pg, j: linha.j, v: linha.v, e: linha.e, d: linha.d, pgTurno: linha.pgTurno };
+    });
+
+    rodadaViva.confrontos.forEach(function (confronto) {
+      if (confronto.casaTimeId === null || confronto.foraTimeId === null) return;
+      var estCasa = estatisticas[confronto.casaTimeId];
+      var estFora = estatisticas[confronto.foraTimeId];
+      if (!estCasa || !estFora) return;
+      var pontosCasa = dados.parciais.porTime[String(confronto.casaTimeId)];
+      var pontosFora = dados.parciais.porTime[String(confronto.foraTimeId)];
+      if (typeof pontosCasa !== "number") pontosCasa = 0;
+      if (typeof pontosFora !== "number") pontosFora = 0;
+      estCasa.j += 1;
+      estFora.j += 1;
+      estCasa.pgTurno += pontosCasa;
+      estFora.pgTurno += pontosFora;
+      var diferenca = Math.round(Math.abs(pontosCasa - pontosFora) * 100) / 100;
+      if (diferenca < dados.liga.empateLimite) {
+        estCasa.e += 1;
+        estFora.e += 1;
+        estCasa.pg += dados.liga.pontosEmpate;
+        estFora.pg += dados.liga.pontosEmpate;
+      } else if (pontosCasa > pontosFora) {
+        estCasa.v += 1;
+        estCasa.pg += dados.liga.pontosVitoria;
+        estFora.d += 1;
+      } else {
+        estFora.v += 1;
+        estFora.pg += dados.liga.pontosVitoria;
+        estCasa.d += 1;
+      }
+    });
+
+    var linhas = Object.keys(estatisticas).map(function (chave) {
+      return estatisticas[chave];
+    });
+    linhas.sort(function (a, b) {
+      if (b.pg !== a.pg) return b.pg - a.pg;
+      var turnoA = Math.round(a.pgTurno * 100) / 100;
+      var turnoB = Math.round(b.pgTurno * 100) / 100;
+      if (turnoB !== turnoA) return turnoB - turnoA;
+      if (b.v !== a.v) return b.v - a.v;
+      var nomeA = jogadoresPorId[a.timeId] ? jogadoresPorId[a.timeId].nome : "";
+      var nomeB = jogadoresPorId[b.timeId] ? jogadoresPorId[b.timeId].nome : "";
+      return nomeA.localeCompare(nomeB, "pt-BR", { sensitivity: "base" });
+    });
+    return linhas.map(function (linha, indice) {
+      return {
+        pos: indice + 1,
+        timeId: linha.timeId,
+        pg: linha.pg,
+        j: linha.j,
+        v: linha.v,
+        e: linha.e,
+        d: linha.d,
+        pgTurno: Math.round(linha.pgTurno * 100) / 100
+      };
+    });
+  }
+
   function montarClassificacao(dados, jogadoresPorId) {
     var corpo = document.querySelector("#tabela-classificacao tbody");
     var totalPremios = dados.liga.premios.length;
 
-    dados.classificacao.forEach(function (linha) {
-      var jogador = jogadoresPorId[linha.timeId];
-      if (!jogador) return;
-      var tr = document.createElement("tr");
-      tr.className = classeDaPosicao(linha.pos, totalPremios);
+    function renderizarLinhas(linhas, posicaoOficial) {
+      corpo.textContent = "";
+      linhas.forEach(function (linha) {
+        var jogador = jogadoresPorId[linha.timeId];
+        if (!jogador) return;
+        var tr = document.createElement("tr");
+        tr.className = classeDaPosicao(linha.pos, totalPremios);
 
-      var celulaPos = el("td", "celula-pos");
-      celulaPos.appendChild(el("span", "badge-pos", String(linha.pos)));
-      tr.appendChild(celulaPos);
+        var celulaPos = el("td", "celula-pos");
+        celulaPos.appendChild(el("span", "badge-pos", String(linha.pos)));
+        tr.appendChild(celulaPos);
 
-      var celulaTime = el("td", "celula-time");
-      var conteudo = el("div", "time-conteudo");
-      conteudo.appendChild(criarEscudo(jogador.clube.escudo, jogador.clube.abreviacao));
-      conteudo.appendChild(el("span", "time-nome", jogador.nome));
-      celulaTime.appendChild(conteudo);
-      tr.appendChild(celulaTime);
+        var celulaTime = el("td", "celula-time");
+        var conteudo = el("div", "time-conteudo");
+        conteudo.appendChild(criarEscudo(jogador.clube.escudo, jogador.clube.abreviacao));
+        if (posicaoOficial) {
+          var delta = posicaoOficial[linha.timeId] - linha.pos;
+          if (delta > 0) conteudo.appendChild(el("span", "delta delta-sobe", "▲" + delta));
+          else if (delta < 0) conteudo.appendChild(el("span", "delta delta-desce", "▼" + (-delta)));
+        }
+        conteudo.appendChild(el("span", "time-nome", jogador.nome));
+        celulaTime.appendChild(conteudo);
+        tr.appendChild(celulaTime);
 
-      tr.appendChild(el("td", "celula-pg", String(linha.pg)));
-      tr.appendChild(el("td", "celula-num", String(linha.j)));
-      tr.appendChild(el("td", "celula-num", String(linha.v)));
-      tr.appendChild(el("td", "celula-num", String(linha.e)));
-      tr.appendChild(el("td", "celula-num", String(linha.d)));
-      tr.appendChild(el("td", "celula-turno", fmt1(linha.pgTurno)));
-      corpo.appendChild(tr);
+        tr.appendChild(el("td", "celula-pg", String(linha.pg)));
+        tr.appendChild(el("td", "celula-num", String(linha.j)));
+        tr.appendChild(el("td", "celula-num", String(linha.v)));
+        tr.appendChild(el("td", "celula-num", String(linha.e)));
+        tr.appendChild(el("td", "celula-num", String(linha.d)));
+        tr.appendChild(el("td", "celula-turno", fmt1(linha.pgTurno)));
+        corpo.appendChild(tr);
+      });
+    }
+
+    var oficial = dados.classificacao;
+    var projetada = calcularProjecao(dados, jogadoresPorId);
+    var posicaoOficial = {};
+    oficial.forEach(function (linha) {
+      posicaoOficial[linha.timeId] = linha.pos;
     });
+
+    var alternador = document.getElementById("alterna-classificacao");
+    var botaoOficial = document.getElementById("botao-tabela-oficial");
+    var botaoParcial = document.getElementById("botao-tabela-parcial");
+    var nota = document.getElementById("nota-classificacao-parcial");
+
+    function mostrarOficial() {
+      renderizarLinhas(oficial, null);
+      nota.hidden = true;
+      botaoOficial.classList.add("ativo");
+      botaoParcial.classList.remove("ativo");
+    }
+
+    function mostrarParcial() {
+      renderizarLinhas(projetada, posicaoOficial);
+      nota.hidden = false;
+      botaoParcial.classList.add("ativo");
+      botaoOficial.classList.remove("ativo");
+    }
+
+    if (projetada) {
+      alternador.hidden = false;
+      var hora = fmtHora(dados.parciais.atualizadoEm);
+      nota.textContent = "Projeção com as parciais da rodada " + dados.parciais.rodada + (hora ? " (atualizadas às " + hora + ")" : "") + ". Nada é oficial até a rodada fechar.";
+      botaoOficial.addEventListener("click", mostrarOficial);
+      botaoParcial.addEventListener("click", mostrarParcial);
+      mostrarParcial();
+    } else {
+      mostrarOficial();
+    }
 
     var legenda = document.getElementById("legenda-zonas");
     var itens = [

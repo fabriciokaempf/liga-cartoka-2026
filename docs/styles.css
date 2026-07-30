@@ -219,6 +219,54 @@ section {
 
 /* Classificação */
 
+.alterna-classificacao {
+  display: flex;
+  gap: 8px;
+  margin: -4px 0 12px;
+}
+
+.alterna-classificacao button {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  border-radius: 999px;
+  border: 1px solid var(--borda);
+  background: transparent;
+  color: var(--texto-suave);
+  font-size: 12px;
+  font-weight: 700;
+  padding: 6px 14px;
+  cursor: pointer;
+}
+
+.alterna-classificacao button.ativo {
+  color: var(--laranja-claro);
+  background: rgba(255, 122, 26, 0.12);
+  border-color: rgba(255, 122, 26, 0.4);
+}
+
+.delta {
+  flex: 0 0 auto;
+  font-size: 10px;
+  font-weight: 800;
+}
+
+.delta-sobe {
+  color: var(--verde-claro);
+}
+
+.delta-desce {
+  color: var(--vermelho-claro);
+}
+
+.nota-parcial-tabela {
+  margin: 10px 4px 0;
+  text-align: center;
+  font-size: 11.5px;
+  color: var(--laranja-claro);
+  opacity: 0.85;
+}
+
 .tabela-envelope {
   overflow-x: auto;
 }
