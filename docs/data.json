@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-07-31T07:23:33.103Z",
+  "geradoEm": "2026-07-31T12:52:50.515Z",
   "temporada": 2026,
   "liga": {
     "nome": "Liga Cartoka de pontos corridos 2026",
@@ -282,7 +282,7 @@
       "nome": "Berwinha FC",
       "nomeCartola": "Carlos Berwanger",
       "escudoTime": "https://s2-cartola.glbimg.com/7zIlBmD6kdjDfwjQjNvw41bt0pg=/https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/cartola_assets_2/escudo/b6/02/53/007c816b4c-c8f0-4d9c-a26f-dc35038112b620260122070253",
-      "pago": false,
+      "pago": true,
       "clube": {
         "id": 262,
         "slug": "flamengo",
