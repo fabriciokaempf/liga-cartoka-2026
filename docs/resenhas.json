@@ -74,5 +74,43 @@
       }
     ],
     "geradaEm": "2026-07-27T15:26:44.000Z"
+  },
+  {
+    "id": "rodada-21",
+    "rodada": 21,
+    "titulo": "Tricolor Lvfc estoura na ponta e Gaudérios vira alvo da zoeira",
+    "blocos": [
+      {
+        "icone": "🏆",
+        "titulo": "Cartoleiro da rodada",
+        "texto": "Quem mandou a real na rodada 21 foi o Tricolor Lvfc, do Lavison: 90,25 pontos contra o Império da Caipira e a melhor pontuação da rodada. Depois de fechar o primeiro turno na 11ª colocação, com apenas 29 pontos, o time agora assume a ponta isolada da tabela do returno, com seis pontos em duas rodadas. Quem duvidava do Tricolor já pode ir se explicando no grupo."
+      },
+      {
+        "icone": "🤡",
+        "titulo": "Vexame da rodada",
+        "texto": "Do outro lado, o Gaudérios FC, do Flávio Pacheco, fez feio: apenas 53,13 pontos na visita ao Esporte Clube Barão, que fechou com 87,11. Foi de longe a pior pontuação da rodada e a segunda derrota seguida do time no returno. Se o ritmo continuar assim, vai sobrar até para o adversário de olho no calendário."
+      },
+      {
+        "icone": "🔥",
+        "titulo": "Jogo da rodada",
+        "texto": "O confronto mais eletrizante ficou por conta de Tricolor Lvfc contra Império da Caipira, decidido por míseros 2,64 pontos (90,25 a 87,61). Quem escalou o time cedo demais deve ter sofrido até o mercado fechar de vez. Duelo apertado desses é o tipo de coisa que rende print guardado até semana que vem."
+      },
+      {
+        "icone": "📊",
+        "titulo": "Sobe e desce da tabela",
+        "texto": "A rodada 21 não teve nenhum empate: foram dez resultados líquidos, sem margem para acordo. O líder isolado agora é o Tricolor Lvfc, seguido de perto por Esporte Clube Barão e por Brocador do Bonja, vice do primeiro turno por apenas 1,9 ponto de PG turno para o Kaempfs F.C., que já embala no returno com aproveitamento máximo. Na outra ponta, assume a lanterna o VIERTRICOLOR, do Daniel Vier, zerado em duas rodadas e precisando reagir rápido."
+      },
+      {
+        "icone": "🔮",
+        "titulo": "Espiada na próxima rodada",
+        "texto": "Na rodada 22, prepara a pipoca: o líder Tricolor Lvfc encara o Alemonstro FBPA de olho em esticar a vantagem, enquanto o lanterna VIERTRICOLOR tenta o resgate contra o Resina Club. O verdadeiro choque de titãs, porém, é Esporte Clube Barão contra Brocador do Bonja, dois dos times com aproveitamento perfeito até aqui se enfrentando direto. De quebra, o novato Baade FC mede forças com o pietro filho, e o Kaempfs F.C., campeão do primeiro turno, visita o Império da Caipira em busca de reabilitação."
+      },
+      {
+        "icone": "💸",
+        "titulo": "Recado das inscrições",
+        "texto": "A diretoria dá um toque camarada: 13 cartoleiros ainda não regularizaram a inscrição de R$ 100, e o prazo segue firme até 10/08/2026. Depois dessa data some a chance de brigar pelos R$ 750 do título e pelos demais prêmios até o quinto lugar. Corre lá, guerreiro, que boleto pago rende mais que qualquer escalação de última hora."
+      }
+    ],
+    "geradaEm": "2026-07-31T14:00:00.000Z"
   }
 ]
