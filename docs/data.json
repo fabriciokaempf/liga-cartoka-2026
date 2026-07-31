@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-07-31T04:25:20.498Z",
+  "geradoEm": "2026-07-31T07:23:33.103Z",
   "temporada": 2026,
   "liga": {
     "nome": "Liga Cartoka de pontos corridos 2026",
@@ -19,11 +19,11 @@
   },
   "rodadaInicial": 20,
   "rodadaFinal": 38,
-  "rodadaAtual": 21,
-  "statusMercado": 4,
+  "rodadaAtual": 22,
+  "statusMercado": 1,
   "bolaRolando": false,
   "gameOver": false,
-  "ultimaRodadaFechada": 20,
+  "ultimaRodadaFechada": 21,
   "jogadores": [
     {
       "timeId": 13912942,
@@ -310,64 +310,84 @@
   "parciais": null,
   "pontuacoes": {
     "90277": {
-      "20": 112.75
+      "20": 112.75,
+      "21": 53.13
     },
     "309735": {
-      "20": 127.41
+      "20": 127.41,
+      "21": 70.71
     },
     "423154": {
-      "20": 116.51
+      "20": 116.51,
+      "21": 53.15
     },
     "487118": {
-      "20": 104.11
+      "20": 104.11,
+      "21": 89.84
     },
     "753775": {
-      "20": 107.41
+      "20": 107.41,
+      "21": 87.61
     },
     "1067774": {
-      "20": 86.65
+      "20": 86.65,
+      "21": 64.21
     },
     "2963331": {
-      "20": 92.46
+      "20": 92.46,
+      "21": 77.31
     },
     "3250219": {
-      "20": 108.01
+      "20": 108.01,
+      "21": 78
     },
     "3419812": {
-      "20": 112.61
+      "20": 112.61,
+      "21": 76.3
     },
     "4997197": {
-      "20": 123.01
+      "20": 123.01,
+      "21": 65.85
     },
     "6742039": {
-      "20": 124.61
+      "20": 124.61,
+      "21": 90.25
     },
     "13912942": {
-      "20": 74.05
+      "20": 74.05,
+      "21": 82
     },
     "15282074": {
-      "20": 72.61
+      "20": 72.61,
+      "21": 63.7
     },
     "17382079": {
-      "20": 100.31
+      "20": 100.31,
+      "21": 79.05
     },
     "25278938": {
-      "20": 93.36
+      "20": 93.36,
+      "21": 75.83
     },
     "26079439": {
-      "20": 114.55
+      "20": 114.55,
+      "21": 64.71
     },
     "27772103": {
-      "20": 101.31
+      "20": 101.31,
+      "21": 81.86
     },
     "47572160": {
-      "20": 97.61
+      "20": 97.61,
+      "21": 74.76
     },
     "47653263": {
-      "20": 103.81
+      "20": 103.81,
+      "21": 87.11
     },
     "49288650": {
-      "20": 103.51
+      "20": 103.51,
+      "21": 82.71
     }
   },
   "rodadas": [
@@ -509,7 +529,7 @@
     },
     {
       "rodada": 21,
-      "fechada": false,
+      "fechada": true,
       "confrontos": [
         {
           "casaClubeId": 2305,
@@ -520,9 +540,9 @@
           "valida": true,
           "placarCasa": 2,
           "placarFora": 1,
-          "pontosCasa": null,
-          "pontosFora": null,
-          "resultado": null
+          "pontosCasa": 89.84,
+          "pontosFora": 82.71,
+          "resultado": "casa"
         },
         {
           "casaClubeId": 285,
@@ -533,9 +553,9 @@
           "valida": true,
           "placarCasa": 1,
           "placarFora": 1,
-          "pontosCasa": null,
-          "pontosFora": null,
-          "resultado": null
+          "pontosCasa": 63.7,
+          "pontosFora": 53.15,
+          "resultado": "casa"
         },
         {
           "casaClubeId": 263,
@@ -546,9 +566,9 @@
           "valida": false,
           "placarCasa": null,
           "placarFora": null,
-          "pontosCasa": null,
-          "pontosFora": null,
-          "resultado": null
+          "pontosCasa": 75.83,
+          "pontosFora": 82,
+          "resultado": "fora"
         },
         {
           "casaClubeId": 276,
@@ -559,9 +579,9 @@
           "valida": false,
           "placarCasa": null,
           "placarFora": null,
-          "pontosCasa": null,
-          "pontosFora": null,
-          "resultado": null
+          "pontosCasa": 76.3,
+          "pontosFora": 65.85,
+          "resultado": "casa"
         },
         {
           "casaClubeId": 282,
@@ -572,9 +592,9 @@
           "valida": false,
           "placarCasa": null,
           "placarFora": null,
-          "pontosCasa": null,
-          "pontosFora": null,
-          "resultado": null
+          "pontosCasa": 64.21,
+          "pontosFora": 74.76,
+          "resultado": "fora"
         },
         {
           "casaClubeId": 315,
@@ -585,9 +605,9 @@
           "valida": false,
           "placarCasa": null,
           "placarFora": null,
-          "pontosCasa": null,
-          "pontosFora": null,
-          "resultado": null
+          "pontosCasa": 64.71,
+          "pontosFora": 78,
+          "resultado": "fora"
         },
         {
           "casaClubeId": 266,
@@ -598,9 +618,9 @@
           "valida": true,
           "placarCasa": 0,
           "placarFora": 0,
-          "pontosCasa": null,
-          "pontosFora": null,
-          "resultado": null
+          "pontosCasa": 53.13,
+          "pontosFora": 87.11,
+          "resultado": "fora"
         },
         {
           "casaClubeId": 287,
@@ -611,9 +631,9 @@
           "valida": true,
           "placarCasa": 0,
           "placarFora": 4,
-          "pontosCasa": null,
-          "pontosFora": null,
-          "resultado": null
+          "pontosCasa": 77.31,
+          "pontosFora": 70.71,
+          "resultado": "casa"
         },
         {
           "casaClubeId": 264,
@@ -624,9 +644,9 @@
           "valida": true,
           "placarCasa": 0,
           "placarFora": 0,
-          "pontosCasa": null,
-          "pontosFora": null,
-          "resultado": null
+          "pontosCasa": 81.86,
+          "pontosFora": 79.05,
+          "resultado": "casa"
         },
         {
           "casaClubeId": 294,
@@ -637,9 +657,9 @@
           "valida": true,
           "placarCasa": 0,
           "placarFora": 1,
-          "pontosCasa": null,
-          "pontosFora": null,
-          "resultado": null
+          "pontosCasa": 90.25,
+          "pontosFora": 87.61,
+          "resultado": "casa"
         }
       ]
     },
@@ -784,6 +804,19 @@
       "fechada": false,
       "confrontos": [
         {
+          "casaClubeId": 266,
+          "foraClubeId": 275,
+          "casaTimeId": 90277,
+          "foraTimeId": 309735,
+          "dataPartida": "2026-08-15 16:30:00",
+          "valida": true,
+          "placarCasa": null,
+          "placarFora": null,
+          "pontosCasa": null,
+          "pontosFora": null,
+          "resultado": null
+        },
+        {
           "casaClubeId": 282,
           "foraClubeId": 284,
           "casaTimeId": 1067774,
@@ -841,19 +874,6 @@
           "casaTimeId": 3250219,
           "foraTimeId": 4997197,
           "dataPartida": "2026-08-16 16:00:00",
-          "valida": true,
-          "placarCasa": null,
-          "placarFora": null,
-          "pontosCasa": null,
-          "pontosFora": null,
-          "resultado": null
-        },
-        {
-          "casaClubeId": 266,
-          "foraClubeId": 275,
-          "casaTimeId": 90277,
-          "foraTimeId": 309735,
-          "dataPartida": "2026-08-16 16:30:00",
           "valida": true,
           "placarCasa": null,
           "placarFora": null,
@@ -2959,203 +2979,203 @@
   "classificacao": [
     {
       "pos": 1,
-      "timeId": 309735,
-      "pg": 3,
-      "j": 1,
-      "v": 1,
+      "timeId": 6742039,
+      "pg": 6,
+      "j": 2,
+      "v": 2,
       "e": 0,
       "d": 0,
-      "pgTurno": 127.41
+      "pgTurno": 214.86
     },
     {
       "pos": 2,
-      "timeId": 6742039,
-      "pg": 3,
-      "j": 1,
-      "v": 1,
+      "timeId": 47653263,
+      "pg": 6,
+      "j": 2,
+      "v": 2,
       "e": 0,
       "d": 0,
-      "pgTurno": 124.61
+      "pgTurno": 190.92
     },
     {
       "pos": 3,
-      "timeId": 4997197,
-      "pg": 3,
-      "j": 1,
-      "v": 1,
+      "timeId": 3250219,
+      "pg": 6,
+      "j": 2,
+      "v": 2,
       "e": 0,
       "d": 0,
-      "pgTurno": 123.01
+      "pgTurno": 186.01
     },
     {
       "pos": 4,
-      "timeId": 423154,
+      "timeId": 309735,
       "pg": 3,
-      "j": 1,
+      "j": 2,
       "v": 1,
       "e": 0,
-      "d": 0,
-      "pgTurno": 116.51
+      "d": 1,
+      "pgTurno": 198.12
     },
     {
       "pos": 5,
-      "timeId": 90277,
+      "timeId": 753775,
       "pg": 3,
-      "j": 1,
+      "j": 2,
       "v": 1,
       "e": 0,
-      "d": 0,
-      "pgTurno": 112.75
+      "d": 1,
+      "pgTurno": 195.02
     },
     {
       "pos": 6,
-      "timeId": 3250219,
+      "timeId": 487118,
       "pg": 3,
-      "j": 1,
+      "j": 2,
       "v": 1,
       "e": 0,
-      "d": 0,
-      "pgTurno": 108.01
+      "d": 1,
+      "pgTurno": 193.95
     },
     {
       "pos": 7,
-      "timeId": 753775,
+      "timeId": 3419812,
       "pg": 3,
-      "j": 1,
+      "j": 2,
       "v": 1,
       "e": 0,
-      "d": 0,
-      "pgTurno": 107.41
+      "d": 1,
+      "pgTurno": 188.91
     },
     {
       "pos": 8,
-      "timeId": 47653263,
+      "timeId": 4997197,
       "pg": 3,
-      "j": 1,
+      "j": 2,
       "v": 1,
       "e": 0,
-      "d": 0,
-      "pgTurno": 103.81
+      "d": 1,
+      "pgTurno": 188.86
     },
     {
       "pos": 9,
       "timeId": 49288650,
       "pg": 3,
-      "j": 1,
+      "j": 2,
       "v": 1,
       "e": 0,
-      "d": 0,
-      "pgTurno": 103.51
+      "d": 1,
+      "pgTurno": 186.22
     },
     {
       "pos": 10,
-      "timeId": 17382079,
+      "timeId": 27772103,
       "pg": 3,
-      "j": 1,
+      "j": 2,
       "v": 1,
       "e": 0,
-      "d": 0,
-      "pgTurno": 100.31
+      "d": 1,
+      "pgTurno": 183.17
     },
     {
       "pos": 11,
-      "timeId": 26079439,
-      "pg": 0,
-      "j": 1,
-      "v": 0,
+      "timeId": 17382079,
+      "pg": 3,
+      "j": 2,
+      "v": 1,
       "e": 0,
       "d": 1,
-      "pgTurno": 114.55
+      "pgTurno": 179.36
     },
     {
       "pos": 12,
-      "timeId": 3419812,
-      "pg": 0,
-      "j": 1,
-      "v": 0,
+      "timeId": 47572160,
+      "pg": 3,
+      "j": 2,
+      "v": 1,
       "e": 0,
       "d": 1,
-      "pgTurno": 112.61
+      "pgTurno": 172.37
     },
     {
       "pos": 13,
-      "timeId": 487118,
-      "pg": 0,
-      "j": 1,
-      "v": 0,
+      "timeId": 2963331,
+      "pg": 3,
+      "j": 2,
+      "v": 1,
       "e": 0,
       "d": 1,
-      "pgTurno": 104.11
+      "pgTurno": 169.77
     },
     {
       "pos": 14,
-      "timeId": 27772103,
-      "pg": 0,
-      "j": 1,
-      "v": 0,
+      "timeId": 423154,
+      "pg": 3,
+      "j": 2,
+      "v": 1,
       "e": 0,
       "d": 1,
-      "pgTurno": 101.31
+      "pgTurno": 169.66
     },
     {
       "pos": 15,
-      "timeId": 47572160,
-      "pg": 0,
-      "j": 1,
-      "v": 0,
+      "timeId": 90277,
+      "pg": 3,
+      "j": 2,
+      "v": 1,
       "e": 0,
       "d": 1,
-      "pgTurno": 97.61
+      "pgTurno": 165.88
     },
     {
       "pos": 16,
-      "timeId": 25278938,
-      "pg": 0,
-      "j": 1,
-      "v": 0,
+      "timeId": 13912942,
+      "pg": 3,
+      "j": 2,
+      "v": 1,
       "e": 0,
       "d": 1,
-      "pgTurno": 93.36
+      "pgTurno": 156.05
     },
     {
       "pos": 17,
-      "timeId": 2963331,
-      "pg": 0,
-      "j": 1,
-      "v": 0,
+      "timeId": 15282074,
+      "pg": 3,
+      "j": 2,
+      "v": 1,
       "e": 0,
       "d": 1,
-      "pgTurno": 92.46
+      "pgTurno": 136.31
     },
     {
       "pos": 18,
-      "timeId": 1067774,
+      "timeId": 26079439,
       "pg": 0,
-      "j": 1,
+      "j": 2,
       "v": 0,
       "e": 0,
-      "d": 1,
-      "pgTurno": 86.65
+      "d": 2,
+      "pgTurno": 179.26
     },
     {
       "pos": 19,
-      "timeId": 13912942,
+      "timeId": 25278938,
       "pg": 0,
-      "j": 1,
+      "j": 2,
       "v": 0,
       "e": 0,
-      "d": 1,
-      "pgTurno": 74.05
+      "d": 2,
+      "pgTurno": 169.19
     },
     {
       "pos": 20,
-      "timeId": 15282074,
+      "timeId": 1067774,
       "pg": 0,
-      "j": 1,
+      "j": 2,
       "v": 0,
       "e": 0,
-      "d": 1,
-      "pgTurno": 72.61
+      "d": 2,
+      "pgTurno": 150.86
     }
   ]
 }
