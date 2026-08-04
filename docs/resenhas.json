@@ -112,5 +112,39 @@
       }
     ],
     "geradaEm": "2026-07-31T14:00:00.000Z"
+  },
+  {
+    "id": "especial-pagamentos",
+    "rodada": null,
+    "rotulo": "Edição especial · Pix",
+    "titulo": "Plantão do Pix: faltam 11",
+    "blocos": [
+      {
+        "icone": "🚨",
+        "titulo": "Plantão do Zé",
+        "texto": "Interrompemos a programação normal da resenha: plantão urgente da tesouraria. Hoje não tem gol, não tem mito, o assunto é a inscrição de R$ 100. O prazo do dia 10/08 está logo ali e o Zé foi escalado para fazer a cobrança oficial. Ajeita o boné e abre o aplicativo do banco."
+      },
+      {
+        "icone": "🏆",
+        "titulo": "Hall da fama do Pix",
+        "texto": "Anuncia aí, locutor, que essa escalação merece telão: Kidiabense FC, Kaempfs F.C., Resina Club, Alemonstro FBPA, Corticeira's Farm FC, Madalena Club, Baade FC, Brocador do Bonja e Berwinha FC. Nove clubes de palavra, comprovante na mão e sono tranquilo. Palmas de pé para esse time, que a tesouraria adora."
+      },
+      {
+        "icone": "🕵️",
+        "titulo": "Os 11 foragidos do Pix",
+        "texto": "Do outro lado temos um time completo: são 11 pendentes, dava para escalar com goleiro e tudo. O Zé é educado e não cita nome de ninguém. Mas a aba Inscritos do site não tem a mesma educação: ela mostra na tela quem está Pago e quem está Pendente. Quem quiser sair dessa vitrine já sabe o caminho."
+      },
+      {
+        "icone": "⏰",
+        "titulo": "Seis dias no relógio",
+        "texto": "Hoje é 04/08 e o prazo final é 10/08: menos de uma semana no cronômetro. Em jogo estão R$ 750 para o campeão, R$ 550 para o vice, R$ 300 para o terceiro, R$ 200 para o quarto e R$ 100 para o quinto. São R$ 1.900 na mesa esperando dono. Ficar de fora por causa de um Pix de R$ 100 seria a derrota mais boba do ano."
+      },
+      {
+        "icone": "💸",
+        "titulo": "Aperta o Pix",
+        "texto": "O recado final cabe num toque de apito: R$ 100, um Pix, dez segundos, nome brilhando na coluna dos pagos. Comprovante no grupo vale aplauso de arquibancada lotada. Vamos fechar os 20 inscritos antes do dia 10 e deixar a liga redondinha. Pix feito, resenha em paz."
+      }
+    ],
+    "geradaEm": "2026-08-04T12:00:00.000Z"
   }
 ]

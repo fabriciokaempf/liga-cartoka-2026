@@ -450,7 +450,7 @@
       conteudo.textContent = "";
 
       var rotulo = document.getElementById("rotulo-resenha");
-      rotulo.textContent = resenha.rodada ? "Rodada " + resenha.rodada : "Abertura do returno";
+      rotulo.textContent = resenha.rotulo || (resenha.rodada ? "Rodada " + resenha.rodada : "Abertura do returno");
       botaoAnterior.disabled = indice <= 0;
       botaoSeguinte.disabled = indice >= resenhas.length - 1;
 
