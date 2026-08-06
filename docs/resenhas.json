@@ -146,5 +146,39 @@
       }
     ],
     "geradaEm": "2026-08-04T12:00:00.000Z"
+  },
+  {
+    "id": "especial-pagamentos-2",
+    "rodada": null,
+    "rotulo": "Edição especial · Ultimato do Pix",
+    "titulo": "4 dias pro apito final",
+    "blocos": [
+      {
+        "icone": "⏳",
+        "titulo": "Atenção: entramos nos acréscimos",
+        "texto": "Senhoras e senhores, liguem os rádios e segurem o coração: o cronômetro da tesouraria marca 4 dias pro apito final. Segunda-feira, 10/08, a janela de inscrição fecha e não tem prorrogação, não tem pênalti repetido. São R$ 100 no Pix, e quem não acertar as contas até lá assiste à decisão do lado de fora do portão."
+      },
+      {
+        "icone": "🧊",
+        "titulo": "O placar que congelou",
+        "texto": "No dia 04/08 eu soltei o Plantão do Pix todo confiante, achando que ia chover comprovante na minha área. Deu ruim: desde então ninguém novo pagou e o marcador segue congelado em 9 pagos e 11 pendentes. De um lado, o time do comprovante segurando a liga nas costas; do outro, um silêncio de torcida visitante em dia de goleada. Já vi zero a zero de doer os olhos, mas placar que não se mexe nem com cobrança oficial é novidade na minha carreira."
+      },
+      {
+        "icone": "🟨",
+        "titulo": "Amarelo coletivo pros 11",
+        "texto": "Cartão amarelo coletivo pros 11 que seguem fazendo cera no gramado da tesouraria. Eu não cito nomes porque sou educado, mas a aba Inscritos do site não tem a mesma diplomacia: ela mostra em público quem está Pago e quem segue Pendente. Indireta dada, telão ligado, torcida de olho: daqui pra frente, enrolação é revisada lance a lance no VAR."
+      },
+      {
+        "icone": "🏆",
+        "titulo": "O apito final de segunda",
+        "texto": "Segunda-feira, dia 10, o juiz olha pro relógio, enche o pulmão e solta o apito derradeiro: quem não pagou fica automaticamente fora da disputa pelos prêmios. E o que fica na mesa não é troco de padaria: R$ 750, R$ 550, R$ 300, R$ 200 e R$ 100 do primeiro ao quinto, um total de R$ 1.900. Perder essa disputa por causa de um Pix de R$ 100 é tomar gol de bola nas costas nos acréscimos."
+      },
+      {
+        "icone": "📲",
+        "titulo": "O Pix de 10 segundos",
+        "texto": "O lance ensaiado é simples: abre o aplicativo do banco, manda o Pix de R$ 100, solta o comprovante no grupo. Dez segundos, menos tempo que o goleiro leva pra bater um tiro de meta. Quem fizer isso hoje sai da coluna dos Pendentes com moral de artilheiro e ainda ganha elogio na próxima resenha. O apito de segunda vai tocar de qualquer jeito: melhor estar em campo quando ele soar."
+      }
+    ],
+    "geradaEm": "2026-08-06T17:30:00.000Z"
   }
 ]
