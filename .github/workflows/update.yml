@@ -8,6 +8,7 @@ on:
     branches: [main]
     paths-ignore:
       - 'docs/data.json'
+      - 'docs/resenhas.json'
 
 permissions:
   contents: write
