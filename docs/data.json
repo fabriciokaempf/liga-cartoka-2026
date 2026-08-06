@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-04T10:50:23.448Z",
+  "geradoEm": "2026-08-06T17:53:01.346Z",
   "temporada": 2026,
   "liga": {
     "nome": "Liga Cartoka de pontos corridos 2026",
@@ -114,7 +114,7 @@
       "nome": "Parizi 01",
       "nomeCartola": "Lucas Parizi",
       "escudoTime": "https://s2-cartola.glbimg.com/lDUkdBG7tUyDpQGHO7bazAYu-4Q=/https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/cartola_assets_2/escudo/f1/56/31/00f94e4cb4-2347-444a-89a5-76b0688bd6f120260119115631",
-      "pago": false,
+      "pago": true,
       "clube": {
         "id": 263,
         "slug": "botafogo",
