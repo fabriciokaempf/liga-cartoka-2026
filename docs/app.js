@@ -451,6 +451,12 @@
 
       var rotulo = document.getElementById("rotulo-resenha");
       rotulo.textContent = resenha.rotulo || (resenha.rodada ? "Rodada " + resenha.rodada : "Abertura do returno");
+      if (resenha.aoVivo) {
+        var chip = el("span", "chip-ao-vivo");
+        chip.appendChild(el("span", "ponto-vivo"));
+        chip.appendChild(document.createTextNode("AO VIVO"));
+        rotulo.appendChild(chip);
+      }
       botaoAnterior.disabled = indice <= 0;
       botaoSeguinte.disabled = indice >= resenhas.length - 1;
 
@@ -496,7 +502,18 @@
         minute: "2-digit"
       }).replace(", ", " às ") + " (horário de Brasília)";
     }
-    document.getElementById("rodape-atualizacao").textContent = texto;
+    var alvo = document.getElementById("rodape-atualizacao");
+    alvo.textContent = texto;
+
+    // Aviso automático quando as parciais congelam durante a rodada:
+    // é sinal de instabilidade no serviço que atualiza os dados.
+    if (dados.bolaRolando && dados.parciais) {
+      var atualizado = new Date(dados.parciais.atualizadoEm).getTime();
+      if (!isNaN(atualizado) && Date.now() - atualizado > 7200000) {
+        var alerta = el("p", "rodape-alerta", "⚠️ As pontuações estão sem atualizar há mais de 2 horas. Deve ser instabilidade no serviço de atualização, os dados voltam sozinhos assim que normalizar.");
+        alvo.parentNode.insertBefore(alerta, alvo.nextSibling);
+      }
+    }
   }
 
   function ativarNavegacao() {
