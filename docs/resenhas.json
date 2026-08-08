@@ -180,5 +180,35 @@
       }
     ],
     "geradaEm": "2026-08-06T17:30:00.000Z"
+  },
+  {
+    "id": "andamento-rodada-22",
+    "rodada": 22,
+    "aoVivo": true,
+    "rotulo": "Rodada 22 · andamento",
+    "titulo": "Rodada 22 no forno: dois jogos rolaram, oito ainda por vir",
+    "blocos": [
+      {
+        "icone": "⏱️",
+        "titulo": "Termômetro da rodada",
+        "texto": "A rodada 22 já engatou: dois dos dez confrontos tiveram bola rolando na vida real, e os outros oito ainda estão por vir até domingo à noite. Toda pontuação aqui é parcial e pode virar de cabeça para baixo a qualquer minuto, então ninguém vira campeão nem lanterna com o jogo pela metade."
+      },
+      {
+        "icone": "🚀",
+        "titulo": "Quem está mitando (e quem ainda não decolou)",
+        "texto": "Nas parciais que já apareceram, quem manda é o Alemonstro FBPA, com 13,4 pontos, seguido de perto pelo VIERTRICOLOR, com 13,3, e do Gaudérios FC, com 11,4, mesmo que o Alemonstro nem tenha entrado em campo no duelo oficial da rodada (os pontos vieram de atletas que já jogaram outras partidas do fim de semana). Já Kidiabense FC e Corticeira's Farm FC tiveram o jogo real do confronto encerrado, 2 a 1, e seguem zerados nas parciais, provavelmente esperando o Cartola processar a pontuação dos jogadores."
+      },
+      {
+        "icone": "⚔️",
+        "titulo": "Duelo mais quente do momento",
+        "texto": "O confronto que já rendeu emoção de verdade foi Resina Club, com 7,9, contra VIERTRICOLOR, com 13,3, o único da rodada que já foi a campo dos dois lados (o jogo real terminou 1 a 2 para o visitante). O time que amargou a lanterna geral da liga está mitando nas parciais, e isso já é assunto garantido para o grupo do WhatsApp."
+      },
+      {
+        "icone": "📊",
+        "titulo": "De olho na tabela geral",
+        "texto": "Na classificação, quem manda é o Tricolor Lvfc, com 6 pontos, empatado em pontos corridos com Esporte Clube Barão e Brocador do Bonja, os três com aproveitamento de cem por cento no returno. O Tricolor sai na frente pelo desempate de PG turno (214,86 contra 190,92 e 186,01), mas nenhum dos três entrou em campo ainda nesta rodada 22. A treta pela ponta segue em aberto."
+      }
+    ],
+    "geradaEm": "2026-08-08T23:00:27.000Z"
   }
 ]
