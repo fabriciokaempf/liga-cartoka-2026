@@ -186,8 +186,13 @@
     "rodada": 22,
     "aoVivo": true,
     "rotulo": "Rodada 22 · andamento",
-    "titulo": "Rodada 22 em banho-maria e o prazo do Pix vira abóbora amanhã",
+    "titulo": "Dia dos Pais, rodada 22 rolando e o Pix vira abóbora amanhã",
     "blocos": [
+      {
+        "icone": "👔",
+        "titulo": "Feliz Dia dos Pais",
+        "texto": "Antes da bola rolar, o Zé tira o boné e manda o abraço: feliz Dia dos Pais para todos os coroas da Cartoka. Que o churrasco esteja no ponto, que o presente tenha agradado e que o capitão escalado não faça feio bem no domingo da família. E quem puxou o amor por futebol do próprio pai já sabe: hoje é dia de deixar o velho ganhar a discussão sobre escalação."
+      },
       {
         "icone": "⏱️",
         "titulo": "Termômetro da rodada",
