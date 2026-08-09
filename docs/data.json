@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-09T03:55:31.134Z",
+  "geradoEm": "2026-08-09T13:20:43.090Z",
   "temporada": 2026,
   "liga": {
     "nome": "Liga Cartoka de pontos corridos 2026",
@@ -44,7 +44,7 @@
       "nome": "Gaudérios FC",
       "nomeCartola": "Flávio Pacheco",
       "escudoTime": "https://s2-cartola.glbimg.com/rxjsq26WzCFwlvk_OEZxw9GBEWE=/https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/cartola_assets_4/escudo/85/39/39/00c6a34ba6-d8f9-4fa6-9113-7e2b18061d8520260128093939",
-      "pago": false,
+      "pago": true,
       "clube": {
         "id": 266,
         "slug": "fluminense",
@@ -653,7 +653,7 @@
   },
   "parciais": {
     "rodada": 22,
-    "atualizadoEm": "2026-08-09T03:55:31.061Z",
+    "atualizadoEm": "2026-08-09T13:20:43.077Z",
     "porTime": {
       "90277": 17,
       "309735": 14.2,
