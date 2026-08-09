@@ -14,7 +14,7 @@
   },
   "jogadores": [
     { "timeId": 13912942, "nome": "Kidiabense FC", "clubeSlug": "gremio", "clubeNome": "Grêmio", "pago": true },
-    { "timeId": 90277, "nome": "Gaudérios FC", "clubeSlug": "fluminense", "clubeNome": "Fluminense", "pago": false },
+    { "timeId": 90277, "nome": "Gaudérios FC", "clubeSlug": "fluminense", "clubeNome": "Fluminense", "pago": true },
     { "timeId": 487118, "nome": "Kaempfs F.C.", "clubeSlug": "mirassol", "clubeNome": "Mirassol", "pago": true },
     { "timeId": 49288650, "nome": "Resina Club", "clubeSlug": "remo", "clubeNome": "Remo", "pago": true },
     { "timeId": 26079439, "nome": "Alemonstro FBPA", "clubeSlug": "chapecoense", "clubeNome": "Chapecoense", "pago": true },
