@@ -186,29 +186,29 @@
     "rodada": 22,
     "aoVivo": true,
     "rotulo": "Rodada 22 · andamento",
-    "titulo": "Rodada 22 no forno: dois jogos rolaram, oito ainda por vir",
+    "titulo": "Rodada 22 ferve: Alemonstro dispara e o líder Tricolor trava no 0 a 0",
     "blocos": [
       {
         "icone": "⏱️",
         "titulo": "Termômetro da rodada",
-        "texto": "A rodada 22 já engatou: dois dos dez confrontos tiveram bola rolando na vida real, e os outros oito ainda estão por vir até domingo à noite. Toda pontuação aqui é parcial e pode virar de cabeça para baixo a qualquer minuto, então ninguém vira campeão nem lanterna com o jogo pela metade."
+        "texto": "A rodada 22 avançou mais um passo: três dos dez confrontos já tiveram bola rolando no jogo real, e os outros sete ainda entram em campo até domingo à noite. Toda pontuação aqui embaixo é parcial e pode virar de ponta a cabeça a qualquer minuto, então ninguém cravou nada ainda."
       },
       {
         "icone": "🚀",
-        "titulo": "Quem está mitando (e quem ainda não decolou)",
-        "texto": "Nas parciais que já apareceram, quem manda é o Alemonstro FBPA, com 13,4 pontos, seguido de perto pelo VIERTRICOLOR, com 13,3, e do Gaudérios FC, com 11,4, mesmo que o Alemonstro nem tenha entrado em campo no duelo oficial da rodada (os pontos vieram de atletas que já jogaram outras partidas do fim de semana). Já Kidiabense FC e Corticeira's Farm FC seguem zerados mesmo com o jogo real do confronto deles já encerrado em 2 a 1: é que a pontuação vem dos atletas escalados, e os deles ainda não entraram em campo neste fim de semana."
+        "titulo": "Quem está mitando",
+        "texto": "Quem dá as cartas nas parciais por enquanto é o Alemonstro FBPA, do Vinicius Stival, com 25,9 pontos, seguido de perto pelo VIERTRICOLOR, com 23,82, e do Gaudérios FC, com 18,4. Detalhe engraçado: Alemonstro e VIERTRICOLOR são dois times ainda sem vencer no returno, amargando a rabeira da tabela, e usam justo esta rodada para tentar dar a volta por cima."
       },
       {
-        "icone": "⚔️",
-        "titulo": "Duelo mais quente do momento",
-        "texto": "O confronto que já rendeu emoção de verdade foi Resina Club, com 7,9, contra VIERTRICOLOR, com 13,3, o único que até agora tem pontuação nos dois lados do placar (o jogo real terminou 1 a 2 para o visitante). O time que amargou a lanterna geral da liga está mitando nas parciais, e isso já é assunto garantido para o grupo do WhatsApp."
+        "icone": "🥶",
+        "titulo": "Quem está apagado",
+        "texto": "Do outro lado do termômetro, o Tricolor Lvfc, que lidera a tabela geral no desempate de PG turno, segue zerado justo no duelo contra o artilheiro do momento, o Alemonstro FBPA, e isso já é assunto garantido no grupo do WhatsApp. Kidiabense FC e Corticeira's Farm FC também seguem 0 a 0 nas parciais, mesmo com o jogo real do confronto entre eles já encerrado em 2 a 1: a explicação é simples, os atletas escalados por eles ainda não entraram em campo neste fim de semana."
       },
       {
-        "icone": "📊",
-        "titulo": "De olho na tabela geral",
-        "texto": "Na classificação, quem manda é o Tricolor Lvfc, com 6 pontos, empatado em pontos corridos com Esporte Clube Barão e Brocador do Bonja, os três com aproveitamento de cem por cento no returno. O Tricolor sai na frente pelo desempate de PG turno (214,86 contra 190,92 e 186,01), mas nenhum dos três entrou em campo ainda nesta rodada 22. A treta pela ponta segue em aberto."
+        "icone": "📅",
+        "titulo": "O que ainda falta",
+        "texto": "Restam sete confrontos para fechar a rodada 22, com destaque para o duelo direto na cola do topo entre Esporte Clube Barão e Brocador do Bonja, 2º e 3º colocados, ambos com os mesmos 6 pontos do líder Tricolor Lvfc e de olho no desempate por PG turno. Também estão na fila Império da Caipira recebendo o Kaempfs F.C. e Madalena Club contra o Mandrackefc, ainda neste domingo. É esperar a bola rolar para saber quem realmente vira esta rodada."
       }
     ],
-    "geradaEm": "2026-08-08T23:00:27.000Z"
+    "geradaEm": "2026-08-09T00:15:00.000Z"
   }
 ]
