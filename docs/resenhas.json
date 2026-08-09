@@ -186,29 +186,29 @@
     "rodada": 22,
     "aoVivo": true,
     "rotulo": "Rodada 22 · andamento",
-    "titulo": "Rodada 22 ferve: Alemonstro dispara e o líder Tricolor trava no 0 a 0",
+    "titulo": "Lanternas assumem a artilharia da rodada e o líder Tricolor sai do zero a zero",
     "blocos": [
       {
         "icone": "⏱️",
         "titulo": "Termômetro da rodada",
-        "texto": "A rodada 22 avançou mais um passo: três dos dez confrontos já tiveram bola rolando no jogo real, e os outros sete ainda entram em campo até domingo à noite. Toda pontuação aqui embaixo é parcial e pode virar de ponta a cabeça a qualquer minuto, então ninguém cravou nada ainda."
+        "texto": "A rodada 22 avança: quatro dos dez confrontos já rolaram e terminaram no jogo real, e os outros seis entram em campo ao longo deste domingo, dois deles ainda pela manhã e o restante à tarde e à noite. Toda pontuação aqui embaixo segue parcial e pode virar de ponta a cabeça, então nada está decidido."
       },
       {
         "icone": "🚀",
         "titulo": "Quem está mitando",
-        "texto": "Quem dá as cartas nas parciais por enquanto é o Alemonstro FBPA, do Vinicius Stival, com 25,9 pontos, seguido de perto pelo VIERTRICOLOR, com 23,82, e do Gaudérios FC, com 18,4. Detalhe engraçado: Alemonstro e VIERTRICOLOR são dois times ainda sem vencer no returno, amargando a rabeira da tabela, e usam justo esta rodada para tentar dar a volta por cima."
+        "texto": "Quem dá as cartas nas parciais é o VIERTRICOLOR, do Daniel Vier, com 27,95 pontos, seguido do Alemonstro FBPA, com 23,5, e do Gaudérios FC, com 17. Engraçado que VIERTRICOLOR e Alemonstro são justamente dois lanternas do returno, zerados na tabela geral, e escolheram esta rodada para tentar dar uma resposta."
       },
       {
         "icone": "🥶",
-        "titulo": "Quem está apagado",
-        "texto": "Do outro lado do termômetro, o Tricolor Lvfc, que lidera a tabela geral no desempate de PG turno, segue zerado justo no duelo contra o artilheiro do momento, o Alemonstro FBPA, e isso já é assunto garantido no grupo do WhatsApp. Kidiabense FC e Corticeira's Farm FC também seguem 0 a 0 nas parciais, mesmo com o jogo real do confronto entre eles já encerrado em 2 a 1: a explicação é simples, os atletas escalados por eles ainda não entraram em campo neste fim de semana."
+        "titulo": "Zero a zero mesmo com o apito já tendo soado",
+        "texto": "Kidiabense FC e Corticeira's Farm FC seguem 0 a 0 nas parciais, mesmo com o jogo real do confronto entre eles encerrado em 2 a 1: os atletas escalados pelos dois times simplesmente ainda não entraram em campo neste fim de semana. Já o líder da tabela geral, Tricolor Lvfc, saiu do zero e chegou aos 7,1 pontos contra o Alemonstro FBPA, mas segue bem atrás do rival, que dispara com 23,5."
       },
       {
         "icone": "📅",
-        "titulo": "O que ainda falta",
-        "texto": "Restam sete confrontos para fechar a rodada 22, com destaque para o duelo direto na cola do topo entre Esporte Clube Barão e Brocador do Bonja, 2º e 3º colocados, ambos com os mesmos 6 pontos do líder Tricolor Lvfc e de olho no desempate por PG turno. Também estão na fila Império da Caipira recebendo o Kaempfs F.C. e Madalena Club contra o Mandrackefc, ainda neste domingo. É esperar a bola rolar para saber quem realmente vira esta rodada."
+        "titulo": "O que ainda vem por aí",
+        "texto": "Faltam seis confrontos para fechar a rodada 22, e o mais aguardado ainda nem começou: Esporte Clube Barão recebe o Brocador do Bonja em duelo direto entre o 2º e o 3º colocados, separados apenas pelo desempate de PG turno para o líder Tricolor Lvfc. Também entram em campo Império da Caipira contra Kaempfs F.C., Urachfc contra HORST BRAUN e mais três confrontos ao longo do dia. É esperar a bola rolar para essa rodada se definir de verdade."
       }
     ],
-    "geradaEm": "2026-08-09T00:15:00.000Z"
+    "geradaEm": "2026-08-09T04:24:53.000Z"
   }
 ]
