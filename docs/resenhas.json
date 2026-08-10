@@ -186,29 +186,29 @@
     "rodada": 22,
     "aoVivo": true,
     "rotulo": "Rodada 22 · andamento",
-    "titulo": "Brocador crava a virada no topo, aperta o pelotão dos 6 pontos e o Pix bate na porta na última hora",
+    "titulo": "Brocador isola a ponta, pelotão de dez times empata em 6 e o Pix bate a última cartada",
     "blocos": [
       {
         "icone": "⏱️",
         "titulo": "Termômetro da rodada",
-        "texto": "Os dez confrontos reais da rodada 22 já rolaram em campo, e a apuração entra na reta final. Isso não quer dizer que está tudo decidido: as pontuações do Cartola ainda são parciais e cada cartoleiro escala atletas de clubes diferentes do seu time na liga, então o placar pode se mexer até o fechamento oficial."
+        "texto": "Os dez confrontos reais da rodada 22 já terminaram em campo, mas a pontuação do Cartola segue de olho fechado: ainda é parcial e pode se mexer até o fechamento oficial, porque cada cartoleiro escala atletas de clubes variados e nem todo scout está fechado. Guarda a comemoração no bolso por enquanto."
       },
       {
         "icone": "👑",
-        "titulo": "Brocador crava a virada no topo",
-        "texto": "Se a rodada travasse agora, o Brocador do Bonja atropela o Esporte Clube Barão por 81,81 a 67,81 e assume a ponta sozinho, com 9 pontos. O Tricolor Lvfc, que hoje abre a tabela no desempate de PG turno contra o próprio Barão e o Brocador (os três empatados em 6 pontos), apanha do Alemonstro FBPA por 68,81 a 65,11. Ou seja: dos três que dividiam o topo, só o Brocador está confirmando a boa fase."
+        "titulo": "Se a rodada travasse agora",
+        "texto": "O Brocador do Bonja confirma a virada no topo com 81,81 pontos contra o Esporte Clube Barão e abre vantagem isolada, somando 9 pontos na rodada. Atrás dele se forma um pelotão gigante de dez times empatados em 6 pontos, entre eles o próprio Tricolor Lvfc e o Barão, que caem do topo justamente por perderem hoje. É a foto mais embolada do returno até aqui."
       },
       {
-        "icone": "🎢",
-        "titulo": "Pelotão lotado nos 6 pontos",
-        "texto": "Se o resultado atual se confirmar, o meio de tabela fica apertado: Kidiabense FC, Resina Club, Gaudérios FC, Império da Caipira, HORST BRAUN, Baade FC, Mandrackefc e Berwinha FC vencem seus jogos e sobem para 6 pontos, entrando na mesma prateleira do Tricolor e do Barão. Já o VIERTRICOLOR perde para o Resina Club por 56,90 a 43,60 e o Parizi 01 perde para o Gaudérios por 70,61 a 60,01: os dois seguem sem vencer no returno e brigando pela lanterna."
+        "icone": "🥶",
+        "titulo": "Zona quente e zona de gelo",
+        "texto": "O duelo mais apertado da rodada é Tricolor Lvfc contra Alemonstro FBPA, só 2,2 pontos de diferença (65,11 a 67,31), beirando a zona de empate. Do outro lado, VIERTRICOLOR e Parizi 01 perdem de novo, para o Resina Club e o Gaudérios FC, e seguem zerados depois de três rodadas: a essa altura já pode ir separando a toalha."
       },
       {
         "icone": "💸",
-        "titulo": "Hoje é o último dia do Pix",
-        "texto": "Saindo do campo por um instante: hoje, 10/08, é o último dia para regularizar a inscrição de R$ 100, e o marcador segue em 11 pagos e 9 pendentes. Depois de hoje, quem não acertou fica de fora da briga pelos prêmios do returno, então corre lá antes que o apito toque para valer."
+        "titulo": "Hoje é o dia D do Pix",
+        "texto": "Fora de campo, hoje, 10/08, é o último dia para regularizar a inscrição de R$ 100, e o placar da tesouraria segue parado em 11 pagos e 9 pendentes desde a madrugada. Depois da meia-noite a porteira fecha de vez para quem quer brigar pelos prêmios do returno."
       }
     ],
-    "geradaEm": "2026-08-10T04:26:02.000Z"
+    "geradaEm": "2026-08-10T04:50:00.000Z"
   }
 ]
