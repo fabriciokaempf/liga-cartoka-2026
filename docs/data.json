@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-10T15:02:49.821Z",
+  "geradoEm": "2026-08-10T16:01:39.732Z",
   "temporada": 2026,
   "liga": {
     "nome": "Liga Cartoka de pontos corridos 2026",
@@ -247,7 +247,7 @@
       "nome": "HORST BRAUN",
       "nomeCartola": "HORST WAGNER BRAUN",
       "escudoTime": "https://s2-cartola.glbimg.com/BRFcO-JRHniQl8QFEH3P_mRqmzE=/https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/cartola_assets_3/escudo/32/25/45/0074e1c25f-19ba-4d0d-a65f-4e21cb54c83220260126222545",
-      "pago": false,
+      "pago": true,
       "pagoEmRodada": null,
       "clube": {
         "id": 285,
