@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-10T16:01:39.732Z",
+  "geradoEm": "2026-08-10T17:58:39.013Z",
   "temporada": 2026,
   "liga": {
     "nome": "Liga Cartoka de pontos corridos 2026",
@@ -322,7 +322,7 @@
       "nome": "pietro filho",
       "nomeCartola": "Alessandro steinbren",
       "escudoTime": "https://s2-cartola.glbimg.com/2_5nZrsFq80wezD7iBBIetGYN0E=/https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/cartola_svg_211/escudo/21/23/52/00f4009a00-56d4-4dd8-9447-8b18d51ac72120230316172352",
-      "pago": false,
+      "pago": true,
       "pagoEmRodada": null,
       "clube": {
         "id": 293,
