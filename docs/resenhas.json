@@ -186,29 +186,29 @@
     "rodada": 22,
     "aoVivo": true,
     "rotulo": "Rodada 22 · andamento",
-    "titulo": "Barão decide o choque de titãs e o líder Tricolor sofre com o Alemonstro na reta final",
+    "titulo": "Brocador vira o choque de titãs e o líder Tricolor apanha do Alemonstro na reta final",
     "blocos": [
       {
         "icone": "⏱️",
         "titulo": "Termômetro da rodada",
-        "texto": "A rodada 22 já emendou dois dias de jogos e chegou a sete dos dez confrontos reais rolados, com Baade FC contra pietro filho, Madalena Club contra Mandrackefc e Berwinha FC contra SampaMissiones FC ainda para começar hoje à noite. Vale repetir o aviso de sempre: essas pontuações continuam parciais, cada time escala jogadores de clubes diferentes e o cenário pode virar de cabo a rabo até o apito final do último jogo."
+        "texto": "Os dez confrontos reais da rodada 22 já rolaram em campo, então a apuração entra na reta final. Isso não quer dizer que está tudo decidido: as pontuações do Cartola ainda são parciais, cada cartoleiro escala atletas de clubes diferentes do seu time na liga, e o placar pode se mexer até o fechamento oficial."
       },
       {
-        "icone": "⚔️",
-        "titulo": "Sobe e desce se a rodada acabasse agora",
-        "texto": "O choque de titãs que prometi no último boletim já tem resultado parcial: Esporte Clube Barão superou o Brocador do Bonja por 32,1 a 26,8 e, se a rodada parasse aqui, dispararia sozinho para 9 pontos, isolado na ponta da tabela. E tem climão para o líder atual: o Tricolor Lvfc, que tentava esticar a vantagem contra o Alemonstro FBPA, está sendo passado para trás por 41,75 a 29, justamente por um time que ainda não tinha somado pontos corridos no returno. Bola ainda rolando, mas o resenhista de plantão já está de olho nesse resultado."
+        "icone": "🔄",
+        "titulo": "Se a rodada acabasse agora",
+        "texto": "Água na fervura no topo da tabela: o Brocador do Bonja está atropelando o Esporte Clube Barão por 78,98 a 63,18 naquele choque de titãs que eu já tinha anunciado, e se isso travar assim vira líder isolado com 9 pontos. Do outro lado, o Tricolor Lvfc, que hoje abre a tabela no desempate de PG turno contra o próprio Barão e o Brocador (os três com 6 pontos), está sendo superado pelo Alemonstro FBPA por 68,06 a 60,78, justamente o time que ainda não tinha pontuado no returno. Se esse retrato não mudar, tem troca de líder confirmada."
       },
       {
-        "icone": "🤏",
-        "titulo": "Na régua",
-        "texto": "Dois jogos seguem apertadíssimos: Resina Club e VIERTRICOLOR estão separados por míseros 0,6 ponto (42,65 a 42,05), e Berwinha FC contra SampaMissiones FC está ainda mais colado, com 0,65 de diferença (31,7 a 31,05). Qualquer pontinho decide esses dois para qualquer lado até a rodada fechar de vez."
+        "icone": "🚿",
+        "titulo": "Quem já pode ir tomando banho",
+        "texto": "No fundo do poço, o VIERTRICOLOR segue sem pontuar no returno e perde de novo, agora para o Resina Club, por 56,90 a 43,60. Tem gente levando baile também: Madalena Club está atrás do Mandrackefc por 22,3 pontos, o Urachfc leva a pior para o HORST BRAUN por 18,32, e o SampaMissiones FC vê o Berwinha FC abrir 20,73 de vantagem. Com essas margens, salvo virada e tanto, esses confrontos já cheiram a coisa decidida."
       },
       {
         "icone": "💸",
-        "titulo": "Recado das inscrições",
-        "texto": "No plantão do Pix o marcador segue em 11 cartoleiros pagos e 9 pendentes, mas o alerta agora é vermelho: amanhã, dia 10/08, é o último dia para regularizar a inscrição de R$ 100. Depois disso quem não pagou fica de fora da briga pelos prêmios do returno. É a última chance, corre."
+        "titulo": "Hoje é o último dia do Pix",
+        "texto": "Saindo do campo por um instante: hoje, 10/08, é o último dia para regularizar a inscrição de R$ 100, e o marcador segue em 11 pagos e 9 pendentes. Depois de hoje, quem não acertou fica de fora da briga pelos prêmios do returno. Resolve isso antes que o apito da tesouraria toque pra valer."
       }
     ],
-    "geradaEm": "2026-08-09T20:10:00.000Z"
+    "geradaEm": "2026-08-10T12:00:00.000Z"
   }
 ]
