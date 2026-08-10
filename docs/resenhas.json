@@ -210,5 +210,39 @@
       }
     ],
     "geradaEm": "2026-08-10T12:31:25.000Z"
+  },
+  {
+    "id": "especial-regras-atraso",
+    "rodada": null,
+    "rotulo": "Comunicado oficial · Regras de atraso",
+    "titulo": "A diretoria bateu o martelo",
+    "blocos": [
+      {
+        "icone": "⚖️",
+        "titulo": "Hoje o apito final soa",
+        "texto": "Segunda-feira, 10 de agosto: é o último dia do prazo para pagar a inscrição de R$ 100 da Liga Cartoka. Treze dos vinte já estão com a súmula limpa, sete ainda seguem pendentes. A diretoria se reuniu, bateu o martelo e definiu as regras para quem passar do prazo, valendo igualzinho para todo mundo. Quem pagar hoje não é atingido por absolutamente nada do que vem a seguir."
+      },
+      {
+        "icone": "🟨",
+        "titulo": "Cartão amarelo: multa de R$ 20",
+        "texto": "Quem não quitar até o fim de hoje entra oficialmente em atraso e leva multa de R$ 20, passando a dever R$ 120. Ainda assim existe uma janela de respiro: pagando os R$ 120 até o fim da rodada 23, ninguém perde ponto nenhum na tabela. É o VAR dando uma última chance antes de o jogo ficar feio."
+      },
+      {
+        "icone": "📉",
+        "titulo": "Da rodada 24 em diante, dói na tabela",
+        "texto": "A partir da rodada 24, quem continuar devendo perde 1 ponto na tabela a cada rodada disputada. O sangramento para no exato momento em que o pagamento é feito, sem desconto retroativo nem meio termo. Só que atenção: os pontos já perdidos não voltam de jeito nenhum, ficam registrados na súmula para sempre."
+      },
+      {
+        "icone": "🏆",
+        "titulo": "Terminou devendo, terminou sem prêmio",
+        "texto": "Os prêmios seguem inalterados: R$ 750, R$ 550, R$ 300, R$ 200 e R$ 100 do primeiro ao quinto lugar, R$ 1.900 no total. Quem chegar ao fim do returno sem ter pago não recebe nada, mesmo que termine entre os cinco primeiros. Nesse caso o prêmio desce para o próximo colocado que estiver em dia, sem choro e sem recurso no tribunal."
+      },
+      {
+        "icone": "⏳",
+        "titulo": "Ninguém sai de campo, mas ainda dá tempo",
+        "texto": "Ninguém é expulso da liga: os confrontos seguem a tabela do Brasileirão e precisam dos 20 times em campo, então quem deve continua jogando normalmente, só que sangrando ponto e sem direito a prêmio. Ninguém quer chegar na rodada 38 com pontos descontados na tabela e assistindo a premiação passar de lado. Estamos na rodada 22 em andamento e a 23 já vem aí, ou seja, hoje ainda dá tempo de resolver. Pagou hoje, tá tudo certo e a bola segue rolando limpa."
+      }
+    ],
+    "geradaEm": "2026-08-10T13:13:50.122Z"
   }
 ]
