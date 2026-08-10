@@ -35,7 +35,7 @@
     { "timeId": 3419812, "nome": "Corticeira's Farm FC", "clubeSlug": "sao-paulo", "clubeNome": "São Paulo", "pago": true },
     { "timeId": 47572160, "nome": "Madalena Club", "clubeSlug": "bragantino", "clubeNome": "Bragantino", "pago": true },
     { "timeId": 15282074, "nome": "Horst Braun", "clubeSlug": "internacional", "clubeNome": "Internacional", "pago": false },
-    { "timeId": 47653263, "nome": "Esporte Clube Barão", "clubeSlug": "bahia", "clubeNome": "Bahia", "pago": false },
+    { "timeId": 47653263, "nome": "Esporte Clube Barão", "clubeSlug": "bahia", "clubeNome": "Bahia", "pago": true },
     { "timeId": 4997197, "nome": "Baade FC", "clubeSlug": "santos", "clubeNome": "Santos", "pago": true },
     { "timeId": 3250219, "nome": "Brocador do Bonja", "clubeSlug": "vasco", "clubeNome": "Vasco", "pago": true },
     { "timeId": 423154, "nome": "Berwinha FC", "clubeSlug": "flamengo", "clubeNome": "Flamengo", "pago": true },
