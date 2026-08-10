@@ -182,36 +182,6 @@
     "geradaEm": "2026-08-06T17:30:00.000Z"
   },
   {
-    "id": "andamento-rodada-22",
-    "rodada": 22,
-    "aoVivo": true,
-    "rotulo": "Rodada 22 · andamento",
-    "titulo": "Cenário congelado: Brocador segue isolado, pelotão de dez times em 6 pontos e Pix no apito final",
-    "blocos": [
-      {
-        "icone": "⏳",
-        "titulo": "Ainda no intervalo",
-        "texto": "Os dez confrontos reais da rodada 22 já terminaram em campo desde o fim de semana, mas o placar do Cartola segue no modo parcial, esperando o fechamento oficial da rodada. O quadro não mudou nas últimas horas: mesma pontuação, mesma foto, só falta o apito final valer para a tabela."
-      },
-      {
-        "icone": "👑",
-        "titulo": "Se travasse agora",
-        "texto": "O Brocador do Bonja segue isolado na ponta com 81,81 pontos na rodada contra o Esporte Clube Barão, somando 9 pontos e despontando sozinho no topo. Logo atrás, um pelotão gigante de dez times fica empatado em 6 pontos, incluindo o próprio Tricolor Lvfc e o Barão, que perdem a folga de líderes isolados justamente nesta rodada."
-      },
-      {
-        "icone": "🥶",
-        "titulo": "Aperto e sufoco",
-        "texto": "O duelo mais equilibrado ficou por conta de Tricolor Lvfc contra Alemonstro FBPA, com o visitante levando a melhor por pouco (67,31 a 65,11). Já VIERTRICOLOR e Parizi 01 seguem zerados de pontos após três rodadas seguidas: a essa altura já dá para separar a toalha e o protetor solar."
-      },
-      {
-        "icone": "💸",
-        "titulo": "Último apito do Pix",
-        "texto": "Fora de campo, hoje, 10/08, é o último dia para regularizar a inscrição de R$ 100, e o placar da tesouraria segue parado em 11 pagos e 9 pendentes. Depois da meia-noite de hoje a porteira fecha de vez para quem quer brigar pelos prêmios do returno."
-      }
-    ],
-    "geradaEm": "2026-08-10T12:31:25.000Z"
-  },
-  {
     "id": "especial-regras-atraso",
     "rodada": null,
     "rotulo": "Comunicado oficial · Regras de atraso",
@@ -244,5 +214,38 @@
       }
     ],
     "geradaEm": "2026-08-10T13:13:50.122Z"
+  },
+  {
+    "id": "rodada-22",
+    "rodada": 22,
+    "titulo": "Império da Caipira estoura, VIERTRICOLOR afunda de novo e Brocador confirma o isolamento que eu já cantava ao vivo",
+    "blocos": [
+      {
+        "icone": "🏆",
+        "titulo": "Cartoleiro da rodada",
+        "texto": "Quem meteu a mão na faixa de melhor da rodada 22 foi o Império da Caipira, que atropelou justamente o Kaempfs F.C., campeão do primeiro turno, por 98,36 a 76,31. Não teve departamento médico nem crise de ansiedade: foi time inteiro rendendo junto, do goleiro ao ponta direita. A coroa do turno passado, ao que parece, não assusta mais ninguém no returno."
+      },
+      {
+        "icone": "🤡",
+        "titulo": "Vexame da rodada",
+        "texto": "Do outro lado do gramado, o VIERTRICOLOR fez feio de novo: apenas 47,50 pontos na visita ao Resina Club, que tarraxou 68,45. É a terceira rodada seguida com a lanterna cravada nas costas e nenhum ponto ganho na tabela do returno. Time desse jeito precisa de uma reunião de elenco, e urgente."
+      },
+      {
+        "icone": "🤝",
+        "titulo": "Jogo da rodada",
+        "texto": "O confronto mais equilibrado foi Parizi 01 contra Gaudérios FC, decidido por míseros 1,65 ponto (74,81 a 76,46), diferença curta o suficiente para virar empate pela regra da liga. Eu avisei na cobertura ao vivo que o Parizi seguia zerado depois de três rodadas, e o time escapou do zero exatamente com esse empate no fio do bigode. O Gaudérios, que também vinha de vexame na rodada anterior, sai com um pontinho debaixo do braço."
+      },
+      {
+        "icone": "📊",
+        "titulo": "Sobe e desce da tabela",
+        "texto": "O Brocador do Bonja confirmou o que eu já cantava ao vivo no sábado: liderança isolada, fechando a visita ao Esporte Clube Barão em 95,01 a 87,31 e somando 9 pontos, sozinho lá em cima. Atrás dele, um pelotão de nove times empata em 6 pontos, entre eles o Império da Caipira, a Tricolor Lvfc, o Mandrackefc e o Baade FC, o novato que já aparece no meio do pelotão sem currículo nenhum de primeiro turno pra chamar de seu. Na rabeira, o VIERTRICOLOR segue isolado na lanterna com 0 ponto em três rodadas, e o Kaempfs F.C., campeão do primeiro turno com aquele 1,9 de vantagem sobre o próprio Brocador, hoje amarga a 13ª posição com apenas 3 pontos. Turno passado é tempero, resenha é agora."
+      },
+      {
+        "icone": "🔮",
+        "titulo": "Espiada na próxima rodada",
+        "texto": "A rodada 23 começa no dia 15/08 com recheio garantido: o líder Brocador do Bonja recebe o Baade FC, aquele novato que só estreou no returno e ainda não tem nada de primeiro turno pra ninguém cobrar. A lanterna isolada VIERTRICOLOR tenta a reação diante do Kidiabense FC, enquanto Corticeira's Farm FC e Tricolor Lvfc se enfrentam direto, dois times do pelotão dos 6 pontos brigando por um respiro. De quebra, Mandrackefc e Império da Caipira também se cruzam, outro confronto de peso no meio da tabela."
+      }
+    ],
+    "geradaEm": "2026-08-10T16:24:55.000Z"
   }
 ]
