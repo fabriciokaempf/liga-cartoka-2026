@@ -186,29 +186,29 @@
     "rodada": 22,
     "aoVivo": true,
     "rotulo": "Rodada 22 · andamento",
-    "titulo": "Brocador vira o choque de titãs e o líder Tricolor apanha do Alemonstro na reta final",
+    "titulo": "Brocador crava a virada no topo, aperta o pelotão dos 6 pontos e o Pix bate na porta na última hora",
     "blocos": [
       {
         "icone": "⏱️",
         "titulo": "Termômetro da rodada",
-        "texto": "Os dez confrontos reais da rodada 22 já rolaram em campo, então a apuração entra na reta final. Isso não quer dizer que está tudo decidido: as pontuações do Cartola ainda são parciais, cada cartoleiro escala atletas de clubes diferentes do seu time na liga, e o placar pode se mexer até o fechamento oficial."
+        "texto": "Os dez confrontos reais da rodada 22 já rolaram em campo, e a apuração entra na reta final. Isso não quer dizer que está tudo decidido: as pontuações do Cartola ainda são parciais e cada cartoleiro escala atletas de clubes diferentes do seu time na liga, então o placar pode se mexer até o fechamento oficial."
       },
       {
-        "icone": "🔄",
-        "titulo": "Se a rodada acabasse agora",
-        "texto": "Água na fervura no topo da tabela: o Brocador do Bonja está atropelando o Esporte Clube Barão por 78,98 a 63,18 naquele choque de titãs que eu já tinha anunciado, e se isso travar assim vira líder isolado com 9 pontos. Do outro lado, o Tricolor Lvfc, que hoje abre a tabela no desempate de PG turno contra o próprio Barão e o Brocador (os três com 6 pontos), está sendo superado pelo Alemonstro FBPA por 68,06 a 60,78, justamente o time que ainda não tinha pontuado no returno. Se esse retrato não mudar, tem troca de líder confirmada."
+        "icone": "👑",
+        "titulo": "Brocador crava a virada no topo",
+        "texto": "Se a rodada travasse agora, o Brocador do Bonja atropela o Esporte Clube Barão por 81,81 a 67,81 e assume a ponta sozinho, com 9 pontos. O Tricolor Lvfc, que hoje abre a tabela no desempate de PG turno contra o próprio Barão e o Brocador (os três empatados em 6 pontos), apanha do Alemonstro FBPA por 68,81 a 65,11. Ou seja: dos três que dividiam o topo, só o Brocador está confirmando a boa fase."
       },
       {
-        "icone": "🚿",
-        "titulo": "Quem já pode ir tomando banho",
-        "texto": "No fundo do poço, o VIERTRICOLOR segue sem pontuar no returno e perde de novo, agora para o Resina Club, por 56,90 a 43,60. Tem gente levando baile também: Madalena Club está atrás do Mandrackefc por 22,3 pontos, o Urachfc leva a pior para o HORST BRAUN por 18,32, e o SampaMissiones FC vê o Berwinha FC abrir 20,73 de vantagem. Com essas margens, salvo virada e tanto, esses confrontos já cheiram a coisa decidida."
+        "icone": "🎢",
+        "titulo": "Pelotão lotado nos 6 pontos",
+        "texto": "Se o resultado atual se confirmar, o meio de tabela fica apertado: Kidiabense FC, Resina Club, Gaudérios FC, Império da Caipira, HORST BRAUN, Baade FC, Mandrackefc e Berwinha FC vencem seus jogos e sobem para 6 pontos, entrando na mesma prateleira do Tricolor e do Barão. Já o VIERTRICOLOR perde para o Resina Club por 56,90 a 43,60 e o Parizi 01 perde para o Gaudérios por 70,61 a 60,01: os dois seguem sem vencer no returno e brigando pela lanterna."
       },
       {
         "icone": "💸",
         "titulo": "Hoje é o último dia do Pix",
-        "texto": "Saindo do campo por um instante: hoje, 10/08, é o último dia para regularizar a inscrição de R$ 100, e o marcador segue em 11 pagos e 9 pendentes. Depois de hoje, quem não acertou fica de fora da briga pelos prêmios do returno. Resolve isso antes que o apito da tesouraria toque pra valer."
+        "texto": "Saindo do campo por um instante: hoje, 10/08, é o último dia para regularizar a inscrição de R$ 100, e o marcador segue em 11 pagos e 9 pendentes. Depois de hoje, quem não acertou fica de fora da briga pelos prêmios do returno, então corre lá antes que o apito toque para valer."
       }
     ],
-    "geradaEm": "2026-08-10T12:00:00.000Z"
+    "geradaEm": "2026-08-10T04:26:02.000Z"
   }
 ]
