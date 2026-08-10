@@ -147,6 +147,7 @@ async function principal() {
       nomeCartola: limparTexto((antigo && antigo.nomeCartola) || null),
       escudoTime: (antigo && antigo.escudoTime) || null,
       pago: j.pago === true,
+      pagoEmRodada: typeof j.pagoEmRodada === "number" ? j.pagoEmRodada : null,
       clube: {
         id: clube.id,
         slug: j.clubeSlug,
@@ -399,12 +400,36 @@ async function principal() {
     }
   }
 
+  // Penalidade por inscricao em atraso: a partir da rodada definida em
+  // config.liga.penalidade, cada rodada fechada disputada com a inscricao
+  // pendente desconta pontos na tabela. Quem pagou para de acumular a
+  // partir da rodada informada em pagoEmRodada, mas nao recupera o que
+  // ja perdeu. Quem quitou dentro do prazo nunca entra nessa conta.
+  const regraPenalidade = config.liga.penalidade || null;
+  const penalidadePorTime = new Map();
+  for (const jogador of jogadores) {
+    let rodadasPendente = 0;
+    if (regraPenalidade && regraPenalidade.rodadaInicioDesconto) {
+      for (const r of numerosRodadasFechadas) {
+        if (r < regraPenalidade.rodadaInicioDesconto) continue;
+        const pendenteNaRodada = !jogador.pago ||
+          (typeof jogador.pagoEmRodada === "number" && jogador.pagoEmRodada > r);
+        if (pendenteNaRodada) rodadasPendente += 1;
+      }
+    }
+    const pontos = regraPenalidade ? (regraPenalidade.pontosPorRodada || 0) : 0;
+    penalidadePorTime.set(jogador.timeId, rodadasPendente * pontos);
+  }
+
   const classificacao = jogadores
     .map((jogador) => {
       const est = estatisticas.get(jogador.timeId);
+      const penalidade = penalidadePorTime.get(jogador.timeId) || 0;
       return {
         timeId: jogador.timeId,
-        pg: est.pg,
+        pg: est.pg - penalidade,
+        pgBruto: est.pg,
+        penalidade,
         j: est.j,
         v: est.v,
         e: est.e,
@@ -430,6 +455,7 @@ async function principal() {
       turno: config.liga.turno,
       inscricao: config.liga.inscricao,
       prazoPagamento: config.liga.prazoPagamento || null,
+      penalidade: config.liga.penalidade || null,
       premios: config.liga.premios,
       pontosVitoria: config.liga.pontosVitoria,
       pontosEmpate: config.liga.pontosEmpate,

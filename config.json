@@ -10,7 +10,14 @@
     "empateLimite": 2,
     "inscricao": 100,
     "prazoPagamento": "2026-08-10",
-    "premios": [750, 550, 300, 200, 100]
+    "premios": [750, 550, 300, 200, 100],
+    "penalidade": {
+      "multaAtraso": 20,
+      "rodadaLimiteMulta": 23,
+      "rodadaInicioDesconto": 24,
+      "pontosPorRodada": 1,
+      "semPremioSePendente": true
+    }
   },
   "jogadores": [
     { "timeId": 13912942, "nome": "Kidiabense FC", "clubeSlug": "gremio", "clubeNome": "Grêmio", "pago": true },
@@ -20,10 +27,10 @@
     { "timeId": 26079439, "nome": "Alemonstro FBPA", "clubeSlug": "chapecoense", "clubeNome": "Chapecoense", "pago": true },
     { "timeId": 753775, "nome": "Império da Caipira", "clubeSlug": "cruzeiro", "clubeNome": "Cruzeiro", "pago": false },
     { "timeId": 25278938, "nome": "Parizi 01", "clubeSlug": "botafogo", "clubeNome": "Botafogo", "pago": true },
-    { "timeId": 309735, "nome": "Urachfc", "clubeSlug": "palmeiras", "clubeNome": "Palmeiras", "pago": false },
+    { "timeId": 309735, "nome": "Urachfc", "clubeSlug": "palmeiras", "clubeNome": "Palmeiras", "pago": true },
     { "timeId": 1067774, "nome": "VIERTRICOLOR", "clubeSlug": "atletico-mg", "clubeNome": "Atlético-MG", "pago": false },
     { "timeId": 2963331, "nome": "SampaMissiones FC", "clubeSlug": "vitoria", "clubeNome": "Vitória", "pago": false },
-    { "timeId": 27772103, "nome": "Mandrackefc", "clubeSlug": "corinthians", "clubeNome": "Corinthians", "pago": false },
+    { "timeId": 27772103, "nome": "Mandrackefc", "clubeSlug": "corinthians", "clubeNome": "Corinthians", "pago": true },
     { "timeId": 6742039, "nome": "Tricolor Lvfc", "clubeSlug": "coritiba", "clubeNome": "Coritiba", "pago": false },
     { "timeId": 3419812, "nome": "Corticeira's Farm FC", "clubeSlug": "sao-paulo", "clubeNome": "São Paulo", "pago": true },
     { "timeId": 47572160, "nome": "Madalena Club", "clubeSlug": "bragantino", "clubeNome": "Bragantino", "pago": true },

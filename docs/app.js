@@ -89,7 +89,7 @@
 
     var estatisticas = {};
     dados.classificacao.forEach(function (linha) {
-      estatisticas[linha.timeId] = { timeId: linha.timeId, pg: linha.pg, j: linha.j, v: linha.v, e: linha.e, d: linha.d, pgTurno: linha.pgTurno };
+      estatisticas[linha.timeId] = { timeId: linha.timeId, pg: linha.pg, j: linha.j, v: linha.v, e: linha.e, d: linha.d, pgTurno: linha.pgTurno, penalidade: linha.penalidade || 0 };
     });
 
     rodadaViva.confrontos.forEach(function (confronto) {
@@ -140,6 +140,7 @@
         pos: indice + 1,
         timeId: linha.timeId,
         pg: linha.pg,
+        penalidade: linha.penalidade || 0,
         j: linha.j,
         v: linha.v,
         e: linha.e,
@@ -174,6 +175,11 @@
           else if (delta < 0) conteudo.appendChild(el("span", "delta delta-desce", "▼" + (-delta)));
         }
         conteudo.appendChild(el("span", "time-nome", jogador.nome));
+        if (linha.penalidade) {
+          var marca = el("span", "marca-penalidade", "-" + linha.penalidade);
+          marca.title = "Desconto de " + linha.penalidade + " ponto(s) por inscrição em atraso";
+          conteudo.appendChild(marca);
+        }
         celulaTime.appendChild(conteudo);
         tr.appendChild(celulaTime);
 
@@ -403,6 +409,16 @@
       ["📊", "Desempate na classificação: PG turno (soma das pontuações do Cartola no returno)."],
       ["💰", "Inscrição: " + fmtDinheiro(dados.liga.inscricao) + " por jogador" + (prazo ? ", pagamento até " + prazo : "") + "."]
     ];
+
+    var pena = dados.liga.penalidade;
+    if (pena) {
+      regras.push(["⏰", "Inscrição em atraso: multa de " + fmtDinheiro(pena.multaAtraso) + " (total " + fmtDinheiro(dados.liga.inscricao + pena.multaAtraso) + ") para quem regularizar até o fim da rodada " + pena.rodadaLimiteMulta + "."]);
+      regras.push(["📉", "A partir da rodada " + pena.rodadaInicioDesconto + ", quem seguir pendente perde " + pena.pontosPorRodada + " ponto na tabela a cada rodada. O desconto para no momento em que a inscrição é quitada, mas o que já foi perdido não volta."]);
+      if (pena.semPremioSePendente) {
+        regras.push(["🚫", "Quem terminar o returno sem pagar não recebe premiação, mesmo terminando entre os cinco primeiros: o prêmio passa para o próximo colocado que estiver em dia."]);
+      }
+    }
+
     var lista = document.getElementById("lista-regras");
     regras.forEach(function (par) {
       var item = el("li");
