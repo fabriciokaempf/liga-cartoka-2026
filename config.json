@@ -39,6 +39,6 @@
     { "timeId": 4997197, "nome": "Baade FC", "clubeSlug": "santos", "clubeNome": "Santos", "pago": true },
     { "timeId": 3250219, "nome": "Brocador do Bonja", "clubeSlug": "vasco", "clubeNome": "Vasco", "pago": true },
     { "timeId": 423154, "nome": "Berwinha FC", "clubeSlug": "flamengo", "clubeNome": "Flamengo", "pago": true },
-    { "timeId": 17382079, "nome": "pietro filho", "clubeSlug": "atletico-pr", "clubeNome": "Athletico-PR", "pago": false }
+    { "timeId": 17382079, "nome": "pietro filho", "clubeSlug": "atletico-pr", "clubeNome": "Athletico-PR", "pago": true }
   ]
 }
