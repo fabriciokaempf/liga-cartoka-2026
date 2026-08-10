@@ -247,5 +247,35 @@
       }
     ],
     "geradaEm": "2026-08-10T16:24:55.000Z"
+  },
+  {
+    "id": "andamento-rodada-23",
+    "rodada": 23,
+    "aoVivo": true,
+    "rotulo": "Rodada 23 · andamento",
+    "titulo": "Rodada 23 esquenta: Brocador na cola do título, lanterna atrás de um respiro",
+    "blocos": [
+      {
+        "icone": "🎙️",
+        "titulo": "Abre o sinal, ninguém pontuou ainda",
+        "texto": "A rodada 23 está só começando: dos dez confrontos, nenhum jogo real rolou até agora, então zero times pontuaram no Cartola. Ninguém aqui está zerado por vexame, é só a bola que ainda não rolou para os atletas escalados. Fica ligado que o Zé volta com atualização assim que o primeiro placar aparecer."
+      },
+      {
+        "icone": "👑",
+        "titulo": "O líder recebe o novato",
+        "texto": "Brocador do Bonja chega isolado na ponta com 9 pontos em três rodadas e recebe o Baade FC, o novato que só estreou no returno e já se meteu no meio do pelotão com 6 pontos. Time da casa tenta esticar a vantagem, e o Baade quer provar que currículo curto não é currículo fraco."
+      },
+      {
+        "icone": "🆘",
+        "titulo": "SOS na lanterna",
+        "texto": "O VIERTRICOLOR está isolado na lanterna, zerado em três rodadas seguidas, e recebe o Kidiabense FC, que também não vive fase de artilheiro com apenas 3 pontos em três jogos. É a chance perfeita para o Daniel Vier sair do fundo do poço antes que a lanterna vire apelido definitivo."
+      },
+      {
+        "icone": "🔥",
+        "titulo": "Duelo do pelotão dos seis",
+        "texto": "Mandrackefc e Império da Caipira se enfrentam com os dois embolados na parte de cima da tabela, cada um com 6 pontos conquistados. É clássico direto do meio de tabela, dessas partidas que definem quem respira aliviado e quem já sente o gelo na nuca no returno."
+      }
+    ],
+    "geradaEm": "2026-08-10T18:10:00.000Z"
   }
 ]
