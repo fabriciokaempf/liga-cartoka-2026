@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-10T13:01:01.181Z",
+  "geradoEm": "2026-08-10T13:25:43.726Z",
   "temporada": 2026,
   "liga": {
     "nome": "Liga Cartoka de pontos corridos 2026",
@@ -262,7 +262,7 @@
       "nome": "Esporte Clube Barão E.C.B",
       "nomeCartola": "Maiquel",
       "escudoTime": "https://s2-cartola.glbimg.com/ZhF_YliUq8yWuN5Z-IwvHqYyWZA=/https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/cartola_assets_3/escudo/77/04/33/009a0a94e8-01c5-4b34-abd2-a3e8303ac77720260123120433",
-      "pago": false,
+      "pago": true,
       "pagoEmRodada": null,
       "clube": {
         "id": 265,
@@ -680,7 +680,7 @@
   },
   "parciais": {
     "rodada": 22,
-    "atualizadoEm": "2026-08-10T13:01:01.173Z",
+    "atualizadoEm": "2026-08-10T13:25:43.723Z",
     "porTime": {
       "90277": 70.61,
       "309735": 62.01,
