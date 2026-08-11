@@ -253,29 +253,29 @@
     "rodada": 23,
     "aoVivo": true,
     "rotulo": "Rodada 23 · andamento",
-    "titulo": "Rodada 23 segue no aquecimento, mas o Zé já escalou a resenha",
+    "titulo": "Faltam 4 dias pro apito da rodada 23, e o Zé já separou os duelos que interessam",
     "blocos": [
       {
         "icone": "⏳",
-        "titulo": "Contagem regressiva",
-        "texto": "Ainda não rolou bola oficial na rodada 23: nenhum dos dez confrontos teve jogo real iniciado até agora, então o placar geral do Cartola segue zerado. O primeiro apito só sai no dia 15/08, então quem já está roendo a unha vai ter que segurar a ansiedade por mais alguns dias. Zero ponto nessa fase não é vexame de ninguém, é só a rodada esperando o sinal verde."
+        "titulo": "Ainda no zero a zero geral",
+        "texto": "Segue tudo parado na rodada 23: nenhum dos dez confrontos teve jogo real iniciado, então o placar do Cartola continua zerado para os 20 times. O primeiro apito sai só na sexta-feira, dia 15/08, às 16h30, no duelo entre Gaudérios FC e Urachfc. Até lá, zero ponto não é vexame de ninguém, é só o calendário ainda de folga."
       },
       {
-        "icone": "🥊",
-        "titulo": "Pelotão do meio se estranha",
-        "texto": "Mandrackefc recebe o Império da Caipira num confronto direto entre times empatados em 6 pontos, o 5º colocado contra o 2º da tabela. É duelo de quem quer furar o pelotão de cima e cravar vaga de destaque assim que a rodada engatar de verdade."
+        "icone": "🔥",
+        "titulo": "Meio de tabela pegando fogo",
+        "texto": "Corticeira's Farm FC, 6º colocado, recebe o Tricolor Lvfc, que aparece na 3ª posição: os dois fecharam a rodada 22 empatados em 6 pontos e separados só pelo PG turno. É confronto direto de quem quer escapar do pelotão e cravar de vez um lugar no pódio do returno."
       },
       {
-        "icone": "🔴",
-        "titulo": "Lanterna quer sair do fundo do poço",
-        "texto": "O VIERTRICOLOR, único time ainda zerado depois de três rodadas, visita o Kidiabense FC atrás da primeira vitória do returno. O anfitrião também não vive lua de mel na tabela atual, 17º colocado com apenas 3 pontos, mesmo sendo o dono da maior pontuação de todo o primeiro turno (1597,8). Os dois precisam de resultado para não afundar de vez."
+        "icone": "🆘",
+        "titulo": "Clássico da parte de baixo",
+        "texto": "SampaMissiones FC, 18º colocado, recebe o Parizi 01, dono da vice-lanterna com apenas 1 ponto em três rodadas. Nenhum dos dois pode escorregar de novo, porque lá no fundo o VIERTRICOLOR, isolado na última posição e ainda zerado, está espiando qualquer sinal de fraqueza para não ficar sozinho na pior colocação."
       },
       {
         "icone": "👑",
-        "titulo": "Prato principal segue de pé",
-        "texto": "O jogo mais aguardado da rodada continua sendo Brocador do Bonja recebendo o Baade FC. O Brocador é líder isolado com 9 pontos e 100% de aproveitamento, ainda com a mágoa do vice do primeiro turno perdido por 1,9 ponto de PG turno para o Kaempfs F.C. Do outro lado, o Baade FC, novato que só chegou no returno, briga no meio da tabela com 6 pontos e já mostrou que estreante não tem medo de casa cheia."
+        "titulo": "Líder recebe o novato, ex-campeão busca resgate",
+        "texto": "O prato principal segue sendo Brocador do Bonja recebendo o Baade FC: o líder isolado, com 9 pontos e 100% de aproveitamento, tem pela frente o novato que só estreou no returno e já ocupa a 7ª colocação com 6 pontos. No mesmo dia, o Kaempfs F.C., campeão do primeiro turno e hoje apenas na 13ª posição com 3 pontos, recebe o Berwinha FC, que integra o pelotão dos 6 pontos, em busca da reação que a torcida cobra."
       }
     ],
-    "geradaEm": "2026-08-11T04:25:00.000Z"
+    "geradaEm": "2026-08-11T14:00:00.000Z"
   }
 ]
