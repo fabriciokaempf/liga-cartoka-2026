@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-10T17:58:39.013Z",
+  "geradoEm": "2026-08-11T14:50:30.921Z",
   "temporada": 2026,
   "liga": {
     "nome": "Liga Cartoka de pontos corridos 2026",
@@ -112,7 +112,7 @@
       "nome": "Império da Caipira",
       "nomeCartola": "Francis Kaempf",
       "escudoTime": "https://s2-cartola.glbimg.com/N2vrR72zfPZUP5WoYuH8on1xU3c=/https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/cartola_svg_167/escudo/5f/01/02/00d0f74cc8-4346-48cd-ac7b-30a96a44f85f20200728190102",
-      "pago": false,
+      "pago": true,
       "pagoEmRodada": null,
       "clube": {
         "id": 283,
