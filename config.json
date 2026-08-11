@@ -25,7 +25,7 @@
     { "timeId": 487118, "nome": "Kaempfs F.C.", "clubeSlug": "mirassol", "clubeNome": "Mirassol", "pago": true },
     { "timeId": 49288650, "nome": "Resina Club", "clubeSlug": "remo", "clubeNome": "Remo", "pago": true },
     { "timeId": 26079439, "nome": "Alemonstro FBPA", "clubeSlug": "chapecoense", "clubeNome": "Chapecoense", "pago": true },
-    { "timeId": 753775, "nome": "Império da Caipira", "clubeSlug": "cruzeiro", "clubeNome": "Cruzeiro", "pago": false },
+    { "timeId": 753775, "nome": "Império da Caipira", "clubeSlug": "cruzeiro", "clubeNome": "Cruzeiro", "pago": true },
     { "timeId": 25278938, "nome": "Parizi 01", "clubeSlug": "botafogo", "clubeNome": "Botafogo", "pago": true },
     { "timeId": 309735, "nome": "Urachfc", "clubeSlug": "palmeiras", "clubeNome": "Palmeiras", "pago": true },
     { "timeId": 1067774, "nome": "VIERTRICOLOR", "clubeSlug": "atletico-mg", "clubeNome": "Atlético-MG", "pago": false },
