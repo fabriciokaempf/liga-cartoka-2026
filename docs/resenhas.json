@@ -253,29 +253,29 @@
     "rodada": 23,
     "aoVivo": true,
     "rotulo": "Rodada 23 · andamento",
-    "titulo": "A rodada 23 ainda não saiu do papel, mas o assunto não falta",
+    "titulo": "Faltam 3 dias, mercado aberto e o Zé já esquentando os microfones",
     "blocos": [
       {
         "icone": "⏳",
-        "titulo": "Nada de novo, só o relógio andando",
-        "texto": "Passei aqui de novo e o cenário segue igual: os dez jogos da rodada 23 continuam intocados e ninguém pontuou nada ainda. O mercado está aberto, então ainda dá tempo de mexer na escalação até sábado, dia 15, às 16h30, quando o Gaudérios FC recebe o Urachfc e abre a rodada. Ela só fecha na segunda à noite, com o HORST BRAUN recebendo o Resina Club."
+        "titulo": "Contagem regressiva",
+        "texto": "Ainda são três dias até a bola rolar de verdade: a abertura fica para sábado, dia 15, às 16h30, com o Gaudérios FC recebendo o Urachfc. Até lá o mercado segue aberto, então dá tempo de mexer na escalação, e ninguém pontuou uma vírgula sequer. Zero no placar agora é só sinal de que o jogo não começou, não é vexame de ninguém."
       },
       {
         "icone": "👑",
-        "titulo": "Brocador sozinho lá no topo",
-        "texto": "O Brocador do Bonja segue como líder isolado da rodada 23, com 9 pontos em três jogos e nenhuma derrota, boa folga sobre o pelotão que vem logo atrás com 6 pontos. Lembra o primeiro turno, quando ele brigou o título ponto a ponto com o Kaempfs F.C. e perdeu por míseros 1,9 de saldo no turno (1518,4 a 1516,4). Dessa vez o Brocador saiu na frente e no domingo recebe o Baade FC, sétimo colocado, para testar se dá para manter distância."
+        "titulo": "O líder e o novato",
+        "texto": "O Brocador do Bonja segue isolado na ponta, com 9 pontos em três rodadas e nenhuma derrota, e no domingo recebe o Baade FC, que só estreou no returno e ainda está construindo currículo. É o vice do primeiro turno tentando esticar a vantagem logo contra quem não tem passado nenhum para cobrar."
       },
       {
-        "icone": "🐌",
-        "titulo": "Ex-campeão com a marcha engatada baixa",
-        "texto": "Quem sentiu o baque do returno foi o Kaempfs F.C., campeão do primeiro turno com 35 pontos e hoje apenas na 13ª posição, com 3 pontos. No domingo enfrenta o Berwinha FC, que fechou o primeiro turno lá embaixo, na 13ª colocação com 29 pontos, e agora aparece na 9ª posição com 6 pontos. Os papéis viraram, pelo menos por enquanto."
+        "icone": "⚔️",
+        "titulo": "Duelo direto do pelotão dos 6",
+        "texto": "Corticeira's Farm FC recebe o Tricolor Lvfc na sexta, dia 15, às 21h, e os dois chegam empatados com 6 pontos, colados um atrás do outro na tabela. É clássico direto de quem quer se aproximar do Brocador e não pode se dar ao luxo de tropeçar cedo no returno."
       },
       {
-        "icone": "🔥",
-        "titulo": "Lanterna contra o dono da maior pontuação do turno passado",
-        "texto": "Na outra ponta, o VIERTRICOLOR segue isolado na lanterna, com zero ponto em três derrotas seguidas. No domingo pega o Kidiabense FC, que fechou o primeiro turno com a maior pontuação da liga (1597,8 no total), mas no returno também não decolou: 17ª posição, com apenas 3 pontos. Duelo direto de quem precisa urgente sair do fundo do poço."
+        "icone": "🎯",
+        "titulo": "Palpite do Zé",
+        "texto": "O Zé aposta que o duelo VIERTRICOLOR contra Kidiabense FC, no domingo, vai ser o mais espiado do fim de semana: de um lado a lanterna isolada zerada em três derrotas, do outro o time que fechou o primeiro turno com a maior pontuação da liga inteira, mas que no returno também ainda não achou o rumo. Bola rolando, e o resto é conversa até lá."
       }
     ],
-    "geradaEm": "2026-08-12T16:26:49.000Z"
+    "geradaEm": "2026-08-12T20:10:00.000Z"
   }
 ]
