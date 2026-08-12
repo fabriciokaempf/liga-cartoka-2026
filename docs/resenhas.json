@@ -253,29 +253,29 @@
     "rodada": 23,
     "aoVivo": true,
     "rotulo": "Rodada 23 · andamento",
-    "titulo": "Ainda faltam três dias, mas o Zé já separou os duelos que interessam",
+    "titulo": "A rodada 23 ainda não saiu do papel, mas o assunto não falta",
     "blocos": [
       {
         "icone": "⏳",
-        "titulo": "Nada de novo no front (ainda)",
-        "texto": "Continua tudo parado: os dez confrontos da rodada 23 seguem sem nenhum jogo real iniciado, então ninguém pontuou e ninguém deve pontuar antes de sexta-feira. Abre a rodada Gaudérios FC recebendo o Urachfc, às 16h30 do dia 15/08. Até lá, é escalação sendo remontada e o WhatsApp da liga fervendo com previsão."
-      },
-      {
-        "icone": "🔥",
-        "titulo": "Briga de lanterna: VIERTRICOLOR contra o abismo",
-        "texto": "O VIERTRICOLOR fecha a tabela com zero ponto ganho em três rodadas, três derrotas seguidas, e no domingo pega o Kidiabense FC, que também patina no meio da segunda metade da tabela com 3 pontos. Se o VIERTRICOLOR não reagir logo, vai começar a namorar a lanterna isolada por um bom tempo."
-      },
-      {
-        "icone": "⚔️",
-        "titulo": "Seis pontos valendo seis pontos",
-        "texto": "Lá embaixo também tem duelo direto: Parizi 01, penúltimo colocado com só 1 ponto, recebe o SampaMissiones FC, 18º com 3 pontos, no sábado à noite. É clássico de quem não quer ficar para trás logo no início do returno."
+        "titulo": "Nada de novo, só o relógio andando",
+        "texto": "Passei aqui de novo e o cenário segue igual: os dez jogos da rodada 23 continuam intocados e ninguém pontuou nada ainda. O mercado está aberto, então ainda dá tempo de mexer na escalação até sábado, dia 15, às 16h30, quando o Gaudérios FC recebe o Urachfc e abre a rodada. Ela só fecha na segunda à noite, com o HORST BRAUN recebendo o Resina Club."
       },
       {
         "icone": "👑",
-        "titulo": "Liderança isolada segue de olho no Baade",
-        "texto": "O Brocador do Bonja mantém a ponta isolada com 9 pontos e 100% de aproveitamento, uma vantagem gorda sobre o pelotão de 6 pontos logo atrás. No domingo recebe o Baade FC, novato animado que já ocupa a 7ª posição, num teste e tanto para o líder mostrar que o aproveitamento perfeito não foi acaso."
+        "titulo": "Brocador sozinho lá no topo",
+        "texto": "O Brocador do Bonja segue como líder isolado da rodada 23, com 9 pontos em três jogos e nenhuma derrota, boa folga sobre o pelotão que vem logo atrás com 6 pontos. Lembra o primeiro turno, quando ele brigou o título ponto a ponto com o Kaempfs F.C. e perdeu por míseros 1,9 de saldo no turno (1518,4 a 1516,4). Dessa vez o Brocador saiu na frente e no domingo recebe o Baade FC, sétimo colocado, para testar se dá para manter distância."
+      },
+      {
+        "icone": "🐌",
+        "titulo": "Ex-campeão com a marcha engatada baixa",
+        "texto": "Quem sentiu o baque do returno foi o Kaempfs F.C., campeão do primeiro turno com 35 pontos e hoje apenas na 13ª posição, com 3 pontos. No domingo enfrenta o Berwinha FC, que fechou o primeiro turno lá embaixo, na 13ª colocação com 29 pontos, e agora aparece na 9ª posição com 6 pontos. Os papéis viraram, pelo menos por enquanto."
+      },
+      {
+        "icone": "🔥",
+        "titulo": "Lanterna contra o dono da maior pontuação do turno passado",
+        "texto": "Na outra ponta, o VIERTRICOLOR segue isolado na lanterna, com zero ponto em três derrotas seguidas. No domingo pega o Kidiabense FC, que fechou o primeiro turno com a maior pontuação da liga (1597,8 no total), mas no returno também não decolou: 17ª posição, com apenas 3 pontos. Duelo direto de quem precisa urgente sair do fundo do poço."
       }
     ],
-    "geradaEm": "2026-08-12T12:30:38.000Z"
+    "geradaEm": "2026-08-12T16:26:49.000Z"
   }
 ]
