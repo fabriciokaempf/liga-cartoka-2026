@@ -253,29 +253,29 @@
     "rodada": 23,
     "aoVivo": true,
     "rotulo": "Rodada 23 · andamento",
-    "titulo": "Zero a zero segue firme na rodada 23, mas o Zé garimpou outros duelos pra você",
+    "titulo": "Rodada 23 ainda não rolou, mas o Zé já garimpou climão pra sexta-feira",
     "blocos": [
       {
         "icone": "⏳",
-        "titulo": "Contagem regressiva não andou",
-        "texto": "A rodada 23 segue no zero a zero geral: nenhum dos dez confrontos teve jogo real iniciado até agora, e o placar do Cartola permanece zerado para os 20 times. O primeiro apito só sai na sexta-feira, dia 15/08, às 16h30, quando Gaudérios FC recebe o Urachfc. Até lá, ninguém pontuou, e isso não é vexame de ninguém, é só o relógio da rodada ainda de folga."
+        "titulo": "Faltam três dias pro apito",
+        "texto": "A rodada 23 segue com o placar geral zerado: nenhum dos dez confrontos teve jogo real iniciado até agora, e é assim mesmo, ninguém pontuou porque ninguém entrou em campo ainda. O primeiro apito só sai na sexta-feira, dia 15/08, às 16h30, quando Gaudérios FC recebe o Urachfc. Até lá é só ansiedade e escalação sendo remontada dez vezes por dia."
       },
       {
-        "icone": "🤝",
-        "titulo": "Pelotão dos 6 pontos em rota de colisão",
-        "texto": "Mandrackefc, do Mitzkatzmiau, e Império da Caipira se encontram de frente na rodada 23, os dois dentro do pelotão que fechou a rodada 22 empatado em 6 pontos, separado só pelo desempate de PG turno. O Império aparece hoje na 2ª posição e o Mandrackefc na 5ª, e um tropeço aqui pode embaralhar de vez esse meio de tabela apertado."
+        "icone": "📉",
+        "titulo": "Queda livre: os ex-mitos da rodada 20 se encontram",
+        "texto": "Justamente esse jogo abre a rodada: de um lado o Urachfc, que eu descrevi como camisa 10 na estreia com 127,41 pontos e a ponta isolada da rodada 20, hoje ocupa apenas a 12ª posição com 3 pontos em três rodadas. Do outro lado, o Gaudérios FC, dono do pior vexame da rodada 21, ainda tentando sair da 11ª colocação. Dois times que já foram manchete por motivos opostos e agora se encontram no meio da tabela, tentando provar que aquilo foi só uma fase."
       },
       {
-        "icone": "🆘",
-        "titulo": "Lanterna atrás do primeiro respiro",
-        "texto": "O VIERTRICOLOR, do Daniel Vier, segue isolado na 20ª posição, com 0 ponto em três rodadas, e recebe o Kidiabense FC em casa. É a chance de o time finalmente destravar o marcador e sair do porão pelo menos por uma rodada. Do outro lado, o Kidiabense, ainda no meio da tabela com 3 pontos, também não vai dar de bandeja um resultado fácil para quem está afundado."
+        "icone": "🥶",
+        "titulo": "Kaempfs, o campeão que esfriou",
+        "texto": "O Kaempfs F.C., campeão do primeiro turno com 35 pontos e aquele 1,9 de vantagem sobre o Brocador do Bonja, vive returno de flop: apenas 3 pontos em três rodadas e a 13ª posição na tabela. No domingo encara o Berwinha FC, que já soma 6 pontos e está na 9ª colocação, duelo direto para o ex-campeão tentar encurtar a distância para o pelotão de cima antes que ela fique grande demais."
       },
       {
         "icone": "👑",
-        "titulo": "Prato principal: líder isolado recebe o novato",
-        "texto": "O grande atrativo da rodada continua sendo Brocador do Bonja recebendo o Baade FC no domingo: o líder isolado, com 9 pontos e 100% de aproveitamento em três rodadas, mede forças com o novato que estreou só no returno e já ocupa a 7ª posição com 6 pontos. No mesmo pacote de domingo, o Alemonstro FBPA tenta virar a página contra o Esporte Clube Barão, que está no pelotão dos 6 pontos e briga por um lugar mais alto na tabela."
+        "titulo": "Prato principal segue sendo o líder contra o novato",
+        "texto": "Brocador do Bonja, isolado na ponta com 9 pontos e 100% de aproveitamento em três rodadas, recebe o Baade FC no domingo, o novato que só apareceu no returno e já ocupa a 7ª posição com 6 pontos. Meu palpite: o líder segue mandando, mas o Baade tem mostrado que não veio para fazer volume de tabela. Fica ligado também no duelo do pelotão dos 6 pontos entre Mandrackefc e Império da Caipira, que promete embolar ainda mais o meio da tabela."
       }
     ],
-    "geradaEm": "2026-08-11T20:24:53.000Z"
+    "geradaEm": "2026-08-12T14:00:00.000Z"
   }
 ]
