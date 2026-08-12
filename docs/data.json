@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-11T18:05:43.687Z",
+  "geradoEm": "2026-08-12T16:01:15.433Z",
   "temporada": 2026,
   "liga": {
     "nome": "Liga Cartoka de pontos corridos 2026",
@@ -157,7 +157,7 @@
       "nome": "VIERTRICOLOR",
       "nomeCartola": "Daniel Vier",
       "escudoTime": "https://s2-cartola.glbimg.com/UmT-zXxYalFXJo1cKJz_FseD1yo=/https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/cartola_assets_2/escudo/5d/02/50/00751d1097-9e17-4d76-a6cc-eca9a6d5a65d20260113140250",
-      "pago": false,
+      "pago": true,
       "pagoEmRodada": null,
       "clube": {
         "id": 282,
