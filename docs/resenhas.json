@@ -253,29 +253,29 @@
     "rodada": 23,
     "aoVivo": true,
     "rotulo": "Rodada 23 · andamento",
-    "titulo": "Baade desafia o líder isolado e o pelotão dos 6 pontos fica cada vez mais apertado",
+    "titulo": "Baade encara o líder, pelotão dos 6 se enfrenta e a bola ainda nem rolou",
     "blocos": [
       {
         "icone": "⏳",
-        "titulo": "Contagem regressiva",
-        "texto": "Sigo de plantão em cima da rodada 23 e o retrato segue igual: os dez confrontos ainda não tiveram apito real, o mercado permanece fechado e ninguém pontuou. O relógio, porém, está andando: a abertura é neste sábado, dia 15/08, às 16h30, com Gaudérios FC recebendo o Urachfc. Calma que essa espera é só ansiedade, não é vexame de ninguém."
+        "titulo": "Faltam dois dias",
+        "texto": "Sigo de plantão e o retrato não mudou: os dez confrontos da rodada 23 seguem zerados, nenhum atleta escalado entrou em campo ainda. A abertura é neste sábado, dia 15/08, às 16h30, com Gaudérios FC recebendo o Urachfc, o clássico jogo de abrir o apetite antes do fim de semana cheio."
       },
       {
         "icone": "👑",
-        "titulo": "O líder recebe o novato",
-        "texto": "O grande duelo do fim de semana é em casa para quem manda: o líder isolado Brocador do Bonja, com 9 pontos em três rodadas, recebe o Baade FC, o novato que só estreou no returno e ainda não tem currículo de primeiro turno pra chamar de seu. Baade está no meio do pelotão que empata em 6 pontos e sonha em dar o troco logo na casa do ponteiro."
+        "titulo": "O trono de Brocador em teste",
+        "texto": "O grande cartaz do fim de semana é o líder isolado Brocador do Bonja, com 9 pontos em três rodadas, recebendo o Baade FC em casa. O novato que só estreou no returno já se instalou no pelotão dos 6 e não vai a São Januário só para bater foto: quer sair de lá com o primeiro tropeço do líder debaixo do braço."
       },
       {
         "icone": "📦",
-        "titulo": "O pelotão dos 6 tá lotado",
-        "texto": "Atrás do líder tem fila andando: nove times empatados em 6 pontos, entre eles Império da Caipira, Tricolor Lvfc, Esporte Clube Barão, Mandrackefc, Corticeira's Farm FC, Baade FC, Resina Club, Berwinha FC e HORST BRAUN. O ex-campeão do primeiro turno Kaempfs F.C. segue mais atrás, na 13ª posição com 3 pontos, e recebe justamente o Berwinha FC, um dos nomes desse pelotão, de olho em colar na briga."
+        "titulo": "O pelotão dos 6 se enfrenta",
+        "texto": "Enquanto isso, moradores do mesmo apartamento na tabela se encaram direto: Corticeira's Farm FC recebe Tricolor Lvfc no sábado à noite, e Mandrackefc pega o Império da Caipira no domingo. Como os nove times do pelotão empatam em 6 pontos, cada confronto interno desses vale ouro para quem quiser abrir vantagem no desempate do PG turno."
       },
       {
         "icone": "🆘",
-        "titulo": "Lanterna busca o resgate e o palpite do Zé",
-        "texto": "A lanterna isolada VIERTRICOLOR segue com 0 ponto em três rodadas e recebe o Kidiabense FC tentando, enfim, sair do zero. O palpite do Zé pra esse fim de semana: o líder segura a barra em casa, e o pelotão dos 6 deve terminar a rodada ainda mais espremido."
+        "titulo": "Lanterna tenta destravar",
+        "texto": "A lanterna isolada VIERTRICOLOR, com 0 ponto em três rodadas, tenta finalmente sair do zero recebendo o Kidiabense FC no domingo. Palpite do Zé pra esse fim de semana: o líder segura a invencibilidade em casa, e o pelotão dos 6 termina a rodada ainda mais embolado do que começou."
       }
     ],
-    "geradaEm": "2026-08-13T16:28:38.000Z"
+    "geradaEm": "2026-08-13T21:10:00.000Z"
   }
 ]
