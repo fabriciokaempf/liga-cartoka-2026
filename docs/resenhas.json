@@ -253,29 +253,29 @@
     "rodada": 23,
     "aoVivo": true,
     "rotulo": "Rodada 23 · andamento",
-    "titulo": "Faltam 2 dias, ninguém pontuou e o Zé segue de plantão na Cartoka",
+    "titulo": "Mercado ainda aberto, ninguém entrou em campo e o Zé segue de plantão vigiando a Cartoka",
     "blocos": [
       {
         "icone": "⏳",
-        "titulo": "Contagem regressiva",
-        "texto": "Voltei aqui para dar as caras antes da bola rolar de verdade: agora faltam só dois dias para a abertura da rodada 23, marcada para sábado, dia 15, às 16h30, com o Gaudérios FC recebendo o Urachfc. O mercado segue aberto e nenhum dos dez confrontos teve sequer o jogo real iniciado, então zero no placar por enquanto é só sinal de expectativa, não de vexame de ninguém."
+        "titulo": "Ainda no vestiário",
+        "texto": "Passando aqui de novo só para confirmar: o mercado segue aberto, nenhum dos dez confrontos da rodada 23 teve o jogo real iniciado e a abertura oficial continua marcada para sábado, dia 15, às 16h30, com Gaudérios FC recebendo o Urachfc. Enquanto isso é tudo escalação, ansiedade e print de time provável no grupo, pontuação mesmo ainda não existe."
       },
       {
         "icone": "👑",
-        "titulo": "O líder confirma a régua",
-        "texto": "O Brocador do Bonja segue isolado na ponta com 9 pontos em três rodadas, tirando uma boa vantagem do pelotão logo atrás, onde nove times dividem 6 pontos cada. No domingo o líder recebe o Baade FC, o novato que ainda constrói currículo no returno, e uma vitória deixaria essa distância ainda mais confortável."
+        "titulo": "O líder mira esticar a corda",
+        "texto": "O Brocador do Bonja segue isolado na ponta com 9 pontos em três rodadas, com boa distância para o pelotão logo atrás, onde nove times dividem 6 pontos cada. No domingo o líder recebe o Baade FC, o novato que ainda constrói currículo no returno, e uma vitória empurraria essa vantagem para ainda mais longe."
       },
       {
-        "icone": "⚔️",
-        "titulo": "Choque de pelotão",
-        "texto": "Sexta, às 21h, Corticeira's Farm FC recebe o Tricolor Lvfc num confronto direto do grupo dos 6 pontos, resultado que pode aproximar qualquer um dos dois do líder isolado. No domingo tem outro cruzamento pesado do mesmo pelotão: o Mandrackefc recebe o Império da Caipira, dois times que também somam 6 pontos e não podem se dar ao luxo de tropeçar."
+        "icone": "🎭",
+        "titulo": "Extremos frente a frente",
+        "texto": "Também no domingo, a lanterna isolada VIERTRICOLOR encara o Kidiabense FC, time que fechou o primeiro turno com a maior pontuação da liga inteira, mas que no returno ainda amarga a 17ª colocação. É zero contra quase zero na tabela do returno, mas com currículo bem diferente na bagagem de cada um."
       },
       {
         "icone": "🎯",
         "titulo": "Palpite do Zé",
-        "texto": "De olho no fim de semana, o Zé aposta que o duelo VIERTRICOLOR contra Kidiabense FC vai render bastante conversa no grupo: de um lado a lanterna isolada, zerada em três rodadas, do outro o time que fechou o primeiro turno com a maior pontuação da liga inteira, mas que no returno ainda procura o rumo. Bola não rolou ainda, mas o Zé já está de olho."
+        "texto": "De olho no sábado, o Kaempfs F.C., campeão do primeiro turno mas hoje só na 13ª posição do returno, recebe o Berwinha FC, que faz parte do pelotão dos 6 pontos. Boa chance do ex-campeão dar o primeiro passo rumo à reação, mas o Zé só confia depois que a bola rolar de verdade."
       }
     ],
-    "geradaEm": "2026-08-13T13:00:00.000Z"
+    "geradaEm": "2026-08-13T04:26:00.000Z"
   }
 ]
