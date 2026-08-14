@@ -253,29 +253,29 @@
     "rodada": 23,
     "aoVivo": true,
     "rotulo": "Rodada 23 · andamento",
-    "titulo": "Contagem regressiva: bola ainda não rolou e o pelotão de nove já tem favorito no desempate",
+    "titulo": "Reta final da espera: amanhã a esta hora a bola já está rolando",
     "blocos": [
       {
         "icone": "⏳",
-        "titulo": "Reforçando o plantão: seguimos com o placar geral zerado",
-        "texto": "Voltei aqui pra confirmar: nenhum dos dez confrontos da rodada 23 teve atleta escalado em campo até agora, mercado aberto e todo mundo na expectativa. A abertura é amanhã, sábado dia 15/08, às 16h30, com o duelo Gaudérios FC contra Urachfc. Se você está de olho no zero a zero geral, relaxa, ninguém pontuou porque ninguém jogou ainda."
+        "titulo": "Faltam poucas horas e o placar geral segue zerado",
+        "texto": "Sigo de plantão e o resumo não muda: nenhum dos dez confrontos da rodada 23 teve atleta escalado entrando em campo, mercado aberto e ninguém pontuou porque ninguém jogou. A abertura é amanhã, sábado dia 15/08, às 16h30, no duelo Gaudérios FC contra Urachfc, essa sim vale a pena marcar o despertador."
       },
       {
         "icone": "👑",
-        "titulo": "Brocador do Bonja mantém a ponta isolada",
-        "texto": "O Brocador do Bonja segue como único líder da rodada, com 9 pontos em três vitórias sem deixar nenhum ponto pelo caminho. No domingo o teste é contra o Baade FC, o novato que só chegou no returno e ainda não tem nada de primeiro turno pra provar. Duelo de líder contra azarão, com a torcida dividida sobre quem sai por cima."
+        "titulo": "Brocador do Bonja segue sozinho lá em cima",
+        "texto": "Com 9 pontos em três vitórias sem sustos, o Brocador do Bonja é o único líder isolado da rodada. No domingo o adversário é o Baade FC, o novato que só chegou no returno e ainda não tem currículo de primeiro turno pra mostrar. Duelo de cabeça de chave contra estreante, com o grupo curioso pra ver se o líder tropeça."
       },
       {
         "icone": "📦",
-        "titulo": "No pelotão dos nove, o desempate já entrega um favorito",
-        "texto": "Nove times seguem empatados em 6 pontos, do Império da Caipira ao HORST BRAUN, e três jogos dentro desse grupo saem nesta rodada: Corticeira's Farm FC recebe Tricolor Lvfc no sábado, Mandrackefc encara o Império da Caipira no domingo, e HORST BRAUN pega o Resina Club na segunda. Olhando o desempate por PG turno, quem puxa a fila do pelotão hoje é justamente o Império da Caipira, e quem fecha a fila é o HORST BRAUN, aquele mesmo que estreou com a pior pontuação da liga lá na rodada 20."
+        "titulo": "Pelotão dos nove tem três clássicos internos na rodada",
+        "texto": "Nove times seguem empatados em 6 pontos, do Império da Caipira ao HORST BRAUN, separados hoje só pelo PG turno. E o pelotão se enfrenta direto: Corticeira's Farm FC recebe Tricolor Lvfc no sábado, Mandrackefc pega o Império da Caipira no domingo, e HORST BRAUN encara o Resina Club na segunda. Três chances de alguém desse grupo abrir vantagem antes mesmo da rodada esquentar de vez."
       },
       {
         "icone": "🆘",
-        "titulo": "Lanterna zerada busca resgate, campeão do turno segue discreto",
-        "texto": "A lanterna isolada continua com o VIERTRICOLOR, zero ponto em três rodadas, que tenta a reação diante do Kidiabense FC no domingo. E não esquece do Kaempfs F.C., campeão do primeiro turno, hoje um discreto 13º colocado, recebendo o Berwinha FC também no domingo. Palpite do Zé pra fechar: algum time desse pelotão de nove sai da rodada isolado na vice liderança, cola aí pra conferir."
+        "titulo": "Lanterna busca reação, campeão do turno joga na sombra",
+        "texto": "O VIERTRICOLOR segue isolado na lanterna, com zero ponto em três rodadas, e tenta a virada de chave diante do Kidiabense FC no domingo. Do outro lado da tabela, o Kaempfs F.C., campeão do primeiro turno, segue discreto na 13ª posição e recebe o Berwinha FC também no domingo. Palpite do Zé: essa rodada 23 promete embaralhar o meio de tabela antes mesmo de sábado acabar."
       }
     ],
-    "geradaEm": "2026-08-14T12:38:07.000Z"
+    "geradaEm": "2026-08-14T16:32:34.000Z"
   }
 ]
