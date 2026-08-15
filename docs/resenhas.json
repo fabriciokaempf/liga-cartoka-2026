@@ -253,29 +253,29 @@
     "rodada": 23,
     "aoVivo": true,
     "rotulo": "Rodada 23 · andamento",
-    "titulo": "Zé Resenha na área: bola vai rolar hoje à tarde na rodada 23",
+    "titulo": "Zé Resenha na área: primeiro apito já saiu, mas a rodada 23 mal engatinhou",
     "blocos": [
       {
-        "icone": "⏱️",
-        "titulo": "Reta final para o apito inicial",
-        "texto": "Fechei a bolsa e voltei pro microfone: os dez confrontos da rodada 23 seguem zerados, sem nenhum atleta em campo até agora. Mas o sinal já está armado para hoje às 16h30, quando Gaudérios FC recebe o Urachfc e abre oficialmente a rodada. Só depois desse apito é que a pontuação começa a se mexer de verdade, então guarda a ansiedade para daqui a pouco."
-      },
-      {
-        "icone": "👑",
-        "titulo": "A tabela que ainda vale é a da rodada passada",
-        "texto": "Enquanto a bola não rola, quem manda é o retrato da rodada 22: Brocador do Bonja isolado na ponta com 9 pontos em três vitórias sem sustos. Logo atrás, um pelotão gigante de nove times empatados em 6 pontos briga só no critério do PG turno, prontos para se embaralhar de vez assim que os primeiros gols saírem."
+        "icone": "⚽",
+        "titulo": "Primeiro apito já saiu",
+        "texto": "O primeiro confronto da rodada já fechou o placar real: o Gaudérios FC levou 1 a 0 do Urachfc, com o time do Flávio Pacheco caindo para o time do Carlos Vinicius dentro de campo. No Cartola, porém, o jogo é outro: por enquanto o Urachfc desponta com 10,1 pontos parciais contra apenas 0,4 do Gaudérios, e ainda tem escalação inteira para pontuar até domingo. Guarda esse placar real na gaveta, quem decide o confronto é a súmula do Cartola, não o resultado do estádio."
       },
       {
         "icone": "🔥",
-        "titulo": "Cardápio de hoje e amanhã",
-        "texto": "O prato principal reserva o líder Brocador do Bonja recebendo o Baade FC, o novato sem currículo de primeiro turno, num teste e tanto para ver se a liderança é resistente. No mesmo pacote, Mandrackefc e Império da Caipira, dois integrantes do pelotão dos 6 pontos, se enfrentam direto de olho na ponta. E o lanterna isolado VIERTRICOLOR, zerado em três rodadas, tenta o resgate contra o Kidiabense FC."
+        "titulo": "Um quarteto pontuando escondido",
+        "texto": "Enquanto praticamente todos os outros confrontos ainda aguardam o jogo real começar, tem time silencioso na frente: Corticeira's Farm FC e Tricolor Lvfc, que se enfrentam direto nesta rodada, já empatam em 16,4 pontos parciais cada, mesmo com o duelo dos dois parado no zero a zero do relógio. No mesmo patamar aparecem Baade FC e Kidiabense FC, cada um em confronto separado, também guardando 16,4 pontinhos na manga. É a lógica do Cartola: quem tem atleta de clube que já entrou em campo em outro horário sai na frente, ainda que o jogo do próprio confronto nem tenha começado."
+      },
+      {
+        "icone": "👑",
+        "titulo": "Liderança intacta, mas parada nos 0,1",
+        "texto": "Na tabela que ainda vale, o Brocador do Bonja segue isolado na ponta com 9 pontos em três vitórias, mas na pontuação parcial de hoje amarga singelos 0,1 ponto, já que o confronto dele contra o novato Baade FC só rola amanhã às 16h. Justamente o Baade, sem currículo nenhum de primeiro turno, é um dos líderes parciais do momento com 16,4 pontos, o que promete deixar o duelo de amanhã ainda mais gostoso. O pelotão de nove times empatados em 6 pontos segue intacto logo atrás, esperando a rodada esquentar de verdade."
       },
       {
         "icone": "⏳",
-        "titulo": "Hoje é o último dia sem desconto na tabela",
-        "texto": "Vale repetir o aviso da diretoria: a rodada 23 é a última em que quem ainda deve a inscrição escapa sem perder ponto no campeonato. A partir da rodada 24, o desconto passa a correr solto, rodada após rodada, sem retroativo e sem choro. O Zé não aponta dedo, só lembra que o relógio não espera ninguém."
+        "titulo": "Nove jogos ainda por vir",
+        "texto": "Dos dez confrontos da rodada 23, só um teve o apito real batido até agora, os outros nove ainda esperam a bola rolar entre hoje à noite e a próxima segunda-feira. HORST BRAUN, que enfrenta o Resina Club só na segunda, segue com 0 ponto parcial e nem precisa se preocupar, o jogo dele ainda nem começou o expediente. Recomendação do Zé: não fecha o caderno ainda, essa rodada mal saiu do vestiário."
       }
     ],
-    "geradaEm": "2026-08-15T09:03:31.878Z"
+    "geradaEm": "2026-08-15T20:05:00.000Z"
   }
 ]
