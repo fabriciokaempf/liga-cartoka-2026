@@ -253,29 +253,29 @@
     "rodada": 23,
     "aoVivo": true,
     "rotulo": "Rodada 23 · andamento",
-    "titulo": "Zé Resenha na madrugada: contagem regressiva para a bola rolar",
+    "titulo": "Zé Resenha confirma: segue tudo zerado, mas o relógio da inscrição não para",
     "blocos": [
       {
-        "icone": "🌙",
-        "titulo": "Zero jogos rolando, sono zero no Zé",
-        "texto": "Passa da uma da manhã e o Zé segue de olho na tela, mas a rodada 23 continua parada: nenhum dos dez confrontos teve atleta escalado entrando em campo até agora. A abertura fica marcada para as 16h30 de hoje, com Gaudérios FC recebendo o Urachfc, então a tabela que fechei na resenha da rodada 22 segue valendo intacta. Ninguém pontuou porque ninguém jogou, ainda faltam as dez partidas inteiras."
+        "icone": "⏱️",
+        "titulo": "Dez jogos, zero pontuado",
+        "texto": "Voltei pra dar mais uma conferida e o cenário da rodada 23 não mudou nadinha: os dez confrontos seguem sem nenhum atleta escalado em campo. A abertura é hoje às 16h30, com Gaudérios FC recebendo o Urachfc, e só depois desse apito inicial a pontuação começa a se mexer de verdade."
       },
       {
         "icone": "👑",
-        "titulo": "Líder recebe o novato no domingo",
-        "texto": "O Brocador do Bonja segue isolado na ponta com 9 pontos em três vitórias, e domingo encara o Baade FC, o novato que só apareceu no returno e não tem currículo nenhum do primeiro turno para chamar de seu. É a chance de o líder mostrar que a liderança é para valer ou de o novato dar o primeiro susto grande da campanha."
+        "titulo": "Brocador segue sozinho lá em cima",
+        "texto": "A tabela que vale agora ainda é a da rodada 22: Brocador do Bonja isolado na ponta com 9 pontos em três vitórias, folgado do pelotão. Logo atrás, nove times empatados em 6 pontos brigam por posição só no critério do PG turno, prontos pra embolar ainda mais quando a bola rolar."
       },
       {
-        "icone": "📦",
-        "titulo": "Pelotão dos nove ainda de olho no relógio",
-        "texto": "Nove times seguem empatados em 6 pontos, separados por enquanto só pelo PG turno, e três confrontos internos desse grupo prometem mexer nessa fila: Corticeira's Farm FC recebe Tricolor Lvfc hoje à noite, Mandrackefc pega o Império da Caipira no domingo e HORST BRAUN encara o Resina Club na segunda. Muita gente empatada, pouco tempo até o primeiro desses jogos abrir a rodada de verdade."
+        "icone": "⏳",
+        "titulo": "Recado da diretoria: última chance sem perder ponto",
+        "texto": "Vale reforçar: a rodada 23 é a última em que quem ainda está em atraso com a inscrição escapa sem sangrar ponto na tabela. A partir da rodada 24, o desconto passa a valer rodada após rodada. O Zé não cita nome de ninguém, mas o calendário está aí, sem paciência."
       },
       {
-        "icone": "🆘",
-        "titulo": "Lanterna e ex-campeão de olho na reação",
-        "texto": "O VIERTRICOLOR segue isolado na última posição, com zero ponto em três rodadas, e vai atrás da reação no domingo contra o Kidiabense FC. Já o Kaempfs F.C., campeão do primeiro turno, recebe o Berwinha FC também no domingo tentando sair da parte discreta da tabela. Palpite do Zé para quem ainda está acordado: guarda energia, porque até a tarde de hoje é só esquenta."
+        "icone": "🔮",
+        "titulo": "Fim de semana lotado de clássico direto",
+        "texto": "Hoje à noite já tem Corticeira's Farm FC recebendo o Tricolor Lvfc, e no domingo o cardápio engorda: Brocador do Bonja recebe o novato Baade FC, o lanterna VIERTRICOLOR tenta reagir contra o Kidiabense FC, Mandrackefc mede forças com o Império da Caipira e o Kaempfs F.C. recebe o Berwinha FC. Segunda ainda fecha com HORST BRAUN contra o Resina Club. Guarda essa lista que a resenha volta assim que o placar começar a se mexer."
       }
     ],
-    "geradaEm": "2026-08-15T04:24:05.000Z"
+    "geradaEm": "2026-08-15T08:27:37.000Z"
   }
 ]
