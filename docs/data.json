@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-16T21:28:37.543Z",
+  "geradoEm": "2026-08-16T21:46:34.635Z",
   "temporada": 2026,
   "liga": {
     "nome": "Liga Cartoka de pontos corridos 2026",
@@ -28,7 +28,7 @@
   "rodadaFinal": 38,
   "rodadaAtual": 23,
   "statusMercado": 2,
-  "bolaRolando": false,
+  "bolaRolando": true,
   "gameOver": false,
   "ultimaRodadaFechada": 22,
   "jogadores": [
@@ -680,28 +680,28 @@
   },
   "parciais": {
     "rodada": 23,
-    "atualizadoEm": "2026-08-16T21:28:37.539Z",
+    "atualizadoEm": "2026-08-16T21:46:34.631Z",
     "porTime": {
-      "90277": 27.1,
-      "309735": 20.95,
-      "423154": 23.1,
-      "487118": 41.1,
-      "753775": 44.25,
+      "90277": 26.8,
+      "309735": 25.65,
+      "423154": 28.1,
+      "487118": 47.4,
+      "753775": 50.55,
       "1067774": 38.1,
-      "2963331": 47.01,
-      "3250219": 25.07,
+      "2963331": 53.51,
+      "3250219": 31.37,
       "3419812": 54.6,
       "4997197": 28.5,
-      "6742039": 27.65,
-      "13912942": 27.15,
-      "15282074": 42.2,
-      "17382079": 29.45,
-      "25278938": 25.3,
-      "26079439": 41.45,
-      "27772103": 25.35,
+      "6742039": 30.65,
+      "13912942": 36.45,
+      "15282074": 47.2,
+      "17382079": 35.75,
+      "25278938": 28.3,
+      "26079439": 46.45,
+      "27772103": 30.65,
       "47572160": 35.45,
       "47653263": 28.05,
-      "49288650": 34.8
+      "49288650": 39.8
     }
   },
   "pontuacoes": {
@@ -1304,8 +1304,8 @@
           "foraTimeId": 423154,
           "dataPartida": "2026-08-16 18:30:00",
           "valida": true,
-          "placarCasa": null,
-          "placarFora": null,
+          "placarCasa": 0,
+          "placarFora": 0,
           "pontosCasa": null,
           "pontosFora": null,
           "resultado": null
@@ -1317,8 +1317,8 @@
           "foraTimeId": 25278938,
           "dataPartida": "2026-08-16 18:30:00",
           "valida": true,
-          "placarCasa": null,
-          "placarFora": null,
+          "placarCasa": 0,
+          "placarFora": 0,
           "pontosCasa": null,
           "pontosFora": null,
           "resultado": null
