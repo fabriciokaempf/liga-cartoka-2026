@@ -253,29 +253,29 @@
     "rodada": 23,
     "aoVivo": true,
     "rotulo": "Rodada 23 · andamento",
-    "titulo": "Zé Resenha ao vivo: o quarto jogo real entra no contador e os parciais já embaralham tudo",
+    "titulo": "Zé Resenha ao vivo: já são 6 jogos reais rolados e o líder Brocador do Bonja está sendo pressionado pelo novato Baade FC",
     "blocos": [
       {
         "icone": "🏟️",
-        "titulo": "O placar real já é 4 de 10",
-        "texto": "Desde a última passada por aqui, Alemonstro FBPA e Esporte Clube Barão fecharam em 3 a 3 e se juntaram à lista de jogos reais já disputados, ao lado de Gaudérios FC 3 a 2 Urachfc, pietro filho 1 a 1 Madalena Club e Corticeira's Farm FC 1 a 1 Tricolor Lvfc. Ainda faltam seis confrontos rolarem, então relaxa que a festa está só começando."
+        "titulo": "O placar real chegou a 6 de 10",
+        "texto": "Desde a última atualização, rolou o Vasco 0 a 0 Santos, que colocou frente a frente Brocador do Bonja e Baade FC, e o Atlético-MG 1 a 0 Grêmio, entre VIERTRICOLOR e Kidiabense FC. Com isso, seis dos dez confrontos da rodada já têm jogo real rolando ou encerrado, e faltam Kaempfs F.C. x Berwinha FC, SampaMissiones FC x Parizi 01, Mandrackefc x Império da Caipira e HORST BRAUN x Resina Club para fechar a rodada."
       },
       {
         "icone": "🔥",
         "titulo": "Quem está mitando nos parciais",
-        "texto": "SampaMissiones FC dispara na frente com 47,38 pontos, mesmo com o confronto contra o Parizi 01 nem ter começado (lembrete de sempre: quem pontua são os jogadores escalados, não o time da liga). HORST BRAUN também surpreende e aparece logo atrás, com 39,50, apesar de o jogo real do HORST só rolar amanhã."
+        "texto": "SampaMissiones FC segue na frente de todo mundo com 46,41 pontos, mesmo com o confronto contra o Parizi 01 nem ter começado (lembrete de sempre: quem pontua são os jogadores escalados, não o time da liga). Logo atrás vêm Corticeira's Farm FC, com 44,8, e HORST BRAUN, com 43,03, os dois também de olho no próprio jogo real que ainda nem rolou."
       },
       {
-        "icone": "🥶",
-        "titulo": "Quem está apagado por enquanto",
-        "texto": "Urachfc segue como lanterna dos parciais com 11,45 pontos, mesmo depois de perder de virada para o Gaudérios no jogo real. Mandrackefc, com 14,65, também não deslanchou ainda, mas vale repetir: enquanto os titulares escalados não entrarem em campo, o resultado do time na liga pode mudar completamente."
+        "icone": "😬",
+        "titulo": "O líder isolado sendo incomodado pelo novato",
+        "texto": "O assunto mais gostoso do momento é o Brocador do Bonja, líder isolado da tabela geral com 9 pontos, apanhando nos parciais da rodada: são apenas 20,67 pontos, contra 24,1 do Baade FC, o novato que só chegou no returno e não tem currículo nenhum de primeiro turno pra chamar de seu. Se o resultado se confirmar assim, é o time sem passado incomodando o time que mora na ponta."
       },
       {
         "icone": "⚖️",
-        "titulo": "O duelo mais equilibrado e o que ainda vem por aí",
-        "texto": "De olho na igualdade, VIERTRICOLOR e Kidiabense FC brigam pelos parciais com apenas 2,55 pontos de diferença (29,70 a 27,15), num confronto que está prestes a começar. Ainda tem Brocador do Bonja recebendo o Baade FC, Kaempfs F.C. contra Berwinha FC, SampaMissiones FC contra Parizi 01, Mandrackefc contra Império da Caipira e o fechamento de amanhã entre HORST BRAUN e Resina Club. Parcial é parcial: pode virar de ponta a ponta até o apito final."
+        "titulo": "Duelo mais quente e o que ainda falta",
+        "texto": "O confronto mais apertado da rodada agora é esse mesmo, Brocador do Bonja contra Baade FC, com míseros 3,43 pontos de diferença. Também tá pegando fogo o duelo entre Gaudérios FC e Urachfc (22,1 a 15,5) e o de VIERTRICOLOR contra Kidiabense FC (33,7 a 27,15), esse último com a lanterna isolada da tabela geral tentando sair do sufoco depois de três rodadas sem ganhar ponto. Faltam quatro jogos reais pra fechar a rodada, então relaxa que ninguém pode cravar nada ainda."
       }
     ],
-    "geradaEm": "2026-08-16T15:58:00.000Z"
+    "geradaEm": "2026-08-16T20:05:00.000Z"
   }
 ]
