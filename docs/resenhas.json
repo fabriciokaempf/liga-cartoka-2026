@@ -253,29 +253,29 @@
     "rodada": 23,
     "aoVivo": true,
     "rotulo": "Rodada 23 · andamento",
-    "titulo": "Zé Resenha de volta ao ar: terceiro apito bate e SampaMissiones dispara na ponta dos parciais",
+    "titulo": "Zé Resenha confere o placar de novo: quadro parado em 3 jogos, mas o domingo cheio ainda está por vir",
     "blocos": [
       {
-        "icone": "⚽",
-        "titulo": "Terceiro apito já bateu",
-        "texto": "O placar real avançou mais um degrau: Gaudérios FC 3 a 2 Urachfc e pietro filho 1 a 1 Madalena Club já estão fechados, e agora Corticeira's Farm FC 1 a 1 Tricolor Lvfc também entrou em campo. São 3 dos 10 confrontos da rodada com bola rolando, e ainda restam 7, entre eles o duelo de hoje à tarde entre o líder Brocador do Bonja e o Baade FC."
+        "icone": "⏸️",
+        "titulo": "Placar real não mexeu desde a última conferência",
+        "texto": "Segue tudo como na última vez que passei por aqui: Gaudérios FC 3 a 2 Urachfc, pietro filho 1 a 1 Madalena Club e Corticeira's Farm FC 1 a 1 Tricolor Lvfc são os únicos 3 dos 10 confrontos com bola rolando até agora. Os outros 7 ainda estão por vir ao longo do domingo, então relaxa que o grosso da festa nem começou."
       },
       {
         "icone": "🔥",
-        "titulo": "Quem está mitando",
-        "texto": "Na atualização passada eu apontei o HORST BRAUN na ponta dos parciais, e o time segue forte com 32,5 pontos, mas foi ultrapassado: agora quem lidera é o SampaMissiones FC, com 40,85, disparando mesmo sem o próprio confronto ter começado. A Madalena Club também engrena, com 35,45, escoltada pelo Alemonstro FBPA, com 33,05."
+        "titulo": "Quem está mitando nos parciais",
+        "texto": "O SampaMissiones FC segue disparado na ponta dos parciais com 40,85 pontos, e olha que o confronto dele nem rolou ainda. Logo atrás vêm Madalena Club, com 35,45, Alemonstro FBPA, com 33,05, e HORST BRAUN, com 32,5, todos de olho na artilharia da rodada."
       },
       {
         "icone": "🥶",
-        "titulo": "Quem está apagado",
-        "texto": "Do lado de baixo, o pior parcial do momento é o Mandrackefc, com 14,65 pontos. Mas o dado que chama mais atenção é outro: o líder isolado da tabela, Brocador do Bonja, com 9 pontos em três vitórias, segue travado em 16,67 e ainda nem entrou em campo, à espera do confronto de hoje à tarde contra o Baade FC, que já aparece com 21,4."
+        "titulo": "Quem está apagado (e uma correção do Zé)",
+        "texto": "Aqui vai um ajuste de mira: o pior parcial do momento não é o Mandrackefc, com seus 14,65, e sim o Urachfc, com apenas 11,45 pontos, mesmo já tendo fechado o próprio jogo real contra o Gaudérios. O líder isolado da tabela, Brocador do Bonja, com 9 pontos em três vitórias, segue travado em 16,67, esperando o confronto de logo mais contra o Baade FC, que já desponta com 21,4."
       },
       {
-        "icone": "⚔️",
-        "titulo": "Duelo mais quente do momento",
-        "texto": "Justamente o confronto que virou notícia agora, Corticeira's Farm FC contra Tricolor Lvfc, também está com pontuação disputada: 32,2 a 27,65, diferença de 4,55 pontos com o jogo real ainda empatado em 1 a 1. Faltam 7 confrontos para fechar a rodada, então essa pontuação toda ainda pode virar de ponta a cabeça até a última bola rolar, na segunda-feira."
+        "icone": "🗓️",
+        "titulo": "O que ainda vem por aí hoje",
+        "texto": "A tarde e a noite prometem mexer tudo: tem jogo às 11h envolvendo Alemonstro FBPA e Esporte Clube Barão, dobradinha às 16h com Brocador do Bonja recebendo o Baade FC e VIERTRICOLOR encarando o Kidiabense FC, mais uma leva às 18h30 com Kaempfs F.C. contra Berwinha FC e SampaMissiones FC contra Parizi 01, e ainda o duelo das 19h30 entre Mandrackefc e Império da Caipira. A rodada só fecha mesmo na segunda, com HORST BRAUN recebendo o Resina Club. Pontuação parcial é isso: um retrato de agora que pode virar de ponta a cabeça."
       }
     ],
-    "geradaEm": "2026-08-16T04:25:09.000Z"
+    "geradaEm": "2026-08-16T08:26:09.000Z"
   }
 ]
