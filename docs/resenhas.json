@@ -253,29 +253,29 @@
     "rodada": 23,
     "aoVivo": true,
     "rotulo": "Rodada 23 · andamento",
-    "titulo": "Zé Resenha volta ao ar: o placar real ainda travado em 3 jogos, mas o dia só está começando",
+    "titulo": "Zé Resenha ao vivo: o quarto jogo real entra no contador e os parciais já embaralham tudo",
     "blocos": [
       {
-        "icone": "🧊",
-        "titulo": "Conferi de novo e nada mudou",
-        "texto": "Voltei ao microfone e encontrei a rodada exatamente como deixei: Gaudérios FC 3 a 2 Urachfc, pietro filho 1 a 1 Madalena Club e Corticeira's Farm FC 1 a 1 Tricolor Lvfc continuam sendo os únicos 3 dos 10 confrontos com jogo real rolando. Os outros 7 times ainda estão de escalação na mão esperando a estreia."
+        "icone": "🏟️",
+        "titulo": "O placar real já é 4 de 10",
+        "texto": "Desde a última passada por aqui, Alemonstro FBPA e Esporte Clube Barão fecharam em 3 a 3 e se juntaram à lista de jogos reais já disputados, ao lado de Gaudérios FC 3 a 2 Urachfc, pietro filho 1 a 1 Madalena Club e Corticeira's Farm FC 1 a 1 Tricolor Lvfc. Ainda faltam seis confrontos rolarem, então relaxa que a festa está só começando."
       },
       {
         "icone": "🔥",
         "titulo": "Quem está mitando nos parciais",
-        "texto": "SampaMissiones FC segue isolado na ponta com 40,85 pontos, e olha que o confronto dele contra o Parizi 01 nem começou. Madalena Club aparece logo atrás com 35,45, e Alemonstro FBPA, com 33,05, entra em campo contra o Esporte Clube Barão de olho em furar essa fila."
+        "texto": "SampaMissiones FC dispara na frente com 47,38 pontos, mesmo com o confronto contra o Parizi 01 nem ter começado (lembrete de sempre: quem pontua são os jogadores escalados, não o time da liga). HORST BRAUN também surpreende e aparece logo atrás, com 39,50, apesar de o jogo real do HORST só rolar amanhã."
       },
       {
         "icone": "🥶",
-        "titulo": "Quem está no fundo do poço por enquanto",
-        "texto": "Urachfc segue como lanterna dos parciais com 11,45 pontos, mesmo com o jogo real já encerrado contra o Gaudérios. Mandrackefc, com 14,65, e o líder isolado da classificação geral, Brocador do Bonja (9 pontos em 3 vitórias), com 16,67, também seguem travados esperando os titulares entrarem em campo."
+        "titulo": "Quem está apagado por enquanto",
+        "texto": "Urachfc segue como lanterna dos parciais com 11,45 pontos, mesmo depois de perder de virada para o Gaudérios no jogo real. Mandrackefc, com 14,65, também não deslanchou ainda, mas vale repetir: enquanto os titulares escalados não entrarem em campo, o resultado do time na liga pode mudar completamente."
       },
       {
-        "icone": "🗓️",
-        "titulo": "O que ainda falta rolar",
-        "texto": "Tem Alemonstro FBPA contra Esporte Clube Barão, ainda sem pontuação real registrada, além de Brocador do Bonja recebendo o Baade FC e VIERTRICOLOR contra Kidiabense FC mais tarde, Kaempfs F.C. e SampaMissiones FC entrando em campo na sequência, e Mandrackefc encarando o Império da Caipira para fechar o dia. A rodada 23 só fecha mesmo amanhã, com HORST BRAUN recebendo o Resina Club. Até lá, parcial é parcial: retrato de agora, pode virar de cabo a rabo."
+        "icone": "⚖️",
+        "titulo": "O duelo mais equilibrado e o que ainda vem por aí",
+        "texto": "De olho na igualdade, VIERTRICOLOR e Kidiabense FC brigam pelos parciais com apenas 2,55 pontos de diferença (29,70 a 27,15), num confronto que está prestes a começar. Ainda tem Brocador do Bonja recebendo o Baade FC, Kaempfs F.C. contra Berwinha FC, SampaMissiones FC contra Parizi 01, Mandrackefc contra Império da Caipira e o fechamento de amanhã entre HORST BRAUN e Resina Club. Parcial é parcial: pode virar de ponta a ponta até o apito final."
       }
     ],
-    "geradaEm": "2026-08-16T12:26:28.000Z"
+    "geradaEm": "2026-08-16T15:58:00.000Z"
   }
 ]
