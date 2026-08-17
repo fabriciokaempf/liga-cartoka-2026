@@ -253,29 +253,29 @@
     "rodada": 23,
     "aoVivo": true,
     "rotulo": "Rodada 23 · andamento",
-    "titulo": "Zé Resenha ao vivo: reta final da rodada 23, com o novato Baade FC ameaçando derrubar o líder Brocador do Bonja",
+    "titulo": "Zé Resenha ao vivo: rodada 23 travada no 9 a 9, esperando o duelo decisivo desta noite",
     "blocos": [
       {
-        "icone": "🏟️",
-        "titulo": "Falta só um jogo real pra fechar",
-        "texto": "A rodada 23 já tem nove dos dez confrontos com o jogo real encerrado. Só falta Internacional contra Remo, que coloca frente a frente HORST BRAUN e Resina Club e está marcado pra hoje. Vale repetir sempre: quem pontua no Cartola são os jogadores escalados, então mesmo com quase tudo decidido em campo, a pontuação de cada time ainda pode se mexer até o apito final."
+        "icone": "⏳",
+        "titulo": "Ainda faltando só um jogo real",
+        "texto": "Voltei aqui e o placar de jogos reais da rodada 23 não mudou nada desde a última passada: seguem nove dos dez confrontos com a bola já parada. O único que falta é Internacional contra Remo, hoje à noite, às 20h, que no nosso campeonato coloca frente a frente HORST BRAUN e Resina Club. E repito o aviso de sempre: quem pontua no Cartola são os jogadores escalados, então até esse último jogo rolar, qualquer parcial ainda pode se mexer."
       },
       {
         "icone": "😱",
-        "titulo": "Bomba nos parciais: o novato ameaça o líder",
-        "texto": "O assunto da rodada é o Brocador do Bonja, líder isolado da tabela geral com 9 pontos, apanhando feio nos parciais para o Baade FC: são 41,17 a 60,60, quase 20 pontos de diferença. Se o resultado travar assim, o Baade FC, que só chegou no returno e não carrega currículo nenhum do primeiro turno, empata em pontos ganhos com o líder e ainda pode superá-lo no critério de desempate. Novato sem moral incomodando quem mora na ponta, dá gosto de comentar."
+        "titulo": "O novato segue incomodando o líder",
+        "texto": "O Brocador do Bonja chegou nesta rodada com currículo de tabaréu grande: três jogos, três vitórias, líder isolado com 9 pontos ganhos. Só que nos parciais quem está mandando é o Baade FC, novato que só apareceu no returno: 60,60 a 41,17. Se isso travar assim, acaba o 3 a 0 do líder e o novato sem moral vira o nome mais falado da rodada."
       },
       {
         "icone": "🥶",
-        "titulo": "VIERTRICOLOR: mais uma vez sem saída",
-        "texto": "Enquanto isso, a lanterna isolada VIERTRICOLOR, zerado em três rodadas, está sendo goleado nos parciais pelo Kidiabense FC: 38,10 a 66,95, quase 29 pontos de diferença. Se confirmar, é a quarta rodada seguida sem somar ponto na tabela do returno. Já pode ir separando a toalha, porque essa reação está cada vez mais difícil de aparecer."
+        "titulo": "VIERTRICOLOR sem sinal de vida",
+        "texto": "Do outro lado da tabela, o VIERTRICOLOR segue de pires na mão: lanterna isolada, zero ponto ganho em três jogos no returno, e nos parciais desta rodada apanha do Kidiabense FC por 66,95 a 38,10. Confirmando esse placar, é a quarta rodada seguida sem pontuar na tabela geral. Bota o rádio no talo e vai chorando."
       },
       {
         "icone": "⚖️",
-        "titulo": "O duelo mais quente e o resto do pelotão",
-        "texto": "O confronto mais equilibrado agora é Corticeira's Farm FC contra Tricolor Lvfc, só 1,45 ponto de diferença (74,80 a 73,35), distância curta o bastante para virar empate se travar assim. Do lado da goleada, Kaempfs F.C. está mandando 65,50 a 34,70 no Berwinha FC, e o Alemonstro FBPA aplica 68,85 a 48,25 no Esporte Clube Barão. Com um jogo real ainda pra rolar, ninguém pode cravar nada, mas o quadro de sobe e desce já está bem desenhado."
+        "titulo": "Apertado de um lado, goleada do outro",
+        "texto": "O duelo mais equilibrado do momento continua sendo Corticeira's Farm FC contra Tricolor Lvfc, 74,80 a 73,35, uma diferença de menos de 1,5 ponto que pode até virar empate se travar assim. Já o Kaempfs F.C. está passando o rolo no Berwinha FC (65,50 a 34,70) e o Alemonstro FBPA aplica sova no Esporte Clube Barão (68,85 a 48,25). Com o jogo de hoje ainda pendente, ninguém cravado, mas o desenho já está bem claro."
       }
     ],
-    "geradaEm": "2026-08-17T00:20:00.000Z"
+    "geradaEm": "2026-08-17T13:30:00.000Z"
   }
 ]
