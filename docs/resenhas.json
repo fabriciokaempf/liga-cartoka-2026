@@ -253,29 +253,29 @@
     "rodada": 23,
     "aoVivo": true,
     "rotulo": "Rodada 23 · andamento",
-    "titulo": "Zé Resenha ao vivo: parciais congeladas, Baade FC ameaça derrubar o Brocador invicto",
+    "titulo": "Zé Resenha ao vivo: tarde parada, tudo nas mãos do jogo da noite",
     "blocos": [
       {
-        "icone": "🔄",
-        "titulo": "Nada mudou desde a madrugada",
-        "texto": "Voltei aqui pra dar mais uma espiada e o retrato da rodada 23 segue igual ao de cedo: nove dos dez jogos reais já terminaram e as pontuações parciais não se mexeram um centímetro desde a madrugada. Falta só a bola rolar em Internacional e Remo, hoje à noite, que na nossa liga é HORST BRAUN contra Resina Club. Até lá, ninguém garante nada."
+        "icone": "⏸️",
+        "titulo": "Nove no bolso, um pendente",
+        "texto": "Já são nove dos dez jogos reais encerrados e os parciais continuam exatamente iguais aos de mais cedo, sem nenhum ponto novo entrando desde a manhã. Falta só HORST BRAUN receber o Resina Club hoje à noite, lá pelas 20h, pra fechar o quadro real da rodada 23. As pontuações de Cartola ainda podem mudar conforme os mandos forem processados, então ninguém pode cravar nada."
       },
       {
         "icone": "😱",
-        "titulo": "Se travar assim, vira um quarteto lá em cima",
-        "texto": "O Baade FC, novato que só apareceu no returno, está passando o rolo no líder invicto: 60,60 a 41,17 no confronto direto contra o Brocador do Bonja. Se isso não mudar mais, Brocador do Bonja, Baade FC e Império da Caipira (que vence o Mandrackefc nos parciais) terminam a rodada empatados em pontos ganhos, e o Resina Club pode se juntar a esse grupo se aproveitar a vantagem parcial de 63,90 a 51,10 sobre o HORST BRAUN no jogo de hoje à noite. Mesmo empatado, o Brocador seguiria na ponta pelo saldo do turno, que é bem gordo."
+        "titulo": "Baade FC de olho no trono",
+        "texto": "O Baade FC, que nem tinha história no primeiro turno, segue crescendo o rolo em cima do líder invicto Brocador do Bonja nos parciais desta rodada, 60,60 a 41,17. Se esse placar não mexer, Brocador do Bonja, Baade FC e Império da Caipira terminam empatados em pontos ganhos, e o Resina Club entra nessa briga também caso confirme a vantagem parcial sobre o HORST BRAUN à noite. Ainda assim, o saldo do turno do Brocador é gordo o suficiente pra manter ele na ponta mesmo empatado."
       },
       {
         "icone": "🥶",
-        "titulo": "VIERTRICOLOR patinando no fundo do poço",
-        "texto": "Do outro lado da tabela, o VIERTRICOLOR apanha do Kidiabense FC por 66,95 a 38,10 nos parciais. Se confirmar, é a quarta derrota seguida no returno sem somar um pontinho sequer. Time lanterna isolado brigando pra não virar piada oficial da liga."
+        "titulo": "VIERTRICOLOR patinando",
+        "texto": "No fundo do poço, o VIERTRICOLOR segue apanhando do Kidiabense FC por 66,95 a 38,10 nos parciais. Se isso não virar, é mais uma rodada sem somar pontos ganhos no returno para o time, que vai se cacifando pra ser o assunto do fundo de tabela."
       },
       {
         "icone": "⏳",
-        "titulo": "Tudo se resolve à noite",
-        "texto": "Enquanto o jogo de HORST BRAUN contra Resina Club não acontece, o desenho de cima da tabela ainda pode mudar bastante, já que são justamente esses dois times que estão de olho no pelotão da frente. Fora isso, o resto da rodada 23 já é praticamente carne assada: Corticeira's Farm FC e Tricolor Lvfc seguem no empate técnico (74,80 a 73,35), Kaempfs F.C. já deu show em cima do Berwinha FC e o Alemonstro FBPA aplicou sova no Esporte Clube Barão."
+        "titulo": "Tudo se decide à noite",
+        "texto": "O restante da rodada já está bem encaminhado: Corticeira's Farm FC e Tricolor Lvfc seguem grudados no empate técnico, Kaempfs F.C. está confortável em cima do Berwinha FC e o Alemonstro FBPA segue na frente do Esporte Clube Barão. Mas o desenho de cima da tabela só fecha de verdade depois da bola rolar entre HORST BRAUN e Resina Club esta noite."
       }
     ],
-    "geradaEm": "2026-08-17T12:29:00.000Z"
+    "geradaEm": "2026-08-17T18:25:00Z"
   }
 ]
