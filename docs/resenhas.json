@@ -253,29 +253,29 @@
     "rodada": 23,
     "aoVivo": true,
     "rotulo": "Rodada 23 · andamento",
-    "titulo": "Zé Resenha ao vivo: rodada 23 travada no 9 a 9, esperando o duelo decisivo desta noite",
+    "titulo": "Zé Resenha ao vivo: parciais congeladas, Baade FC ameaça derrubar o Brocador invicto",
     "blocos": [
       {
-        "icone": "⏳",
-        "titulo": "Ainda faltando só um jogo real",
-        "texto": "Voltei aqui e o placar de jogos reais da rodada 23 não mudou nada desde a última passada: seguem nove dos dez confrontos com a bola já parada. O único que falta é Internacional contra Remo, hoje à noite, às 20h, que no nosso campeonato coloca frente a frente HORST BRAUN e Resina Club. E repito o aviso de sempre: quem pontua no Cartola são os jogadores escalados, então até esse último jogo rolar, qualquer parcial ainda pode se mexer."
+        "icone": "🔄",
+        "titulo": "Nada mudou desde a madrugada",
+        "texto": "Voltei aqui pra dar mais uma espiada e o retrato da rodada 23 segue igual ao de cedo: nove dos dez jogos reais já terminaram e as pontuações parciais não se mexeram um centímetro desde a madrugada. Falta só a bola rolar em Internacional e Remo, hoje à noite, que na nossa liga é HORST BRAUN contra Resina Club. Até lá, ninguém garante nada."
       },
       {
         "icone": "😱",
-        "titulo": "O novato segue incomodando o líder",
-        "texto": "O Brocador do Bonja chegou nesta rodada com currículo de tabaréu grande: três jogos, três vitórias, líder isolado com 9 pontos ganhos. Só que nos parciais quem está mandando é o Baade FC, novato que só apareceu no returno: 60,60 a 41,17. Se isso travar assim, acaba o 3 a 0 do líder e o novato sem moral vira o nome mais falado da rodada."
+        "titulo": "Se travar assim, vira um quarteto lá em cima",
+        "texto": "O Baade FC, novato que só apareceu no returno, está passando o rolo no líder invicto: 60,60 a 41,17 no confronto direto contra o Brocador do Bonja. Se isso não mudar mais, Brocador do Bonja, Baade FC e Império da Caipira (que vence o Mandrackefc nos parciais) terminam a rodada empatados em pontos ganhos, e o Resina Club pode se juntar a esse grupo se aproveitar a vantagem parcial de 63,90 a 51,10 sobre o HORST BRAUN no jogo de hoje à noite. Mesmo empatado, o Brocador seguiria na ponta pelo saldo do turno, que é bem gordo."
       },
       {
         "icone": "🥶",
-        "titulo": "VIERTRICOLOR sem sinal de vida",
-        "texto": "Do outro lado da tabela, o VIERTRICOLOR segue de pires na mão: lanterna isolada, zero ponto ganho em três jogos no returno, e nos parciais desta rodada apanha do Kidiabense FC por 66,95 a 38,10. Confirmando esse placar, é a quarta rodada seguida sem pontuar na tabela geral. Bota o rádio no talo e vai chorando."
+        "titulo": "VIERTRICOLOR patinando no fundo do poço",
+        "texto": "Do outro lado da tabela, o VIERTRICOLOR apanha do Kidiabense FC por 66,95 a 38,10 nos parciais. Se confirmar, é a quarta derrota seguida no returno sem somar um pontinho sequer. Time lanterna isolado brigando pra não virar piada oficial da liga."
       },
       {
-        "icone": "⚖️",
-        "titulo": "Apertado de um lado, goleada do outro",
-        "texto": "O duelo mais equilibrado do momento continua sendo Corticeira's Farm FC contra Tricolor Lvfc, 74,80 a 73,35, uma diferença de menos de 1,5 ponto que pode até virar empate se travar assim. Já o Kaempfs F.C. está passando o rolo no Berwinha FC (65,50 a 34,70) e o Alemonstro FBPA aplica sova no Esporte Clube Barão (68,85 a 48,25). Com o jogo de hoje ainda pendente, ninguém cravado, mas o desenho já está bem claro."
+        "icone": "⏳",
+        "titulo": "Tudo se resolve à noite",
+        "texto": "Enquanto o jogo de HORST BRAUN contra Resina Club não acontece, o desenho de cima da tabela ainda pode mudar bastante, já que são justamente esses dois times que estão de olho no pelotão da frente. Fora isso, o resto da rodada 23 já é praticamente carne assada: Corticeira's Farm FC e Tricolor Lvfc seguem no empate técnico (74,80 a 73,35), Kaempfs F.C. já deu show em cima do Berwinha FC e o Alemonstro FBPA aplicou sova no Esporte Clube Barão."
       }
     ],
-    "geradaEm": "2026-08-17T13:30:00.000Z"
+    "geradaEm": "2026-08-17T12:29:00.000Z"
   }
 ]
