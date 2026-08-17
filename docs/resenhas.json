@@ -253,29 +253,29 @@
     "rodada": 23,
     "aoVivo": true,
     "rotulo": "Rodada 23 · andamento",
-    "titulo": "Zé Resenha ao vivo: já são 6 jogos reais rolados e o líder Brocador do Bonja está sendo pressionado pelo novato Baade FC",
+    "titulo": "Zé Resenha ao vivo: reta final da rodada 23, com o novato Baade FC ameaçando derrubar o líder Brocador do Bonja",
     "blocos": [
       {
         "icone": "🏟️",
-        "titulo": "O placar real chegou a 6 de 10",
-        "texto": "Desde a última atualização, rolou o Vasco 0 a 0 Santos, que colocou frente a frente Brocador do Bonja e Baade FC, e o Atlético-MG 1 a 0 Grêmio, entre VIERTRICOLOR e Kidiabense FC. Com isso, seis dos dez confrontos da rodada já têm jogo real rolando ou encerrado, e faltam Kaempfs F.C. x Berwinha FC, SampaMissiones FC x Parizi 01, Mandrackefc x Império da Caipira e HORST BRAUN x Resina Club para fechar a rodada."
+        "titulo": "Falta só um jogo real pra fechar",
+        "texto": "A rodada 23 já tem nove dos dez confrontos com o jogo real encerrado. Só falta Internacional contra Remo, que coloca frente a frente HORST BRAUN e Resina Club e está marcado pra hoje. Vale repetir sempre: quem pontua no Cartola são os jogadores escalados, então mesmo com quase tudo decidido em campo, a pontuação de cada time ainda pode se mexer até o apito final."
       },
       {
-        "icone": "🔥",
-        "titulo": "Quem está mitando nos parciais",
-        "texto": "SampaMissiones FC segue na frente de todo mundo com 46,41 pontos, mesmo com o confronto contra o Parizi 01 nem ter começado (lembrete de sempre: quem pontua são os jogadores escalados, não o time da liga). Logo atrás vêm Corticeira's Farm FC, com 44,8, e HORST BRAUN, com 43,03, os dois também de olho no próprio jogo real que ainda nem rolou."
+        "icone": "😱",
+        "titulo": "Bomba nos parciais: o novato ameaça o líder",
+        "texto": "O assunto da rodada é o Brocador do Bonja, líder isolado da tabela geral com 9 pontos, apanhando feio nos parciais para o Baade FC: são 41,17 a 60,60, quase 20 pontos de diferença. Se o resultado travar assim, o Baade FC, que só chegou no returno e não carrega currículo nenhum do primeiro turno, empata em pontos ganhos com o líder e ainda pode superá-lo no critério de desempate. Novato sem moral incomodando quem mora na ponta, dá gosto de comentar."
       },
       {
-        "icone": "😬",
-        "titulo": "O líder isolado sendo incomodado pelo novato",
-        "texto": "O assunto mais gostoso do momento é o Brocador do Bonja, líder isolado da tabela geral com 9 pontos, apanhando nos parciais da rodada: são apenas 20,67 pontos, contra 24,1 do Baade FC, o novato que só chegou no returno e não tem currículo nenhum de primeiro turno pra chamar de seu. Se o resultado se confirmar assim, é o time sem passado incomodando o time que mora na ponta."
+        "icone": "🥶",
+        "titulo": "VIERTRICOLOR: mais uma vez sem saída",
+        "texto": "Enquanto isso, a lanterna isolada VIERTRICOLOR, zerado em três rodadas, está sendo goleado nos parciais pelo Kidiabense FC: 38,10 a 66,95, quase 29 pontos de diferença. Se confirmar, é a quarta rodada seguida sem somar ponto na tabela do returno. Já pode ir separando a toalha, porque essa reação está cada vez mais difícil de aparecer."
       },
       {
         "icone": "⚖️",
-        "titulo": "Duelo mais quente e o que ainda falta",
-        "texto": "O confronto mais apertado da rodada agora é esse mesmo, Brocador do Bonja contra Baade FC, com míseros 3,43 pontos de diferença. Também tá pegando fogo o duelo entre Gaudérios FC e Urachfc (22,1 a 15,5) e o de VIERTRICOLOR contra Kidiabense FC (33,7 a 27,15), esse último com a lanterna isolada da tabela geral tentando sair do sufoco depois de três rodadas sem ganhar ponto. Faltam quatro jogos reais pra fechar a rodada, então relaxa que ninguém pode cravar nada ainda."
+        "titulo": "O duelo mais quente e o resto do pelotão",
+        "texto": "O confronto mais equilibrado agora é Corticeira's Farm FC contra Tricolor Lvfc, só 1,45 ponto de diferença (74,80 a 73,35), distância curta o bastante para virar empate se travar assim. Do lado da goleada, Kaempfs F.C. está mandando 65,50 a 34,70 no Berwinha FC, e o Alemonstro FBPA aplica 68,85 a 48,25 no Esporte Clube Barão. Com um jogo real ainda pra rolar, ninguém pode cravar nada, mas o quadro de sobe e desce já está bem desenhado."
       }
     ],
-    "geradaEm": "2026-08-16T20:05:00.000Z"
+    "geradaEm": "2026-08-17T00:20:00.000Z"
   }
 ]
