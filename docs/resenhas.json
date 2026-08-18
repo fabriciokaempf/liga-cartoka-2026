@@ -280,5 +280,35 @@
       }
     ],
     "geradaEm": "2026-08-18T16:17:44Z"
+  },
+  {
+    "id": "andamento-rodada-24",
+    "rodada": 24,
+    "aoVivo": true,
+    "rotulo": "Rodada 24 · andamento",
+    "titulo": "Zé Resenha liga o sinal amarelo: a rodada 24 ainda nem rolou e já tem climão",
+    "blocos": [
+      {
+        "icone": "🚦",
+        "titulo": "Sinal amarelo ligado",
+        "texto": "A rodada 24 ainda não rolou nem um minuto: dos 10 confrontos, nenhum jogo real começou até agora, então relaxa que ninguém está fazendo feio, só ainda não entrou em campo. Os primeiros duelos só acontecem neste fim de semana. Pontuação zerada em geral por enquanto: hora de especular, não de tirar satisfação de ninguém."
+      },
+      {
+        "icone": "👑",
+        "titulo": "O novato desafia o ex-rei",
+        "texto": "O destaque da rodada é Baade FC recebendo Kaempfs F.C.: de um lado o novato que só chegou no returno e nem tem passado de primeiro turno para chamar de seu, hoje na 3ª posição com 9 pontos; do outro, o Kaempfs, campeão do primeiro turno com aqueles 35 pontos e a virada de 1,9 no PG turno sobre o Brocador do Bonja, mas que no returno vive dias mais modestos na 8ª colocação com 6 pontos. Bom teste para ver se coroa velha ainda pesa alguma coisa."
+      },
+      {
+        "icone": "🩹",
+        "titulo": "Brocador tenta virar a página",
+        "texto": "Depois do tombo de 46,77 pontos que derrubou a coroa que eu mesmo tinha colocado nele na rodada passada, o Brocador do Bonja visita o Urachfc, justamente aquele que abriu o returno goleando geral na rodada 20 e hoje amarga a 17ª posição com só 3 pontos. Outro duelo de reputações em jogo: Corticeira's Farm FC, dono da melhor pontuação da rodada 23, visita o Alemonstro FBPA, que briga no meio da tabela com 6 pontos. Duas provas de fogo para dois candidatos ao título do returno."
+      },
+      {
+        "icone": "🆘",
+        "titulo": "Duelo dos aflitos e o palpite do Zé",
+        "texto": "Fecha a rodada com o olheiro ligado o duelo HORST BRAUN contra VIERTRICOLOR: o time que estreou com a pior pontuação do returno na rodada 20 encara justamente quem hoje é lanterna isolada da tabela, zerado depois de quatro rodadas. Palpite do Zé para o fim de semana: alguém do pelotão de cima tropeça, o Baade FC segue provando que novato também pode ser cabeça de chave, e o VIERTRICOLOR precisa vencer ou vira sinônimo de lanterna pelo returno inteiro. Bola vai rolar, guarda esse papo para conferir depois!"
+      }
+    ],
+    "geradaEm": "2026-08-18T15:15:00.000Z"
   }
 ]
