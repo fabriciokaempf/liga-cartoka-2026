@@ -253,29 +253,29 @@
     "rodada": 23,
     "aoVivo": true,
     "rotulo": "Rodada 23 · andamento",
-    "titulo": "Zé Resenha ao vivo: Baade derruba o líder, ponta vira samba de cinco na Cartoka",
+    "titulo": "Zé Resenha ao vivo: samba de cinco na ponta continua, e surge novo dono do vexame",
     "blocos": [
       {
-        "icone": "🔟",
-        "titulo": "Os dez jogos já rolaram",
-        "texto": "A rodada 23 fechou o capítulo dos jogos reais: os dez confrontos já tiveram bola rolando em campo, incluindo o duelo HORST BRAUN contra Resina Club que encerrou ontem à noite. As pontuações de Cartola seguem oficialmente parciais e ainda podem se mexer até o fechamento, mas o retrato de agora já dá um baita assunto pra resenha."
+        "icone": "🔄",
+        "titulo": "Retrato atualizado, mesma novela",
+        "texto": "Os dez jogos reais da rodada 23 seguem encerrados desde ontem, mas as pontuações de Cartola continuam mexendo pra cima e pra baixo até o fechamento oficial. A boa notícia pra quem gosta de treta: o desenho de cinco líderes empatados que eu contei na cobertura anterior segue de pé, só trocou uns números de lugar."
       },
       {
-        "icone": "😱",
-        "titulo": "Baade derruba o líder invicto",
-        "texto": "Eu avisei mais cedo que o Baade FC, aquele novato sem currículo nenhum de primeiro turno, estava crescendo o rolo em cima do Brocador do Bonja. Pois o troço só piorou pro líder: agora o placar parcial está em 72,31 a 47,07 pro Baade. Se isso aguentar até o fechamento, o Brocador perde a invencibilidade da rodada, mas segue com os mesmos 9 pontos ganhos, só que dividindo a ponta com outros times."
-      },
-      {
-        "icone": "📊",
-        "titulo": "Se acabasse agora, ponta vira samba de cinco",
-        "texto": "Corticeira's Farm FC, Império da Caipira e Resina Club também estão vencendo seus jogos nos parciais e alcançariam os 9 pontos do Brocador, formando um pelotão de cinco times empatados na liderança. No desempate por PG turno, quem passaria na frente seria justamente o Império da Caipira, com o Brocador, paradoxalmente, caindo pro último lugar dentro do próprio grupo de líderes."
+        "icone": "😅",
+        "titulo": "Baade segue cutucando o líder",
+        "texto": "No duelo direto da rodada, o Baade FC ampliou a vantagem sobre o Brocador do Bonja, agora 70,47 a 45,87 nos parciais. Se travar assim, o Brocador não perde ponto ganho nenhum, mas cai pro fim da fila entre os cinco empatados em 9, porque no desempate por PG turno quem segue passando na frente é o Império da Caipira."
       },
       {
         "icone": "🥶",
-        "titulo": "VIERTRICOLOR ainda no fundo, Berwinha com a pontuação mais murcha",
-        "texto": "O VIERTRICOLOR, lanterna isolada com 0 ponto ganho no returno, melhorou a pontuação em relação à cobertura anterior mas segue perdendo pro Kidiabense FC nos parciais, 65,61 a 72,85, e deve seguir zerado. Já quem está com a pontuação mais murcha da rodada até aqui é o Berwinha FC, com 46,41 parciais contra o Kaempfs F.C., tranquilo em 77,21. Nada está cravado enquanto o fechamento oficial não sair, mas o desenho já está bem desenhado."
+        "titulo": "Tem novo dono do vexame",
+        "texto": "A pior pontuação da rodada trocou de time: agora é a Madalena Club que ocupa a lanterna dos parciais, com 42,85 contra o pietro filho, tranquilo em 58,55. O Berwinha FC, que segurava essa vaga na cobertura anterior, ainda não tem motivo pra comemorar, seguindo atrás do Kaempfs F.C. por 44,57 a 73,07."
+      },
+      {
+        "icone": "🔥",
+        "titulo": "Duelo mais apertado mudou de endereço",
+        "texto": "O jogo mais equilibrado até aqui não é mais o do líder: virou Parizi 01 contra SampaMissiones FC, com apenas 3,46 pontos separando os dois, 60,77 a 57,31. E lá no fundo do poço, o VIERTRICOLOR segue sem ponto ganho no returno, perdendo para o Kidiabense FC por 71,65 a 60,87 nos parciais."
       }
     ],
-    "geradaEm": "2026-08-18T00:15:00Z"
+    "geradaEm": "2026-08-18T02:50:00Z"
   }
 ]
