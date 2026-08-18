@@ -44,6 +44,16 @@ Modo de validação (roda o motor sobre outro intervalo de rodadas e confere as 
 node scripts/update.js --simular 1 19 --saida simulacao.json
 ```
 
+## Gerar imagem de uma resenha para compartilhar
+
+O script abaixo transforma qualquer resenha do Zé em um card vertical (1080px) pronto para mandar no WhatsApp:
+
+```bash
+python scripts/gerar-imagem-resenha.py <id-da-resenha> <arquivo.png> <data-exibida>
+```
+
+Exemplo: `python scripts/gerar-imagem-resenha.py rodada-23 rodada-23.png 18/08/2026`. Os ids ficam em `docs/resenhas.json` e as imagens saem na pasta `imagens/`, que não vai para o repositório. Precisa do Pillow instalado (`pip install pillow`).
+
 ## Estrutura
 
 | Arquivo | Papel |
