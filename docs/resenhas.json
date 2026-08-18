@@ -253,29 +253,29 @@
     "rodada": 23,
     "aoVivo": true,
     "rotulo": "Rodada 23 · andamento",
-    "titulo": "Zé Resenha ao vivo: os dez jogos acabaram, o placar travou, e quem manda agora é a calculadora do desempate",
+    "titulo": "Zé Resenha ao vivo: dia seguinte, mesma foto, o Cartola ainda não bateu o martelo da rodada 23",
     "blocos": [
       {
-        "icone": "⏸️",
-        "titulo": "Pontuação congelada, suspense mantido",
-        "texto": "Os dez jogos reais da rodada 23 estão encerrados desde o fim de semana, e nas últimas horas os parciais nem se mexeram: seguem exatamente como na minha cobertura anterior. A rodada só vira oficial quando o Cartola fechar de vez a pontuação, então por enquanto ninguém ganhou nem perdeu nada. Mas já dá pra fazer a conta de boteco de como fica a tabela se travar assim."
+        "icone": "🥶",
+        "titulo": "Congelou de vez",
+        "texto": "Já é terça-feira, os dez jogos reais da rodada terminaram lá atrás, no fim de semana, e a pontuação oficial simplesmente não sai. Voltei a conferir agora e os parciais estão idênticos aos da minha última passagem pelo microfone, número por número. Enquanto o Cartola não fecha a conta, aqui ninguém ganhou, ninguém perdeu, e a resenha segue no modo suspense."
       },
       {
         "icone": "🏆",
         "titulo": "Cinco empatados, só a calculadora desempata",
-        "texto": "Se a rodada acabasse com esses números, cinco times fechariam com 9 pontos: Império da Caipira, Corticeira's Farm FC, Baade FC, Resina Club e Brocador do Bonja. O Brocador, que é líder isolado desde a rodada 22, cairia pro quinto lugar do grupo no desempate por PG turno, e quem assumiria a ponta seria o Império da Caipira. Ninguém falou que ia ser fácil segurar a cadeira."
+        "texto": "Se travar exatamente como está, cinco times fecham a rodada com 9 pontos: Império da Caipira, Corticeira's Farm FC, Baade FC, Resina Club e Brocador do Bonja. O Brocador, líder isolado desde a rodada 22, cairia pro quinto lugar do grupo no desempate por PG turno, e quem assumiria a ponta seria o Império da Caipira. Cadeira de líder balançando há dias sem ninguém sentar de vez nela."
       },
       {
         "icone": "🚀",
         "titulo": "Quem está mitando e quem está no chinelo",
-        "texto": "Nos parciais, o Corticeira's Farm FC segue com a melhor pontuação da rodada, 83,87, embalado numa exibição gigante. Do lado ruim, a Madalena Club amarga a pior marca, 42,85, perdendo pro pietro filho, tranquilo com 58,55. E o Kaempfs F.C. está deixando a água esquentar em cima do Berwinha FC, 73,07 a 44,57: se travar assim, é banho frio pro Berwinha."
+        "texto": "Nos parciais, o Corticeira's Farm FC segue disparado com a melhor pontuação da rodada, 83,87, sem ninguém chegando perto. Do lado ruim, a Madalena Club segue amargando a pior marca, 42,85, perdendo pro pietro filho, tranquilo com 58,55. E o Kaempfs F.C. continua deixando a água esquentar em cima do Berwinha FC, 73,07 a 44,57: se travar assim, é banho frio pro Berwinha."
       },
       {
         "icone": "⏳",
         "titulo": "O que ainda pode virar",
-        "texto": "O duelo mais grudado do momento é Parizi 01 contra SampaMissiones FC, só 3,46 pontos de diferença, 60,77 a 57,31, dando pra virar até dormindo. E o VIERTRICOLOR segue sem vencer no returno, perdendo pro Kidiabense FC por 71,65 a 60,87 nos parciais: se isso não mudar, mantém os 0 pontos ganhos em quatro rodadas. Até a pontuação virar oficial, guardem essa foto com moderação."
+        "texto": "O duelo mais grudado do momento continua sendo Parizi 01 contra SampaMissiones FC, só 3,46 pontos de diferença, 60,77 a 57,31, dando pra virar até tomando banho. E o VIERTRICOLOR segue sem vencer no returno, perdendo pro Kidiabense FC por 71,65 a 60,87 nos parciais: se isso não mudar, mantém os 0 pontos ganhos em quatro rodadas. Assim que a pontuação virar oficial, o Zé volta correndo pra fechar a rodada de vez."
       }
     ],
-    "geradaEm": "2026-08-18T08:35:00Z"
+    "geradaEm": "2026-08-18T12:27:24Z"
   }
 ]
