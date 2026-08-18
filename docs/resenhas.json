@@ -253,29 +253,29 @@
     "rodada": 23,
     "aoVivo": true,
     "rotulo": "Rodada 23 · andamento",
-    "titulo": "Zé Resenha ao vivo: tarde parada, tudo nas mãos do jogo da noite",
+    "titulo": "Zé Resenha ao vivo: Baade derruba o líder, ponta vira samba de cinco na Cartoka",
     "blocos": [
       {
-        "icone": "⏸️",
-        "titulo": "Nove no bolso, um pendente",
-        "texto": "Já são nove dos dez jogos reais encerrados e os parciais continuam exatamente iguais aos de mais cedo, sem nenhum ponto novo entrando desde a manhã. Falta só HORST BRAUN receber o Resina Club hoje à noite, lá pelas 20h, pra fechar o quadro real da rodada 23. As pontuações de Cartola ainda podem mudar conforme os mandos forem processados, então ninguém pode cravar nada."
+        "icone": "🔟",
+        "titulo": "Os dez jogos já rolaram",
+        "texto": "A rodada 23 fechou o capítulo dos jogos reais: os dez confrontos já tiveram bola rolando em campo, incluindo o duelo HORST BRAUN contra Resina Club que encerrou ontem à noite. As pontuações de Cartola seguem oficialmente parciais e ainda podem se mexer até o fechamento, mas o retrato de agora já dá um baita assunto pra resenha."
       },
       {
         "icone": "😱",
-        "titulo": "Baade FC de olho no trono",
-        "texto": "O Baade FC, que nem tinha história no primeiro turno, segue crescendo o rolo em cima do líder invicto Brocador do Bonja nos parciais desta rodada, 60,60 a 41,17. Se esse placar não mexer, Brocador do Bonja, Baade FC e Império da Caipira terminam empatados em pontos ganhos, e o Resina Club entra nessa briga também caso confirme a vantagem parcial sobre o HORST BRAUN à noite. Ainda assim, o saldo do turno do Brocador é gordo o suficiente pra manter ele na ponta mesmo empatado."
+        "titulo": "Baade derruba o líder invicto",
+        "texto": "Eu avisei mais cedo que o Baade FC, aquele novato sem currículo nenhum de primeiro turno, estava crescendo o rolo em cima do Brocador do Bonja. Pois o troço só piorou pro líder: agora o placar parcial está em 72,31 a 47,07 pro Baade. Se isso aguentar até o fechamento, o Brocador perde a invencibilidade da rodada, mas segue com os mesmos 9 pontos ganhos, só que dividindo a ponta com outros times."
+      },
+      {
+        "icone": "📊",
+        "titulo": "Se acabasse agora, ponta vira samba de cinco",
+        "texto": "Corticeira's Farm FC, Império da Caipira e Resina Club também estão vencendo seus jogos nos parciais e alcançariam os 9 pontos do Brocador, formando um pelotão de cinco times empatados na liderança. No desempate por PG turno, quem passaria na frente seria justamente o Império da Caipira, com o Brocador, paradoxalmente, caindo pro último lugar dentro do próprio grupo de líderes."
       },
       {
         "icone": "🥶",
-        "titulo": "VIERTRICOLOR patinando",
-        "texto": "No fundo do poço, o VIERTRICOLOR segue apanhando do Kidiabense FC por 66,95 a 38,10 nos parciais. Se isso não virar, é mais uma rodada sem somar pontos ganhos no returno para o time, que vai se cacifando pra ser o assunto do fundo de tabela."
-      },
-      {
-        "icone": "⏳",
-        "titulo": "Tudo se decide à noite",
-        "texto": "O restante da rodada já está bem encaminhado: Corticeira's Farm FC e Tricolor Lvfc seguem grudados no empate técnico, Kaempfs F.C. está confortável em cima do Berwinha FC e o Alemonstro FBPA segue na frente do Esporte Clube Barão. Mas o desenho de cima da tabela só fecha de verdade depois da bola rolar entre HORST BRAUN e Resina Club esta noite."
+        "titulo": "VIERTRICOLOR ainda no fundo, Berwinha com a pontuação mais murcha",
+        "texto": "O VIERTRICOLOR, lanterna isolada com 0 ponto ganho no returno, melhorou a pontuação em relação à cobertura anterior mas segue perdendo pro Kidiabense FC nos parciais, 65,61 a 72,85, e deve seguir zerado. Já quem está com a pontuação mais murcha da rodada até aqui é o Berwinha FC, com 46,41 parciais contra o Kaempfs F.C., tranquilo em 77,21. Nada está cravado enquanto o fechamento oficial não sair, mas o desenho já está bem desenhado."
       }
     ],
-    "geradaEm": "2026-08-17T18:25:00Z"
+    "geradaEm": "2026-08-18T00:15:00Z"
   }
 ]
