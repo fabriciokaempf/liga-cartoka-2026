@@ -406,10 +406,15 @@ async function principal() {
   // partir da rodada informada em pagoEmRodada, mas nao recupera o que
   // ja perdeu. Quem quitou dentro do prazo nunca entra nessa conta.
   const regraPenalidade = config.liga.penalidade || null;
+  // Times dispensados do desconto de pontos por decisao da organizacao.
+  // A marca fica so no config, nunca vai para o data.json publico.
+  const semPenalidade = new Set(
+    config.jogadores.filter((j) => j.semPenalidade === true).map((j) => j.timeId)
+  );
   const penalidadePorTime = new Map();
   for (const jogador of jogadores) {
     let rodadasPendente = 0;
-    if (regraPenalidade && regraPenalidade.rodadaInicioDesconto) {
+    if (regraPenalidade && regraPenalidade.rodadaInicioDesconto && !semPenalidade.has(jogador.timeId)) {
       for (const r of numerosRodadasFechadas) {
         if (r < regraPenalidade.rodadaInicioDesconto) continue;
         const pendenteNaRodada = !jogador.pago ||

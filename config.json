@@ -10,7 +10,7 @@
     "empateLimite": 2,
     "inscricao": 100,
     "prazoPagamento": "2026-08-10",
-    "premios": [750, 550, 300, 200, 100],
+    "premios": [710, 520, 285, 190, 95],
     "penalidade": {
       "multaAtraso": 20,
       "rodadaLimiteMulta": 23,
@@ -29,7 +29,7 @@
     { "timeId": 25278938, "nome": "Parizi 01", "clubeSlug": "botafogo", "clubeNome": "Botafogo", "pago": true },
     { "timeId": 309735, "nome": "Urachfc", "clubeSlug": "palmeiras", "clubeNome": "Palmeiras", "pago": true },
     { "timeId": 1067774, "nome": "VIERTRICOLOR", "clubeSlug": "atletico-mg", "clubeNome": "Atlético-MG", "pago": true },
-    { "timeId": 2963331, "nome": "SampaMissiones FC", "clubeSlug": "vitoria", "clubeNome": "Vitória", "pago": false },
+    { "timeId": 2963331, "nome": "SampaMissiones FC", "clubeSlug": "vitoria", "clubeNome": "Vitória", "pago": false, "semPenalidade": true },
     { "timeId": 27772103, "nome": "Mandrackefc", "clubeSlug": "corinthians", "clubeNome": "Corinthians", "pago": true },
     { "timeId": 6742039, "nome": "Tricolor Lvfc", "clubeSlug": "coritiba", "clubeNome": "Coritiba", "pago": true },
     { "timeId": 3419812, "nome": "Corticeira's Farm FC", "clubeSlug": "sao-paulo", "clubeNome": "São Paulo", "pago": true },

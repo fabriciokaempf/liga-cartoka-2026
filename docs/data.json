@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-18T15:06:25.677Z",
+  "geradoEm": "2026-08-18T17:18:02.998Z",
   "temporada": 2026,
   "liga": {
     "nome": "Liga Cartoka de pontos corridos 2026",
@@ -14,11 +14,11 @@
       "semPremioSePendente": true
     },
     "premios": [
-      750,
-      550,
-      300,
-      200,
-      100
+      710,
+      520,
+      285,
+      190,
+      95
     ],
     "pontosVitoria": 3,
     "pontosEmpate": 1,
