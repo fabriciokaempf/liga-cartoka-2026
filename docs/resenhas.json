@@ -310,5 +310,39 @@
       }
     ],
     "geradaEm": "2026-08-18T15:15:00.000Z"
+  },
+  {
+    "id": "especial-balanco-inscricoes",
+    "rodada": null,
+    "rotulo": "Balanço das inscrições",
+    "titulo": "Tesoureiro dormiu feliz (quase)",
+    "blocos": [
+      {
+        "icone": "💸",
+        "titulo": "19 de 20 na súmula",
+        "texto": "A tesouraria fechou o boletim e o placar é de encher os olhos: 19 dos 20 times em dia com os R$ 100. No dia 10 a liga acordou com só 11 pagos e terminou o expediente com 19, um mutirão digno de reta final de janela. Chapéu para a turma que resolveu no apito, sem enrolar o juiz."
+      },
+      {
+        "icone": "⏰",
+        "titulo": "Falta 1 (e o VAR já marcou)",
+        "texto": "Sobrou um solitário na lista da tesouraria, e não vou dar nome porque aqui a gente cobra a situação, não a pessoa. Como o prazo venceu, a multa de R$ 20 já entrou em campo e a inscrição virou R$ 120. A janela para quitar sem perder ponto ia até o fim da rodada 23, e essa janela já fechou."
+      },
+      {
+        "icone": "📉",
+        "titulo": "A partir da 24 dói na tabela",
+        "texto": "Da rodada 24 em diante, que já está rolando, é 1 ponto a menos na tabela a cada rodada disputada enquanto a pendência existir. O desconto para no instante em que o pagamento cair, mas os pontos que foram embora não voltam nem com recurso no tribunal. E quem terminar o returno devendo fica de fora da premiação: o dinheiro escorrega para o próximo colocado que estiver em dia."
+      },
+      {
+        "icone": "🔥",
+        "titulo": "Justo agora que embolou",
+        "texto": "A rodada 23 fechou com cinco times empatados em 9 pontos: Império da Caipira na frente pelo desempate de PG do turno, seguido de Corticeira's Farm FC, Baade FC, Resina Club e Brocador do Bonja. Numa briga desse tamanho, perder 1 ponto por rodada não é arranhão, é cartão vermelho. Com R$ 750, R$ 550, R$ 300, R$ 200 e R$ 100 na mesa, cada ponto vale dinheiro de verdade."
+      },
+      {
+        "icone": "🏁",
+        "titulo": "Resenha encerrada",
+        "texto": "Parabéns aos 19 que resolveram e deixaram a liga rodando redonda. Para o último da fila, o recado é curto: quanto antes o apito da tesouraria soar, menos ponto fica no caminho. Bola em campo e boa rodada 24 para todo mundo."
+      }
+    ],
+    "geradaEm": "2026-08-18T16:46:06.578384Z"
   }
 ]
