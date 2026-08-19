@@ -320,29 +320,29 @@
     "rodada": 24,
     "aoVivo": true,
     "rotulo": "Rodada 24 · andamento",
-    "titulo": "Zé Resenha de plantão: rodada 24 ainda não rolou, mas o clima já esquenta",
+    "titulo": "Zé Resenha de plantão: com a bola ainda parada, é hora de olhar quem trocou de papel do 1º turno pra cá",
     "blocos": [
       {
         "icone": "⏳",
-        "titulo": "Contagem regressiva",
-        "texto": "Mais um dia se passou e o mercado da rodada 24 segue aberto: nenhum dos dez confrontos teve jogo real iniciado, então ninguém tem motivo pra reclamar de pontuação zerada por enquanto. A abertura fica marcada para este sábado, dia 22, e a rodada se espalha até segunda, dia 24."
+        "titulo": "Ainda no papo, sem bola rolando",
+        "texto": "Passou mais um dia e os dez confrontos da rodada 24 continuam com placar em branco: nenhum jogo real começou, então pontuação zerada por enquanto é normal, não é vexame de ninguém. A abertura fica marcada para sábado, dia 22, e a rodada se estende até segunda, dia 24."
       },
       {
-        "icone": "🏆",
-        "titulo": "Cinco times empatados, um só critério de desempate",
-        "texto": "A ponta do returno segue embolada como estava: Império da Caipira, Corticeira's Farm FC, Baade FC, Resina Club e Brocador do Bonja somam 9 pontos cada, com três vitórias e uma derrota. Sem rodada nova para mexer nisso, quem separa os cinco é o PG turno, com o Império na frente (370,33) e o Corticeira's Farm colado logo atrás (365,89)."
+        "icone": "🔄",
+        "titulo": "A lanterna do turno passado vira zoador",
+        "texto": "HORST BRAUN recebe o VIERTRICOLOR num duelo de papel invertido. O HORST fechou o primeiro turno como lanterna isolada, com pobres 9 pontos e 1016,7 de pontuação, mas no returno já respira melhor, na 15ª posição com 6 pontos. Do outro lado, o VIERTRICOLOR, que tinha terminado o turno passado numa 12ª posição discreta, virou o lanterna isolado do returno, com zero ponto em quatro rodadas. Quem diria."
       },
       {
-        "icone": "🥊",
-        "titulo": "O novato desafia o campeão",
-        "texto": "O confronto que eu não perco de vista é o Baade FC recebendo o Kaempfs F.C. no sábado à tarde. De um lado o time que só chegou neste returno e ainda está construindo currículo na liga, do outro o campeão do primeiro turno, que fechou aquela fase com 35 pontos e um título decidido por apenas 1,9 de PG turno. Estreante em casa contra o algoz do turno passado tem cheiro de zebra à espreita."
+        "icone": "📉",
+        "titulo": "Dois que capotaram na saída",
+        "texto": "Madalena Club recebe o Kidiabense FC num confronto de quem precisa se reencontrar. O Madalena fechou o primeiro turno na 5ª posição e hoje amarga a 18ª colocação do returno, com só 3 pontos. Já o Kidiabense, que foi 3º colocado com a melhor pontuação de todo o primeiro turno (1597,8), também sente o freio de mão puxado: 13º lugar, 6 pontos. Quem vencer sai do sufoco primeiro."
       },
       {
-        "icone": "🔮",
-        "titulo": "O campeão que tropeçou na largada",
-        "texto": "Falando no Kaempfs F.C., o começo de returno não está sendo páreo fácil para quem foi campeão do primeiro turno: o time aparece só na oitava posição, com 6 pontos em 4 rodadas. Ainda dá tempo de reagir, mas por enquanto quem tem a taça no currículo está andando na sombra da tabela. Volto a atualizar assim que a bola começar a rolar de verdade neste fim de semana."
+        "icone": "⚔️",
+        "titulo": "Urachfc tenta travar o pelotão da ponta",
+        "texto": "O Urachfc recebe o Brocador do Bonja. O Urachfc foi 4º colocado no primeiro turno mas hoje está na 17ª posição do returno, com apenas 3 pontos. Já o Brocador, vice-campeão do turno passado (perdeu o título pro Kaempfs F.C. por míseros 1,9 de PG turno), chega embalado: está no pelotão dos cinco times empatados com 9 pontos na ponta da tabela. Meu palpite é rodada tranquila pro Brocador seguir colado na liderança."
       }
     ],
-    "geradaEm": "2026-08-19T00:25:22.000Z"
+    "geradaEm": "2026-08-19T04:25:10Z"
   }
 ]
