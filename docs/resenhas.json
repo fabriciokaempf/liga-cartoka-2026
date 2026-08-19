@@ -320,29 +320,29 @@
     "rodada": 24,
     "aoVivo": true,
     "rotulo": "Rodada 24 · andamento",
-    "titulo": "Zé Resenha mantém o plantão: rodada 24 segue no papel, mas a treta já esquenta",
+    "titulo": "Zé Resenha de plantão: rodada 24 ainda não rolou, mas o clima já esquenta",
     "blocos": [
       {
         "icone": "⏳",
-        "titulo": "Ainda não rolou bola",
-        "texto": "Reforçando o que já avisei por aqui: nenhum dos dez confrontos da rodada 24 teve jogo real iniciado até agora, então quem está zerado no parcial não fez feio, só está esperando a bola rolar. Os primeiros duelos abrem neste sábado, dia 22, então ainda dá tempo de trocar figurinha antes do apito inicial."
+        "titulo": "Contagem regressiva",
+        "texto": "Mais um dia se passou e o mercado da rodada 24 segue aberto: nenhum dos dez confrontos teve jogo real iniciado, então ninguém tem motivo pra reclamar de pontuação zerada por enquanto. A abertura fica marcada para este sábado, dia 22, e a rodada se espalha até segunda, dia 24."
       },
       {
         "icone": "🏆",
         "titulo": "Cinco times empatados, um só critério de desempate",
-        "texto": "A liderança do returno está mais embolada do que parece: Império da Caipira, Corticeira's Farm FC, Baade FC, Resina Club e Brocador do Bonja somam 9 pontos cada, com três vitórias e uma derrota. Quem garante a ponta hoje é o Império da Caipira, na frente no desempate por PG turno (370,33), com o Corticeira's Farm colado logo atrás (365,89)."
+        "texto": "A ponta do returno segue embolada como estava: Império da Caipira, Corticeira's Farm FC, Baade FC, Resina Club e Brocador do Bonja somam 9 pontos cada, com três vitórias e uma derrota. Sem rodada nova para mexer nisso, quem separa os cinco é o PG turno, com o Império na frente (370,33) e o Corticeira's Farm colado logo atrás (365,89)."
       },
       {
         "icone": "🥊",
-        "titulo": "Dois confrontos para ficar de olho",
-        "texto": "Vale marcar na agenda o Gaudérios FC, sexto colocado com 7 pontos, recebendo o Resina Club, que está lá no pelotão de cima com 9 pontos. E tem o próprio líder Império da Caipira encarando em casa o Berwinha FC, que soma 6 pontos e briga para não escorregar para o meio da tabela."
+        "titulo": "O novato desafia o campeão",
+        "texto": "O confronto que eu não perco de vista é o Baade FC recebendo o Kaempfs F.C. no sábado à tarde. De um lado o time que só chegou neste returno e ainda está construindo currículo na liga, do outro o campeão do primeiro turno, que fechou aquela fase com 35 pontos e um título decidido por apenas 1,9 de PG turno. Estreante em casa contra o algoz do turno passado tem cheiro de zebra à espreita."
       },
       {
         "icone": "🔮",
-        "titulo": "Um nome escondido para vigiar",
-        "texto": "Enquanto os primeiros pontos oficiais não aparecem, deixo um alerta: o Tricolor Lvfc está só na sétima posição com 6 pontos, mas carrega o terceiro melhor PG turno de toda a liga (363,72), atrás apenas do líder Império da Caipira e do vice Corticeira's Farm FC. Se a pontuação dele engrenar de vez, pode incomodar geral lá na frente. Volto a atualizar assim que a bola começar a rolar de verdade."
+        "titulo": "O campeão que tropeçou na largada",
+        "texto": "Falando no Kaempfs F.C., o começo de returno não está sendo páreo fácil para quem foi campeão do primeiro turno: o time aparece só na oitava posição, com 6 pontos em 4 rodadas. Ainda dá tempo de reagir, mas por enquanto quem tem a taça no currículo está andando na sombra da tabela. Volto a atualizar assim que a bola começar a rolar de verdade neste fim de semana."
       }
     ],
-    "geradaEm": "2026-08-18T17:20:00.000Z"
+    "geradaEm": "2026-08-19T00:25:22.000Z"
   }
 ]
