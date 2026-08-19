@@ -320,29 +320,29 @@
     "rodada": 24,
     "aoVivo": true,
     "rotulo": "Rodada 24 · andamento",
-    "titulo": "Zé Resenha de plantão: com a bola ainda parada, é hora de olhar quem trocou de papel do 1º turno pra cá",
+    "titulo": "Zé Resenha no plantão do mercado: bola ainda não rolou, mas a ponta da tabela já tem treta marcada",
     "blocos": [
       {
         "icone": "⏳",
-        "titulo": "Ainda no papo, sem bola rolando",
-        "texto": "Passou mais um dia e os dez confrontos da rodada 24 continuam com placar em branco: nenhum jogo real começou, então pontuação zerada por enquanto é normal, não é vexame de ninguém. A abertura fica marcada para sábado, dia 22, e a rodada se estende até segunda, dia 24."
+        "titulo": "Mercado aberto, contagem regressiva ligada",
+        "texto": "Segue sem nenhum dos dez jogos da rodada 24 começar, mercado ainda aberto e ninguém pontuou. A abertura é sábado, dia 22, e a rodada fecha na segunda, dia 24. Enquanto isso, zero ponto no placar é só sinal de que a bola não rolou, não de fracasso de ninguém."
       },
       {
-        "icone": "🔄",
-        "titulo": "A lanterna do turno passado vira zoador",
-        "texto": "HORST BRAUN recebe o VIERTRICOLOR num duelo de papel invertido. O HORST fechou o primeiro turno como lanterna isolada, com pobres 9 pontos e 1016,7 de pontuação, mas no returno já respira melhor, na 15ª posição com 6 pontos. Do outro lado, o VIERTRICOLOR, que tinha terminado o turno passado numa 12ª posição discreta, virou o lanterna isolado do returno, com zero ponto em quatro rodadas. Quem diria."
+        "icone": "👑",
+        "titulo": "Liderança apertada, decidida no detalhe",
+        "texto": "Império da Caipira lidera o returno com 9 pontos ganhos, mas está empatado nessa marca com Corticeira's Farm FC, Baade FC, Resina Club e Brocador do Bonja. Quem separa esse pelotão de cinco é o PG turno, e o Império leva a melhor por ali, com 370,33 contra os 365,89 do Corticeira's. Na rodada, o líder recebe o Berwinha FC, que está com 6 pontos na 14ª posição."
       },
       {
-        "icone": "📉",
-        "titulo": "Dois que capotaram na saída",
-        "texto": "Madalena Club recebe o Kidiabense FC num confronto de quem precisa se reencontrar. O Madalena fechou o primeiro turno na 5ª posição e hoje amarga a 18ª colocação do returno, com só 3 pontos. Já o Kidiabense, que foi 3º colocado com a melhor pontuação de todo o primeiro turno (1597,8), também sente o freio de mão puxado: 13º lugar, 6 pontos. Quem vencer sai do sufoco primeiro."
+        "icone": "🆕",
+        "titulo": "O estreante encara o ex-rei do turno passado",
+        "texto": "Baade FC chegou só agora, no returno, sem currículo nenhum no primeiro turno, e mesmo assim já figura na 3ª posição com 9 pontos. A provação da vez é justamente contra o Kaempfs F.C., campeão do primeiro turno com 35 pontos, que hoje ocupa a 8ª colocação do returno com 6 pontos. Coroa não garante vaga de sócio torcedor."
       },
       {
-        "icone": "⚔️",
-        "titulo": "Urachfc tenta travar o pelotão da ponta",
-        "texto": "O Urachfc recebe o Brocador do Bonja. O Urachfc foi 4º colocado no primeiro turno mas hoje está na 17ª posição do returno, com apenas 3 pontos. Já o Brocador, vice-campeão do turno passado (perdeu o título pro Kaempfs F.C. por míseros 1,9 de PG turno), chega embalado: está no pelotão dos cinco times empatados com 9 pontos na ponta da tabela. Meu palpite é rodada tranquila pro Brocador seguir colado na liderança."
+        "icone": "⚡",
+        "titulo": "Corticeira's Farm tenta seguir colado na ponta",
+        "texto": "O vice do pelotão líder, Corticeira's Farm FC, visita o Alemonstro FBPA, que soma 6 pontos na 11ª posição. Vitória do Corticeira's fora de casa mantém pressão sobre o Império da Caipira lá na frente, num returno que promete ser decidido no fio do bigode."
       }
     ],
-    "geradaEm": "2026-08-19T04:25:10Z"
+    "geradaEm": "2026-08-19T08:24:42Z"
   }
 ]
