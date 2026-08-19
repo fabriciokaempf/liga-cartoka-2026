@@ -320,29 +320,29 @@
     "rodada": 24,
     "aoVivo": true,
     "rotulo": "Rodada 24 · andamento",
-    "titulo": "Zé Resenha no plantão do mercado: bola ainda não rolou, mas a ponta da tabela já tem treta marcada",
+    "titulo": "Zé Resenha ainda no plantão: mercado segue fechado, mas o duelo dos desesperados já esquenta",
     "blocos": [
       {
         "icone": "⏳",
-        "titulo": "Mercado aberto, contagem regressiva ligada",
-        "texto": "Segue sem nenhum dos dez jogos da rodada 24 começar, mercado ainda aberto e ninguém pontuou. A abertura é sábado, dia 22, e a rodada fecha na segunda, dia 24. Enquanto isso, zero ponto no placar é só sinal de que a bola não rolou, não de fracasso de ninguém."
+        "titulo": "Nenhum jogo rolou ainda",
+        "texto": "A rodada 24 segue zero a zero geral: nenhum dos dez confrontos começou e ninguém pontuou até agora. A abertura é só sábado, dia 22, e o fechamento fica para segunda, dia 24. Então relaxa o coração, porque zero no placar aqui é sinal de mercado fechado, não de vexame de ninguém."
       },
       {
         "icone": "👑",
-        "titulo": "Liderança apertada, decidida no detalhe",
-        "texto": "Império da Caipira lidera o returno com 9 pontos ganhos, mas está empatado nessa marca com Corticeira's Farm FC, Baade FC, Resina Club e Brocador do Bonja. Quem separa esse pelotão de cinco é o PG turno, e o Império leva a melhor por ali, com 370,33 contra os 365,89 do Corticeira's. Na rodada, o líder recebe o Berwinha FC, que está com 6 pontos na 14ª posição."
+        "titulo": "Cinco na cola, decidido no detalhe",
+        "texto": "A ponta do returno segue apertadíssima: Império da Caipira, Corticeira's Farm FC, Baade FC, Resina Club e Brocador do Bonja empatam com 9 pontos cada. Quem sai na frente é o Império, que leva a melhor no desempate de PG turno com 370,33 contra os 365,89 do Corticeira's. Cinco times, uma vaga de líder isolado, e é o detalhe do PG turno que resolve por enquanto."
       },
       {
-        "icone": "🆕",
-        "titulo": "O estreante encara o ex-rei do turno passado",
-        "texto": "Baade FC chegou só agora, no returno, sem currículo nenhum no primeiro turno, e mesmo assim já figura na 3ª posição com 9 pontos. A provação da vez é justamente contra o Kaempfs F.C., campeão do primeiro turno com 35 pontos, que hoje ocupa a 8ª colocação do returno com 6 pontos. Coroa não garante vaga de sócio torcedor."
+        "icone": "🎯",
+        "titulo": "Brocador tenta blindar o pelotão",
+        "texto": "Do grupo dos cinco líderes, o Brocador do Bonja carrega o pior PG turno (327,79) e por isso é quem está mais perto de cair do pelotão em caso de novo tropeço. Na rodada 24 visita o Urachfc, que soma apenas 3 pontos na 17ª posição, e precisa converter a folga no papel em pontuação de verdade dentro do Cartola. Time acostumado a decidir no detalhe sabe que cada décimo pesa."
       },
       {
-        "icone": "⚡",
-        "titulo": "Corticeira's Farm tenta seguir colado na ponta",
-        "texto": "O vice do pelotão líder, Corticeira's Farm FC, visita o Alemonstro FBPA, que soma 6 pontos na 11ª posição. Vitória do Corticeira's fora de casa mantém pressão sobre o Império da Caipira lá na frente, num returno que promete ser decidido no fio do bigode."
+        "icone": "🆘",
+        "titulo": "O duelo dos desesperados",
+        "texto": "Lá embaixo, o VIERTRICOLOR segue lanterna isolada, zerado em quatro rodadas e sem nenhum ponto ganho no returno. A chance de fugir do fundo do poço aparece contra o HORST BRAUN, que está na 15ª posição com 6 pontos e também não quer papo com a degola. Ninguém aqui está pensando em título, o assunto é sobrevivência."
       }
     ],
-    "geradaEm": "2026-08-19T08:24:42Z"
+    "geradaEm": "2026-08-19T09:45:00Z"
   }
 ]
