@@ -320,29 +320,29 @@
     "rodada": 24,
     "aoVivo": true,
     "rotulo": "Rodada 24 · andamento",
-    "titulo": "Zé Resenha no plantão: faltam dois dias e a Cartoka já ferve nos bastidores",
+    "titulo": "Zé Resenha na área: dois dias pro apito e a queda do Urachfc vira assunto obrigatório",
     "blocos": [
       {
         "icone": "⏳",
-        "titulo": "Contagem regressiva ligada",
-        "texto": "A rodada 24 segue de bola parada: nenhum dos dez confrontos entrou em campo e o placar geral continua zero a zero. Mas o cronômetro andou, agora faltam só dois dias para o pontapé inicial, sábado, dia 22, com o Gaudérios FC recebendo o Resina Club logo na abertura. Fica tranquilo que esse zero na tela é sinal de mercado fechado, não de vexame de ninguém."
+        "titulo": "Faltam dois dias e o placar segue zero a zero",
+        "texto": "A rodada 24 ainda não rodou nem um minuto: os dez confrontos seguem com o placar zerado e o pontapé inicial só sai no sábado, dia 22, com o Gaudérios FC recebendo o Resina Club logo de cara. Não é vexame de ninguém, é só o mercado fechado esperando a bola rolar de verdade. Guarda a pipoca que o fim de semana promete."
       },
       {
         "icone": "👑",
-        "titulo": "Cinco na cola, ninguém solta a mão",
-        "texto": "A ponta do returno segue com cinco times empatados em 9 pontos: Império da Caipira, Corticeira's Farm FC, Baade FC, Resina Club e Brocador do Bonja. Quem carrega a faixa de líder por enquanto é o Império, que leva a melhor no desempate de PG turno com 370,33 contra os 365,89 do Corticeira's. É treta de detalhe, e a rodada 24 pode reembaralhar esse pelotão inteiro."
+        "titulo": "Cinco na ponta, um decidindo no detalhe",
+        "texto": "A briga pelo topo do returno segue travada entre cinco times empatados em 9 pontos: Império da Caipira, Corticeira's Farm FC, Baade FC, Resina Club e Brocador do Bonja. Quem carrega a faixa por enquanto é o Império, que leva a melhor no desempate de PG turno, com o Brocador do Bonja fechando esse grupo justamente na última posição do critério. A rodada 24 pode embaralhar tudo de novo."
       },
       {
-        "icone": "🆕",
-        "titulo": "Novato encara o rei do primeiro turno",
-        "texto": "Um dos jogos mais esperados da rodada é Baade FC contra Kaempfs F.C., o time que só chegou na Cartoka no returno pegando de frente o campeão do primeiro turno. O Kaempfs faturou aquele título com 35 pontos e apenas 1,9 de PG turno de vantagem sobre o Brocador do Bonja, mas no returno soma 6 pontos e ocupa a 8ª posição. Já o Baade está no pelotão da ponta com 9 pontos, a estreia na liga não podia ter escolhido rival mais complicado."
+        "icone": "🔄",
+        "titulo": "Do topo pro meio da tabela: a queda do Urachfc",
+        "texto": "Quem lembra do Urachfc goleando o VIERTRICOLOR na estreia do returno e assumindo a ponta isolado? Pois aquele mesmo time hoje ocupa a 17ª posição, com apenas 3 pontos em quatro rodadas. No domingo, o Urachfc recebe justamente o Brocador do Bonja, um dos cinco líderes, num duelo de extremos que promete doer para um lado só. Fica o aviso: liderança na rodada 20 não garante nada na rodada 24."
       },
       {
-        "icone": "🆘",
-        "titulo": "O duelo dos desesperados continua",
-        "texto": "Lá embaixo, o confronto direto entre VIERTRICOLOR e HORST BRAUN segue sendo o assunto mais urgente da rodada. O VIERTRICOLOR é lanterna isolado, zerado em quatro rodadas, enquanto o HORST BRAUN está na 15ª posição com 6 pontos e também não quer papo com o fundo da tabela. Sábado, às 18h30, tem cara de decisão de sobrevivência antecipada."
+        "icone": "🆚",
+        "titulo": "Novato recebe o ex-rei do primeiro turno",
+        "texto": "No domingo à noite tem Baade FC recebendo o Kaempfs F.C. O Baade é o novato que só estreou no returno, sem currículo nenhum do primeiro turno, e hoje está no pelotão da ponta com 9 pontos. Do outro lado, o Kaempfs F.C., campeão do turno passado, tenta se recuperar depois de um início irregular e chega na 8ª posição com 6 pontos. Depois do apito, dá para saber se a estreia bonita do Baade segura mais uma rodada."
       }
     ],
-    "geradaEm": "2026-08-20T09:00:00Z"
+    "geradaEm": "2026-08-20T15:30:00Z"
   }
 ]
