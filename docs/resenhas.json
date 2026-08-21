@@ -320,29 +320,29 @@
     "rodada": 24,
     "aoVivo": true,
     "rotulo": "Rodada 24 · andamento",
-    "titulo": "Véspera de rodada: os dez confrontos ainda no vestiário e a tabela mais espremida do returno",
+    "titulo": "Contagem regressiva: nada mudou desde o último boletim, mas o sábado está cada vez mais perto",
     "blocos": [
       {
         "icone": "⏳",
-        "titulo": "Zero de dez, a bola ainda nem foi inflada",
-        "texto": "Passei aqui de novo pra conferir e o cenário é o mesmo do meu último boletim: nenhum dos dez confrontos da rodada 24 teve o jogo real iniciado, então ninguém pontuou nada ainda. O pontapé sai no sábado às 16h, com Gaudérios FC recebendo o Resina Club, e a rodada só se encerra na segunda à noite, quando Parizi 01 encara o pietro filho. Ou seja: tudo o que aparecer de pontuação daqui pra frente é parcial e pode virar até o último apito."
+        "titulo": "Nada mudou, e está tudo bem assim",
+        "texto": "Voltei aqui de olho no relógio e o cenário é idêntico ao da minha última passagem: os dez confrontos da rodada 24 seguem zerados, sem nenhum jogo real iniciado. A abertura é neste sábado às 16h, com Gaudérios FC recebendo o Resina Club, e o fechamento fica para a segunda à noite, quando Parizi 01 encara o pietro filho. Até lá, qualquer pontuação que aparecer no Cartola é prévia de escalação, não é rodada em andamento."
       },
       {
         "icone": "🗜️",
-        "titulo": "Quinze times dentro de três pontinhos",
-        "texto": "Olha o tamanho do aperto: do líder Império da Caipira, com 9 pontos, até o HORST BRAUN, na 15ª posição com 6, são quinze times separados por meros três pontos. O topo segue com cinco empatados em 9 (Império, Corticeira's Farm FC, Baade FC, Resina Club e Brocador do Bonja), tudo decidido no desempate de PG turno, onde o Império leva vantagem. Uma vitória neste fim de semana pode jogar alguém do meio direto pra briga da ponta."
+        "titulo": "Quinze times, três pontinhos de distância",
+        "texto": "A tabela segue apertadíssima: do líder Império da Caipira, com 9 pontos, até a 15ª posição, ocupada pelo HORST BRAUN com 6, são quinze times espremidos numa faixa de três pontos só. No topo, cinco equipes empatam em 9: Império da Caipira, Corticeira's Farm FC, Baade FC, Resina Club e Brocador do Bonja, com o desempate de PG turno mantendo o Império na ponta. Uma rodada de resultado ruim pode embaralhar tudo isso já no sábado."
       },
       {
         "icone": "🧊",
-        "titulo": "O Vier precisa de um ponto pra sair do gelo",
-        "texto": "O VIERTRICOLOR é o único da liga que ainda não pontuou no returno: quatro jogos, quatro derrotas, zero na coluna do PG e o menor acumulado de pontuação do turno, 260,73. No sábado o Tricolorzinho visita o HORST BRAUN, que vem de seis pontos em quatro rodadas e está bem melhor na fita. Se tem rodada pra estrear na tabela, é essa: adiar mais um pouco começa a virar tradição."
+        "titulo": "O Vier ainda procura o primeiro ponto",
+        "texto": "O VIERTRICOLOR segue sendo o único time da liga com zero ponto no returno: quatro jogos, quatro derrotas, e o menor acumulado de PG turno da liga, 260,73. O adversário deste sábado é o HORST BRAUN, que também não vive fase de artilheiro, mas soma seis pontos em quatro rodadas. Se o Vier não destrava agora, a fila para sair do zero começa a ficar comprida."
       },
       {
         "icone": "🔥",
-        "titulo": "Meu palpite: fica de olho no Alemonstro x Corticeira",
-        "texto": "O duelo que eu marquei no caderninho é Alemonstro FBPA contra Corticeira's Farm FC, domingo às 18h30. É o 11º colocado, com 6 pontos, recebendo o vice-líder, com 9, num confronto em que o time da Fazendinha pode assumir a ponta se o Império escorregar. Meu chute é de jogo apertado, daqueles em que a diferença fica abaixo de dois pontos e cada um leva um ponto pra casa. Se eu errar, pode cobrar na resenha de fechamento."
+        "titulo": "Meu palpite segue de pé",
+        "texto": "Mantenho o palpite que já dei: o duelo entre Alemonstro FBPA e Corticeira's Farm FC, no domingo às 18h30, tem cara de jogo apertado, com o 11º colocado tentando complicar a vida do vice-líder. E fico de olho também no Baade FC recebendo o Kaempfs F.C. no mesmo domingo: o novato que nunca disputou o primeiro turno encara de frente o campeão daquela fase. História boa para contar na resenha de fechamento, seja qual for o resultado."
       }
     ],
-    "geradaEm": "2026-08-20T20:24:46Z"
+    "geradaEm": "2026-08-21T00:25:00Z"
   }
 ]
