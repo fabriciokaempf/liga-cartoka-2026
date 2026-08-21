@@ -320,29 +320,29 @@
     "rodada": 24,
     "aoVivo": true,
     "rotulo": "Rodada 24 · andamento",
-    "titulo": "Contagem regressiva: falta menos de um dia e a rodada 24 segue represada",
+    "titulo": "Reta final da espera: rodada 24 estreia em menos de 32 horas",
     "blocos": [
       {
         "icone": "⏳",
-        "titulo": "Ainda represada, mas a válvula abre amanhã",
-        "texto": "Zé de volta ao microfone e o retrato é o mesmo de mais cedo: os dez confrontos da rodada 24 continuam com o placar real zerado, sem nenhuma bola rolando ainda. A abertura sai neste sábado às 16h, com Gaudérios FC recebendo o Resina Club, e o fechamento só fica pronto na segunda à noite, quando Parizi 01 recebe o pietro filho. Enquanto isso, qualquer pontuação que aparecer no Cartola é reflexo de escalação, não é rodada em andamento."
+        "titulo": "Cronômetro correndo, bola parada",
+        "texto": "Zé de plantão de novo e o cenário segue igual: os dez confrontos da rodada 24 continuam com o placar real zerado, nenhuma bola rolou ainda. A abertura é neste sábado às 16h, com Gaudérios FC recebendo o Resina Club, e o fechamento fica para a segunda à noite, com Parizi 01 contra pietro filho. Se algum número aparecer no Cartola antes disso, é escalação de atleta em outro jogo, não é a rodada 24 começando."
       },
       {
-        "icone": "🗜️",
-        "titulo": "Topo embolado, ninguém dorme tranquilo",
-        "texto": "A tabela segue com cinco times empatados em 9 pontos lá em cima: Império da Caipira, Corticeira's Farm FC, Baade FC, Resina Club e Brocador do Bonja. Quem garante a ponta por enquanto é o Império, no desempate do PG turno, mas com essa diferença curta qualquer tropeço no fim de semana já troca a liderança de dono."
+        "icone": "🆕",
+        "titulo": "Estreante encara o ex-campeão",
+        "texto": "Um dos confrontos mais gostosos do sábado é o Baade FC recebendo o Kaempfs F.C. O Baade é o novato da casa, chegou só no returno e não tem currículo nenhum de primeiro turno para ninguém cobrar, mas hoje divide a ponta da tabela com 9 pontos. Do outro lado está o Kaempfs, campeão do primeiro turno com 35 pontos, que agora amarga a 8ª posição no returno e precisa reagir para não virar assunto de zoeira demais."
       },
       {
         "icone": "🧊",
-        "titulo": "VIERTRICOLOR ainda atrás do primeiro ponto",
-        "texto": "O VIERTRICOLOR segue como único time zerado no returno, com quatro derrotas em quatro rodadas, e o duelo deste sábado contra o HORST BRAUN, que também não está sobrando com seis pontos, é a chance perfeita para destravar. Se sair de novo sem pontuar, a fila para deixar a lanterna só cresce."
+        "titulo": "VIERTRICOLOR busca o primeiro ponto do returno",
+        "texto": "No primeiro turno o VIERTRICOLOR fechou em 12º com 29 pontos, nada de vergonhoso. No returno, porém, é o único time zerado da liga, com quatro derrotas em quatro rodadas e a lanterna isolada. O duelo de sábado contra o HORST BRAUN, que também só tem 6 pontos, é a chance perfeita para destravar antes que a distância para sair do fundo do poço fique grande demais."
       },
       {
-        "icone": "🛡️",
-        "titulo": "Império defende a ponta em casa",
-        "texto": "Justamente o líder Império da Caipira abre a conta em casa neste sábado contra o Berwinha FC, de olho em manter a cadeira na primeira posição. Já no domingo, o Brocador do Bonja, outro do pelotão dos 9 pontos, visita o Urachfc num duelo direto de quem quer se isolar lá na frente. Fim de semana com cara de embaralhar tudo de novo."
+        "icone": "🔥",
+        "titulo": "Pelotão do meio também tem osso duro",
+        "texto": "Enquanto o topo se resolve no desempate do PG turno com o Império da Caipira na frente, o pelotão dos 6 pontos promete barulho: Tricolor Lvfc recebe o Mandrackefc no domingo à noite, dois times que vieram de tropeço na rodada passada e não querem mais um. De quebra, o Corticeira's Farm FC, também no grupo dos 9 lá em cima, visita o Alemonstro FBPA de olho em não deixar a distância para o líder aumentar."
       }
     ],
-    "geradaEm": "2026-08-21T04:24:47Z"
+    "geradaEm": "2026-08-21T08:26:00Z"
   }
 ]
