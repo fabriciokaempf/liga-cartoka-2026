@@ -320,29 +320,29 @@
     "rodada": 24,
     "aoVivo": true,
     "rotulo": "Rodada 24 · andamento",
-    "titulo": "Faltam poucas horas: a rodada 24 ainda não rolou, mas o clima já esquentou",
+    "titulo": "Ainda no esquenta: rodada 24 não rolou, mas o duelo de logo mais já dá o que falar",
     "blocos": [
       {
         "icone": "🕒",
-        "titulo": "Ainda tudo zerado, mas a abertura está batendo na porta",
-        "texto": "O Zé voltou pro microfone e o placar geral continua intocado: dos dez confrontos da rodada 24, nenhum jogo real começou, então ninguém pontuou no Cartola ainda. A abertura é hoje, sábado, às 16h, com Gaudérios FC recebendo o Resina Club, e o fim de semana engata direto: mais dois jogos ainda hoje à noite e um pacote pesado de seis partidas amanhã, domingo. O fechamento da rodada só vem na segunda, às 20h, com Parizi 01 contra pietro filho."
-      },
-      {
-        "icone": "🆕",
-        "titulo": "Campeão do primeiro turno visita o novato do returno",
-        "texto": "Um dos jogos mais bonitos do domingo junta o Baade FC, que só estreou no returno e hoje ocupa o pelotão dos 9 pontos, recebendo o Kaempfs F.C., campeão isolado do primeiro turno com 35 pontos e que amarga a 8ª posição no returno com 6 pontos. Currículo bonito no primeiro turno não garante nada por aqui, e o Zé promete acompanhar de perto se o campeão reencontra o rumo ou se o novato dá mais um close."
+        "titulo": "Zero pontuado, dez confrontos na fila",
+        "texto": "O Zé segura o microfone e o placar continua zerado: nenhum dos dez jogos da rodada 24 começou, então ninguém pontuou ainda no Cartola. A abertura é hoje, sábado, com Gaudérios FC recebendo o Resina Club às 16h, e o dia ainda reserva mais dois confrontos à noite antes do pacotão de domingo. Parcial é parcial, mas por enquanto nem isso: é tudo expectativa."
       },
       {
         "icone": "🔥",
-        "titulo": "Cinco times empatados brigando pela ponta",
-        "texto": "A liderança segue um formigueiro: Império da Caipira, Corticeira's Farm FC, Baade FC, Resina Club e Brocador do Bonja estão todos com 9 pontos, separados apenas pelo desempate de PG turno, com o Império na frente por pouco. Enquanto isso, o VIERTRICOLOR segue como único time zerado do returno, com quatro derrotas em quatro rodadas, e mede forças hoje à noite com o HORST BRAUN, também parado nos 6 pontos, num confronto direto de quem quer sair do fundo do poço."
+        "titulo": "Duelo direto na ponta hoje à noite",
+        "texto": "Às 20h30, o Império da Caipira recebe o Berwinha FC, e não é jogo qualquer: o Império está na cabeça da tabela empatado em pontos com Corticeira's Farm FC, Baade FC, Resina Club e Brocador do Bonja, todos com 9 pontos, e só na frente pelo desempate do PG turno. Um tropeço em casa e o pelotão de líderes já embaralha a ordem no critério de desempate."
       },
       {
-        "icone": "⚽",
-        "titulo": "De olho no domingo cheio",
-        "texto": "Amanhã tem Urachfc recebendo o vice do primeiro turno Brocador do Bonja, Madalena Club encarando o Kidiabense FC, e Tricolor Lvfc contra o Mandrackefc no meio da tabela. Seis jogos de uma vez só, então é bom já ir se programando: assim que a bola rolar de verdade, o Zé volta com os números quentinhos e as parciais na mão."
+        "icone": "📈",
+        "titulo": "Tricolor Lvfc, o time que pontua bem mas não vence tanto",
+        "texto": "Reparando nos números do turno, o Tricolor Lvfc está em 7º com 6 pontos, mas carrega o maior PG turno de todo o pelotão do meio da tabela, 363,72, mais alto até que boa parte de quem está na frente dele. Amanhã tem confronto direto com o Mandrackefc, e o Zé quer ver se essa pontuação toda finalmente vira resultado na Cartoka."
+      },
+      {
+        "icone": "🆕",
+        "titulo": "Campeão do primeiro turno em teste no domingo",
+        "texto": "Amanhã à noite tem Baade FC, do pelotão da liderança no returno, recebendo o Kaempfs F.C., campeão isolado do primeiro turno com 35 pontos e hoje na 8ª colocação geral com 6 pontos. O novato do returno contra o antigo rei do turno passado: o Zé vai acompanhar de perto assim que a bola rolar de verdade."
       }
     ],
-    "geradaEm": "2026-08-22T00:25:46.860Z"
+    "geradaEm": "2026-08-22T04:25:43.944Z"
   }
 ]
