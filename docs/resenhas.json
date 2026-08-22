@@ -320,29 +320,29 @@
     "rodada": 24,
     "aoVivo": true,
     "rotulo": "Rodada 24 · andamento",
-    "titulo": "Ainda no zero a zero geral: rodada 24 espera o sinal verde",
+    "titulo": "Faltam poucas horas: a rodada 24 ainda não rolou, mas o clima já esquentou",
     "blocos": [
       {
-        "icone": "⏳",
-        "titulo": "Retrato sem mudança, mas o palco está armado",
-        "texto": "O Zé voltou ao microfone e o cenário segue igual ao da última passagem por aqui: dos dez confrontos da rodada 24, nenhum teve o jogo real iniciado, então ninguém pontuou no Cartola ainda. A abertura fica para este sábado, dia 22, às 16h, com Gaudérios FC recebendo o Resina Club, e o fechamento só vem na segunda à noite, com Parizi 01 encarando o pietro filho. Enquanto a bola não rola de verdade, é hora de repassar quem chega afiado e quem chega pedindo água."
+        "icone": "🕒",
+        "titulo": "Ainda tudo zerado, mas a abertura está batendo na porta",
+        "texto": "O Zé voltou pro microfone e o placar geral continua intocado: dos dez confrontos da rodada 24, nenhum jogo real começou, então ninguém pontuou no Cartola ainda. A abertura é hoje, sábado, às 16h, com Gaudérios FC recebendo o Resina Club, e o fim de semana engata direto: mais dois jogos ainda hoje à noite e um pacote pesado de seis partidas amanhã, domingo. O fechamento da rodada só vem na segunda, às 20h, com Parizi 01 contra pietro filho."
       },
       {
         "icone": "🆕",
-        "titulo": "Estreante recebe o ex-campeão",
-        "texto": "Um dos confrontos mais gostosos do fim de semana junta o Baade FC, o novato que só apareceu no returno e hoje está no pelotão dos 9 pontos, recebendo o Kaempfs F.C., campeão do primeiro turno com 35 pontos que no returno amarga a 8ª posição com 6 pontos. Depois de ter coroado o Kaempfs lá atrás, o Zé garante: aqui ninguém joga com currículo debaixo do braço, cada rodada é um capítulo novo."
-      },
-      {
-        "icone": "🧊",
-        "titulo": "VIERTRICOLOR ainda caça o primeiro ponto",
-        "texto": "O VIERTRICOLOR segue como o único time zerado do returno, com quatro derrotas em quatro rodadas e a lanterna isolada, mesmo tendo fechado o primeiro turno num tranquilo 12º lugar. Neste sábado o adversário é o HORST BRAUN, também com só 6 pontos, num duelo direto de quem quer sair do fundo do poço antes que a distância para cima fique impagável."
+        "titulo": "Campeão do primeiro turno visita o novato do returno",
+        "texto": "Um dos jogos mais bonitos do domingo junta o Baade FC, que só estreou no returno e hoje ocupa o pelotão dos 9 pontos, recebendo o Kaempfs F.C., campeão isolado do primeiro turno com 35 pontos e que amarga a 8ª posição no returno com 6 pontos. Currículo bonito no primeiro turno não garante nada por aqui, e o Zé promete acompanhar de perto se o campeão reencontra o rumo ou se o novato dá mais um close."
       },
       {
         "icone": "🔥",
-        "titulo": "O meio de tabela também promete faísca",
-        "texto": "Lá em cima o desempate de PG turno segue mandando: o Império da Caipira lidera entre cinco times empatados em 9 pontos, com Corticeira's Farm FC, Baade FC, Resina Club e Brocador do Bonja logo atrás. No meio do pelotão, Tricolor Lvfc recebe o Mandrackefc de olho em não tropeçar de novo, e o próprio Corticeira's Farm FC visita o Alemonstro FBPA tentando não deixar a diferença para o topo aumentar. Assim que a bola rolar de verdade, o Zé volta com os números quentinhos."
+        "titulo": "Cinco times empatados brigando pela ponta",
+        "texto": "A liderança segue um formigueiro: Império da Caipira, Corticeira's Farm FC, Baade FC, Resina Club e Brocador do Bonja estão todos com 9 pontos, separados apenas pelo desempate de PG turno, com o Império na frente por pouco. Enquanto isso, o VIERTRICOLOR segue como único time zerado do returno, com quatro derrotas em quatro rodadas, e mede forças hoje à noite com o HORST BRAUN, também parado nos 6 pontos, num confronto direto de quem quer sair do fundo do poço."
+      },
+      {
+        "icone": "⚽",
+        "titulo": "De olho no domingo cheio",
+        "texto": "Amanhã tem Urachfc recebendo o vice do primeiro turno Brocador do Bonja, Madalena Club encarando o Kidiabense FC, e Tricolor Lvfc contra o Mandrackefc no meio da tabela. Seis jogos de uma vez só, então é bom já ir se programando: assim que a bola rolar de verdade, o Zé volta com os números quentinhos e as parciais na mão."
       }
     ],
-    "geradaEm": "2026-08-21T12:28:23Z"
+    "geradaEm": "2026-08-22T00:25:46.860Z"
   }
 ]
