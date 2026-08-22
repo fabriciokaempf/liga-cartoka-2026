@@ -320,17 +320,17 @@
     "rodada": 24,
     "aoVivo": true,
     "rotulo": "Rodada 24 · andamento",
-    "titulo": "Placar zerado, mas os cinco líderes empatados entram todos em campo neste fim de semana",
+    "titulo": "A bola já rolou de verdade em Gaudérios x Resina, mas o placar do Cartola segue mudo",
     "blocos": [
       {
-        "icone": "🕒",
-        "titulo": "Ainda ninguém pontuou",
-        "texto": "O Zé confere de novo e o cenário não mudou: os dez confrontos da rodada 24 seguem sem pontuação, porque nenhum atleta escalado entrou em campo até agora. A abertura é hoje, sábado, com Gaudérios FC recebendo o Resina Club às 16h, e o dia ainda reserva HORST BRAUN x VIERTRICOLOR e o duelo direto do Império da Caipira contra o Berwinha FC à noite. Parcial nenhuma ainda, só expectativa."
+        "icone": "⚽",
+        "titulo": "Jogo real começou, Cartola ainda não acordou",
+        "texto": "Desde as 16h de hoje o jogo real entre Gaudérios FC e Resina Club está rolando, só que no placar do Cartola continua tudo zerado, para os dois lados e para o resto da rodada. Nada de mistério aqui: é só que os atletas escalados ainda não entraram em campo ou não pontuaram nas partidas deles, que nem sempre são a mesma partida do confronto da liga. Fica ligado que o quadro pode mudar a qualquer minuto."
       },
       {
         "icone": "👑",
-        "titulo": "Os cinco do topo, todos escalados neste fim de semana",
-        "texto": "Império da Caipira, Corticeira's Farm FC, Baade FC, Resina Club e Brocador do Bonja estão empatados na cabeça da tabela com 9 pontos, separados só no critério de desempate do PG turno. Nenhum enfrenta o outro nesta rodada, mas todos jogam: Império recebe o Berwinha, Resina visita o Gaudérios, Baade recebe o Kaempfs, Corticeira's Farm visita o Alemonstro e Brocador do Bonja pega o Urachfc fora de casa. Dá pano pra manga pra embaralhar esse desempate apertado."
+        "titulo": "Os cinco do topo, um de cada vez entrando em campo",
+        "texto": "Império da Caipira, Corticeira's Farm FC, Baade FC, Resina Club e Brocador do Bonja seguem empatados em 9 pontos na cabeça da tabela, separados só pelo desempate do PG turno. O Resina Club é o primeiro do grupo a estrear na rodada, visitando o Gaudérios FC. Império da Caipira entra em campo mais tarde, às 20h30, recebendo o Berwinha FC, enquanto Corticeira's Farm FC, Baade FC e Brocador do Bonja só jogam amanhã."
       },
       {
         "icone": "⏳",
@@ -339,10 +339,10 @@
       },
       {
         "icone": "🌙",
-        "titulo": "Domingo e segunda ainda têm muito jogo",
-        "texto": "Depois da abertura de hoje, o domingo lota a agenda com Madalena Club x Kidiabense FC, SampaMissiones FC x Esporte Clube Barão, Baade FC x Kaempfs F.C., Alemonstro FBPA x Corticeira's Farm FC e Tricolor Lvfc x Mandrackefc. O fechamento fica pra segunda, com Parizi 01 recebendo o pietro filho. Até lá, é acompanhar de perto: a pontuação ainda pode virar de ponta a cabeça."
+        "titulo": "O resto do sábado e o domingo lotado de jogo",
+        "texto": "Ainda hoje tem HORST BRAUN recebendo o VIERTRICOLOR às 18h30 e o duelo direto do líder Império da Caipira contra o Berwinha FC às 20h30. Amanhã é dia cheio: Urachfc x Brocador do Bonja, Madalena Club x Kidiabense FC, SampaMissiones FC x Esporte Clube Barão, Baade FC x Kaempfs F.C. e Alemonstro FBPA x Corticeira's Farm FC, além de Tricolor Lvfc x Mandrackefc à noite. O fechamento fica pra segunda, com Parizi 01 recebendo o pietro filho."
       }
     ],
-    "geradaEm": "2026-08-22T08:25:06.000Z"
+    "geradaEm": "2026-08-22T16:24:42Z"
   }
 ]
