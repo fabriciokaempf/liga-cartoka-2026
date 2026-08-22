@@ -320,29 +320,29 @@
     "rodada": 24,
     "aoVivo": true,
     "rotulo": "Rodada 24 · andamento",
-    "titulo": "Ainda no esquenta: rodada 24 não rolou, mas o duelo de logo mais já dá o que falar",
+    "titulo": "Placar zerado, mas os cinco líderes empatados entram todos em campo neste fim de semana",
     "blocos": [
       {
         "icone": "🕒",
-        "titulo": "Zero pontuado, dez confrontos na fila",
-        "texto": "O Zé segura o microfone e o placar continua zerado: nenhum dos dez jogos da rodada 24 começou, então ninguém pontuou ainda no Cartola. A abertura é hoje, sábado, com Gaudérios FC recebendo o Resina Club às 16h, e o dia ainda reserva mais dois confrontos à noite antes do pacotão de domingo. Parcial é parcial, mas por enquanto nem isso: é tudo expectativa."
+        "titulo": "Ainda ninguém pontuou",
+        "texto": "O Zé confere de novo e o cenário não mudou: os dez confrontos da rodada 24 seguem sem pontuação, porque nenhum atleta escalado entrou em campo até agora. A abertura é hoje, sábado, com Gaudérios FC recebendo o Resina Club às 16h, e o dia ainda reserva HORST BRAUN x VIERTRICOLOR e o duelo direto do Império da Caipira contra o Berwinha FC à noite. Parcial nenhuma ainda, só expectativa."
       },
       {
-        "icone": "🔥",
-        "titulo": "Duelo direto na ponta hoje à noite",
-        "texto": "Às 20h30, o Império da Caipira recebe o Berwinha FC, e não é jogo qualquer: o Império está na cabeça da tabela empatado em pontos com Corticeira's Farm FC, Baade FC, Resina Club e Brocador do Bonja, todos com 9 pontos, e só na frente pelo desempate do PG turno. Um tropeço em casa e o pelotão de líderes já embaralha a ordem no critério de desempate."
+        "icone": "👑",
+        "titulo": "Os cinco do topo, todos escalados neste fim de semana",
+        "texto": "Império da Caipira, Corticeira's Farm FC, Baade FC, Resina Club e Brocador do Bonja estão empatados na cabeça da tabela com 9 pontos, separados só no critério de desempate do PG turno. Nenhum enfrenta o outro nesta rodada, mas todos jogam: Império recebe o Berwinha, Resina visita o Gaudérios, Baade recebe o Kaempfs, Corticeira's Farm visita o Alemonstro e Brocador do Bonja pega o Urachfc fora de casa. Dá pano pra manga pra embaralhar esse desempate apertado."
       },
       {
-        "icone": "📈",
-        "titulo": "Tricolor Lvfc, o time que pontua bem mas não vence tanto",
-        "texto": "Reparando nos números do turno, o Tricolor Lvfc está em 7º com 6 pontos, mas carrega o maior PG turno de todo o pelotão do meio da tabela, 363,72, mais alto até que boa parte de quem está na frente dele. Amanhã tem confronto direto com o Mandrackefc, e o Zé quer ver se essa pontuação toda finalmente vira resultado na Cartoka."
+        "icone": "⏳",
+        "titulo": "Reencontro do primeiro turno: Urachfc x Brocador do Bonja",
+        "texto": "Amanhã, o Urachfc recebe o Brocador do Bonja num confronto que reencontra dois nomes de peso do primeiro turno. O Urachfc fechou aquela fase em 4º com 33 pontos, mas no returno amarga a 17ª posição com só 3 pontos. Já o Brocador do Bonja foi vice campeão do primeiro turno, perdendo o título pro Kaempfs FC no desempate de PG turno por margem mínima, e agora lidera o pelotão da ponta no returno. O Zé quer ver se o Urachfc acorda em casa."
       },
       {
-        "icone": "🆕",
-        "titulo": "Campeão do primeiro turno em teste no domingo",
-        "texto": "Amanhã à noite tem Baade FC, do pelotão da liderança no returno, recebendo o Kaempfs F.C., campeão isolado do primeiro turno com 35 pontos e hoje na 8ª colocação geral com 6 pontos. O novato do returno contra o antigo rei do turno passado: o Zé vai acompanhar de perto assim que a bola rolar de verdade."
+        "icone": "🌙",
+        "titulo": "Domingo e segunda ainda têm muito jogo",
+        "texto": "Depois da abertura de hoje, o domingo lota a agenda com Madalena Club x Kidiabense FC, SampaMissiones FC x Esporte Clube Barão, Baade FC x Kaempfs F.C., Alemonstro FBPA x Corticeira's Farm FC e Tricolor Lvfc x Mandrackefc. O fechamento fica pra segunda, com Parizi 01 recebendo o pietro filho. Até lá, é acompanhar de perto: a pontuação ainda pode virar de ponta a cabeça."
       }
     ],
-    "geradaEm": "2026-08-22T04:25:43.944Z"
+    "geradaEm": "2026-08-22T08:25:06.000Z"
   }
 ]
