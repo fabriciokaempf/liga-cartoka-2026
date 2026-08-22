@@ -320,29 +320,29 @@
     "rodada": 24,
     "aoVivo": true,
     "rotulo": "Rodada 24 · andamento",
-    "titulo": "A bola já rolou de verdade em Gaudérios x Resina, mas o placar do Cartola segue mudo",
+    "titulo": "Só um jogo real fechado, mas o parcial do Cartola já dá as caras",
     "blocos": [
       {
         "icone": "⚽",
-        "titulo": "Jogo real começou, Cartola ainda não acordou",
-        "texto": "Desde as 16h de hoje o jogo real entre Gaudérios FC e Resina Club está rolando, só que no placar do Cartola continua tudo zerado, para os dois lados e para o resto da rodada. Nada de mistério aqui: é só que os atletas escalados ainda não entraram em campo ou não pontuaram nas partidas deles, que nem sempre são a mesma partida do confronto da liga. Fica ligado que o quadro pode mudar a qualquer minuto."
+        "titulo": "Só um jogo real fechado até agora",
+        "texto": "A rodada 24 tem dez confrontos e, olhando o placar oficial das partidas, só um foi realmente disputado até agora: Gaudérios FC recebeu o Resina Club e perdeu por 1 a 0 no jogo de verdade. No Cartola, porém, quem manda no parcial é justamente o Gaudérios, com 9,48 a 5 pontos, prova de que quem pontua são os atletas escalados, não o resultado do clube em campo. Ainda faltam nove confrontos pra rolar, então é cedo pra tirar qualquer conclusão."
       },
       {
-        "icone": "👑",
-        "titulo": "Os cinco do topo, um de cada vez entrando em campo",
-        "texto": "Império da Caipira, Corticeira's Farm FC, Baade FC, Resina Club e Brocador do Bonja seguem empatados em 9 pontos na cabeça da tabela, separados só pelo desempate do PG turno. O Resina Club é o primeiro do grupo a estrear na rodada, visitando o Gaudérios FC. Império da Caipira entra em campo mais tarde, às 20h30, recebendo o Berwinha FC, enquanto Corticeira's Farm FC, Baade FC e Brocador do Bonja só jogam amanhã."
+        "icone": "🔥",
+        "titulo": "Brigada da ponta entra em campo hoje",
+        "texto": "O pelotão da liderança segue empatado em 9 pontos entre Império da Caipira, Corticeira's Farm FC, Baade FC, Resina Club e Brocador do Bonja, com o Império na frente pelo desempate do PG turno. Hoje à noite é a vez do próprio líder: Império da Caipira recebe o Berwinha FC de olho em confirmar a ponta antes mesmo de o domingo começar. De quebra, o HORST BRAUN encara o já lanterna isolado VIERTRICOLOR, que segue com 0 ponto em quatro rodadas e precisa reagir com urgência."
       },
       {
         "icone": "⏳",
-        "titulo": "Reencontro do primeiro turno: Urachfc x Brocador do Bonja",
-        "texto": "Amanhã, o Urachfc recebe o Brocador do Bonja num confronto que reencontra dois nomes de peso do primeiro turno. O Urachfc fechou aquela fase em 4º com 33 pontos, mas no returno amarga a 17ª posição com só 3 pontos. Já o Brocador do Bonja foi vice campeão do primeiro turno, perdendo o título pro Kaempfs FC no desempate de PG turno por margem mínima, e agora lidera o pelotão da ponta no returno. O Zé quer ver se o Urachfc acorda em casa."
+        "titulo": "Domingo cheio e revanche do primeiro turno",
+        "texto": "Amanhã tem casa cheia: Urachfc recebe o Brocador do Bonja no reencontro de dois nomes do primeiro turno (o Urachfc foi 4º naquela fase, o Brocador foi vice), além de Madalena Club x Kidiabense FC, SampaMissiones FC x Esporte Clube Barão, Baade FC x Kaempfs F.C. e Alemonstro FBPA x Corticeira's Farm FC. À noite ainda rola Tricolor Lvfc x Mandrackefc, e o fechamento da rodada fica pra segunda, com Parizi 01 recebendo o pietro filho."
       },
       {
-        "icone": "🌙",
-        "titulo": "O resto do sábado e o domingo lotado de jogo",
-        "texto": "Ainda hoje tem HORST BRAUN recebendo o VIERTRICOLOR às 18h30 e o duelo direto do líder Império da Caipira contra o Berwinha FC às 20h30. Amanhã é dia cheio: Urachfc x Brocador do Bonja, Madalena Club x Kidiabense FC, SampaMissiones FC x Esporte Clube Barão, Baade FC x Kaempfs F.C. e Alemonstro FBPA x Corticeira's Farm FC, além de Tricolor Lvfc x Mandrackefc à noite. O fechamento fica pra segunda, com Parizi 01 recebendo o pietro filho."
+        "icone": "🧠",
+        "titulo": "Palpite do Zé com o que já apareceu no parcial",
+        "texto": "Mesmo com quase nada de jogo real rolado, o parcial do Cartola já entrega pistas: pietro filho aparece na frente com 10,23 pontos, seguido de perto por Gaudérios FC (9,48) e Esporte Clube Barão (8,90). Do outro lado, o Urachfc já entrou no negativo, com menos 1 ponto, um começo de rodada pra ninguém confiar demais na escalação. Vale lembrar: é tudo parcial, então guarda o print e só solta a comemoração depois do apito final."
       }
     ],
-    "geradaEm": "2026-08-22T16:24:42Z"
+    "geradaEm": "2026-08-22T20:25:27Z"
   }
 ]
