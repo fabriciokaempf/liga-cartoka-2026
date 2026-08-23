@@ -320,29 +320,29 @@
     "rodada": 24,
     "aoVivo": true,
     "rotulo": "Rodada 24 · andamento",
-    "titulo": "Madalena Club dá a arrancada da madrugada e ultrapassa Barão e Kaempfs nos parciais",
+    "titulo": "Sábado rendeu três jogos, mas o pesadão da rodada é hoje: seis confrontos entram em campo até a noite",
     "blocos": [
       {
-        "icone": "⚽",
-        "titulo": "Três jogos do sábado seguem mandando no confronto",
-        "texto": "Depois dos três confrontos que já tiveram bola rolando no gramado (Gaudérios 2 a 1 no Resina Club, HORST BRAUN 0 a 0 com o VIERTRICOLOR e Berwinha 1 a 0 sobre o líder Império da Caipira), o Cartola segue com a régua própria. Gaudérios (29,49) segue na frente do Resina Club (28,60) nos parciais, o Império (31,63) folga na frente do Berwinha (23,80) mesmo tendo perdido o jogo real, e HORST BRAUN (10,09) ainda está atrás do VIERTRICOLOR (11,53). Nenhum desses três confrontos está fechado, então ainda dá tempo de virar."
-      },
-      {
-        "icone": "🚀",
-        "titulo": "Madalena Club dá um salto e ultrapassa a dupla que liderava",
-        "texto": "Desde a última atualização, o maior movimento foi da Madalena Club, do Chico: saltou de 34,73 para 44,73 pontos e assumiu a vice-liderança geral dos parciais, ultrapassando Esporte Clube Barão (parado em 34,20) e Kaempfs F.C. (parado em 34,79). O time do Chico ainda nem entrou em campo pelo confronto oficial contra o Kidiabense FC, os pontos vieram só dos atletas escalados que já jogaram por outros clubes."
+        "icone": "🌙",
+        "titulo": "O que sobrou do sábado",
+        "texto": "Os três confrontos que já rolaram no gramado seguem exatamente como estavam na última conferência: Gaudérios (29,49) na frente do Resina Club (28,60), o Império da Caipira (31,63) folgado sobre o Berwinha FC (23,80) mesmo tendo perdido o jogo real por 1 a 0, e o HORST BRAUN (10,09) atrás do VIERTRICOLOR (11,53) num 0 a 0 no jogo oficial. Nenhum dos três está fechado, a régua que vale é a do Cartola, não a do placar do estádio."
       },
       {
         "icone": "🔝",
-        "titulo": "pietro filho ainda lidera, mas esfriou um pouco",
-        "texto": "O pietro filho segue na ponta dos parciais, mas a pontuação recuou de 52,99 para 49,89 desde a última cobertura, sinal de que algum atleta escalado por ele tomou uma rasteira em campo. O confronto dele contra o Parizi 01 (8,20) só começa na segunda à noite, então ainda dá bastante tempo para esse número se mexer para os dois lados."
+        "titulo": "pietro filho segue na ponta, Madalena Club na cola",
+        "texto": "O pietro filho segue líder isolado dos parciais com 49,89 pontos, e o confronto dele contra o Parizi 01 (8,20) só começa na segunda à noite, então a ponta está garantida por enquanto. Logo atrás vem a Madalena Club, do Chico, com 44,73, também sem o próprio jogo iniciado: o time ainda encara o Kidiabense FC hoje às 16h."
+      },
+      {
+        "icone": "😬",
+        "titulo": "Brocador aperta o cinto antes da bola rolar",
+        "texto": "O Brocador do Bonja amarga meros 0,90 ponto nos parciais e entra em campo contra o Urachfc (12,20) hoje às 16h precisando arrancar rápido. Detalhe que pesa: o Brocador está entre os cinco times empatados em 9 pontos lá na tabela geral, empatado com o próprio Império da Caipira, então cochilar na rodada custa caro na briga pelo desempate."
       },
       {
         "icone": "⏳",
-        "titulo": "Pelotão da ponta e o que ainda falta",
-        "texto": "Dos cinco times empatados em 9 pontos na tabela geral, só o Império da Caipira e o Resina Club já entraram em campo pelo confronto oficial da rodada 24. Corticeira's Farm FC (17,60), Baade FC (20,00) e Brocador do Bonja (0,90) ainda esperam a estreia na rodada, com jogos ao longo deste domingo e o duelo Parizi 01 x pietro filho fechando tudo só na segunda. Três confrontos de dez já rolaram, sete seguem no forno, então é cedo demais para cravar qualquer resultado."
+        "titulo": "Seis jogos de domingo e um de segunda ainda no forno",
+        "texto": "Três dos dez confrontos da rodada 24 já tiveram bola rolando no jogo real, mas nenhum fechou nos pontos do Cartola. Seis confrontos começam ainda hoje entre 16h e 19h30, entre eles o do Corticeira's Farm FC, que fechou a rodada 23 com a melhor pontuação da liga, e o duelo Parizi 01 contra pietro filho fecha tudo só na segunda à noite. Pontuação parcial não garante nada, então segura a comemoração e o choro para depois."
       }
     ],
-    "geradaEm": "2026-08-23T02:00:00Z"
+    "geradaEm": "2026-08-23T12:25:41Z"
   }
 ]
