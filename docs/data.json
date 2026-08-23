@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-23T01:52:47.849Z",
+  "geradoEm": "2026-08-23T19:01:36.351Z",
   "temporada": 2026,
   "liga": {
     "nome": "Liga Cartoka de pontos corridos 2026",
@@ -28,7 +28,7 @@
   "rodadaFinal": 38,
   "rodadaAtual": 24,
   "statusMercado": 2,
-  "bolaRolando": false,
+  "bolaRolando": true,
   "gameOver": false,
   "ultimaRodadaFechada": 23,
   "jogadores": [
@@ -680,7 +680,7 @@
   },
   "parciais": {
     "rodada": 24,
-    "atualizadoEm": "2026-08-23T01:52:47.845Z",
+    "atualizadoEm": "2026-08-23T19:01:36.299Z",
     "porTime": {
       "90277": 29.49,
       "309735": 12.2,
