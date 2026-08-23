@@ -320,29 +320,29 @@
     "rodada": 24,
     "aoVivo": true,
     "rotulo": "Rodada 24 · andamento",
-    "titulo": "Três jogos já rolaram no sábado, e o Cartola ignorou solenemente o placar do gramado",
+    "titulo": "Madalena Club dá a arrancada da madrugada e ultrapassa Barão e Kaempfs nos parciais",
     "blocos": [
       {
         "icone": "⚽",
-        "titulo": "Três confrontos com bola rolando, sete no forno",
-        "texto": "No sábado já rolaram três dos dez confrontos da rodada 24: Gaudérios FC venceu o Resina Club por 2 a 1, HORST BRAUN e VIERTRICOLOR ficaram no 0 a 0 e o líder Império da Caipira perdeu para o Berwinha FC por 0 a 1. No Cartola, porém, o placar do gramado não manda em nada: o Resina Club, mesmo derrotado no jogo real, está à frente no parcial do confronto (28,6 a 26,29), e o Império, apesar da derrota em campo, dispara no parcial contra o Berwinha (31,63 a 13,8). Prova viva de que quem pontua são os atletas escalados, não o resultado do clube da vez."
+        "titulo": "Três jogos do sábado seguem mandando no confronto",
+        "texto": "Depois dos três confrontos que já tiveram bola rolando no gramado (Gaudérios 2 a 1 no Resina Club, HORST BRAUN 0 a 0 com o VIERTRICOLOR e Berwinha 1 a 0 sobre o líder Império da Caipira), o Cartola segue com a régua própria. Gaudérios (29,49) segue na frente do Resina Club (28,60) nos parciais, o Império (31,63) folga na frente do Berwinha (23,80) mesmo tendo perdido o jogo real, e HORST BRAUN (10,09) ainda está atrás do VIERTRICOLOR (11,53). Nenhum desses três confrontos está fechado, então ainda dá tempo de virar."
+      },
+      {
+        "icone": "🚀",
+        "titulo": "Madalena Club dá um salto e ultrapassa a dupla que liderava",
+        "texto": "Desde a última atualização, o maior movimento foi da Madalena Club, do Chico: saltou de 34,73 para 44,73 pontos e assumiu a vice-liderança geral dos parciais, ultrapassando Esporte Clube Barão (parado em 34,20) e Kaempfs F.C. (parado em 34,79). O time do Chico ainda nem entrou em campo pelo confronto oficial contra o Kidiabense FC, os pontos vieram só dos atletas escalados que já jogaram por outros clubes."
       },
       {
         "icone": "🔝",
-        "titulo": "pietro filho lidera sem nem ter entrado em campo",
-        "texto": "O maior parcial da rodada até agora é do pietro filho, com 52,99 pontos, mesmo com o confronto dele contra o Parizi 01 marcado só para segunda-feira. É a regra do Cartola na prática: os pontos vêm dos atletas espalhados pelos clubes escalados, não do jogo da vez do time na liga. Logo atrás aparecem Kaempfs F.C. (34,79), Madalena Club (34,73) e Esporte Clube Barão (34,2), três times cujos confrontos também ainda nem começaram."
-      },
-      {
-        "icone": "🔥",
-        "titulo": "O pelotão da liderança entra em campo quase inteiro neste domingo",
-        "texto": "A tabela geral segue com cinco times empatados em 9 pontos depois da rodada 23: Império da Caipira na frente pelo desempate de PG turno, seguido de Corticeira's Farm FC, Baade FC, Resina Club e Brocador do Bonja. O Império já jogou no sábado e o Resina também, mas Corticeira's Farm FC (contra o Alemonstro FBPA), Baade FC (contra o Kaempfs F.C.) e Brocador do Bonja (contra o Urachfc) ainda entram em campo neste domingo. É a chance de o pelotão inteiro se mexer antes de a rodada fechar."
+        "titulo": "pietro filho ainda lidera, mas esfriou um pouco",
+        "texto": "O pietro filho segue na ponta dos parciais, mas a pontuação recuou de 52,99 para 49,89 desde a última cobertura, sinal de que algum atleta escalado por ele tomou uma rasteira em campo. O confronto dele contra o Parizi 01 (8,20) só começa na segunda à noite, então ainda dá bastante tempo para esse número se mexer para os dois lados."
       },
       {
         "icone": "⏳",
-        "titulo": "Domingo cheio, fechamento só na segunda",
-        "texto": "Seis confrontos rolam neste domingo, a partir das 16h, e o último, Parizi 01 contra pietro filho, só entra em campo na segunda-feira à noite. Com sete jogos ainda por vir, tudo o que apareceu até aqui é parcial e pode virar de ponta a cabeça, então segura a comemoração e a zoeira para depois do apito final de cada confronto."
+        "titulo": "Pelotão da ponta e o que ainda falta",
+        "texto": "Dos cinco times empatados em 9 pontos na tabela geral, só o Império da Caipira e o Resina Club já entraram em campo pelo confronto oficial da rodada 24. Corticeira's Farm FC (17,60), Baade FC (20,00) e Brocador do Bonja (0,90) ainda esperam a estreia na rodada, com jogos ao longo deste domingo e o duelo Parizi 01 x pietro filho fechando tudo só na segunda. Três confrontos de dez já rolaram, sete seguem no forno, então é cedo demais para cravar qualquer resultado."
       }
     ],
-    "geradaEm": "2026-08-23T00:24:59Z"
+    "geradaEm": "2026-08-23T02:00:00Z"
   }
 ]
