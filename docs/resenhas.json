@@ -320,29 +320,29 @@
     "rodada": 24,
     "aoVivo": true,
     "rotulo": "Rodada 24 · andamento",
-    "titulo": "Reta final da rodada 24: tríplice empate na ponta, Kaempfs consuma o troco e VIERTRICOLOR mira a primeira vitória",
+    "titulo": "Reta final da rodada 24: tríplice empate ganha nova régua, Corticeira's dispara sozinho e VIERTRICOLOR mira o primeiro triunfo",
     "blocos": [
       {
         "icone": "🔥",
-        "titulo": "Tríplice empate queimando a régua do PG turno",
-        "texto": "Se a rodada 24 fechasse com os números de agora, Império da Caipira, Resina Club e Brocador do Bonja saltariam juntos de 9 para 12 pontos, os três vencendo seus jogos. O Resina Club, aliás, crava a melhor pontuação da rodada até aqui, 137,77 contra o Gaudérios FC. No desempate do PG turno o Império abriria vantagem enorme sobre os outros dois, mas entre Resina e Brocador a diferença seria de menos de meio ponto: 327,94 a 327,79. Treta de sobra para fechar a rodada."
+        "titulo": "Tríplice empate, mas a régua do PG turno já dá recado",
+        "texto": "Se a rodada 24 fechasse com os números de agora, Império da Caipira, Resina Club e Brocador do Bonja saltariam juntos de 9 para 12 pontos, os três vencendo seus jogos. Só que no desempate por PG turno o Império abriria boa vantagem, projetado em 483,73, contra 465,71 do Resina Club e 441,26 do Brocador. Empatados no placar principal, mas já dá para saber quem levaria a melhor se o apito soasse agora."
       },
       {
         "icone": "😮",
-        "titulo": "Kaempfs consuma o troco e Baade sai do pódio",
-        "texto": "O Kaempfs F.C., campeão do primeiro turno, segue estufando o peito contra o Baade FC: 129,79 a 92,66 nos parciais, números que não se mexem desde a última cobertura. Com essa derrota, o Baade sairia do grupo que liderava com 9 pontos e cairia numa fila de quatro times empatados em 9: ele mesmo, o Kaempfs, o Tricolor Lvfc e o Esporte Clube Barão. Fila dessas embola até o fim do returno."
+        "titulo": "Baade cai do pódio, Corticeira's assume sozinho o quarto lugar",
+        "texto": "O Kaempfs F.C. segue confirmando o troco no Baade FC, 129,79 a 92,78 nos parciais, resultado que tiraria o novato do grupo de líderes e o jogaria numa fila de quatro times empatados em 9 pontos: o próprio Baade, o Kaempfs, o Tricolor Lvfc e o Esporte Clube Barão. Quem sobe com força é o Corticeira's Farm FC, que empataria com o Alemonstro FBPA por apenas 1,70 ponto (100,17 a 98,47) e ainda assim assumiria sozinho a quarta posição, com 10 pontos."
       },
       {
         "icone": "🎉",
-        "titulo": "VIERTRICOLOR a um empurrão da primeira vitória",
-        "texto": "O lanterna isolado, zerado havia quatro rodadas, está batendo o HORST BRAUN por 73,10 a 45,69 e sonha com os primeiros 3 pontos da campanha. De quebra, o HORST BRAUN estampa a pior pontuação da rodada até aqui, contraste e tanto com quem só colecionava derrota. Se confirmar, é a primeira alegria de um returno até agora só de tropeço."
+        "titulo": "VIERTRICOLOR encosta o dedo na primeira vitória",
+        "texto": "O lanterna isolado, zerado havia quatro rodadas, segue batendo o HORST BRAUN por 73,10 a 45,69, hoje a pior pontuação da rodada. Se confirmar, é o primeiro triunfo do VIERTRICOLOR no returno, mas o alívio vem com ressalva: o time deixaria a lanterna isolada só para se juntar a Urachfc e SampaMissiones FC, trio que fecharia a rodada empatado em 3 pontos. Sobe um degrau, mas o banho ainda sairia frio."
       },
       {
         "icone": "⏳",
-        "titulo": "Empate na conta e um jogo faltando",
-        "texto": "O duelo mais quente do momento é Corticeira's Farm FC contra Alemonstro FBPA, com apenas 1,70 ponto de diferença (100,17 a 98,47), dentro da regra do empate da liga. Já são nove dos dez confrontos com bola rolando no jogo real, e só falta Parizi 01 encarar o pietro filho hoje à noite. Vale lembrar: no Cartola quem pontua são os atletas escalados, não o time da liga, então esses números ainda são parciais e podem virar até o apito final."
+        "titulo": "Falta um jogo, e ele é para hoje à noite",
+        "texto": "Já são nove dos dez confrontos com bola rolando no jogo real, e o único que falta é Parizi 01 contra pietro filho. Nos parciais o Parizi já aparece na frente, 108,27 a 79,09, mesmo com o jogo dos dois clubes ainda no relógio, porque quem pontua no Cartola são os atletas escalados, não o confronto da liga. Vale o aviso de sempre: enquanto sobrar bola rolando em algum canto do Brasil, esses números seguem de gaveta aberta."
       }
     ],
-    "geradaEm": "2026-08-24T11:20:00Z"
+    "geradaEm": "2026-08-24T14:20:00Z"
   }
 ]
