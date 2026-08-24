@@ -320,29 +320,29 @@
     "rodada": 24,
     "aoVivo": true,
     "rotulo": "Rodada 24 · andamento",
-    "titulo": "Reta final da rodada 24: tríplice empate ganha nova régua, Corticeira's dispara sozinho e VIERTRICOLOR mira o primeiro triunfo",
+    "titulo": "Reta final da rodada 24 trava no relógio: tríplice empate no topo e Kaempfs bate na porta do G5",
     "blocos": [
       {
+        "icone": "⏳",
+        "titulo": "Nove jogos rolados, um no forno",
+        "texto": "A rodada 24 segue com nove dos dez confrontos reais já em campo, e só falta o duelo entre Parizi 01 e pietro filho, marcado para hoje à noite. Os parciais estão exatamente como na minha última passagem pelo microfone, sem um pontinho a mais nem a menos, porque quem ainda não entrou em campo no Cartola simplesmente não pontua. Vale o aviso de sempre: essa foto pode mudar assim que o último jogo rolar."
+      },
+      {
         "icone": "🔥",
-        "titulo": "Tríplice empate, mas a régua do PG turno já dá recado",
-        "texto": "Se a rodada 24 fechasse com os números de agora, Império da Caipira, Resina Club e Brocador do Bonja saltariam juntos de 9 para 12 pontos, os três vencendo seus jogos. Só que no desempate por PG turno o Império abriria boa vantagem, projetado em 483,73, contra 465,71 do Resina Club e 441,26 do Brocador. Empatados no placar principal, mas já dá para saber quem levaria a melhor se o apito soasse agora."
+        "titulo": "Tríplice empate no topo, e o desempate já tem dono",
+        "texto": "Se o apito final tocasse agora, Império da Caipira, Resina Club e Brocador do Bonja saltariam juntos para 12 pontos, os três vencendo seus jogos na rodada. No desempate por PG turno o Império segue na frente, projetado em 483,73, com Resina logo atrás em 465,71 e Brocador fechando o pódio em 441,26. Empate no placar principal, mas quem manda no critério de desempate já está definido."
       },
       {
         "icone": "😮",
-        "titulo": "Baade cai do pódio, Corticeira's assume sozinho o quarto lugar",
-        "texto": "O Kaempfs F.C. segue confirmando o troco no Baade FC, 129,79 a 92,78 nos parciais, resultado que tiraria o novato do grupo de líderes e o jogaria numa fila de quatro times empatados em 9 pontos: o próprio Baade, o Kaempfs, o Tricolor Lvfc e o Esporte Clube Barão. Quem sobe com força é o Corticeira's Farm FC, que empataria com o Alemonstro FBPA por apenas 1,70 ponto (100,17 a 98,47) e ainda assim assumiria sozinho a quarta posição, com 10 pontos."
+        "titulo": "Corticeira's cai para o empate, Kaempfs mete o pé na porta do G5",
+        "texto": "O Corticeira's Farm FC, que vinha embalado, empataria com o Alemonstro FBPA por apenas 1,70 ponto (100,10 a 98,40) e cairia da segunda para a quarta posição, ainda garantido no grupo dos premiados. Quem sobe forte é o Kaempfs F.C., batendo o Baade FC por 129,79 a 92,78 e projetado para assumir a quinta vaga, justamente empurrando o próprio Baade para fora da zona de prêmio. Campeão do primeiro turno não esquece como se joga."
       },
       {
         "icone": "🎉",
-        "titulo": "VIERTRICOLOR encosta o dedo na primeira vitória",
-        "texto": "O lanterna isolado, zerado havia quatro rodadas, segue batendo o HORST BRAUN por 73,10 a 45,69, hoje a pior pontuação da rodada. Se confirmar, é o primeiro triunfo do VIERTRICOLOR no returno, mas o alívio vem com ressalva: o time deixaria a lanterna isolada só para se juntar a Urachfc e SampaMissiones FC, trio que fecharia a rodada empatado em 3 pontos. Sobe um degrau, mas o banho ainda sairia frio."
-      },
-      {
-        "icone": "⏳",
-        "titulo": "Falta um jogo, e ele é para hoje à noite",
-        "texto": "Já são nove dos dez confrontos com bola rolando no jogo real, e o único que falta é Parizi 01 contra pietro filho. Nos parciais o Parizi já aparece na frente, 108,27 a 79,09, mesmo com o jogo dos dois clubes ainda no relógio, porque quem pontua no Cartola são os atletas escalados, não o confronto da liga. Vale o aviso de sempre: enquanto sobrar bola rolando em algum canto do Brasil, esses números seguem de gaveta aberta."
+        "titulo": "VIERTRICOLOR vence, mas o banho ainda sai frio",
+        "texto": "O lanterna isolado bate o HORST BRAUN por 73,10 a 45,69 e, se confirmar, sai da lanterna isolada para empatar em pontos com Urachfc e SampaMissiones FC, os três com 3 pontos no returno. Só que no desempate por PG turno o VIERTRICOLOR ainda ficaria por último do trio, ou seja, vence o jogo e continua tomando banho frio na fila da tabela. Tudo isso pode virar de figura ainda hoje à noite, quando o último confronto da rodada entrar em campo."
       }
     ],
-    "geradaEm": "2026-08-24T14:20:00Z"
+    "geradaEm": "2026-08-24T19:05:00Z"
   }
 ]
