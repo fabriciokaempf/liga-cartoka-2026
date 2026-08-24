@@ -320,29 +320,29 @@
     "rodada": 24,
     "aoVivo": true,
     "rotulo": "Rodada 24 · andamento",
-    "titulo": "Sábado rendeu três jogos, mas o pesadão da rodada é hoje: seis confrontos entram em campo até a noite",
+    "titulo": "Reta final da rodada 24: nove dos dez jogos já rolaram e o pelotão da ponta pode rachar ao meio",
     "blocos": [
       {
-        "icone": "🌙",
-        "titulo": "O que sobrou do sábado",
-        "texto": "Os três confrontos que já rolaram no gramado seguem exatamente como estavam na última conferência: Gaudérios (29,49) na frente do Resina Club (28,60), o Império da Caipira (31,63) folgado sobre o Berwinha FC (23,80) mesmo tendo perdido o jogo real por 1 a 0, e o HORST BRAUN (10,09) atrás do VIERTRICOLOR (11,53) num 0 a 0 no jogo oficial. Nenhum dos três está fechado, a régua que vale é a do Cartola, não a do placar do estádio."
+        "icone": "🔥",
+        "titulo": "Resina Club dá um banho de bola nos parciais",
+        "texto": "O Resina Club lidera os parciais da rodada com 135,37 pontos, a melhor marca entre os vinte times, e vem confortável no confronto contra o Gaudérios FC, que soma 75,59. Se o placar do Cartola aguentar até o fim, o Resina embolsa os 3 pontos e sobe para 12 na tabela geral."
       },
       {
-        "icone": "🔝",
-        "titulo": "pietro filho segue na ponta, Madalena Club na cola",
-        "texto": "O pietro filho segue líder isolado dos parciais com 49,89 pontos, e o confronto dele contra o Parizi 01 (8,20) só começa na segunda à noite, então a ponta está garantida por enquanto. Logo atrás vem a Madalena Club, do Chico, com 44,73, também sem o próprio jogo iniciado: o time ainda encara o Kidiabense FC hoje às 16h."
+        "icone": "⚖️",
+        "titulo": "O pelotão dos cinco intocáveis pode rachar ao meio",
+        "texto": "Império da Caipira, Corticeira's Farm FC, Baade FC, Resina Club e Brocador do Bonja chegaram para a rodada empatados em 9 pontos, separados só pelo critério de desempate do turno. Pelos parciais de agora, Império, Resina e Brocador estão vencendo os próprios jogos e iriam a 12 pontos, enquanto Corticeira's Farm e Baade FC estão atrás no confronto e ficariam parados nos 9. Se confirmar assim, o pelotão que começou a rodada com cinco nomes vira um trio na frente."
       },
       {
-        "icone": "😬",
-        "titulo": "Brocador aperta o cinto antes da bola rolar",
-        "texto": "O Brocador do Bonja amarga meros 0,90 ponto nos parciais e entra em campo contra o Urachfc (12,20) hoje às 16h precisando arrancar rápido. Detalhe que pesa: o Brocador está entre os cinco times empatados em 9 pontos lá na tabela geral, empatado com o próprio Império da Caipira, então cochilar na rodada custa caro na briga pelo desempate."
+        "icone": "🎉",
+        "titulo": "VIERTRICOLOR sonha em quebrar o jejum",
+        "texto": "Lanterna isolado, ainda sem nenhum ponto ganho no returno, o VIERTRICOLOR aparece na frente dos parciais contra o HORST BRAUN por 64,73 a 45,69. Se aguentar até o apito final do Cartola, sai a primeira vitória da campanha e um alívio e tanto para a torcida. De quebra, Alemonstro FBPA e Esporte Clube Barão também estão vencendo seus confrontos e podem saltar de 6 para 9 pontos ainda hoje."
       },
       {
         "icone": "⏳",
-        "titulo": "Seis jogos de domingo e um de segunda ainda no forno",
-        "texto": "Três dos dez confrontos da rodada 24 já tiveram bola rolando no jogo real, mas nenhum fechou nos pontos do Cartola. Seis confrontos começam ainda hoje entre 16h e 19h30, entre eles o do Corticeira's Farm FC, que fechou a rodada 23 com a melhor pontuação da liga, e o duelo Parizi 01 contra pietro filho fecha tudo só na segunda à noite. Pontuação parcial não garante nada, então segura a comemoração e o choro para depois."
+        "titulo": "Falta só um confronto para fechar a conta",
+        "texto": "Nove dos dez jogos da rodada 24 já tiveram bola rolando no campo, mas o duelo entre Parizi 01 e pietro filho só entra em campo hoje à noite. Até lá, toda pontuação continua parcial e pode virar de ponta a cabeça, então segura a comemoração e o choro para depois do apito final."
       }
     ],
-    "geradaEm": "2026-08-23T12:25:41Z"
+    "geradaEm": "2026-08-24T00:24:29Z"
   }
 ]
