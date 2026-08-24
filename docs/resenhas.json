@@ -320,29 +320,29 @@
     "rodada": 24,
     "aoVivo": true,
     "rotulo": "Rodada 24 · andamento",
-    "titulo": "Reta final da rodada 24: trio dispara na ponta, Kaempfs aplica o troco e VIERTRICOLOR sonha com o primeiro triunfo",
+    "titulo": "Reta final da rodada 24: tríplice empate na ponta, Kaempfs consuma o troco e VIERTRICOLOR mira a primeira vitória",
     "blocos": [
       {
         "icone": "🔥",
-        "titulo": "O trio que dispara lá na frente",
-        "texto": "Se a rodada 24 acabasse com o placar de agora, Império da Caipira, Resina Club e Brocador do Bonja (três dos cinco que abriram a rodada empatados em 9 pontos) estariam vencendo seus jogos e pulando juntos para 12 pontos, isolados na ponta. O pelotão que eu acompanhei ao vivo já não é mais o mesmo: o Corticeira's Farm FC está apenas 1,70 ponto à frente do Alemonstro FBPA, diferença que cai na regra do empate, e ficaria com 10 pontos. Já o Baade FC, que também estava nos 9, está perdendo feio e não sai do lugar."
+        "titulo": "Tríplice empate queimando a régua do PG turno",
+        "texto": "Se a rodada 24 fechasse com os números de agora, Império da Caipira, Resina Club e Brocador do Bonja saltariam juntos de 9 para 12 pontos, os três vencendo seus jogos. O Resina Club, aliás, crava a melhor pontuação da rodada até aqui, 137,77 contra o Gaudérios FC. No desempate do PG turno o Império abriria vantagem enorme sobre os outros dois, mas entre Resina e Brocador a diferença seria de menos de meio ponto: 327,94 a 327,79. Treta de sobra para fechar a rodada."
       },
       {
         "icone": "😮",
-        "titulo": "Kaempfs aplica o troco no líder",
-        "texto": "O Kaempfs F.C., campeão do primeiro turno, está estampando 129,79 a 92,66 contra o próprio Baade FC nos parciais e ameaça saltar de 6 para 9 pontos se segurar essa vantagem até o fim. Seria a resposta do campeão justamente contra o time que vinha embalado no topo da tabela do returno."
+        "titulo": "Kaempfs consuma o troco e Baade sai do pódio",
+        "texto": "O Kaempfs F.C., campeão do primeiro turno, segue estufando o peito contra o Baade FC: 129,79 a 92,66 nos parciais, números que não se mexem desde a última cobertura. Com essa derrota, o Baade sairia do grupo que liderava com 9 pontos e cairia numa fila de quatro times empatados em 9: ele mesmo, o Kaempfs, o Tricolor Lvfc e o Esporte Clube Barão. Fila dessas embola até o fim do returno."
       },
       {
         "icone": "🎉",
-        "titulo": "VIERTRICOLOR na iminência de quebrar o jejum",
-        "texto": "Lanterna isolado, com 0 ponto em 4 rodadas, o VIERTRICOLOR está batendo o HORST BRAUN por 73,10 a 45,69 nos parciais e sonha com os primeiros 3 pontos do returno. Se confirmar, é a primeira alegria de uma campanha que só colecionou derrota até aqui."
+        "titulo": "VIERTRICOLOR a um empurrão da primeira vitória",
+        "texto": "O lanterna isolado, zerado havia quatro rodadas, está batendo o HORST BRAUN por 73,10 a 45,69 e sonha com os primeiros 3 pontos da campanha. De quebra, o HORST BRAUN estampa a pior pontuação da rodada até aqui, contraste e tanto com quem só colecionava derrota. Se confirmar, é a primeira alegria de um returno até agora só de tropeço."
       },
       {
         "icone": "⏳",
-        "titulo": "Falta um jogo para fechar a conta",
-        "texto": "Nove dos dez confrontos da rodada 24 já tiveram bola rolando no jogo real, e só falta Parizi 01 contra pietro filho entrar em campo hoje à noite. Lembrando que no Cartola quem pontua são os atletas escalados, não o time da liga, então essas contas ainda podem mudar bastante até o apito final geral. Segura a comemoração e o choro, que ainda não fechou."
+        "titulo": "Empate na conta e um jogo faltando",
+        "texto": "O duelo mais quente do momento é Corticeira's Farm FC contra Alemonstro FBPA, com apenas 1,70 ponto de diferença (100,17 a 98,47), dentro da regra do empate da liga. Já são nove dos dez confrontos com bola rolando no jogo real, e só falta Parizi 01 encarar o pietro filho hoje à noite. Vale lembrar: no Cartola quem pontua são os atletas escalados, não o time da liga, então esses números ainda são parciais e podem virar até o apito final."
       }
     ],
-    "geradaEm": "2026-08-24T02:20:00Z"
+    "geradaEm": "2026-08-24T11:20:00Z"
   }
 ]
