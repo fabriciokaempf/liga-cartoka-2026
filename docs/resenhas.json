@@ -320,29 +320,29 @@
     "rodada": 24,
     "aoVivo": true,
     "rotulo": "Rodada 24 · andamento",
-    "titulo": "Reta final da rodada 24: nove dos dez jogos já rolaram e o pelotão da ponta pode rachar ao meio",
+    "titulo": "Reta final da rodada 24: trio dispara na ponta, Kaempfs aplica o troco e VIERTRICOLOR sonha com o primeiro triunfo",
     "blocos": [
       {
         "icone": "🔥",
-        "titulo": "Resina Club dá um banho de bola nos parciais",
-        "texto": "O Resina Club lidera os parciais da rodada com 135,37 pontos, a melhor marca entre os vinte times, e vem confortável no confronto contra o Gaudérios FC, que soma 75,59. Se o placar do Cartola aguentar até o fim, o Resina embolsa os 3 pontos e sobe para 12 na tabela geral."
+        "titulo": "O trio que dispara lá na frente",
+        "texto": "Se a rodada 24 acabasse com o placar de agora, Império da Caipira, Resina Club e Brocador do Bonja (três dos cinco que abriram a rodada empatados em 9 pontos) estariam vencendo seus jogos e pulando juntos para 12 pontos, isolados na ponta. O pelotão que eu acompanhei ao vivo já não é mais o mesmo: o Corticeira's Farm FC está apenas 1,70 ponto à frente do Alemonstro FBPA, diferença que cai na regra do empate, e ficaria com 10 pontos. Já o Baade FC, que também estava nos 9, está perdendo feio e não sai do lugar."
       },
       {
-        "icone": "⚖️",
-        "titulo": "O pelotão dos cinco intocáveis pode rachar ao meio",
-        "texto": "Império da Caipira, Corticeira's Farm FC, Baade FC, Resina Club e Brocador do Bonja chegaram para a rodada empatados em 9 pontos, separados só pelo critério de desempate do turno. Pelos parciais de agora, Império, Resina e Brocador estão vencendo os próprios jogos e iriam a 12 pontos, enquanto Corticeira's Farm e Baade FC estão atrás no confronto e ficariam parados nos 9. Se confirmar assim, o pelotão que começou a rodada com cinco nomes vira um trio na frente."
+        "icone": "😮",
+        "titulo": "Kaempfs aplica o troco no líder",
+        "texto": "O Kaempfs F.C., campeão do primeiro turno, está estampando 129,79 a 92,66 contra o próprio Baade FC nos parciais e ameaça saltar de 6 para 9 pontos se segurar essa vantagem até o fim. Seria a resposta do campeão justamente contra o time que vinha embalado no topo da tabela do returno."
       },
       {
         "icone": "🎉",
-        "titulo": "VIERTRICOLOR sonha em quebrar o jejum",
-        "texto": "Lanterna isolado, ainda sem nenhum ponto ganho no returno, o VIERTRICOLOR aparece na frente dos parciais contra o HORST BRAUN por 64,73 a 45,69. Se aguentar até o apito final do Cartola, sai a primeira vitória da campanha e um alívio e tanto para a torcida. De quebra, Alemonstro FBPA e Esporte Clube Barão também estão vencendo seus confrontos e podem saltar de 6 para 9 pontos ainda hoje."
+        "titulo": "VIERTRICOLOR na iminência de quebrar o jejum",
+        "texto": "Lanterna isolado, com 0 ponto em 4 rodadas, o VIERTRICOLOR está batendo o HORST BRAUN por 73,10 a 45,69 nos parciais e sonha com os primeiros 3 pontos do returno. Se confirmar, é a primeira alegria de uma campanha que só colecionou derrota até aqui."
       },
       {
         "icone": "⏳",
-        "titulo": "Falta só um confronto para fechar a conta",
-        "texto": "Nove dos dez jogos da rodada 24 já tiveram bola rolando no campo, mas o duelo entre Parizi 01 e pietro filho só entra em campo hoje à noite. Até lá, toda pontuação continua parcial e pode virar de ponta a cabeça, então segura a comemoração e o choro para depois do apito final."
+        "titulo": "Falta um jogo para fechar a conta",
+        "texto": "Nove dos dez confrontos da rodada 24 já tiveram bola rolando no jogo real, e só falta Parizi 01 contra pietro filho entrar em campo hoje à noite. Lembrando que no Cartola quem pontua são os atletas escalados, não o time da liga, então essas contas ainda podem mudar bastante até o apito final geral. Segura a comemoração e o choro, que ainda não fechou."
       }
     ],
-    "geradaEm": "2026-08-24T00:24:29Z"
+    "geradaEm": "2026-08-24T02:20:00Z"
   }
 ]
