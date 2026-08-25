@@ -316,33 +316,41 @@
     "geradaEm": "2026-08-18T16:46:06.578384Z"
   },
   {
-    "id": "andamento-rodada-24",
+    "id": "rodada-24",
     "rodada": 24,
-    "aoVivo": true,
-    "rotulo": "Rodada 24 · andamento",
-    "titulo": "Parciais congelam com Resina e Brocador de mãos dadas na ponta, e o nó de nove times sem se desatar",
+    "titulo": "Rodada 24 fecha com Resina e Brocador colados na ponta, e o Barão cai do pelotão dos 9 no apagar das luzes",
     "blocos": [
       {
-        "icone": "⏳",
-        "titulo": "Dez de dez, e o placar parado no lugar",
-        "texto": "Os dez confrontos reais da rodada 24 já terminaram faz tempo, e desde a última atualização os parciais do Cartola não se mexeram um centímetro. Oficialmente a rodada ainda não fechou, então nada está cravado em pedra, mas com todo mundo de folga em campo o cenário tem cara de fotografia final. Bola parada, cronômetro correndo até o apito da diretoria."
-      },
-      {
         "icone": "🥇",
-        "titulo": "Resina e Brocador seguem de mãos dadas na ponta",
-        "texto": "Se fechar exatamente como está, Resina Club e Brocador do Bonja somam 12 pontos cada depois de golear seus rivais (137,77 e 130,67 na rodada, respectivamente). No desempate por PG turno o Resina segue na frente, projetado em 465,71 contra 458,46 do Brocador. Dois times que praticamente não erram desde que o returno começou."
-      },
-      {
-        "icone": "🎢",
-        "titulo": "O nó de nove times continua apertado",
-        "texto": "Logo atrás da dupla líder, o pelotão de nove times projetados com 9 pontos cada não desatou: Império da Caipira, Kaempfs F.C., Corticeira's Farm FC, Tricolor Lvfc, Baade FC, Esporte Clube Barão, Alemonstro FBPA, Berwinha FC e HORST BRAUN. Destaque para o Berwinha, que virou o duelo direto contra o Império por 115,50 a 113,40, a diferença mais curta de toda a rodada, e para o Kaempfs, com a segunda melhor pontuação do dia (129,72, atrás só do Resina)."
+        "titulo": "Cartoleiro da rodada: Resina crava a melhor pontuação",
+        "texto": "Como eu avisei ainda no sábado, Resina Club e Brocador do Bonja fecharam a rodada 24 empatados em 12 pontos corridos cada, os dois únicos a vencer com sobra na rodada (138,67 e 132,47, a maior e a segunda maior pontuação do dia). No desempate por PG turno, o Resina segue na frente: 466,61 contra 460,26 do Brocador. Duas máquinas que simplesmente não descolam uma da outra."
       },
       {
         "icone": "🚿",
-        "titulo": "Quem já pode ir separando a toalha",
-        "texto": "Do outro lado da rodada, o VIERTRICOLOR segue projetado com 0 pontos no returno inteiro, sem vencer nenhum dos quatro confrontos até aqui. Urachfc e SampaMissiones FC também amargam pontuações baixas na rodada e devem seguir na parte de baixo da tabela se o placar não mudar mais. Ainda dá tempo de o Cartola surpreender, mas a esta altura seria surpresa e tanto."
+        "titulo": "Vexame da rodada: Vier não sai do fundo do poço",
+        "texto": "O VIERTRICOLOR fechou com a pior pontuação da rodada, 74,2, e nem jogando em casa contra o HORST BRAUN escapou da derrota (100,82 a 74,2). Com isso, segue de lanterna isolada, zero vitórias nas cinco rodadas do returno até aqui. Já dá pra separar a toalha com antecedência."
+      },
+      {
+        "icone": "⚡",
+        "titulo": "Jogo da rodada: Sampa fecha o troco escondido no meio da tabela",
+        "texto": "A fisgada mais apertada da rodada passou batida enquanto eu ainda apostava na resistência do Barão: SampaMissiones FC venceu o Esporte Clube Barão por 112,68 a 109,17, diferença de só 3,51 pontos, a menor de toda a rodada 24. Achei que o Barão ia embarcar no pelotão lá de cima, mas o Sampa fechou o troco no fim."
+      },
+      {
+        "icone": "🎢",
+        "titulo": "Sobe e desce: Berwinha entra no pelotão, Barão sai",
+        "texto": "A virada que eu já tinha flagrado ao vivo se confirmou: o Berwinha FC bateu o Império da Caipira por 126,70 a 113,40 e subiu para 9 pontos corridos, entrando no pelotão gigante que ocupa da 3ª à 10ª posição (Corticeira's Farm, Império, Tricolor, Kaempfs, Baade, Alemonstro, Berwinha e HORST BRAUN, todos com 9). Já o Barão, que eu cheguei a incluir nesse grupo durante a cobertura ao vivo, perdeu no apagar das luzes e ficou com 6 pontos, na 13ª posição."
+      },
+      {
+        "icone": "📻",
+        "titulo": "Recado pra quem acompanhou ao vivo",
+        "texto": "No sábado eu avisei que Resina e Brocador estavam de mãos dadas na ponta, brigando pra ver quem descolava primeiro: bateu certinho, os dois fecharam empatados em 12 pontos, com o Resina levando o desempate por pouco mais de 6 pontos de PG turno. A previsão do nó de times na casa dos 9 pontos também quase fechou como o combinado, só o Barão que resolveu furar o acordo lá no finalzinho."
+      },
+      {
+        "icone": "🔮",
+        "titulo": "Espiada na rodada 25",
+        "texto": "A bola só rola de novo a partir do dia 29, mas a tabela de confrontos já está pegando fogo: o Brocador do Bonja recebe o Império da Caipira num duelo direto do pelotão de perseguição, o líder Resina Club enfrenta o Tricolor Lvfc, e o Berwinha FC, embalado pela virada da rodada passada, tenta engatar sequência contra o Parizi 01. Enquanto isso, o Kaempfs mede forças com o Urachfc, que segue tentando escapar da parte de baixo da tabela."
       }
     ],
-    "geradaEm": "2026-08-25T05:10:00Z"
+    "geradaEm": "2026-08-25T14:40:00Z"
   }
 ]
