@@ -352,5 +352,35 @@
       }
     ],
     "geradaEm": "2026-08-25T14:40:00Z"
+  },
+  {
+    "id": "andamento-rodada-25",
+    "rodada": 25,
+    "aoVivo": true,
+    "rotulo": "Rodada 25 · andamento",
+    "titulo": "Rodada 25 esquenta: Resina e Brocador colados na ponta, Kaempfs mede forças com o Urachfc lá embaixo",
+    "blocos": [
+      {
+        "icone": "🔥",
+        "titulo": "Duelo de líderes abre a treta",
+        "texto": "A rodada 25 já entra com nome de decisão: o líder Resina Club, que só está na ponta por causa do desempate no PG turno sobre o Brocador do Bonja (466,61 a 460,26, ambos com 12 pontos corridos), recebe o Tricolor Lvfc num teste e tanto para a artilharia da liga. No mesmo dia 29/08, o próprio Brocador do Bonja encara o Império da Caipira, que está bem mais perto da ponta do que muita gente lembra, na 4ª posição com 9 pontos. Dois jogos que valem ouro para quem quer segurar o topo da tabela."
+      },
+      {
+        "icone": "🎯",
+        "titulo": "Campeão do turno passado tenta sair do buraco",
+        "texto": "O Kaempfs F.C., que fechou o primeiro turno com a taça debaixo do braço, mede forças com o Urachfc, que abriu o returno artilheiro (127,41 de estreia) e hoje ocupa a 19ª posição com apenas 3 pontos corridos. É o tipo de confronto que separa quem está de fato reagindo de quem só teve um dia de sorte lá atrás. O Kaempfs está no meio do pelotão, na 6ª colocação com 9 pontos, e não pode escorregar mais."
+      },
+      {
+        "icone": "📉",
+        "titulo": "Lanterna tenta sair do zero",
+        "texto": "Quem abre a rodada 25, no dia 29/08, é o VIERTRICOLOR, isolado na lanterna do returno com 0 ponto em cinco rodadas. O time do Daniel Vier joga em casa e sabe que perder de novo é carimbar de vez o passaporte para o fundo do poço. Ainda dá tempo de reagir, mas o relógio não para de correr."
+      },
+      {
+        "icone": "🔮",
+        "titulo": "Ainda é tudo giz de tabela",
+        "texto": "Calma, torcida: a bola só rola de verdade a partir do dia 29/08, e até agora nenhum dos dez confrontos da rodada 25 teve o jogo real começado, faltam os dez jogos inteiros. Zero pontuação no Cartola por enquanto, então ninguém é mito nem vexame ainda, é tudo projeção e fofoca de grupo. O Zé aposta numa vitória apertada do Resina sobre o Tricolor para o líder respirar mais aliviado, mas garante voltar aqui assim que a bola começar a rolar de verdade."
+      }
+    ],
+    "geradaEm": "2026-08-25T19:00:00Z"
   }
 ]
