@@ -320,29 +320,29 @@
     "rodada": 24,
     "aoVivo": true,
     "rotulo": "Rodada 24 · andamento",
-    "titulo": "Berwinha vira sobre o Império, Resina e Brocador dividem a ponta e o meio de tabela vira um nó de nove times",
+    "titulo": "Parciais congelam com Resina e Brocador de mãos dadas na ponta, e o nó de nove times sem se desatar",
     "blocos": [
       {
         "icone": "⏳",
-        "titulo": "Dez jogos no bolso, nada fechado ainda",
-        "texto": "Os dez confrontos reais da rodada 24 seguem todos encerrados, mas a pontuação do Cartola continua parcial e pode se mexer até o fechamento oficial. Os números desta atualização são uma fotografia do momento, não o resultado final. Guarda o cinto, que a resenha de fechamento ainda vem por aí."
-      },
-      {
-        "icone": "🔄",
-        "titulo": "A virada que derruba a manchete de agorinha",
-        "texto": "Na última atualização eu contei aqui que o Império da Caipira vencia o Berwinha FC por 113,40 a 107,60. Pois o Berwinha não parou de pontuar, chegou a 115,50 e virou o placar, ganhando por apenas 2,10 pontos, a diferença mais curta da rodada até agora. Aquela história de tríplice empate na ponta já pode ir para o arquivo."
+        "titulo": "Dez de dez, e o placar parado no lugar",
+        "texto": "Os dez confrontos reais da rodada 24 já terminaram faz tempo, e desde a última atualização os parciais do Cartola não se mexeram um centímetro. Oficialmente a rodada ainda não fechou, então nada está cravado em pedra, mas com todo mundo de folga em campo o cenário tem cara de fotografia final. Bola parada, cronômetro correndo até o apito da diretoria."
       },
       {
         "icone": "🥇",
-        "titulo": "Resina e Brocador dividem a ponta, no cotovelo do PG turno",
-        "texto": "Sem o Império na conta, quem lidera agora, se a rodada fechasse assim, são Resina Club e Brocador do Bonja, cada um com 12 pontos depois de golear seus rivais (137,77 e 130,67 na rodada, respectivamente). No desempate por PG turno o Resina sai na frente, projetado em 465,71 contra 458,46 do Brocador. Times bons de plantão, treta boa de acompanhar."
+        "titulo": "Resina e Brocador seguem de mãos dadas na ponta",
+        "texto": "Se fechar exatamente como está, Resina Club e Brocador do Bonja somam 12 pontos cada depois de golear seus rivais (137,77 e 130,67 na rodada, respectivamente). No desempate por PG turno o Resina segue na frente, projetado em 465,71 contra 458,46 do Brocador. Dois times que praticamente não erram desde que o returno começou."
       },
       {
         "icone": "🎢",
-        "titulo": "Nove times empatados em 9 pontos, e o Kaempfs no meio do rolo",
-        "texto": "Logo atrás da dupla líder, formou-se um pelotão de nove times projetados com 9 pontos cada: Império da Caipira, Kaempfs F.C., Corticeira's Farm FC, Tricolor Lvfc, Baade FC, Esporte Clube Barão, Alemonstro FBPA, Berwinha FC e HORST BRAUN. O Kaempfs, campeão do primeiro turno, cravou a segunda melhor pontuação da rodada até agora (129,72, atrás só do Resina) e briga para sair na frente desse nó quando o PG turno decidir tudo."
+        "titulo": "O nó de nove times continua apertado",
+        "texto": "Logo atrás da dupla líder, o pelotão de nove times projetados com 9 pontos cada não desatou: Império da Caipira, Kaempfs F.C., Corticeira's Farm FC, Tricolor Lvfc, Baade FC, Esporte Clube Barão, Alemonstro FBPA, Berwinha FC e HORST BRAUN. Destaque para o Berwinha, que virou o duelo direto contra o Império por 115,50 a 113,40, a diferença mais curta de toda a rodada, e para o Kaempfs, com a segunda melhor pontuação do dia (129,72, atrás só do Resina)."
+      },
+      {
+        "icone": "🚿",
+        "titulo": "Quem já pode ir separando a toalha",
+        "texto": "Do outro lado da rodada, o VIERTRICOLOR segue projetado com 0 pontos no returno inteiro, sem vencer nenhum dos quatro confrontos até aqui. Urachfc e SampaMissiones FC também amargam pontuações baixas na rodada e devem seguir na parte de baixo da tabela se o placar não mudar mais. Ainda dá tempo de o Cartola surpreender, mas a esta altura seria surpresa e tanto."
       }
     ],
-    "geradaEm": "2026-08-25T04:25:20Z"
+    "geradaEm": "2026-08-25T05:10:00Z"
   }
 ]
