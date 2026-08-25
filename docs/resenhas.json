@@ -320,29 +320,29 @@
     "rodada": 24,
     "aoVivo": true,
     "rotulo": "Rodada 24 · andamento",
-    "titulo": "Reta final da rodada 24 trava no relógio: tríplice empate no topo e Kaempfs bate na porta do G5",
+    "titulo": "Todos os dez jogos da rodada 24 já rolaram: tríplice empate na ponta e Kaempfs fura o G5",
     "blocos": [
       {
         "icone": "⏳",
-        "titulo": "Nove jogos rolados, um no forno",
-        "texto": "A rodada 24 segue com nove dos dez confrontos reais já em campo, e só falta o duelo entre Parizi 01 e pietro filho, marcado para hoje à noite. Os parciais estão exatamente como na minha última passagem pelo microfone, sem um pontinho a mais nem a menos, porque quem ainda não entrou em campo no Cartola simplesmente não pontua. Vale o aviso de sempre: essa foto pode mudar assim que o último jogo rolar."
+        "titulo": "Dez de dez, falta só o apito oficial",
+        "texto": "Os dez confrontos reais da rodada 24 já foram todos disputados, desde o Gaudérios FC contra o Resina Club até o Parizi 01 contra o pietro filho, que fechou a última bola rolando. Mesmo assim a rodada do Cartola segue aberta e a pontuação que você vê aqui ainda é parcial, podendo se mexer até o fechamento oficial. Guarda esse aviso, porque a resenha de fechamento ainda vem por aí."
       },
       {
-        "icone": "🔥",
+        "icone": "🥇",
         "titulo": "Tríplice empate no topo, e o desempate já tem dono",
-        "texto": "Se o apito final tocasse agora, Império da Caipira, Resina Club e Brocador do Bonja saltariam juntos para 12 pontos, os três vencendo seus jogos na rodada. No desempate por PG turno o Império segue na frente, projetado em 483,73, com Resina logo atrás em 465,71 e Brocador fechando o pódio em 441,26. Empate no placar principal, mas quem manda no critério de desempate já está definido."
+        "texto": "Se a rodada fechasse agora, Império da Caipira, Resina Club e Brocador do Bonja empatariam com 12 pontos cada, os três batendo seus adversários na rodada. No desempate por PG turno o Império segue na frente, projetado em 483,73, com o Resina logo atrás em 465,71 e o Brocador fechando o pódio em 450,56. Time bom não desgruda da ponta."
       },
       {
-        "icone": "😮",
-        "titulo": "Corticeira's cai para o empate, Kaempfs mete o pé na porta do G5",
-        "texto": "O Corticeira's Farm FC, que vinha embalado, empataria com o Alemonstro FBPA por apenas 1,70 ponto (100,10 a 98,40) e cairia da segunda para a quarta posição, ainda garantido no grupo dos premiados. Quem sobe forte é o Kaempfs F.C., batendo o Baade FC por 129,79 a 92,78 e projetado para assumir a quinta vaga, justamente empurrando o próprio Baade para fora da zona de prêmio. Campeão do primeiro turno não esquece como se joga."
+        "icone": "😱",
+        "titulo": "Kaempfs fura o G5 e manda o Corticeira's e o Baade pro raio X",
+        "texto": "O Kaempfs F.C., campeão do primeiro turno, bateu o Baade FC por 129,79 a 102,08 e, se confirmar, salta para a 4ª posição com 9 pontos e o melhor PG turno do pelotão intermediário, projetado em 479,87. Isso empurra o Corticeira's Farm FC, que tropeçou diante do Alemonstro FBPA, para a 5ª colocação mesmo mantendo os 9 pontos, e faz o Baade despencar do G3 para a 8ª posição. Zona de prêmio embolando rápido."
       },
       {
-        "icone": "🎉",
-        "titulo": "VIERTRICOLOR vence, mas o banho ainda sai frio",
-        "texto": "O lanterna isolado bate o HORST BRAUN por 73,10 a 45,69 e, se confirmar, sai da lanterna isolada para empatar em pontos com Urachfc e SampaMissiones FC, os três com 3 pontos no returno. Só que no desempate por PG turno o VIERTRICOLOR ainda ficaria por último do trio, ou seja, vence o jogo e continua tomando banho frio na fila da tabela. Tudo isso pode virar de figura ainda hoje à noite, quando o último confronto da rodada entrar em campo."
+        "icone": "🚿",
+        "titulo": "Duelo apertado no meio e banho gelado na lanterna",
+        "texto": "O jogo mais equilibrado da rodada foi Império da Caipira contra Berwinha FC, decidido por apenas 5,80 pontos (113,40 a 107,60). Já o VIERTRICOLOR perdeu para o HORST BRAUN por 90,54 a 73,10 e segue com 0 ponto depois de cinco rodadas seguidas no returno, isolado na lanterna. O HORST BRAUN, por sua vez, sobe para 9 pontos com a vitória."
       }
     ],
-    "geradaEm": "2026-08-24T19:05:00Z"
+    "geradaEm": "2026-08-25T00:15:00Z"
   }
 ]
