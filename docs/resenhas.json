@@ -358,29 +358,29 @@
     "rodada": 25,
     "aoVivo": true,
     "rotulo": "Rodada 25 · andamento",
-    "titulo": "Zé passa de novo pela tabela: rodada 25 continua na base do giz",
+    "titulo": "Zé passa de novo pela tabela: ainda faltam três dias pro apito inicial",
     "blocos": [
       {
         "icone": "📋",
-        "titulo": "Zé confere e nada mudou",
-        "texto": "Voltei aqui, conferi de novo e os dez confrontos da rodada 25 seguem zerados, o pontapé inicial só sai sexta, dia 29/08. A tabela continua parada com o Resina Club na ponta pelo desempate de PG turno sobre o Brocador do Bonja, os dois com 12 pontos corridos. Aproveita esses dias de folga pra revisar a escalação, porque depois não adianta reclamar."
+        "titulo": "Segue tudo no zero, mas o Zé não desgruda do rádio",
+        "texto": "Voltei aqui de novo e os dez confrontos da rodada 25 continuam sem um único jogo real iniciado, o pontapé inicial sai só sexta, dia 29/08, às 18h30. A tabela segue com o Resina Club na ponta pelo desempate de PG turno sobre o Brocador do Bonja, os dois empatados em 12 pontos corridos. Ainda dá tempo de mexer na escalação, mas o relógio já está correndo."
       },
       {
         "icone": "⚔️",
-        "titulo": "Choque de quem some pontos no returno",
-        "texto": "Sexta, às 20h, tem Corticeira's Farm FC (3º colocado, e dono da melhor pontuação de turno entre os 20 times até aqui) recebendo o Madalena Club (15º, ainda patinando). No papel é duelo de David e Golias, mas no Cartola quem escala bem vira Golias em qualquer rodada."
+        "titulo": "Vice recebe o quarto colocado direto na sexta",
+        "texto": "O jogo que fecha a sexta-feira é gordo de verdade: às 21h20, o Brocador do Bonja (2º, 12 pontos) recebe o Império da Caipira (4º, 9 pontos) em confronto direto de quem briga pela ponta. Perder esse aqui em casa dói duas vezes: no ego e na tabela."
       },
       {
-        "icone": "🥊",
-        "titulo": "Novato mede forças com veterano do meio de tabela",
-        "texto": "Sábado, 30/08, 16h: Mandrackefc (14º) recebe o Baade FC (7º), aquele time que só chegou na Cartoka no returno e já se meteu no meio da briga. Quem vinha de casa nova sentando cadeira lá no meio da tabela merece respeito, e o Mandrackefc que se cuide."
+        "icone": "🎯",
+        "titulo": "Campeão do turno passado encara quem ainda patina",
+        "texto": "Sábado, 18h30, tem Kaempfs F.C. (6º, 9 pontos, o campeão do primeiro turno) recebendo o Urachfc (19º, 3 pontos, penúltimo colocado do returno). No papel é favoritismo do Kaempfs, mas turno passado é tempero e essa liga já provou que ninguém está livre de vexame."
       },
       {
-        "icone": "👀",
-        "titulo": "Radar do meio pra baixo",
-        "texto": "Mesmo sábado tem dois confrontos de quem quer subir na tabela: Berwinha FC (9º) recebe o Parizi 01 (11º) às 16h, e às 19h30 é a vez de Esporte Clube Barão (13º) receber o HORST BRAUN (10º). Ninguém ali está livre da degola nem perto do G4, então é osso duro de roer dos dois lados."
+        "icone": "🔮",
+        "titulo": "Líder só entra em campo por último",
+        "texto": "O Resina Club, ponteiro da tabela, é o último a jogar na rodada: domingo, 20h, contra o Tricolor Lvfc (5º, 9 pontos). Enquanto isso não chega, o Zé segue de plantão aqui, sem deixar a página um minuto sem cobertura."
       }
     ],
-    "geradaEm": "2026-08-26T08:25:06Z"
+    "geradaEm": "2026-08-26T12:25:57Z"
   }
 ]
