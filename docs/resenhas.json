@@ -358,29 +358,29 @@
     "rodada": 25,
     "aoVivo": true,
     "rotulo": "Rodada 25 · andamento",
-    "titulo": "Zé corrige a escala: a rodada 25 começa é no sábado, não na sexta",
+    "titulo": "Faltam tres dias pra bola rolar e o Zé já escalou os confrontos que valem ingresso",
     "blocos": [
       {
-        "icone": "📋",
-        "titulo": "Nada mudou no gramado, mas o Zé conserta um vacilo no calendário",
-        "texto": "Voltei aqui de novo e os dez confrontos da rodada 25 continuam sem um único jogo real iniciado. Só que preciso corrigir uma bobagem minha: o pontapé inicial sai no sábado, dia 29/08, às 18h30, e não na sexta como eu falei antes. Bola pra frente e desculpa a confusão de agenda. Na tabela, tudo igual: Resina Club segue na ponta pelo desempate de PG turno sobre o Brocador do Bonja, os dois empatados em 12 pontos corridos."
+        "icone": "⏳",
+        "titulo": "Ainda é tudo esquenta, mercado segue aberto",
+        "texto": "Voltei aqui e nada mudou no gramado: os dez confrontos da rodada 25 continuam com zero jogo real iniciado, a bola só rola no sábado, 29/08, às 18h30. Enquanto isso o mercado segue aberto, então quem ainda não escalou tem alguns dias pra parar de vacilar. A tabela continua exatamente como fechou a rodada 24, com Resina Club e Brocador do Bonja colados no topo."
       },
       {
-        "icone": "⚔️",
-        "titulo": "Vice recebe o quarto colocado no fim de sábado",
-        "texto": "O jogo que fecha o sábado é gordo de verdade: às 21h20, o Brocador do Bonja (2º, 12 pontos) recebe o Império da Caipira (4º, 9 pontos) em confronto direto de quem briga pela ponta. Perder esse aqui em casa dói duas vezes: no ego e na tabela."
+        "icone": "🆘",
+        "titulo": "Lanterna abre a rodada em busca de socorro",
+        "texto": "Quem inaugura a rodada 25 é justamente o VIERTRICOLOR, lanterna isolada com zero vitória no returno, recebendo o SampaMissiones FC (18º colocado) logo às 18h30 de sábado. Se o Vier não pontuar aqui em casa, a essa altura já pode pedir reforço nas escolas de goleiro."
       },
       {
-        "icone": "🎯",
-        "titulo": "Campeão do turno passado encara quem ainda patina",
-        "texto": "Domingo, 18h30, tem Kaempfs F.C. (6º, 9 pontos, o campeão do primeiro turno) recebendo o Urachfc (19º, 3 pontos, penúltimo colocado do returno). No papel é favoritismo do Kaempfs, mas turno passado é tempero e essa liga já provou que ninguém está livre de vexame."
+        "icone": "🆕",
+        "titulo": "O novato do pelotão dos nove joga fora de casa",
+        "texto": "O Baade FC, que só chegou pra jogar o returno e ainda não tem currículo pra exibir, visita o Mandrackefc no domingo. O Baade está no meio do pelotão gigante que empata em 9 pontos corridos, então perder aqui já derruba o calouro pra trás na fila."
       },
       {
-        "icone": "🔮",
-        "titulo": "Líder fecha a rodada por último, só na segunda",
-        "texto": "O Resina Club, ponteiro da tabela pelo desempate, é o último a entrar em campo na rodada: segunda-feira, 20h, contra o Tricolor Lvfc (5º, 9 pontos). Enquanto isso não chega, o Zé segue de plantão aqui, sem deixar a página um minuto sem cobertura."
+        "icone": "🔥",
+        "titulo": "Embalado, Berwinha tenta engatar sequência",
+        "texto": "Depois da virada em cima do Império da Caipira na rodada passada, o Berwinha FC recebe o Parizi 01 no domingo com a missão de emendar a segunda vitória seguida e brigar por um lugar mais alto no pelotão dos 9. Palpite do Zé: rodada movimentada assim que a bola rolar de verdade."
       }
     ],
-    "geradaEm": "2026-08-26T16:25:52Z"
+    "geradaEm": "2026-08-26T20:25:27Z"
   }
 ]
