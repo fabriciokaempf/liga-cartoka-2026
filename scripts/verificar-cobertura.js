@@ -21,7 +21,12 @@ const CAMINHO_RESENHAS = path.join(RAIZ, "docs", "resenhas.json");
 
 // Intervalo minimo entre duas atualizacoes ao vivo da MESMA rodada quando o
 // unico que mudou foram as parciais. Se um jogo novo comecou, republica na hora.
-const MINUTOS_ENTRE_ATUALIZACOES = 40;
+const MINUTOS_ENTRE_ATUALIZACOES = 90;
+
+// Movimento minimo nas parciais (soma dos deltas absolutos de todos os times,
+// em pontos) para considerar que houve noticia nova. Oscilacao de meio ponto
+// aqui e ali nao rende resenha.
+const MOVIMENTO_MINIMO_PARCIAIS = 30;
 
 function lerJson(caminho, padrao) {
   try {
@@ -85,24 +90,29 @@ function decidir() {
   const temParciais = !!(parciais && parciais.porTime && Object.keys(parciais.porTime).length > 0);
 
   // ------------------------------------------------------------------
-  // PORTEIRO PRINCIPAL: a rodada esta mesmo acontecendo?
-  // Mercado aberto (statusMercado 1) significa intervalo entre rodadas: os
-  // jogos ainda estao a dias de distancia e nao ha nada novo pra contar.
+  // PORTEIRO PRINCIPAL: ja tem bola rolando de verdade?
+  // Mercado fechado nao basta: o mercado fecha horas antes do primeiro jogo e
+  // nesse intervalo nao aconteceu nada que renda cobertura. So conta como
+  // rodada em curso quando algum confronto ja comecou OU quando ja existe
+  // parcial (no Cartola um time pontua pelos atletas escalados, entao pode
+  // pontuar antes do jogo real do confronto dele).
   // ------------------------------------------------------------------
-  const rodadaEmCurso = statusMercado === 2 || bolaRolando || jogosIniciados > 0 || temParciais;
+  const rodadaEmCurso = jogosIniciados > 0 || temParciais;
 
   if (!rodadaEmCurso) {
     const proxima = proximaPartida(confrontos);
     return {
       modo: "C",
       motivo:
-        "Mercado aberto (statusMercado=" +
-        statusMercado +
-        ") e nenhum jogo da rodada " +
+        "Nenhum jogo da rodada " +
         rodadaAtual +
-        " comecou." +
-        (proxima ? " O primeiro jogo e so em " + proxima + "." : "") +
-        " Rodada de Cartola nao esta rolando: nada a publicar.",
+        " comecou e nao ha parciais (statusMercado=" +
+        statusMercado +
+        ", bolaRolando=" +
+        bolaRolando +
+        ")." +
+        (proxima ? " O primeiro jogo e em " + proxima + "." : "") +
+        " Sem bola rolando nao ha o que noticiar: nada a publicar.",
     };
   }
 
@@ -134,7 +144,25 @@ function decidir() {
       };
     }
 
+    // Nenhum jogo novo comecou: a unica novidade possivel sao as parciais, e ai
+    // exigimos as duas coisas, movimento relevante E intervalo minimo.
     if (mesmoMercado && mesmoNumeroDeJogos) {
+      const movimento = movimentoParciais(anterior.estado.assinaturaParciais, estadoAtual.assinaturaParciais);
+
+      if (movimento < MOVIMENTO_MINIMO_PARCIAIS) {
+        return {
+          modo: "C",
+          motivo:
+            "A cobertura ao vivo da rodada " +
+            rodadaAtual +
+            " ja esta publicada, nenhum jogo novo comecou e as parciais mexeram so " +
+            movimento.toFixed(1) +
+            " pontos somados na liga inteira (minimo de " +
+            MOVIMENTO_MINIMO_PARCIAIS +
+            "). Nao ha noticia nova.",
+        };
+      }
+
       const minutos = minutosDesde(anterior.geradaEm);
       if (minutos !== null && minutos < MINUTOS_ENTRE_ATUALIZACOES) {
         return {
@@ -181,6 +209,29 @@ function assinar(parciais) {
     .sort()
     .map((timeId) => timeId + ":" + Number(parciais.porTime[timeId]).toFixed(1))
     .join("|");
+}
+
+// Soma dos deltas absolutos entre duas assinaturas de parciais, em pontos.
+// Time que aparece so de um lado conta o valor cheio.
+function movimentoParciais(antes, depois) {
+  const mapaAntes = desassinar(antes);
+  const mapaDepois = desassinar(depois);
+  const times = new Set([...Object.keys(mapaAntes), ...Object.keys(mapaDepois)]);
+  let total = 0;
+  times.forEach((timeId) => {
+    total += Math.abs((mapaDepois[timeId] || 0) - (mapaAntes[timeId] || 0));
+  });
+  return total;
+}
+
+function desassinar(assinatura) {
+  const mapa = {};
+  if (!assinatura || assinatura === "sem-parciais") return mapa;
+  assinatura.split("|").forEach((par) => {
+    const [timeId, valor] = par.split(":");
+    if (timeId && valor !== undefined) mapa[timeId] = Number(valor) || 0;
+  });
+  return mapa;
 }
 
 function minutosDesde(iso) {

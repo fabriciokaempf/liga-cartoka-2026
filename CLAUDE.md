@@ -35,15 +35,21 @@ Ele lê `docs/data.json` e `docs/resenhas.json` e responde `MODO: A`, `MODO: B` 
 
 ### Por que o porteiro barra
 
-- **Mercado aberto** (`statusMercado` 1) é o intervalo entre rodadas: os jogos
-  ainda estão a dias de distância e não há absolutamente nada novo pra contar.
-  A rodada só conta como em curso quando `statusMercado` é 2, ou `bolaRolando`
-  é true, ou já existe jogo com `placarCasa` preenchido, ou já há `parciais`.
+- **Bola não está rolando.** Mercado fechado não basta: o mercado fecha horas
+  antes do primeiro jogo e nesse intervalo não aconteceu nada que renda
+  cobertura. A rodada só conta como em curso quando já existe confronto com
+  `placarCasa` preenchido **ou** já há `parciais`. (No Cartola um time pontua
+  pelos atletas escalados, então pode pontuar antes do jogo real do confronto
+  dele; por isso `parciais` sozinho já libera.)
 - **Nada mudou desde a última cobertura**: mesmo número de jogos iniciados e
   parciais idênticas significa que não há notícia nova.
-- **Intervalo mínimo de 40 minutos** entre duas atualizações ao vivo da mesma
-  rodada quando só as parciais oscilaram. Se um jogo novo começou, republica na
-  hora, sem esperar.
+- **Parciais mexeram pouco.** Sem jogo novo, exige-se movimento de pelo menos
+  **30 pontos somados na liga inteira** (soma dos deltas absolutos de todos os
+  times) desde a última cobertura. Oscilação de meio ponto não rende resenha.
+- **Intervalo mínimo de 90 minutos** entre duas atualizações ao vivo da mesma
+  rodada quando só as parciais oscilaram. Movimento relevante **e** intervalo
+  mínimo, os dois. Se um jogo novo começou, republica na hora, sem esperar
+  nenhum dos dois.
 
 O fechamento de rodada (MODO A) nunca é barrado: acontece uma vez por rodada e é
 a entrega principal da liga.
@@ -53,7 +59,7 @@ a entrega principal da liga.
 Todo item `andamento-rodada-M` deve carregar:
 
 ```json
-"estado": { "jogosIniciados": 3, "assinaturaParciais": "423154:61.8|90277:45.2" }
+"estado": { "mercado": 2, "jogosIniciados": 3, "assinaturaParciais": "423154:61.8|90277:45.2" }
 ```
 
 É o que permite ao porteiro saber se algo mudou de verdade no disparo seguinte.
