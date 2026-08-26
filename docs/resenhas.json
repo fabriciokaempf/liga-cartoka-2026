@@ -358,29 +358,29 @@
     "rodada": 25,
     "aoVivo": true,
     "rotulo": "Rodada 25 · andamento",
-    "titulo": "Rodada 25 esquenta: Resina e Brocador colados na ponta, Kaempfs mede forças com o Urachfc lá embaixo",
+    "titulo": "Faltam tres dias para a bola rolar, e o lider guarda o troco pro fim de semana",
     "blocos": [
       {
+        "icone": "📅",
+        "titulo": "Ainda e giz de tabela",
+        "texto": "A rodada 25 segue sem nenhum jogo iniciado, o pontapé inicial só sai na sexta, dia 29/08. Então relaxa: ninguém mitou nem vexou ainda, são zero pontos rodados nos dez confrontos. Quem abre a rodada é duelo de necessitados lá de baixo: VIERTRICOLOR (lanterna, 0 ponto) recebe o SampaMissiones FC (18º, 6 pontos) às 18h30."
+      },
+      {
         "icone": "🔥",
-        "titulo": "Duelo de líderes abre a treta",
-        "texto": "A rodada 25 já entra com nome de decisão: o líder Resina Club, que só está na ponta por causa do desempate no PG turno sobre o Brocador do Bonja (466,61 a 460,26, ambos com 12 pontos corridos), recebe o Tricolor Lvfc num teste e tanto para a artilharia da liga. No mesmo dia 29/08, o próprio Brocador do Bonja encara o Império da Caipira, que está bem mais perto da ponta do que muita gente lembra, na 4ª posição com 9 pontos. Dois jogos que valem ouro para quem quer segurar o topo da tabela."
+        "titulo": "Vice tenta furar o teto",
+        "texto": "Ainda na sexta, às 21h20, o Brocador do Bonja (2º colocado, 12 pontos, atrás do líder só no desempate) recebe o Império da Caipira (4º, 9 pontos). É prova de fogo pra quem quer cobrar a diferença mínima que separa o topo da tabela."
       },
       {
-        "icone": "🎯",
-        "titulo": "Campeão do turno passado tenta sair do buraco",
-        "texto": "O Kaempfs F.C., que fechou o primeiro turno com a taça debaixo do braço, mede forças com o Urachfc, que abriu o returno artilheiro (127,41 de estreia) e hoje ocupa a 19ª posição com apenas 3 pontos corridos. É o tipo de confronto que separa quem está de fato reagindo de quem só teve um dia de sorte lá atrás. O Kaempfs está no meio do pelotão, na 6ª colocação com 9 pontos, e não pode escorregar mais."
+        "icone": "👑",
+        "titulo": "O líder deixa todo mundo jogar primeiro",
+        "texto": "O Resina Club lidera a rodada pelo desempate no PG turno sobre o Brocador (466,61 a 460,26, ambos com 12 pontos corridos), mas não tem pressa nenhuma: o confronto do Resina contra o Tricolor Lvfc é o último da rodada, só no domingo, 31/08, às 20h. Moral pura: o líder entra na reta final pra fechar a conta com a torcida já roendo as unhas."
       },
       {
-        "icone": "📉",
-        "titulo": "Lanterna tenta sair do zero",
-        "texto": "Quem abre a rodada 25, no dia 29/08, é o VIERTRICOLOR, isolado na lanterna do returno com 0 ponto em cinco rodadas. O time do Daniel Vier joga em casa e sabe que perder de novo é carimbar de vez o passaporte para o fundo do poço. Ainda dá tempo de reagir, mas o relógio não para de correr."
-      },
-      {
-        "icone": "🔮",
-        "titulo": "Ainda é tudo giz de tabela",
-        "texto": "Calma, torcida: a bola só rola de verdade a partir do dia 29/08, e até agora nenhum dos dez confrontos da rodada 25 teve o jogo real começado, faltam os dez jogos inteiros. Zero pontuação no Cartola por enquanto, então ninguém é mito nem vexame ainda, é tudo projeção e fofoca de grupo. O Zé aposta numa vitória apertada do Resina sobre o Tricolor para o líder respirar mais aliviado, mas garante voltar aqui assim que a bola começar a rolar de verdade."
+        "icone": "⚔️",
+        "titulo": "Campeão do turno cobra reação",
+        "texto": "No sábado, 30/08, às 18h30, tem Kaempfs F.C. (6º, 9 pontos, o campeão do primeiro turno que ainda procura o ritmo no returno) recebendo o Urachfc (19º, apenas 3 pontos, depois de uma estreia artilheira que não se repetiu desde então). Duelo de quem quer confirmar favoritismo contra quem só teve um dia inspirado lá atrás."
       }
     ],
-    "geradaEm": "2026-08-25T19:00:00Z"
+    "geradaEm": "2026-08-26T00:24:39Z"
   }
 ]
