@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-25T14:26:03.099Z",
+  "geradoEm": "2026-08-29T01:55:29.193Z",
   "temporada": 2026,
   "liga": {
     "nome": "Liga Cartoka de pontos corridos 2026",
@@ -1329,7 +1329,7 @@
           "foraClubeId": 2305,
           "casaTimeId": 6742039,
           "foraTimeId": 487118,
-          "dataPartida": "2026-09-05 18:30:00",
+          "dataPartida": "2026-09-06 11:00:00",
           "valida": true,
           "placarCasa": null,
           "placarFora": null,
