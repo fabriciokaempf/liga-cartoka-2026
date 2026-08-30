@@ -358,30 +358,30 @@
     "rodada": 25,
     "aoVivo": true,
     "rotulo": "Rodada 25 · andamento",
-    "titulo": "Bola já rolou pro Vier, mas o Cartola ainda dorme: rodada 25 nos trinques",
+    "titulo": "Três confrontos reais no bolso, mas o Cartola da rodada 25 ainda mal começou",
     "blocos": [
       {
-        "icone": "⏳",
-        "titulo": "Primeiro apito já soou, o Cartola ainda ronca",
-        "texto": "A rodada 25 já teve seu primeiro jogo real: Atlético-MG e Vitória, que decidem o confronto entre VIERTRICOLOR e SampaMissiones FC, se enfrentaram nesse sábado e o placar fechou em 1 a 0. No Cartola, porém, quase nada mudou: o Vier soma 10,75 pontos e o Sampa 5,75, porque a esmagadora maioria dos jogadores escalados nos vinte times ainda nem entrou em campo. Ainda tem mais dois jogos para rolar hoje à noite, e faltam nove confrontos no total para fechar a rodada."
+        "icone": "⚽",
+        "titulo": "Mais dois jogos reais no bolso",
+        "texto": "A rodada 25 já teve três confrontos com bola rolando de verdade. O São Paulo bateu o Bragantino por 2 a 0, dando números ao duelo entre Corticeira's Farm FC e Madalena Club, e o Vasco empatou sem gols com o Cruzeiro, decidindo a partida real entre Brocador do Bonja e Império da Caipira. No Cartola, porém, o resultado do gramado ainda não bate com a pontuação: Corticeira's Farm soma 3,08 e Madalena Club segue zerado, enquanto Brocador e Império empatam em zero a zero também no placar de fantasia. Ainda faltam sete confrontos para fechar a rodada."
       },
       {
         "icone": "👑",
-        "titulo": "Ponta contra ponta",
-        "texto": "O líder Resina Club, que só fica na frente do Brocador do Bonja pelo desempate de PG turno (os dois com 12 pontos corridos), encara o Tricolor Lvfc na segunda-feira. Antes disso, ainda hoje à noite, o próprio Brocador recebe o Império da Caipira, que tenta a resposta depois de ceder a virada para o Berwinha FC na rodada passada. Briga de ponta com cheiro de decisão."
+        "titulo": "Ponta emperrada",
+        "texto": "O Resina Club segue na frente da tabela só pelo desempate de PG turno sobre o Brocador do Bonja, os dois com 12 pontos corridos na classificação geral. O Brocador acabou de jogar, aquele 0 a 0 contra o Cruzeiro, e nem assim tirou o time do zero no Cartola. Já o Resina nem entrou em campo na rodada: o confronto contra o Tricolor Lvfc só acontece na segunda-feira, e mesmo assim o Tricolor já aparece com 7,5 pontos, prova de que no Cartola quem pontua primeiro são os jogadores espalhados pelos outros clubes."
       },
       {
         "icone": "🚨",
-        "titulo": "Lanterna com empurrãozinho no futebol de verdade",
-        "texto": "O VIERTRICOLOR segue sendo o pior time da tabela do Cartola, zero vitória em cinco rodadas, mas pelo menos no jogo de verdade o Atlético-MG garantiu os 3 pontos por ele nesse sábado. Resta saber se algum jogador escalado do Vier ainda vai entrar em campo nessa rodada e transformar esse placar em pontuação de gente grande, porque por enquanto o time nem sonha em sair do fundo."
+        "titulo": "Vier ainda é lanterna, mas hoje está por cima",
+        "texto": "O VIERTRICOLOR segue isolado na última posição da tabela geral, zero vitória em cinco rodadas. Na pontuação de hoje, porém, ele está por cima: 7,42 a 6,62 no confronto direto contra o SampaMissiones FC, mesmo com o Atlético-MG já tendo fechado a vitória por 2 a 1 sobre o Vitória no jogo real de sábado. No Cartola quem decide é a escalação, não o escudo: o resultado do campo é só tempero."
       },
       {
         "icone": "🔥",
-        "titulo": "De olho em domingo",
-        "texto": "Domingo tem o Berwinha FC recebendo o Parizi 01 à tarde, o time que vive embalo depois de derrubar o Império da Caipira na rodada passada e mira esticar essa sequência positiva. Também entra em campo o Kaempfs F.C., que recebe o Urachfc, hoje com apenas 3 pontos corridos contra os 9 do anfitrião. Com quase toda a rodada pela frente, o Zé garante: essa tabela ainda pode virar de ponta a cabeça."
+        "titulo": "O que ainda vem pela frente",
+        "texto": "Hoje ainda entram em campo pietro filho contra Gaudérios FC, Berwinha FC contra Parizi 01, Mandrackefc encarando o Baade FC, Kaempfs F.C. medindo forças com o Urachfc, Kidiabense FC contra o Alemonstro FBPA e o Esporte Clube Barão recebendo o HORST BRAUN, que já aparece com 5,2 pontos no bolso antes mesmo da bola rolar direito. Fecha a rodada na segunda-feira o duelo de ponta entre Resina Club e Tricolor Lvfc. Com sete jogos pela frente, essa tabela ainda pode virar de cabo a rabo."
       }
     ],
-    "geradaEm": "2026-08-30T00:25:39Z",
-    "estado": {"mercado":2,"jogosIniciados":1,"assinaturaParciais":"1067774:10.8|13912942:0.0|15282074:0.0|17382079:0.0|25278938:0.0|26079439:0.0|27772103:0.0|2963331:5.8|309735:0.0|3250219:0.0|3419812:0.0|423154:0.0|47572160:0.0|47653263:0.0|487118:0.0|49288650:0.0|4997197:0.0|6742039:0.0|753775:0.0|90277:0.0"}
+    "geradaEm": "2026-08-30T04:25:30Z",
+    "estado": {"mercado":2,"jogosIniciados":3,"assinaturaParciais":"1067774:7.4|13912942:0.0|15282074:5.2|17382079:0.0|25278938:0.0|26079439:0.0|27772103:0.0|2963331:6.6|309735:0.0|3250219:0.0|3419812:3.1|423154:0.0|47572160:0.0|47653263:0.0|487118:0.0|49288650:0.0|4997197:0.0|6742039:7.5|753775:0.0|90277:0.0"}
   }
 ]
