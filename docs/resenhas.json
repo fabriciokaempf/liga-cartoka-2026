@@ -358,30 +358,30 @@
     "rodada": 25,
     "aoVivo": true,
     "rotulo": "Rodada 25 · andamento",
-    "titulo": "Corticeira's Farm amplia a vantagem e o resto da parcial dá um salto geral",
+    "titulo": "Berwinha sai do zero e assume a parcial, Corticeira's Farm perde a coroa que segurava desde cedo",
     "blocos": [
       {
         "icone": "⚽",
-        "titulo": "Mesmos quatro jogos, parcial bem mais gorda",
-        "texto": "A contagem de jogos reais iniciados na rodada 25 continua em quatro, com seis confrontos ainda por vir. Mas quem só olhou o placar dos jogos reais perdeu a notícia: a pontuação do Cartola deu um salto quase geral desde a última atualização, com a maioria dos 20 times subindo praticamente o mesmo tanto de pontos ao mesmo tempo. Sinal de que algum atleta que aparece em várias escalações entrou em campo e mandou bem."
+        "titulo": "Seis jogos na conta, quatro por vir",
+        "texto": "A tarde de domingo esquentou de vez: já são seis dos dez jogos reais da rodada 25 em andamento ou encerrados, com Flamengo 3 a 0 Botafogo e Corinthians 0 a 1 Santos entrando na conta desde a última atualização. Ainda faltam quatro confrontos, incluindo três que rolam ainda hoje e o fechamento de segunda-feira. Ou seja: tudo aqui é parcial e pode virar de ponta-cabeça."
       },
       {
         "icone": "🚀",
-        "titulo": "Corticeira's Farm dispara ainda mais",
-        "texto": "Quem segue mandando na parcial é o Corticeira's Farm FC, agora com 44,65 pontos, ampliando a distância para o segundo colocado. Logo atrás vem o HORST BRAUN, que também cresceu e chegou a 29,75, mas ainda fica 14,9 pontos para trás. E olha que o jogo real de HORST BRAUN, Internacional contra Bahia, nem começou: quem está rendendo são os atletas escalados de outros clubes."
+        "titulo": "Berwinha do zero à ponta",
+        "texto": "Na minha última entrada o Berwinha FC estava zerado, sem um mísero décimo na conta. Deu o que falar: os atletas do Berwinha entraram em campo e o time agora lidera a parcial da liga com 60,81 pontos, abrindo 60,81 a 45,81 sobre o Parizi 01 no confronto direto, embalado no rastro do 3 a 0 do Flamengo. Colada vem a Madalena Club com 60,21, que perde o jogo real com o Bragantino por 2 a 1 mas atropela no Cartola: 60,21 a 51,05 sobre o Corticeira's Farm FC, que liderava a parcial desde cedo e agora viu a coroa escorregar."
       },
       {
-        "icone": "🤝",
-        "titulo": "Empate que não sai do lugar",
-        "texto": "pietro filho e Gaudérios FC seguem empatados no Cartola, 10,3 a 10,3, mesmo com o jogo real virando de 1 a 1 para 3 a 3 desde a última cobertura. Prova de que gol no jogo real não garante ponto no fantasy: quem decide são os atletas escalados, e por enquanto os dois times estão rendendo igualzinho."
+        "icone": "🔥",
+        "titulo": "Briga de cima rendendo",
+        "texto": "Os dois líderes da tabela seguem fazendo bonito: o Brocador do Bonja já construiu 53,61 a 37,55 sobre o Império da Caipira, com direito a 3 a 1 do Vasco no jogo real, e o Resina Club soma 57,31 antes mesmo de seu confronto de segunda-feira contra o Tricolor Lvfc, que marca 41,81. O Kaempfs F.C. também aparece bem, com 57,31 contra 43,71 do Urachfc, e o jogo real dos dois, Mirassol contra Palmeiras, ainda nem começou."
       },
       {
         "icone": "🔮",
-        "titulo": "O que ainda falta",
-        "texto": "Restam seis confrontos, incluindo Berwinha FC contra Parizi 01, Mandrackefc contra Baade FC, Kaempfs F.C. contra Urachfc e Kidiabense FC contra Alemonstro FBPA, todos com o jogo real ainda para começar. O duelo de liderança só chega na segunda-feira: Resina Club e Tricolor Lvfc. Resina e Brocador do Bonja seguem empatados em 12 pontos corridos na geral, com o Resina na frente só pelo desempate de PG turno, e o Brocador já venceu seu jogo real por 3 a 1 sobre o Império da Caipira nesta rodada."
+        "titulo": "O que fecha o domingo",
+        "texto": "Ainda hoje tem Kaempfs F.C. contra Urachfc, Kidiabense FC contra Alemonstro FBPA e Esporte Clube Barão recebendo o HORST BRAUN nos jogos reais. No duelo que fecha a rodada só na segunda, Resina Club e Tricolor Lvfc medem forças com a liderança da tabela no pano de fundo: Resina e Brocador têm 12 pontos corridos cada, separados só pelo desempate de PG turno. Segue tudo aberto, e o Zé fica de olho."
       }
     ],
-    "geradaEm": "2026-08-30T18:40:00.000Z",
-    "estado": {"mercado":2,"jogosIniciados":4,"assinaturaParciais":"1067774:17.7|13912942:10.3|15282074:29.8|17382079:10.3|25278938:10.3|26079439:10.3|27772103:15.8|2963331:6.6|309735:15.8|3250219:15.4|3419812:44.6|423154:0.0|47572160:10.3|47653263:12.5|487118:10.3|49288650:10.3|4997197:10.3|6742039:13.3|753775:10.3|90277:10.3"}
+    "geradaEm": "2026-08-30T21:35:00.000Z",
+    "estado": {"mercado":2,"jogosIniciados":6,"assinaturaParciais":"1067774:35.6|13912942:54.1|15282074:39.4|17382079:31.6|25278938:45.8|26079439:45.1|27772103:51.3|2963331:46.6|309735:43.7|3250219:53.6|3419812:51.0|423154:60.8|47572160:60.2|47653263:44.6|487118:57.3|49288650:57.3|4997197:34.0|6742039:41.8|753775:37.5|90277:45.8"}
   }
 ]
