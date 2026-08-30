@@ -54,6 +54,20 @@ Ele lê `docs/data.json` e `docs/resenhas.json` e responde `MODO: A`, `MODO: B` 
 O fechamento de rodada (MODO A) nunca é barrado: acontece uma vez por rodada e é
 a entrega principal da liga.
 
+### Regra fixa: refresh de 10 em 10 minutos durante rodada em andamento
+
+Pedido do organizador (30/08/2026): enquanto a rodada estiver em andamento
+(porteiro respondendo `MODO: B`), a sessão deve manter um loop de refresh a cada
+10 minutos: `git pull origin main` (para pegar o `docs/data.json` novo) e rodar
+o porteiro de novo. Agende isso com o mecanismo de recorrência disponível na
+sessão (cron de `*/10 * * * *`) assim que o primeiro disparo cair em `MODO: B`,
+e encerre o loop quando a rodada fechar (MODO A publicado) ou o porteiro voltar
+a responder `MODO: C` por não haver mais rodada em curso.
+
+O loop NÃO revoga o porteiro: cada tick continua obedecendo a saída do script
+(a maioria dos ticks termina em silêncio; as regras de movimento mínimo e
+intervalo de 90 minutos seguem valendo para republicação só de parciais).
+
 ### Campo `estado` nos itens de andamento
 
 Todo item `andamento-rodada-M` deve carregar:
