@@ -358,29 +358,30 @@
     "rodada": 25,
     "aoVivo": true,
     "rotulo": "Rodada 25 · andamento",
-    "titulo": "Faltam tres dias pra bola rolar e o Zé já escalou os confrontos que valem ingresso",
+    "titulo": "Bola já rolou pro Vier, mas o Cartola ainda dorme: rodada 25 nos trinques",
     "blocos": [
       {
         "icone": "⏳",
-        "titulo": "Ainda é tudo esquenta, mercado segue aberto",
-        "texto": "Voltei aqui e nada mudou no gramado: os dez confrontos da rodada 25 continuam com zero jogo real iniciado, a bola só rola no sábado, 29/08, às 18h30. Enquanto isso o mercado segue aberto, então quem ainda não escalou tem alguns dias pra parar de vacilar. A tabela continua exatamente como fechou a rodada 24, com Resina Club e Brocador do Bonja colados no topo."
+        "titulo": "Primeiro apito já soou, o Cartola ainda ronca",
+        "texto": "A rodada 25 já teve seu primeiro jogo real: Atlético-MG e Vitória, que decidem o confronto entre VIERTRICOLOR e SampaMissiones FC, se enfrentaram nesse sábado e o placar fechou em 1 a 0. No Cartola, porém, quase nada mudou: o Vier soma 10,75 pontos e o Sampa 5,75, porque a esmagadora maioria dos jogadores escalados nos vinte times ainda nem entrou em campo. Ainda tem mais dois jogos para rolar hoje à noite, e faltam nove confrontos no total para fechar a rodada."
       },
       {
-        "icone": "🆘",
-        "titulo": "Lanterna abre a rodada em busca de socorro",
-        "texto": "Quem inaugura a rodada 25 é justamente o VIERTRICOLOR, lanterna isolada com zero vitória no returno, recebendo o SampaMissiones FC (18º colocado) logo às 18h30 de sábado. Se o Vier não pontuar aqui em casa, a essa altura já pode pedir reforço nas escolas de goleiro."
+        "icone": "👑",
+        "titulo": "Ponta contra ponta",
+        "texto": "O líder Resina Club, que só fica na frente do Brocador do Bonja pelo desempate de PG turno (os dois com 12 pontos corridos), encara o Tricolor Lvfc na segunda-feira. Antes disso, ainda hoje à noite, o próprio Brocador recebe o Império da Caipira, que tenta a resposta depois de ceder a virada para o Berwinha FC na rodada passada. Briga de ponta com cheiro de decisão."
       },
       {
-        "icone": "🆕",
-        "titulo": "O novato do pelotão dos nove joga fora de casa",
-        "texto": "O Baade FC, que só chegou pra jogar o returno e ainda não tem currículo pra exibir, visita o Mandrackefc no domingo. O Baade está no meio do pelotão gigante que empata em 9 pontos corridos, então perder aqui já derruba o calouro pra trás na fila."
+        "icone": "🚨",
+        "titulo": "Lanterna com empurrãozinho no futebol de verdade",
+        "texto": "O VIERTRICOLOR segue sendo o pior time da tabela do Cartola, zero vitória em cinco rodadas, mas pelo menos no jogo de verdade o Atlético-MG garantiu os 3 pontos por ele nesse sábado. Resta saber se algum jogador escalado do Vier ainda vai entrar em campo nessa rodada e transformar esse placar em pontuação de gente grande, porque por enquanto o time nem sonha em sair do fundo."
       },
       {
         "icone": "🔥",
-        "titulo": "Embalado, Berwinha tenta engatar sequência",
-        "texto": "Depois da virada em cima do Império da Caipira na rodada passada, o Berwinha FC recebe o Parizi 01 no domingo com a missão de emendar a segunda vitória seguida e brigar por um lugar mais alto no pelotão dos 9. Palpite do Zé: rodada movimentada assim que a bola rolar de verdade."
+        "titulo": "De olho em domingo",
+        "texto": "Domingo tem o Berwinha FC recebendo o Parizi 01 à tarde, o time que vive embalo depois de derrubar o Império da Caipira na rodada passada e mira esticar essa sequência positiva. Também entra em campo o Kaempfs F.C., que recebe o Urachfc, hoje com apenas 3 pontos corridos contra os 9 do anfitrião. Com quase toda a rodada pela frente, o Zé garante: essa tabela ainda pode virar de ponta a cabeça."
       }
     ],
-    "geradaEm": "2026-08-26T20:25:27Z"
+    "geradaEm": "2026-08-30T00:25:39Z",
+    "estado": {"mercado":2,"jogosIniciados":1,"assinaturaParciais":"1067774:10.8|13912942:0.0|15282074:0.0|17382079:0.0|25278938:0.0|26079439:0.0|27772103:0.0|2963331:5.8|309735:0.0|3250219:0.0|3419812:0.0|423154:0.0|47572160:0.0|47653263:0.0|487118:0.0|49288650:0.0|4997197:0.0|6742039:0.0|753775:0.0|90277:0.0"}
   }
 ]
