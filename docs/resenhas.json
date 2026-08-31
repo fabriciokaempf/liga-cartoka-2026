@@ -358,30 +358,30 @@
     "rodada": 25,
     "aoVivo": true,
     "rotulo": "Rodada 25 · andamento",
-    "titulo": "Reta final: Resina e Brocador seguem colados e tem empate cravado no centavo entre pietro filho e Gaudérios",
+    "titulo": "Reta final: Barão confirma a virada que eu previa e Brocador dispara na projeção da tabela",
     "blocos": [
       {
         "icone": "🏁",
-        "titulo": "Oito jogos na conta, entramos na reta final",
-        "texto": "Domingo à noite e a rodada 25 já tem oito dos dez jogos reais iniciados ou encerrados, com Mirassol 0 a 0 Palmeiras e Grêmio 1 a 1 Chapecoense entrando na conta desde a minha última entrada. Faltam só dois: Bahia contra Internacional ainda hoje e Remo contra Coritiba na segunda-feira. Reta final declarada, mas segura o troféu: tudo aqui ainda é parcial e pode virar."
+        "titulo": "Nove jogos raspando, só falta o duelo dos líderes",
+        "texto": "A rodada 25 já soma nove dos dez jogos reais iniciados ou encerrados. Falta só Remo contra Coritiba, hoje à noite, que por coincidência é o confronto dos clubes do Resina Club e do Tricolor Lvfc. Reta final declarada, mas com a ressalva de sempre: tudo aqui ainda é parcial e pode virar até o apito final."
+      },
+      {
+        "icone": "📢",
+        "titulo": "Falei e aconteceu: Barão vira sobre o HORST",
+        "texto": "Ontem eu avisei que o Esporte Clube Barão só precisava de uma noite inspirada para virar os 12,23 pontos de desvantagem contra o HORST BRAUN, e o Bahia entregou: 3 a 1 sobre o Internacional. O Barão saltou para 70,38 pontos e agora vence a parcial por 70,38 a 65,70. De brinde, o empate cravado que eu flagrei entre pietro filho e Gaudérios FC já era: o jogo real fechou 3 a 3, mas na pontuação do Cartola o Gaudérios disparou e crava a maior parcial da rodada até aqui, 89,78 a 65,60."
       },
       {
         "icone": "📊",
-        "titulo": "Se acabasse agora: Resina e Brocador não se largam",
-        "texto": "Projeção do momento: Resina Club (65,68 a 46,68 sobre o Tricolor Lvfc, antes mesmo do jogo real de segunda) e Brocador do Bonja (56,98 a 42,88 no Império da Caipira) venceriam os seus confrontos e iriam a 15 pontos cada, seguindo grudados na ponta com o Resina na frente só pelo PG turno. Atrás deles, Kaempfs F.C. (60,68 a 52,08 no Urachfc), Berwinha FC e HORST BRAUN chegariam aos 12. O HORST, aliás, já soma 65,21 pontos sem o Internacional ter entrado em campo: são os atletas escalados fazendo a festa antes do jogo real do confronto."
+        "titulo": "Se acabasse agora: Brocador dispara sozinho",
+        "texto": "Projetando os nove jogos já decididos, o Brocador do Bonja passa por cima do Império da Caipira (72,98 a 65,90) e vai a 15 pontos corridos, abrindo vantagem sozinho na ponta. Logo atrás, o pelotão de 12 pontos ganha reforço: Berwinha FC (79,18 a 74,48 no Parizi 01), Baade FC (74,70 a 54,08 no Mandrackefc) e Kaempfs F.C. (76,68 a 54,08 no Urachfc) venceriam e se igualariam ao Resina Club, que só sabe se segura a artilharia hoje à noite contra o próprio Tricolor Lvfc."
       },
       {
-        "icone": "😱",
-        "titulo": "Empate no centavo e Madalena mitando na derrota",
-        "texto": "Pasmem: pietro filho e Gaudérios FC estão empatados em exatos 46,98 a 46,98 na parcial, zero de diferença, depois de um jogo real que terminou 3 a 3. Se fechar assim, é um pontinho para cada e ninguém reclama. Enquanto isso, a Madalena Club tem a maior parcial da liga, 68,58, mesmo tendo perdido o jogo real para o São Paulo: no confronto do Cartola ela vira sobre o Corticeira's Farm FC por 68,58 a 61,80. Do outro lado da alegria, o VIERTRICOLOR caminha para mais uma derrota e seguiria zerado no returno após seis rodadas."
-      },
-      {
-        "icone": "🔮",
-        "titulo": "Quem ainda pode mexer na história",
-        "texto": "O Esporte Clube Barão marca 52,98 e ainda tem o jogo real do Bahia contra o próprio Internacional do HORST BRAUN hoje à noite: 12,23 pontos de desvantagem é coisa que uma noite inspirada resolve. E na segunda-feira o Tricolor Lvfc tenta a missão mais ingrata da rodada: tirar 19 pontos do líder Resina com os atletas que ainda vão jogar no Remo contra Coritiba. Quem já pode ir tomando banho, pelo visto, são Império da Caipira e Baade FC, bem atrás nos seus confrontos e com pouca bala no pente. O Zé segue no plantão."
+        "icone": "🚿",
+        "titulo": "Já pode ir separando a toalha",
+        "texto": "Quem mais perderia com o fechamento de agora é o Império da Caipira, que cairia do pelotão de cima direto pro meio da tabela, e o Urachfc, que seguiria com míseros 3 pontos em seis rodadas. Mas o maior candidato à ducha gelada continua sendo o VIERTRICOLOR: perdendo para o SampaMissiones FC por 74,07 a 54,17, chegaria a seis rodadas sem vencer uma sequer no returno. Já Corticeira's Farm FC e Madalena Club seguem grudados, 75,95 a 77,48, diferença de 1,53 que garante empate pela regra da liga se travar nesse pé."
       }
     ],
-    "geradaEm": "2026-08-30T22:05:00.000Z",
-    "estado": {"mercado":2,"jogosIniciados":8,"assinaturaParciais":"1067774:35.9|13912942:61.2|15282074:65.2|17382079:47.0|25278938:54.7|26079439:47.3|27772103:57.7|2963331:54.3|309735:52.1|3250219:57.0|3419812:61.8|423154:62.9|47572160:68.6|47653263:53.0|487118:60.7|49288650:65.7|4997197:46.0|6742039:46.7|753775:42.9|90277:47.0"}
+    "geradaEm": "2026-08-31T00:25:32.762Z",
+    "estado": {"mercado":2,"jogosIniciados":9,"assinaturaParciais":"1067774:54.2|13912942:79.6|15282074:65.7|17382079:65.6|25278938:74.5|26079439:70.6|27772103:54.1|2963331:74.1|309735:54.1|3250219:73.0|3419812:76.0|423154:79.2|47572160:77.5|47653263:70.4|487118:76.7|49288650:84.1|4997197:74.7|6742039:62.9|753775:65.9|90277:89.8"}
   }
 ]
