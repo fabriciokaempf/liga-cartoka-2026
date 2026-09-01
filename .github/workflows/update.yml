@@ -2,7 +2,7 @@ name: Atualiza dados da liga
 
 on:
   schedule:
-    - cron: '4,14,24,34,44,54 * * * *'
+    - cron: '4,34 * * * *'
   workflow_dispatch:
   push:
     branches: [main]

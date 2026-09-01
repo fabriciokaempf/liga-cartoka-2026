@@ -9,7 +9,7 @@ Página publicada: https://fabriciokaempf.github.io/liga-cartoka-2026/
 - Cada jogador tem um time no Cartola FC e representa um clube da Série A. Os confrontos de cada rodada seguem a tabela oficial do Brasileirão (rodadas 20 a 38).
 - Vence o confronto quem fizer mais pontos no Cartola na rodada. Vitória vale 3 pontos na liga. Empate quando a diferença for menor que 2,0 pontos (1 ponto para cada).
 - Desempate na classificação: PG turno (soma das pontuações do Cartola no returno), depois vitórias.
-- Um robô (GitHub Actions) busca os dados na API pública do Cartola a cada 10 minutos, recalcula tudo e republica o arquivo `docs/data.json` quando algo muda. A página lê apenas esse arquivo.
+- Um robô (GitHub Actions) busca os dados na API pública do Cartola a cada 30 minutos, recalcula tudo e republica o arquivo `docs/data.json` quando algo muda. A página lê apenas esse arquivo.
 - Durante os jogos, os confrontos da rodada em andamento mostram pontuações parciais (escalação congelada no fechamento do mercado, capitão valendo 1,5x, sem substituições automáticas de banco). A pontuação oficial e a classificação entram logo após o Cartola consolidar a rodada.
 
 ## Como marcar um pagamento de inscrição
