@@ -358,30 +358,29 @@
     "rodada": 25,
     "aoVivo": true,
     "rotulo": "Rodada 25 · andamento",
-    "titulo": "Reta final: os dez jogos já apitaram o final e Brocador divide a ponta projetada com o Resina",
+    "titulo": "O painel de parciais apagou as luzes: reta final travada esperando o apito de encerramento",
     "blocos": [
       {
         "icone": "🏁",
-        "titulo": "Os dez jogos já apitaram o final",
-        "texto": "A rodada 25 fechou a agenda de jogos reais: os dez confrontos já tiveram bola rolando e terminaram, incluindo o Remo 2 a 1 no Coritiba, que por coincidência era o duelo dos clubes do Resina Club e do Tricolor Lvfc. A pontuação do Cartola segue parcial e ainda pode se mexer até o fechamento oficial da rodada, mas o clima já é de reta final."
+        "titulo": "Gramado parado no mesmo placar de sábado",
+        "texto": "Continua tudo como na última atualização: os dez confrontos da rodada 25 já tiveram bola rolando e terminaram, sem nenhum jogo novo para contar. A diferença de agora pra lá é que o relógio andou bastante e a rodada segue no compasso de espera antes do fechamento oficial."
       },
       {
-        "icone": "🥇",
-        "titulo": "Brocador e Resina dividem a ponta projetada",
-        "texto": "Como eu já cantava no sábado, o Brocador do Bonja passa por cima do Império da Caipira (72,98 a 69,60) e projeta 15 pontos corridos. O Resina Club não ficou para trás: fechou a conta contra o Tricolor Lvfc por 84,08 a 62,88 e também chega aos 15, projetando dobradinha na ponta. Logo atrás, o pelotão de 12 pontos ganha reforço: Berwinha FC segura o susto do Parizi 01 por 78,18 a 75,98, enquanto Baade FC e Kaempfs F.C. fecham vitórias tranquilas sobre Mandrackefc e Urachfc."
+        "icone": "🤫",
+        "titulo": "As parciais sumiram do painel",
+        "texto": "Nesta atualização o mercado mudou de status e as pontuações parciais que eu tinha em mãos ficaram sem número novo. Ou seja: nenhuma escalação pontuando por enquanto, o assunto agora é só aguardar a conta oficial da rodada bater."
       },
       {
-        "icone": "💥",
-        "titulo": "Gaudérios crava a pontuação da rodada",
-        "texto": "Ninguém pontuou mais que o Gaudérios FC na rodada 25: 98,08 contra os 65,60 do pietro filho, a maior marca da liga inteira até aqui. Depois de rodadas discretas, o time de Flávio Pacheco escolheu a hora certa para aparecer."
-      },
-      {
-        "icone": "🚿",
-        "titulo": "Quem fica pra trás se fechar assim",
-        "texto": "O Império da Caipira perde para o Brocador do Bonja (72,98 a 69,60) e vê o pelotão de cima disparar na frente. Lá embaixo, o VIERTRICOLOR apanha de novo, agora do SampaMissiones FC (54,17 a 76,07), e projeta a sexta rodada seguida sem vencer no returno. O Urachfc também não escapa: cai para o Kaempfs F.C. por 76,68 a 53,08 e seguiria com apenas 3 pontos em seis rodadas."
+        "icone": "⏳",
+        "titulo": "O que fica valendo até a resenha de fechamento",
+        "texto": "Pelas últimas parciais que rodaram por aqui, Brocador do Bonja e Resina Club brigavam pela ponta projetada da rodada, com o Gaudérios FC aparecendo com a maior pontuação da liga na rodada. Assim que a rodada 25 fechar de verdade eu confirmo ou desminto cada aposta, com direito a cobrança de quem eu dei como favorito."
       }
     ],
-    "geradaEm": "2026-09-01T00:35:00.000Z",
-    "estado": {"mercado":2,"jogosIniciados":10,"assinaturaParciais":"1067774:54.2|13912942:79.6|15282074:67.2|17382079:65.6|25278938:76.0|26079439:70.6|27772103:54.1|2963331:76.1|309735:53.1|3250219:73.0|3419812:76.0|423154:78.2|47572160:77.5|47653263:70.4|487118:76.7|49288650:84.1|4997197:76.5|6742039:62.9|753775:69.6|90277:98.1"}
+    "geradaEm": "2026-09-01T16:25:31.726Z",
+    "estado": {
+      "mercado": 4,
+      "jogosIniciados": 10,
+      "assinaturaParciais": "sem-parciais"
+    }
   }
 ]
