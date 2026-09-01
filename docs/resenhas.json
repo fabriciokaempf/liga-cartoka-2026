@@ -354,33 +354,36 @@
     "geradaEm": "2026-08-25T14:40:00Z"
   },
   {
-    "id": "andamento-rodada-25",
+    "id": "rodada-25",
     "rodada": 25,
-    "aoVivo": true,
-    "rotulo": "Rodada 25 · andamento",
-    "titulo": "O painel de parciais apagou as luzes: reta final travada esperando o apito de encerramento",
+    "titulo": "Resina dispara na ponta isolada, Urachfc apanha feio e a rodada 25 vira duelo de empates apertados",
     "blocos": [
       {
-        "icone": "🏁",
-        "titulo": "Gramado parado no mesmo placar de sábado",
-        "texto": "Continua tudo como na última atualização: os dez confrontos da rodada 25 já tiveram bola rolando e terminaram, sem nenhum jogo novo para contar. A diferença de agora pra lá é que o relógio andou bastante e a rodada segue no compasso de espera antes do fechamento oficial."
+        "icone": "🏆",
+        "titulo": "Cartoleiro da rodada",
+        "texto": "Quem fechou a rodada 25 com a melhor pontuação da liga foi o Resina Club, que atropelou o Tricolor Lvfc por 125,03 a 95,53. Foi resultado de time grande, sem susto nenhum, e já empurra o Resina para a ponta isolada da tabela com 15 pontos corridos."
       },
       {
-        "icone": "🤫",
-        "titulo": "As parciais sumiram do painel",
-        "texto": "Nesta atualização o mercado mudou de status e as pontuações parciais que eu tinha em mãos ficaram sem número novo. Ou seja: nenhuma escalação pontuando por enquanto, o assunto agora é só aguardar a conta oficial da rodada bater."
+        "icone": "🤡",
+        "titulo": "Vexame da rodada",
+        "texto": "Do outro lado, quem entregou a pior pontuação da rodada foi o Urachfc, com meros 53,08 pontos na derrota para o Kaempfs F.C. (117,83 a 53,08). É a quinta derrota do time em seis rodadas do returno, e a parte de baixo da tabela já virou endereço fixo."
       },
       {
-        "icone": "⏳",
-        "titulo": "O que fica valendo até a resenha de fechamento",
-        "texto": "Pelas últimas parciais que rodaram por aqui, Brocador do Bonja e Resina Club brigavam pela ponta projetada da rodada, com o Gaudérios FC aparecendo com a maior pontuação da liga na rodada. Assim que a rodada 25 fechar de verdade eu confirmo ou desminto cada aposta, com direito a cobrança de quem eu dei como favorito."
+        "icone": "🔥",
+        "titulo": "Jogo da rodada",
+        "texto": "O confronto mais equilibrado nem precisou de vencedor: pietro filho e Gaudérios FC brigaram ponto a ponto até fechar em 109,95 a 110,68, diferença de apenas 0,73, dentro da regra que transforma o resultado em empate. Sorte de quem escalou os dois times, prejuízo de quem queria print de vitória."
+      },
+      {
+        "icone": "📊",
+        "titulo": "Sobe e desce da tabela",
+        "texto": "Na cobertura ao vivo eu apostei que o Gaudérios FC ia fechar com a maior pontuação da rodada. Errei feio: o time só empatou com o pietro filho, e quem levou a coroa de verdade foi o Resina Club. Acertei, porém, a briga pela ponta entre Resina Club e Brocador do Bonja: o Resina confirma a liderança isolada com 15 pontos, dois pontos à frente do vice Brocador, que só empatou com o Império da Caipira por 0,87 de diferença (103,68 a 104,55). Logo atrás, Kaempfs F.C. e Baade FC seguem empatados em 12 pontos, com o Kaempfs na frente no desempate do PG turno."
+      },
+      {
+        "icone": "🔮",
+        "titulo": "Espiada na rodada 26",
+        "texto": "A bola só rola de novo a partir do dia 05/09, e a tabela já separa emoção: o líder Resina Club recebe o Berwinha FC em casa de olho em esticar a vantagem, enquanto o vice Brocador do Bonja visita justamente o Gaudérios FC, que segue devendo aquele empate apertado. O Kaempfs F.C., no desempate lá na frente, visita o Tricolor Lvfc, que acabou de levar a maior sova da rodada 25. E o Baade FC, colado na ponta com 12 pontos, visita o HORST BRAUN, que vem de derrota folgada e tenta reagir em casa."
       }
     ],
-    "geradaEm": "2026-09-01T16:25:31.726Z",
-    "estado": {
-      "mercado": 4,
-      "jogosIniciados": 10,
-      "assinaturaParciais": "sem-parciais"
-    }
+    "geradaEm": "2026-09-01T17:35:00.000Z"
   }
 ]
