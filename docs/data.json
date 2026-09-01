@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-31T01:37:11.742Z",
+  "geradoEm": "2026-09-01T00:28:33.696Z",
   "temporada": 2026,
   "liga": {
     "nome": "Liga Cartoka de pontos corridos 2026",
@@ -28,7 +28,7 @@
   "rodadaFinal": 38,
   "rodadaAtual": 25,
   "statusMercado": 2,
-  "bolaRolando": false,
+  "bolaRolando": true,
   "gameOver": false,
   "ultimaRodadaFechada": 24,
   "jogadores": [
@@ -680,7 +680,7 @@
   },
   "parciais": {
     "rodada": 25,
-    "atualizadoEm": "2026-08-31T01:37:11.736Z",
+    "atualizadoEm": "2026-09-01T00:28:33.625Z",
     "porTime": {
       "90277": 98.08,
       "309735": 53.08,
@@ -694,7 +694,7 @@
       "4997197": 76.54,
       "6742039": 62.88,
       "13912942": 79.58,
-      "15282074": 67.34,
+      "15282074": 67.24,
       "17382079": 65.6,
       "25278938": 75.98,
       "26079439": 70.6,
@@ -1655,8 +1655,8 @@
           "foraTimeId": 6742039,
           "dataPartida": "2026-08-31 20:00:00",
           "valida": true,
-          "placarCasa": null,
-          "placarFora": null,
+          "placarCasa": 2,
+          "placarFora": 1,
           "pontosCasa": null,
           "pontosFora": null,
           "resultado": null
