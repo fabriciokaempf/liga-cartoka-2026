@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-05T21:34:42.375Z",
+  "geradoEm": "2026-09-05T23:39:21.469Z",
   "temporada": 2026,
   "liga": {
     "nome": "Liga Cartoka de pontos corridos 2026",
@@ -28,7 +28,7 @@
   "rodadaFinal": 38,
   "rodadaAtual": 26,
   "statusMercado": 2,
-  "bolaRolando": true,
+  "bolaRolando": false,
   "gameOver": false,
   "ultimaRodadaFechada": 25,
   "jogadores": [
@@ -680,26 +680,26 @@
   },
   "parciais": {
     "rodada": 26,
-    "atualizadoEm": "2026-09-05T21:34:42.371Z",
+    "atualizadoEm": "2026-09-05T23:39:21.464Z",
     "porTime": {
       "90277": 0,
       "309735": 0,
-      "423154": 6.2,
+      "423154": 5.7,
       "487118": 0.1,
       "753775": 0,
-      "1067774": 0,
-      "2963331": 36.7,
+      "1067774": 11.5,
+      "2963331": 37.37,
       "3250219": 0.1,
-      "3419812": 22.48,
+      "3419812": 22.16,
       "4997197": 0,
-      "6742039": 11.2,
-      "13912942": 6.2,
-      "15282074": 22.7,
+      "6742039": 19.2,
+      "13912942": 5.7,
+      "15282074": 22.4,
       "17382079": 5.4,
       "25278938": 0,
       "26079439": 0,
       "27772103": 0,
-      "47572160": 6.2,
+      "47572160": 5.7,
       "47653263": 0,
       "49288650": 0
     }
@@ -1707,8 +1707,8 @@
           "foraTimeId": 1067774,
           "dataPartida": "2026-09-05 18:30:00",
           "valida": true,
-          "placarCasa": null,
-          "placarFora": null,
+          "placarCasa": 2,
+          "placarFora": 0,
           "pontosCasa": null,
           "pontosFora": null,
           "resultado": null
