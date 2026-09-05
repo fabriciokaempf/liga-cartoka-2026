@@ -385,5 +385,40 @@
       }
     ],
     "geradaEm": "2026-09-01T17:35:00.000Z"
+  },
+  {
+    "id": "andamento-rodada-26",
+    "rodada": 26,
+    "aoVivo": true,
+    "rotulo": "Rodada 26 · andamento",
+    "titulo": "Bola rolando na rodada 26: sinal verde ligado e quase ninguém pontuou ainda",
+    "blocos": [
+      {
+        "icone": "🔔",
+        "titulo": "Abre o sinal verde",
+        "texto": "Mercado fechado e a rodada 26 começou a rolar de verdade: Madalena Club recebeu o Esporte Clube Barão e o jogo real já terminou, mas quem decide aqui é o Cartola, e o Madalena abriu com 6,0 pontos contra um zero redondo do Barão. Os outros nove confrontos ainda nem começaram, então relaxa: quase ninguém pontuou de fato, e o que aparece por aí é gente cujo atleta escalado já entrou em campo em outro jogo do dia."
+      },
+      {
+        "icone": "👑",
+        "titulo": "Duelo na ponta",
+        "texto": "O líder isolado Resina Club, com seus 15 pontos corridos, recebe o Berwinha FC ainda neste sábado, e a régua do Resina tem sido implacável: cinco vitórias em seis rodadas do returno. O Berwinha faz parte daquele pelotão gigante empatado em 9 pontos, e uma vitória sozinha já não tira ninguém de lá, mas ajuda a respirar."
+      },
+      {
+        "icone": "🔁",
+        "titulo": "Revanche do vice",
+        "texto": "Quem também entra em campo hoje é o Brocador do Bonja, vice isolado com 13 pontos, visitando o Gaudérios FC, que ocupa a 16ª posição. Eu lembro bem: o Brocador foi líder isolado lá na rodada 22 e perdeu a coroa na rodada seguinte, então essa visita tem cara de reafirmação de vice-liderança, não de repetição do tropeço."
+      },
+      {
+        "icone": "🎯",
+        "titulo": "Mais pratos do cardápio e o palpite do Zé",
+        "texto": "Amanhã tem Kaempfs F.C., campeão do primeiro turno, visitando o Tricolor Lvfc, e o Baade FC, novato sem currículo de turno passado, encarando o HORST BRAUN. De quebra, o lanterna isolado VIERTRICOLOR, ainda com 0 ponto no returno, visita o Corticeira's Farm FC, que já aparece com a maior pontuação parcial da rodada (14,9) mesmo com o jogo por começar. O palpite do Zé é que o Corticeira's Farm mantém a artilharia e o VIERTRICOLOR sofre mais uma."
+      }
+    ],
+    "geradaEm": "2026-09-05T19:25:00.000Z",
+    "estado": {
+      "mercado": 2,
+      "jogosIniciados": 1,
+      "assinaturaParciais": "1067774:0.0|13912942:6.0|15282074:5.5|17382079:4.7|25278938:0.0|26079439:0.0|27772103:0.0|2963331:9.5|309735:0.0|3250219:5.5|3419812:14.9|423154:6.0|47572160:6.0|47653263:0.0|487118:5.5|49288650:0.0|4997197:0.0|6742039:5.0|753775:0.0|90277:0.0"
+    }
   }
 ]
