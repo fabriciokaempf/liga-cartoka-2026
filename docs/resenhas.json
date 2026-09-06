@@ -391,34 +391,34 @@
     "rodada": 26,
     "aoVivo": true,
     "rotulo": "Rodada 26 · andamento",
-    "titulo": "Corticeira's assume a artilharia parcial, jogo do vice entra em campo e a rodada 26 já tem três confrontos rolando",
+    "titulo": "Quarto jogo entra em campo, HORST BRAUN cola no pelotão de cima da parcial e Corticeira's segue mandando",
     "blocos": [
       {
         "icone": "⚽",
-        "titulo": "Três no forno, sete esperando a vez",
-        "texto": "A rodada 26 ganhou um terceiro confronto em campo: Gaudérios FC recebeu o Brocador do Bonja e venceu por 1 a 0 no jogo real. No Cartola, porém, sobrou frieza dos dois lados, 0 a 0,1, prova de que nenhum dos atletas escalados entrou em campo ainda. Os outros dois jogos que já rolam seguem os mesmos: Madalena Club 2 a 3 para o Barão no placar real e Corticeira's Farm FC 2 a 0 sobre o VIERTRICOLOR. Faltam sete confrontos para começar."
+        "titulo": "Quarto jogo entra em campo, seis ainda esperam",
+        "texto": "A rodada 26 ganhou um quarto confronto: o Tricolor Lvfc recebeu o Kaempfs F.C. e o jogo real terminou empatado em 1 a 1. No Cartola a história é bem diferente, o Tricolor já chegou a 17,4 pontos enquanto o Kaempfs, ex-campeão do primeiro turno, segue travado em 0,1. Os outros três jogos que já rolam mantêm o panorama de antes: Madalena Club perdendo para o Barão no placar real (2 a 3), Corticeira's Farm FC batendo o VIERTRICOLOR (2 a 0) e Gaudérios FC superando o Brocador do Bonja (1 a 0). Faltam seis confrontos para começar."
       },
       {
         "icone": "🔥",
-        "titulo": "Corticeira's assume a ponta da parcial",
-        "texto": "Muda o líder da artilharia da rodada: o Corticeira's Farm FC disparou para 45 pontos e tomou a ponta que antes era do SampaMissiones FC, hoje em segundo com 37,7. HORST BRAUN aparece em terceiro, com 22,4, e o VIERTRICOLOR, justamente o adversário do Corticeira's na rodada, soma 20,8 mesmo perdendo o jogo real."
+        "titulo": "Corticeira's segue na frente, mas o pelotão aperta",
+        "texto": "O Corticeira's Farm FC continua na ponta da parcial com quase 45 pontos, sem sinal de folga. Atrás dele o SampaMissiones FC segue estacionado em 37,7, mas quem chamou atenção foi o HORST BRAUN: saltou de 22,4 para 25,8 e assumiu isolado o terceiro lugar da rodada. O Alemonstro FBPA também mexeu, subiu de 11,1 para 13,2 e entrou na briga pelo meio da tabela parcial."
       },
       {
-        "icone": "📋",
-        "titulo": "Vice entra em campo, mas moleza no Cartola",
-        "texto": "O Brocador do Bonja, vice-líder isolado da tabela com 13 PG (2 atrás do líder Resina Club, que tem 15), viu seu confronto começar e perdeu por 1 a 0 no jogo real. No Cartola, seguiu de fora da festa, com míseros 0,1 ponto, contra o zero cravado do Gaudérios. Sem susto, é só esperar os escalados dos dois lados entrarem em campo."
+        "icone": "⚔️",
+        "titulo": "Duelo do momento: Tricolor x Kaempfs",
+        "texto": "No jogo real, Tricolor Lvfc e Kaempfs F.C. saíram no empate por 1 a 1, mas no Cartola o roteiro é de goleada parcial: o Tricolor (7º colocado do returno, 9 PG) já tem 17,4 pontos, enquanto o Kaempfs (3º colocado, 12 PG e ex-campeão do primeiro turno) mal saiu do zero, com 0,1. Ainda dá tempo de virar, os escalados dos dois lados seguem em campo."
       },
       {
         "icone": "⏳",
-        "titulo": "Sete pela frente, nada decidido",
-        "texto": "Ainda tem gente esperando o apito para valer: o ex-campeão do primeiro turno Kaempfs F.C. (hoje 3º no returno, com 12 PG) mede forças com o Tricolor Lvfc (7º, com 9 PG), e o líder Resina Club só entra em campo contra o Berwinha FC mais tarde. Com sete confrontos por começar, essa foto da parcial ainda vai mudar muito."
+        "titulo": "Seis pela frente e o líder nem entrou em campo",
+        "texto": "O líder isolado da rodada, Resina Club (15 PG, 2 à frente do vice Brocador do Bonja), ainda nem estreou na rodada 26, o duelo dele contra o Berwinha FC só começa mais tarde. Com seis confrontos por começar, essa parcial ainda é só uma fotografia provisória, ninguém deve comemorar ou se desesperar antes da hora."
       }
     ],
-    "geradaEm": "2026-09-06T04:25:42.251Z",
+    "geradaEm": "2026-09-06T16:24:50.000Z",
     "estado": {
       "mercado": 2,
-      "jogosIniciados": 3,
-      "assinaturaParciais": "1067774:20.8|13912942:13.1|15282074:22.4|17382079:12.8|25278938:0.0|26079439:11.1|27772103:4.3|2963331:37.7|309735:7.7|3250219:0.1|3419812:45.0|423154:5.7|47572160:5.7|47653263:7.4|487118:0.1|49288650:0.0|4997197:0.0|6742039:17.4|753775:0.0|90277:0.0"
+      "jogosIniciados": 4,
+      "assinaturaParciais": "1067774:20.8|13912942:13.1|15282074:25.8|17382079:12.8|25278938:0.0|26079439:13.2|27772103:4.3|2963331:37.7|309735:7.7|3250219:0.1|3419812:45.0|423154:5.7|47572160:5.7|47653263:7.4|487118:0.1|49288650:0.0|4997197:0.0|6742039:17.4|753775:0.0|90277:0.0"
     }
   }
 ]
