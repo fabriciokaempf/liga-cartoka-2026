@@ -391,34 +391,34 @@
     "rodada": 26,
     "aoVivo": true,
     "rotulo": "Rodada 26 · andamento",
-    "titulo": "Dois jogos no bolso, SampaMissiones dispara na artilharia parcial e a ponta ainda nem entrou em campo",
+    "titulo": "Corticeira's assume a artilharia parcial, jogo do vice entra em campo e a rodada 26 já tem três confrontos rolando",
     "blocos": [
       {
         "icone": "⚽",
-        "titulo": "Dois no bolso, oito no forno",
-        "texto": "A rodada 26 avançou mais um degrau: dois dos dez confrontos já tiveram o jogo real apitado até o fim, Madalena Club contra Esporte Clube Barão e Corticeira's Farm FC contra VIERTRICOLOR, enquanto os outros oito ainda nem começaram. No Cartola isso quer dizer pouco sozinho, porque a maioria dos times ainda espera os próprios atletas escalados entrarem em campo em outras partidas do dia. Parcial de agora é conversa de bar, o fechamento é que vale."
-      },
-      {
-        "icone": "🚀",
-        "titulo": "SampaMissiones dispara na artilharia parcial",
-        "texto": "Quem lidera a pontuação parcial da rodada inteira é o SampaMissiones FC, com 37,37, na frente mesmo sem confronto ainda decidido. Time que fechou o primeiro turno na 18ª posição, com 18 pontos, aparece hoje disparado no topo de quem já pontuou. Logo atrás vêm HORST BRAUN (22,4) e Corticeira's Farm FC (22,16), com Tricolor Lvfc (19,2) fechando o pelotão de cima."
+        "titulo": "Três no forno, sete esperando a vez",
+        "texto": "A rodada 26 ganhou um terceiro confronto em campo: Gaudérios FC recebeu o Brocador do Bonja e venceu por 1 a 0 no jogo real. No Cartola, porém, sobrou frieza dos dois lados, 0 a 0,1, prova de que nenhum dos atletas escalados entrou em campo ainda. Os outros dois jogos que já rolam seguem os mesmos: Madalena Club 2 a 3 para o Barão no placar real e Corticeira's Farm FC 2 a 0 sobre o VIERTRICOLOR. Faltam sete confrontos para começar."
       },
       {
         "icone": "🔥",
-        "titulo": "Os dois confrontos que já rolaram",
-        "texto": "Em Madalena Club contra Esporte Clube Barão, o jogo real terminou 3 a 2 para o Barão, mas no Cartola quem manda é o Madalena, 5,7 a 0. Já em Corticeira's Farm FC contra VIERTRICOLOR, vitória por 2 a 0 no jogo real e o Corticeira's também está na frente no Cartola, 22,16 a 11,5. Nenhum dos dois placares está fechado, ainda tem atleta escalado dos dois lados esperando a vez de entrar em campo."
+        "titulo": "Corticeira's assume a ponta da parcial",
+        "texto": "Muda o líder da artilharia da rodada: o Corticeira's Farm FC disparou para 45 pontos e tomou a ponta que antes era do SampaMissiones FC, hoje em segundo com 37,7. HORST BRAUN aparece em terceiro, com 22,4, e o VIERTRICOLOR, justamente o adversário do Corticeira's na rodada, soma 20,8 mesmo perdendo o jogo real."
       },
       {
         "icone": "📋",
-        "titulo": "A ponta ainda espera a bola rolar",
-        "texto": "O líder isolado Resina Club, com 15 pontos corridos, e o vice Brocador do Bonja, com 13, seguem com parciais zeradas ou quase (0 e 0,1) nos duelos contra Berwinha FC e Gaudérios FC. Nenhum dos dois times de ponta aparece ainda na artilharia da rodada, e a única explicação é simples: os atletas escalados por eles não entraram em campo. Faltam oito confrontos para fechar a rodada 26, tempo de sobra para essa foto mudar de figura."
+        "titulo": "Vice entra em campo, mas moleza no Cartola",
+        "texto": "O Brocador do Bonja, vice-líder isolado da tabela com 13 PG (2 atrás do líder Resina Club, que tem 15), viu seu confronto começar e perdeu por 1 a 0 no jogo real. No Cartola, seguiu de fora da festa, com míseros 0,1 ponto, contra o zero cravado do Gaudérios. Sem susto, é só esperar os escalados dos dois lados entrarem em campo."
+      },
+      {
+        "icone": "⏳",
+        "titulo": "Sete pela frente, nada decidido",
+        "texto": "Ainda tem gente esperando o apito para valer: o ex-campeão do primeiro turno Kaempfs F.C. (hoje 3º no returno, com 12 PG) mede forças com o Tricolor Lvfc (7º, com 9 PG), e o líder Resina Club só entra em campo contra o Berwinha FC mais tarde. Com sete confrontos por começar, essa foto da parcial ainda vai mudar muito."
       }
     ],
-    "geradaEm": "2026-09-06T13:10:00.000Z",
+    "geradaEm": "2026-09-06T04:25:42.251Z",
     "estado": {
       "mercado": 2,
-      "jogosIniciados": 2,
-      "assinaturaParciais": "1067774:11.5|13912942:5.7|15282074:22.4|17382079:5.4|25278938:0.0|26079439:0.0|27772103:0.0|2963331:37.4|309735:0.0|3250219:0.1|3419812:22.2|423154:5.7|47572160:5.7|47653263:0.0|487118:0.1|49288650:0.0|4997197:0.0|6742039:19.2|753775:0.0|90277:0.0"
+      "jogosIniciados": 3,
+      "assinaturaParciais": "1067774:20.8|13912942:13.1|15282074:22.4|17382079:12.8|25278938:0.0|26079439:11.1|27772103:4.3|2963331:37.7|309735:7.7|3250219:0.1|3419812:45.0|423154:5.7|47572160:5.7|47653263:7.4|487118:0.1|49288650:0.0|4997197:0.0|6742039:17.4|753775:0.0|90277:0.0"
     }
   }
 ]
