@@ -391,34 +391,34 @@
     "rodada": 26,
     "aoVivo": true,
     "rotulo": "Rodada 26 · andamento",
-    "titulo": "Bola rolando na rodada 26: sinal verde ligado e quase ninguém pontuou ainda",
+    "titulo": "Dois jogos no bolso, SampaMissiones dispara na artilharia parcial e a ponta ainda nem entrou em campo",
     "blocos": [
       {
-        "icone": "🔔",
-        "titulo": "Abre o sinal verde",
-        "texto": "Mercado fechado e a rodada 26 começou a rolar de verdade: Madalena Club recebeu o Esporte Clube Barão e o jogo real já terminou, mas quem decide aqui é o Cartola, e o Madalena abriu com 6,0 pontos contra um zero redondo do Barão. Os outros nove confrontos ainda nem começaram, então relaxa: quase ninguém pontuou de fato, e o que aparece por aí é gente cujo atleta escalado já entrou em campo em outro jogo do dia."
+        "icone": "⚽",
+        "titulo": "Dois no bolso, oito no forno",
+        "texto": "A rodada 26 avançou mais um degrau: dois dos dez confrontos já tiveram o jogo real apitado até o fim, Madalena Club contra Esporte Clube Barão e Corticeira's Farm FC contra VIERTRICOLOR, enquanto os outros oito ainda nem começaram. No Cartola isso quer dizer pouco sozinho, porque a maioria dos times ainda espera os próprios atletas escalados entrarem em campo em outras partidas do dia. Parcial de agora é conversa de bar, o fechamento é que vale."
       },
       {
-        "icone": "👑",
-        "titulo": "Duelo na ponta",
-        "texto": "O líder isolado Resina Club, com seus 15 pontos corridos, recebe o Berwinha FC ainda neste sábado, e a régua do Resina tem sido implacável: cinco vitórias em seis rodadas do returno. O Berwinha faz parte daquele pelotão gigante empatado em 9 pontos, e uma vitória sozinha já não tira ninguém de lá, mas ajuda a respirar."
+        "icone": "🚀",
+        "titulo": "SampaMissiones dispara na artilharia parcial",
+        "texto": "Quem lidera a pontuação parcial da rodada inteira é o SampaMissiones FC, com 37,37, na frente mesmo sem confronto ainda decidido. Time que fechou o primeiro turno na 18ª posição, com 18 pontos, aparece hoje disparado no topo de quem já pontuou. Logo atrás vêm HORST BRAUN (22,4) e Corticeira's Farm FC (22,16), com Tricolor Lvfc (19,2) fechando o pelotão de cima."
       },
       {
-        "icone": "🔁",
-        "titulo": "Revanche do vice",
-        "texto": "Quem também entra em campo hoje é o Brocador do Bonja, vice isolado com 13 pontos, visitando o Gaudérios FC, que ocupa a 16ª posição. Eu lembro bem: o Brocador foi líder isolado lá na rodada 22 e perdeu a coroa na rodada seguinte, então essa visita tem cara de reafirmação de vice-liderança, não de repetição do tropeço."
+        "icone": "🔥",
+        "titulo": "Os dois confrontos que já rolaram",
+        "texto": "Em Madalena Club contra Esporte Clube Barão, o jogo real terminou 3 a 2 para o Barão, mas no Cartola quem manda é o Madalena, 5,7 a 0. Já em Corticeira's Farm FC contra VIERTRICOLOR, vitória por 2 a 0 no jogo real e o Corticeira's também está na frente no Cartola, 22,16 a 11,5. Nenhum dos dois placares está fechado, ainda tem atleta escalado dos dois lados esperando a vez de entrar em campo."
       },
       {
-        "icone": "🎯",
-        "titulo": "Mais pratos do cardápio e o palpite do Zé",
-        "texto": "Amanhã tem Kaempfs F.C., campeão do primeiro turno, visitando o Tricolor Lvfc, e o Baade FC, novato sem currículo de turno passado, encarando o HORST BRAUN. De quebra, o lanterna isolado VIERTRICOLOR, ainda com 0 ponto no returno, visita o Corticeira's Farm FC, que já aparece com a maior pontuação parcial da rodada (14,9) mesmo com o jogo por começar. O palpite do Zé é que o Corticeira's Farm mantém a artilharia e o VIERTRICOLOR sofre mais uma."
+        "icone": "📋",
+        "titulo": "A ponta ainda espera a bola rolar",
+        "texto": "O líder isolado Resina Club, com 15 pontos corridos, e o vice Brocador do Bonja, com 13, seguem com parciais zeradas ou quase (0 e 0,1) nos duelos contra Berwinha FC e Gaudérios FC. Nenhum dos dois times de ponta aparece ainda na artilharia da rodada, e a única explicação é simples: os atletas escalados por eles não entraram em campo. Faltam oito confrontos para fechar a rodada 26, tempo de sobra para essa foto mudar de figura."
       }
     ],
-    "geradaEm": "2026-09-05T19:25:00.000Z",
+    "geradaEm": "2026-09-06T13:10:00.000Z",
     "estado": {
       "mercado": 2,
-      "jogosIniciados": 1,
-      "assinaturaParciais": "1067774:0.0|13912942:6.0|15282074:5.5|17382079:4.7|25278938:0.0|26079439:0.0|27772103:0.0|2963331:9.5|309735:0.0|3250219:5.5|3419812:14.9|423154:6.0|47572160:6.0|47653263:0.0|487118:5.5|49288650:0.0|4997197:0.0|6742039:5.0|753775:0.0|90277:0.0"
+      "jogosIniciados": 2,
+      "assinaturaParciais": "1067774:11.5|13912942:5.7|15282074:22.4|17382079:5.4|25278938:0.0|26079439:0.0|27772103:0.0|2963331:37.4|309735:0.0|3250219:0.1|3419812:22.2|423154:5.7|47572160:5.7|47653263:0.0|487118:0.1|49288650:0.0|4997197:0.0|6742039:19.2|753775:0.0|90277:0.0"
     }
   }
 ]
