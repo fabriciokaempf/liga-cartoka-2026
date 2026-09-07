@@ -391,34 +391,34 @@
     "rodada": 26,
     "aoVivo": true,
     "rotulo": "Rodada 26 · andamento",
-    "titulo": "Reta final da rodada 26: VIERTRICOLOR sonha com a primeira vitória e o líder dispara na parcial",
+    "titulo": "Resina e Brocador empatariam na ponta se a rodada 26 fechasse agora",
     "blocos": [
       {
-        "icone": "⚽",
-        "titulo": "Nove no bolso, um de molho",
-        "texto": "A rodada 26 já tem nove jogos reais decididos e falta só um para fechar de vez: SampaMissiones FC recebe o Kidiabense FC hoje às 20h. Pelo caminho o Barão bateu a Madalena Club por 3 a 2 e o Império da Caipira passou pelo pietro filho por 3 a 1, mas no Cartola, como sempre, o resultado real é só decoração. Com quase toda a rodada em campo, já dá pra falar sério sobre quem sobe e quem desce."
+        "icone": "⏳",
+        "titulo": "Falta só o capítulo final",
+        "texto": "A rodada 26 segue com nove jogos reais decididos e um pendente: SampaMissiones FC recebe o Kidiabense FC só às 20h de hoje. Enquanto esse confronto não rola, a pontuação do Cartola mexeu bastante desde a última atualização, e teve gente trocando de lado no marcador. Guarda um espaço na agenda para depois do jantar, que ainda tem emoção reservada."
+      },
+      {
+        "icone": "👑",
+        "titulo": "Ponta agora tem empate técnico",
+        "texto": "Na cobertura anterior o Resina Club estava batendo o Berwinha FC com sobra, mas os parciais viraram para um empate raspando: 89,5 a 89,2, diferença de 0,3, dentro da regra que garante 1 ponto para cada. Do outro lado, o Brocador do Bonja deixou de empatar com o Gaudérios FC e passou a vencer por 88,3 a 84,2. Se a rodada fechasse agora, líder e vice se abraçariam na ponta com 16 pontos corridos cada, o Resina só na frente pelo desempate de PG turno."
       },
       {
         "icone": "🔄",
-        "titulo": "A virada que ninguém viu vindo",
-        "texto": "Na cobertura anterior eu tinha deixado registrado que o Kaempfs F.C. mal tinha saído do zero, com 0,1 ponto, enquanto o Tricolor Lvfc disparava com 17,4. Pois o jogo virou de ponta a cabeça: o Kaempfs fechou com 94,33 pontos, um dos maiores números da rodada, e o Tricolor travou em 76,78. Reviravolta parecida rolou na visita da Corticeira's Farm FC ao VIERTRICOLOR: no jogo real foi vitória tranquila da Corticeira's por 2 a 0, mas no Cartola é o lanterna isolado quem está mandando, 75,59 a 54,66. É assim que funciona: time não pontua pelo escudo que veste na Cartoka, pontua pelos atletas escalados."
+        "titulo": "Os empates decretados viraram resultado",
+        "texto": "Dois dos três confrontos que eu tinha catalogado como fio da faca na atualização anterior saíram do papel de empate. O pietro filho, que dividia a parcial com o Império da Caipira por apenas 1 ponto, agora abriu vantagem e vence por 89,9 a 85,3. Já HORST BRAUN, que perdia para o Baade FC, virou o placar e está à frente por 80,0 a 78,9, só que a diferença ainda mora dentro da margem de 2 pontos, e o resultado que vale para a tabela continua sendo empate."
       },
       {
-        "icone": "📊",
-        "titulo": "Se a rodada fechasse agora",
-        "texto": "O líder Resina Club está batendo o Berwinha FC na parcial (92,73 a 88,38) e chegaria a 18 pontos corridos, esticando ainda mais a vantagem. Kaempfs F.C. e Baade FC empatariam a segunda posição do returno com 15, enquanto o vice Brocador do Bonja só somaria 1 no empate com o Gaudérios FC e ficaria com 14. Na ponta de baixo, o Urachfc segue sem alternativa: perde para o Parizi 01 por 92,53 a 67,74 e permaneceria com apenas 3 pontos em sete rodadas. Já o VIERTRICOLOR, que não vence há seis rodadas seguidas, está batendo a Corticeira's Farm FC e sairia da fila de zero vitórias com o primeiro triunfo do returno."
-      },
-      {
-        "icone": "🔥",
-        "titulo": "Trio no fio da faca",
-        "texto": "Três confrontos estão dentro da margem que vira empate na Cartoka: Gaudérios FC e Brocador do Bonja (89,64 a 90,68, diferença de 1,04), Império da Caipira e pietro filho (89,34 a 90,34, cravado em 1,00) e até o duelo que ainda nem começou de verdade, SampaMissiones FC contra Kidiabense FC (95,02 a 93,53, 1,49 de diferença). Como ainda tem atleta em campo em outros jogos da rodada, qualquer pontinho de reserva pode romper essas igualdades e virar resultado. A palavra final só sai depois das 20h de hoje, quando o último confronto entrar em campo."
+        "icone": "🌱",
+        "titulo": "VIERTRICOLOR segura a esperança, Urachfc não sai do buraco",
+        "texto": "O sonho da primeira vitória do returno segue vivo para o VIERTRICOLOR: a vantagem sobre a Corticeira's Farm FC encolheu de uma folga enorme para 72,5 a 65,7, mas o time de Daniel Vier segue na frente. Do lado ruim da tabela, o Urachfc segue apanhando do Parizi 01 por larga margem, agora 95,1 a 71,7, e caminha para a sexta derrota em sete rodadas do returno."
       }
     ],
-    "geradaEm": "2026-09-07T14:30:00.000Z",
+    "geradaEm": "2026-09-07T19:10:52.000Z",
     "estado": {
       "mercado": 2,
       "jogosIniciados": 9,
-      "assinaturaParciais": "1067774:75.6|13912942:93.5|15282074:77.5|17382079:90.3|25278938:92.5|26079439:84.0|27772103:64.3|2963331:95.0|309735:67.7|3250219:90.7|3419812:54.7|423154:88.4|47572160:85.4|47653263:83.2|487118:94.3|49288650:92.7|4997197:80.7|6742039:76.8|753775:89.3|90277:89.6"
+      "assinaturaParciais": "1067774:72.5|13912942:92.9|15282074:80.0|17382079:89.9|25278938:95.1|26079439:80.0|27772103:68.3|2963331:100.8|309735:71.7|3250219:88.3|3419812:65.7|423154:89.2|47572160:86.1|47653263:78.4|487118:88.6|49288650:89.5|4997197:78.9|6742039:83.7|753775:85.3|90277:84.2"
     }
   }
 ]
