@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-08T17:22:13.836Z",
+  "geradoEm": "2026-09-08T19:58:27.842Z",
   "temporada": 2026,
   "liga": {
     "nome": "Liga Cartoka de pontos corridos 2026",
@@ -142,7 +142,7 @@
       "nome": "Urachfc",
       "nomeCartola": "Carlos Vinicius",
       "escudoTime": "https://s2-cartola.glbimg.com/lR1sf7u9We9aPiVLYQZinNCSBhM=/https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/cartola_assets_2/escudo/47/08/46/00cd8ff7af-28aa-44bb-bd98-120640b18a4720260121150846",
-      "pago": true,
+      "pago": false,
       "pagoEmRodada": null,
       "clube": {
         "id": 275,
@@ -187,7 +187,7 @@
       "nome": "Mandrackefc",
       "nomeCartola": "Mitzkatzmiau",
       "escudoTime": "https://s2-cartola.glbimg.com/ntvC6JywbWVdBW8maDJ0mlVtXcU=/https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/cartola_assets_4/escudo/a2/40/08/00d1ed55cc-cf5b-40ae-b507-5440bdd3b9a220260128164008",
-      "pago": true,
+      "pago": false,
       "pagoEmRodada": null,
       "clube": {
         "id": 264,
