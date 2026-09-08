@@ -387,33 +387,36 @@
     "geradaEm": "2026-09-01T17:35:00.000Z"
   },
   {
-    "id": "andamento-rodada-26",
+    "id": "rodada-26",
     "rodada": 26,
-    "aoVivo": true,
-    "rotulo": "Rodada 26 · andamento",
-    "titulo": "Rodada 26 fecha os gramados e deixa a Cartoka na expectativa da pontuação oficial",
+    "titulo": "Kidiabense crava a melhor da rodada, Corticeira's Farm passa vergonha e o Brocador cola no Resina bem na treta que eu avisei que vinha",
     "blocos": [
       {
-        "icone": "🔒",
-        "titulo": "Mercado virou a chave",
-        "texto": "Os dez confrontos da rodada 26 já rolaram na vida real, do sábado ao domingo à noite, e o mercado da Cartola virou de vez para o status de fechado. Só que até agora a plataforma não cuspiu a pontuação oficial dos times escalados, então quem valeu ou não valeu na rodada segue em suspense."
-      },
-      {
         "icone": "🏆",
-        "titulo": "A tabela que a rodada 25 deixou",
-        "texto": "Enquanto os números não saem, vale relembrar quem carimbou o passaporte para a liderança do returno até aqui: Resina Club na ponta com 15 pontos corridos, Brocador do Bonja logo atrás com 13, e Kaempfs F.C. e Baade FC empatados em 12, com o Kaempfs na frente no desempate de PG turno. É essa foto que a rodada 26 pode mexer, para cima ou para baixo, assim que a pontuação sair."
+        "titulo": "Cartoleiro da rodada",
+        "texto": "Quem levou a faixa de melhor pontuação da rodada 26 foi o Kidiabense FC, que superou o SampaMissiones FC por 105,85 a 100,82 num duelo em que os dois times passaram dos 100 pontos. Ficou na frente só na unha do Parizi 01, que também estourou a casa dos 105 ao atropelar o Urachfc por 105,30 a 77,11. Rodada de artilheiro lá em cima da tabela de pontuação."
       },
       {
-        "icone": "👀",
-        "titulo": "Zé de olho no apito final",
-        "texto": "Assim que o Cartola liberar os pontos da rodada 26, esta página ganha a resenha de fechamento completa, com cartoleiro do dia, vexame, jogo mais equilibrado e o novo retrato da tabela. Até lá, fica a dica: quem escalou bem nos jogos que já rolaram pode estar sentado numa mina de pontos sem nem saber."
+        "icone": "🤡",
+        "titulo": "Vexame da rodada",
+        "texto": "O Corticeira's Farm FC entregou a pior pontuação da rodada, meros 65,71, e ainda saiu batido pelo VIERTRICOLOR fora de casa (65,71 a 88,46). Depois de rondar o pelotão de cima nas rodadas passadas, o time volta a lembrar que semana ruim também bate na porta de quem vinha embalado."
+      },
+      {
+        "icone": "🔥",
+        "titulo": "Jogo da rodada",
+        "texto": "O confronto mais apertado nem precisou de vencedor: HORST BRAUN e Baade FC brigaram ponto a ponto até fechar em 82,68 a 82,81, diferença de meros 0,13, a menor de toda a rodada, e caiu direto na regra do empate. Print desse marcador vale entrar pra galeria dos jogos de doer o coração."
+      },
+      {
+        "icone": "📊",
+        "titulo": "Sobe e desce da tabela",
+        "texto": "Eu avisei na cobertura ao vivo de sábado que a foto da liderança podia mexer assim que a pontuação oficial saísse, e mexeu bonito: o Brocador do Bonja bateu o Gaudérios FC por 92,25 a 88,01 e empatou em pontos com o Resina Club, os dois agora com 16 na ponta. Quem decide é o PG turno, e aí o Resina segue na frente, com 688,34 contra 656,19 do Brocador. Logo atrás, o Kaempfs F.C. goleou o Tricolor Lvfc por 92,50 a 83,65 e chegou aos 15 pontos, a um empurrãozinho do topo. Liderança que parecia tranquila virou rodada de unha roída."
+      },
+      {
+        "icone": "🔮",
+        "titulo": "Espiada na próxima rodada",
+        "texto": "A rodada 27 começa no dia 11/09 com confronto de peso: o líder Resina Club visita o Esporte Clube Barão, enquanto o outro líder, Brocador do Bonja, pega justamente o Kidiabense FC, dono da melhor pontuação da rodada 26. De quebra, o Kaempfs F.C., colado no topo com 15 pontos, recebe o SampaMissiones FC em casa de olho em brigar pela ponta isolada."
       }
     ],
-    "geradaEm": "2026-09-08T16:25:44.129Z",
-    "estado": {
-      "mercado": 4,
-      "jogosIniciados": 10,
-      "assinaturaParciais": "sem-parciais"
-    }
+    "geradaEm": "2026-09-08T20:10:00.000Z"
   }
 ]
