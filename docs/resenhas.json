@@ -391,34 +391,29 @@
     "rodada": 26,
     "aoVivo": true,
     "rotulo": "Rodada 26 · andamento",
-    "titulo": "Décimo jogo entra em campo, Kaempfs cola no líder e VIERTRICOLOR sonha com o primeiro tapa no peito",
+    "titulo": "Rodada 26 fecha os gramados e deixa a Cartoka na expectativa da pontuação oficial",
     "blocos": [
       {
-        "icone": "⚽",
-        "titulo": "Décimo jogo já rolou",
-        "texto": "A rodada 26 fechou a lista de confrontos reais: o último deles, SampaMissiones FC contra Kidiabense FC, entrou em campo à noite, e o Sampa já aparece na frente nos parciais por 100,82 a 92,90. São dez jogos rolando e zero jogos restantes, mas atenção: pontuação de Cartola ainda pode virar até valer de verdade para a tabela oficial."
+        "icone": "🔒",
+        "titulo": "Mercado virou a chave",
+        "texto": "Os dez confrontos da rodada 26 já rolaram na vida real, do sábado ao domingo à noite, e o mercado da Cartola virou de vez para o status de fechado. Só que até agora a plataforma não cuspiu a pontuação oficial dos times escalados, então quem valeu ou não valeu na rodada segue em suspense."
       },
       {
-        "icone": "👑",
-        "titulo": "Resina e Brocador seguem de mãos dadas, mas o Kaempfs colou",
-        "texto": "Se a rodada fechasse agora, Resina Club e Brocador do Bonja empatariam de novo na ponta com 16 pontos corridos cada, o Resina só na frente pelo desempate de PG turno. A novidade é o Kaempfs F.C., que vinha perdendo do Tricolor Lvfc e virou o placar para 88,60 a 83,65, chegando a 15 pontos e encostando na dupla da frente."
+        "icone": "🏆",
+        "titulo": "A tabela que a rodada 25 deixou",
+        "texto": "Enquanto os números não saem, vale relembrar quem carimbou o passaporte para a liderança do returno até aqui: Resina Club na ponta com 15 pontos corridos, Brocador do Bonja logo atrás com 13, e Kaempfs F.C. e Baade FC empatados em 12, com o Kaempfs na frente no desempate de PG turno. É essa foto que a rodada 26 pode mexer, para cima ou para baixo, assim que a pontuação sair."
       },
       {
-        "icone": "🎉",
-        "titulo": "VIERTRICOLOR sonha com o primeiro tapa na mesa",
-        "texto": "Na atualização passada o VIERTRICOLOR vencia o Corticeira's Farm FC por uma vantagem apertada, e agora essa diferença só cresceu: 81,36 a 65,71. Se confirmar, é a primeira vitória do time de Daniel Vier em todo o returno. Ainda falta o apito valer de verdade, mas o sonho está mais perto do que nunca."
-      },
-      {
-        "icone": "🥊",
-        "titulo": "Urachfc não sai da lona",
-        "texto": "Do lado ruim da tabela, o Urachfc segue apanhando feio do Parizi 01, agora por 95,10 a 78,21, rumo a mais uma derrota no returno. E dois duelos seguem no fio do empate como na atualização passada: Resina Club 89,50 a 89,15 contra o Berwinha FC, e HORST BRAUN 79,98 a 78,91 contra o Baade FC, os dois dentro da margem de 2 pontos que garante ponto para as duas equipes."
+        "icone": "👀",
+        "titulo": "Zé de olho no apito final",
+        "texto": "Assim que o Cartola liberar os pontos da rodada 26, esta página ganha a resenha de fechamento completa, com cartoleiro do dia, vexame, jogo mais equilibrado e o novo retrato da tabela. Até lá, fica a dica: quem escalou bem nos jogos que já rolaram pode estar sentado numa mina de pontos sem nem saber."
       }
     ],
-    "geradaEm": "2026-09-07T23:50:00.000Z",
+    "geradaEm": "2026-09-08T16:25:44.129Z",
     "estado": {
-      "mercado": 2,
+      "mercado": 4,
       "jogosIniciados": 10,
-      "assinaturaParciais": "1067774:81.4|13912942:92.9|15282074:80.0|17382079:89.9|25278938:95.1|26079439:80.0|27772103:83.7|2963331:100.8|309735:78.2|3250219:88.3|3419812:65.7|423154:89.2|47572160:86.1|47653263:78.4|487118:88.6|49288650:89.5|4997197:78.9|6742039:83.7|753775:85.3|90277:85.3"
+      "assinaturaParciais": "sem-parciais"
     }
   }
 ]
