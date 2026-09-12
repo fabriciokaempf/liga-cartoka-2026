@@ -418,5 +418,36 @@
       }
     ],
     "geradaEm": "2026-09-08T20:10:00.000Z"
+  },
+  {
+    "id": "andamento-rodada-27",
+    "rodada": 27,
+    "aoVivo": true,
+    "rotulo": "Rodada 27 · esquentando",
+    "titulo": "Rodada 27 dá as caras com clássico de líderes e SOS na lanterna",
+    "blocos": [
+      {
+        "icone": "🎙️",
+        "titulo": "Abre o pano pra rodada 27",
+        "texto": "A rodada 27 já deu as caras: na sexta o Coritiba do Tricolor Lvfc levou 2 a 1 do Athletico-PR de pietro filho no jogo de verdade, mas isso aqui é só paisagem, porque a pontuação do Cartola dos dois nem apareceu ainda. Os outros nove confrontos só começam neste fim de semana, com a maioria dos atletas escalados espalhados por jogos que ainda vão rolar. Praticamente todo mundo segue com a régua zerada, então relaxa que ninguém levou vexame, a festa é que ainda vai começar."
+      },
+      {
+        "icone": "⚔️",
+        "titulo": "Duelo de líderes",
+        "texto": "O Kidiabense FC, hoje na 8ª posição com 12 pontos, recebe em casa ninguém menos que o vice-líder Brocador do Bonja, que soma 16 pontos, empatado no topo com o Resina Club e só atrás no desempate de PG turno (656,19 a 688,34). E o próprio Resina fecha a rodada só na segunda-feira, visitando o Esporte Clube Barão: se o líder tropeçar lá fora, o Brocador embolsa a ponta isolada de bandeja."
+      },
+      {
+        "icone": "🐣",
+        "titulo": "O novato que incomoda",
+        "texto": "O Baade FC, aquele estreante sem nenhum currículo de primeiro turno, aparece grudado nos líderes em 5º lugar com 13 pontos e recebe o Império da Caipira, que tenta não escorregar mais no meio da tabela. Enquanto isso, o Kaempfs F.C., colado em 3º com 15 pontos, recebe o SampaMissiones FC de olho em seguir na cola da ponta."
+      },
+      {
+        "icone": "🆘",
+        "titulo": "SOS na lanterna",
+        "texto": "Lá embaixo o clima é de desespero: Urachfc e VIERTRICOLOR estão empatados em 3 pontos, com o Urachfc no penúltimo lugar só na frente por causa do desempate de PG turno, e o VIERTRICOLOR isolado mesmo na lanterna. Os dois entram em campo neste fim de semana, o Urachfc contra o Corticeira's Farm FC e o VIERTRICOLOR contra o Gaudérios FC, precisando de um milagre pra sair do fundo do poço."
+      }
+    ],
+    "estado": { "mercado": 1, "jogosIniciados": 1, "assinaturaParciais": "sem-parciais" },
+    "geradaEm": "2026-09-12T04:25:15.000Z"
   }
 ]
