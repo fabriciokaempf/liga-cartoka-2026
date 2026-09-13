@@ -424,34 +424,34 @@
     "rodada": 27,
     "aoVivo": true,
     "rotulo": "Rodada 27 · reta final",
-    "titulo": "Reta final da rodada 27: Urachfc explode, Brocador cola na ponta e Baade apanha do novato",
+    "titulo": "Kaempfs mira vôo solo na ponta, Kidiabense vira o duelo dos líderes e Mandrackefc dispara na reta final da 27",
     "blocos": [
       {
         "icone": "🏁",
-        "titulo": "Sete de dez no ar",
-        "texto": "A rodada 27 já teve sete dos dez confrontos com jogo real rolado, faltam três pra fechar a conta: Kaempfs F.C. recebe o SampaMissiones FC e Berwinha FC encara o Mandrackefc ainda hoje à tarde, enquanto Esporte Clube Barão e Resina Club só entram em campo na segunda. Vale repetir o aviso de sempre: pontuação de Cartola é dos atletas escalados, não do placar do jogo real, e tudo aqui ainda é parcial."
-      },
-      {
-        "icone": "⚔️",
-        "titulo": "Duelo de líderes pende pro Brocador",
-        "texto": "Nos parciais deste domingo o Brocador do Bonja está na frente do Kidiabense FC por 26,8 a 22,9. Se isso segurar até o fim, o Brocador embolsa os 3 pontos e sobe pra 19 na tabela, enquanto o Resina Club, seu parceiro de ponta com os mesmos 16 pg, só entra em campo na segunda contra o Barão pra não ficar pra trás na corrida."
+        "titulo": "Oito de dez com jogo real rolando",
+        "texto": "A rodada 27 já soma oito dos dez confrontos com o jogo real do dia iniciado, contando agora também Kaempfs F.C. contra SampaMissiones FC, que entraram em campo na tarde de hoje. Faltam só dois pra fechar a conta: Berwinha FC recebe o Mandrackefc ainda hoje, às 17h30, e Esporte Clube Barão pega o Resina Club amanhã à noite. Vale repetir: tudo aqui é pontuação parcial dos atletas escalados, o jogo real é só pano de fundo, e pode virar até o fim."
       },
       {
         "icone": "🚀",
-        "titulo": "Urachfc bombando lá embaixo",
-        "texto": "Quem diria: o Urachfc, hoje na 19ª posição com só 3 pg e escapando da lanterna só no desempate de PG turno contra o VIERTRICOLOR, está com a melhor parcial de toda a rodada, 60,5 pontos contra o Corticeira's Farm FC. Se segurar essa pontuação, sai da zona da degola com números de time de ponta."
+        "titulo": "Kaempfs mira vôo solo na ponta",
+        "texto": "Enquanto o líder oficial ainda nem entrou em campo direito, o Kaempfs F.C. está batendo o SampaMissiones FC nos parciais por 25,2 a 13,6. Se esse placar segurar até o fechamento, o Kaempfs sobe pra 18 pontos corridos e assume a ponta isolada, ultrapassando de uma vez Resina Club e Brocador do Bonja, os dois donos dos 16 pg que abriram a rodada. O campeão do primeiro turno avisando que a temporada ainda não terminou."
+      },
+      {
+        "icone": "🔄",
+        "titulo": "Duelo dos líderes virou de ponta cabeça",
+        "texto": "Faz pouco eu avisei aqui que o Brocador do Bonja abria vantagem sobre o Kidiabense FC nos parciais. Pois virou: o Kidiabense assumiu a frente por 27,1 a 26,8, diferença de míseros 0,3 ponto, hoje dentro da margem que vira empate pela regra da liga. Se acabar assim, os dois saem com 1 pontinho cada e seguem colados na cola do topo."
       },
       {
         "icone": "📉",
-        "titulo": "Quem sobe e quem já pode ir se explicando",
-        "texto": "HORST BRAUN está atropelando o Alemonstro FBPA nos parciais (39,65 a 20) e o Baade FC, que chegou colado no pelotão de cima com 13 pg, está apanhando do Império da Caipira (24,8 a 45,5). Do outro lado, o Parizi 01, também com 13 pg, vê o Madalena Club disparar na frente por 37,4 a 9,3 e corre risco de escorregar da parte de cima da tabela se isso se confirmar."
+        "titulo": "Mandrackefc dispara, Urachfc não sai do topo da rodada",
+        "texto": "O Mandrackefc ampliou a vantagem sobre o Berwinha FC nos parciais e agora vence por 47,2 a 19,7 num confronto cujo jogo real ainda nem começou. Lá embaixo na tabela geral, quem segue provando que parcial não tem hora pra parar é o Urachfc: os 60,5 pontos contra o Corticeira's Farm FC continuam sendo a maior pontuação de toda a rodada 27, número que não mexeu desde a última cobertura mas segue difícil de superar."
       }
     ],
     "estado": {
       "mercado": 2,
-      "jogosIniciados": 7,
-      "assinaturaParciais": "1067774:19.9|13912942:22.9|15282074:39.6|17382079:38.9|25278938:9.3|26079439:20.0|27772103:45.3|2963331:13.6|309735:60.5|3250219:26.8|3419812:25.1|423154:19.7|47572160:37.4|47653263:25.3|487118:25.2|49288650:20.0|4997197:24.8|6742039:32.9|753775:45.5|90277:22.3"
+      "jogosIniciados": 8,
+      "assinaturaParciais": "1067774:25.7|13912942:27.1|15282074:39.6|17382079:38.9|25278938:9.3|26079439:20.0|27772103:47.2|2963331:13.6|309735:60.5|3250219:26.8|3419812:25.1|423154:19.7|47572160:37.4|47653263:25.3|487118:25.2|49288650:20.0|4997197:24.8|6742039:32.9|753775:45.5|90277:22.3"
     },
-    "geradaEm": "2026-09-13T16:24:39.000Z"
+    "geradaEm": "2026-09-13T20:25:51.000Z"
   }
 ]
