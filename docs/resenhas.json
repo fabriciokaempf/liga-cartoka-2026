@@ -423,31 +423,35 @@
     "id": "andamento-rodada-27",
     "rodada": 27,
     "aoVivo": true,
-    "rotulo": "Rodada 27 · esquentando",
-    "titulo": "Rodada 27 dá as caras com clássico de líderes e SOS na lanterna",
+    "rotulo": "Rodada 27 · reta final",
+    "titulo": "Reta final da rodada 27: Urachfc explode, Brocador cola na ponta e Baade apanha do novato",
     "blocos": [
       {
-        "icone": "🎙️",
-        "titulo": "Abre o pano pra rodada 27",
-        "texto": "A rodada 27 já deu as caras: na sexta o Coritiba do Tricolor Lvfc levou 2 a 1 do Athletico-PR de pietro filho no jogo de verdade, mas isso aqui é só paisagem, porque a pontuação do Cartola dos dois nem apareceu ainda. Os outros nove confrontos só começam neste fim de semana, com a maioria dos atletas escalados espalhados por jogos que ainda vão rolar. Praticamente todo mundo segue com a régua zerada, então relaxa que ninguém levou vexame, a festa é que ainda vai começar."
+        "icone": "🏁",
+        "titulo": "Sete de dez no ar",
+        "texto": "A rodada 27 já teve sete dos dez confrontos com jogo real rolado, faltam três pra fechar a conta: Kaempfs F.C. recebe o SampaMissiones FC e Berwinha FC encara o Mandrackefc ainda hoje à tarde, enquanto Esporte Clube Barão e Resina Club só entram em campo na segunda. Vale repetir o aviso de sempre: pontuação de Cartola é dos atletas escalados, não do placar do jogo real, e tudo aqui ainda é parcial."
       },
       {
         "icone": "⚔️",
-        "titulo": "Duelo de líderes",
-        "texto": "O Kidiabense FC, hoje na 8ª posição com 12 pontos, recebe em casa ninguém menos que o vice-líder Brocador do Bonja, que soma 16 pontos, empatado no topo com o Resina Club e só atrás no desempate de PG turno (656,19 a 688,34). E o próprio Resina fecha a rodada só na segunda-feira, visitando o Esporte Clube Barão: se o líder tropeçar lá fora, o Brocador embolsa a ponta isolada de bandeja."
+        "titulo": "Duelo de líderes pende pro Brocador",
+        "texto": "Nos parciais deste domingo o Brocador do Bonja está na frente do Kidiabense FC por 26,8 a 22,9. Se isso segurar até o fim, o Brocador embolsa os 3 pontos e sobe pra 19 na tabela, enquanto o Resina Club, seu parceiro de ponta com os mesmos 16 pg, só entra em campo na segunda contra o Barão pra não ficar pra trás na corrida."
       },
       {
-        "icone": "🐣",
-        "titulo": "O novato que incomoda",
-        "texto": "O Baade FC, aquele estreante sem nenhum currículo de primeiro turno, aparece grudado nos líderes em 5º lugar com 13 pontos e recebe o Império da Caipira, que tenta não escorregar mais no meio da tabela. Enquanto isso, o Kaempfs F.C., colado em 3º com 15 pontos, recebe o SampaMissiones FC de olho em seguir na cola da ponta."
+        "icone": "🚀",
+        "titulo": "Urachfc bombando lá embaixo",
+        "texto": "Quem diria: o Urachfc, hoje na 19ª posição com só 3 pg e escapando da lanterna só no desempate de PG turno contra o VIERTRICOLOR, está com a melhor parcial de toda a rodada, 60,5 pontos contra o Corticeira's Farm FC. Se segurar essa pontuação, sai da zona da degola com números de time de ponta."
       },
       {
-        "icone": "🆘",
-        "titulo": "SOS na lanterna",
-        "texto": "Lá embaixo o clima é de desespero: Urachfc e VIERTRICOLOR estão empatados em 3 pontos, com o Urachfc no penúltimo lugar só na frente por causa do desempate de PG turno, e o VIERTRICOLOR isolado mesmo na lanterna. Os dois entram em campo neste fim de semana, o Urachfc contra o Corticeira's Farm FC e o VIERTRICOLOR contra o Gaudérios FC, precisando de um milagre pra sair do fundo do poço."
+        "icone": "📉",
+        "titulo": "Quem sobe e quem já pode ir se explicando",
+        "texto": "HORST BRAUN está atropelando o Alemonstro FBPA nos parciais (39,65 a 20) e o Baade FC, que chegou colado no pelotão de cima com 13 pg, está apanhando do Império da Caipira (24,8 a 45,5). Do outro lado, o Parizi 01, também com 13 pg, vê o Madalena Club disparar na frente por 37,4 a 9,3 e corre risco de escorregar da parte de cima da tabela se isso se confirmar."
       }
     ],
-    "estado": { "mercado": 1, "jogosIniciados": 1, "assinaturaParciais": "sem-parciais" },
-    "geradaEm": "2026-09-12T04:25:15.000Z"
+    "estado": {
+      "mercado": 2,
+      "jogosIniciados": 7,
+      "assinaturaParciais": "1067774:19.9|13912942:22.9|15282074:39.6|17382079:38.9|25278938:9.3|26079439:20.0|27772103:45.3|2963331:13.6|309735:60.5|3250219:26.8|3419812:25.1|423154:19.7|47572160:37.4|47653263:25.3|487118:25.2|49288650:20.0|4997197:24.8|6742039:32.9|753775:45.5|90277:22.3"
+    },
+    "geradaEm": "2026-09-13T16:24:39.000Z"
   }
 ]
