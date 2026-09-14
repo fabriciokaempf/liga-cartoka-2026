@@ -424,34 +424,34 @@
     "rodada": 27,
     "aoVivo": true,
     "rotulo": "Rodada 27 · reta final",
-    "titulo": "Kaempfs mira vôo solo na ponta, Kidiabense vira o duelo dos líderes e Mandrackefc dispara na reta final da 27",
+    "titulo": "Kaempfs mira voo solo, Brocador trava no duelo dos líderes e o título da rodada espera o apito de hoje à noite",
     "blocos": [
       {
         "icone": "🏁",
-        "titulo": "Oito de dez com jogo real rolando",
-        "texto": "A rodada 27 já soma oito dos dez confrontos com o jogo real do dia iniciado, contando agora também Kaempfs F.C. contra SampaMissiones FC, que entraram em campo na tarde de hoje. Faltam só dois pra fechar a conta: Berwinha FC recebe o Mandrackefc ainda hoje, às 17h30, e Esporte Clube Barão pega o Resina Club amanhã à noite. Vale repetir: tudo aqui é pontuação parcial dos atletas escalados, o jogo real é só pano de fundo, e pode virar até o fim."
+        "titulo": "Nove de dez jogos reais rolando",
+        "texto": "A rodada 27 chegou na reta final: nove dos dez confrontos já tiveram bola rolando no jogo real, e falta só um pra fechar a conta, o Esporte Clube Barão recebe o Resina Club hoje à noite, às 20h. Vale repetir sempre: tudo aqui é pontuação parcial dos atletas escalados, o jogo real é só pano de fundo, e o fechamento oficial ainda pode virar tudo."
       },
       {
         "icone": "🚀",
-        "titulo": "Kaempfs mira vôo solo na ponta",
-        "texto": "Enquanto o líder oficial ainda nem entrou em campo direito, o Kaempfs F.C. está batendo o SampaMissiones FC nos parciais por 25,2 a 13,6. Se esse placar segurar até o fechamento, o Kaempfs sobe pra 18 pontos corridos e assume a ponta isolada, ultrapassando de uma vez Resina Club e Brocador do Bonja, os dois donos dos 16 pg que abriram a rodada. O campeão do primeiro turno avisando que a temporada ainda não terminou."
+        "titulo": "Kaempfs confirma o voo solo que eu já avisava",
+        "texto": "Como eu falei há pouco, o Kaempfs F.C. estava batendo o SampaMissiones FC nos parciais, e a vantagem só cresceu: agora é 54,7 a 36,0. Se esse placar segurar até o fechamento, o Kaempfs sobe pra 18 pontos corridos e assume a ponta isolada, ultrapassando de vez Resina Club e Brocador do Bonja, que hoje dividem a liderança com 16 cada."
       },
       {
         "icone": "🔄",
-        "titulo": "Duelo dos líderes virou de ponta cabeça",
-        "texto": "Faz pouco eu avisei aqui que o Brocador do Bonja abria vantagem sobre o Kidiabense FC nos parciais. Pois virou: o Kidiabense assumiu a frente por 27,1 a 26,8, diferença de míseros 0,3 ponto, hoje dentro da margem que vira empate pela regra da liga. Se acabar assim, os dois saem com 1 pontinho cada e seguem colados na cola do topo."
+        "titulo": "Brocador trava, Kidiabense confirma a virada",
+        "texto": "Eu avisei aqui que o duelo dos líderes tinha virado de ponta cabeça, com o Kidiabense passando na frente por míseros 0,3. Pois a distância só aumentou: agora é 60,9 a 46,9, folga grande demais pra falar em empate. Se fechar assim, o Brocador do Bonja não ganha ponto nenhum na rodada e vê o Kaempfs abrir vantagem lá na frente."
       },
       {
-        "icone": "📉",
-        "titulo": "Mandrackefc dispara, Urachfc não sai do topo da rodada",
-        "texto": "O Mandrackefc ampliou a vantagem sobre o Berwinha FC nos parciais e agora vence por 47,2 a 19,7 num confronto cujo jogo real ainda nem começou. Lá embaixo na tabela geral, quem segue provando que parcial não tem hora pra parar é o Urachfc: os 60,5 pontos contra o Corticeira's Farm FC continuam sendo a maior pontuação de toda a rodada 27, número que não mexeu desde a última cobertura mas segue difícil de superar."
+        "icone": "⏰",
+        "titulo": "Falta o jogo mais caro da rodada",
+        "texto": "O único confronto que ainda não colocou bola pra rolar no jogo real é logo o mais importante: Esporte Clube Barão recebe o Resina Club, um dos dois líderes, só às 20h de hoje. Nos parciais o Barão já aparece na frente por 54,8 a 49,9, mas como o jogo de verdade nem começou, esse número ainda deve se mexer bastante. Se segurar assim, o Resina para nos 16 pontos e vê o Kaempfs disparar sozinho na liderança. Enquanto isso, lá no fundo da tabela, o VIERTRICOLOR bate o Gaudérios nos parciais e tenta finalmente escapar da lanterna isolada, mesmo com o Urachfc seguindo dono da maior pontuação de toda a rodada, os 72,2 contra o Corticeira's Farm FC."
       }
     ],
     "estado": {
       "mercado": 2,
-      "jogosIniciados": 8,
-      "assinaturaParciais": "1067774:25.7|13912942:27.1|15282074:39.6|17382079:38.9|25278938:9.3|26079439:20.0|27772103:47.2|2963331:13.6|309735:60.5|3250219:26.8|3419812:25.1|423154:19.7|47572160:37.4|47653263:25.3|487118:25.2|49288650:20.0|4997197:24.8|6742039:32.9|753775:45.5|90277:22.3"
+      "jogosIniciados": 9,
+      "assinaturaParciais": "1067774:41.7|13912942:60.9|15282074:39.6|17382079:50.6|25278938:43.7|26079439:50.6|27772103:60.2|2963331:36.0|309735:72.2|3250219:46.9|3419812:34.1|423154:29.9|47572160:66.9|47653263:54.8|487118:54.7|49288650:49.9|4997197:40.0|6742039:62.4|753775:65.5|90277:26.8"
     },
-    "geradaEm": "2026-09-13T20:25:51.000Z"
+    "geradaEm": "2026-09-14T00:26:20.367Z"
   }
 ]
