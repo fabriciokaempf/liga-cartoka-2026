@@ -424,34 +424,34 @@
     "rodada": 27,
     "aoVivo": true,
     "rotulo": "Rodada 27 · reta final",
-    "titulo": "Os dez jogos já rolaram, o voo solo do Kaempfs sumiu no meio do caminho e o duelo dos líderes derreteu pro empate",
+    "titulo": "O duelo dos líderes virou pro lado errado, o Kaempfs cola nos dois e a ponta discute desempate de novo",
     "blocos": [
       {
         "icone": "🏁",
-        "titulo": "Os dez confrontos já tiveram bola rolando",
-        "texto": "A rodada 27 entrou de vez na reta final: os dez jogos reais já começaram, incluindo o último a atrasar, Esporte Clube Barão recebendo o Resina Club. Vale repetir sempre: essa pontuação ainda é parcial dos atletas escalados, o fechamento oficial sai depois, e número pode se mexer até lá."
+        "titulo": "Os dez jogos seguem rolando e a pontuação não parou de mexer",
+        "texto": "A rodada 27 continua na reta final com os dez confrontos já em andamento. Desde a minha última passagem por aqui a liga inteira se mexeu mais de 50 pontos somados nos parciais, então segue o aviso de sempre: é tudo provisório dos atletas escalados até o fechamento oficial sair."
       },
       {
-        "icone": "😅",
-        "titulo": "O voo solo do Kaempfs sumiu no meio do caminho",
-        "texto": "Ainda há pouco eu jurava que o Kaempfs F.C. tinha decolado sozinho contra o SampaMissiones FC, com 54,7 a 36,0. A distância evaporou: agora é 60,89 a 60,70, diferença de 0,19, dentro da faixa de empate da liga. Se fechar assim, o Kaempfs sobe para 16 pontos, mas sem folga nenhuma, e o Sampa sai com um pontinho que ninguém apostava."
+        "icone": "🔄",
+        "titulo": "O jogo mais caro da rodada virou de vez",
+        "texto": "Eu tinha avisado que Barão contra o líder Resina Club estava travado em 60,99 a 61,99, dentro da faixa de empate. Pois o placar destravou pro lado errado do líder: agora é 63,99 a 59,69, diferença de 4,30, fora da zona de empate. Se fechar assim, o Resina não sai do lugar nos 16 pontos e o Esporte Clube Barão embolsa os 3 que ainda não tinha."
       },
       {
-        "icone": "⏰",
-        "titulo": "O jogo mais caro da rodada também travou no empate",
-        "texto": "O duelo que eu chamei de mais importante, Barão contra o líder Resina Club, apertou de vez: 60,99 a 61,99, diferença de 1,00 ponto, também na faixa do empate. Se travar assim, o Resina sobe para 17 e segue líder isolado, enquanto o Brocador do Bonja, batido pelo Kidiabense por 67,09 a 52,79, fica parado nos 16 e cai para o desempate com o próprio Kaempfs, que o Resina venceria pelo PG turno."
+        "icone": "🤝",
+        "titulo": "Kaempfs segura o empate e cola na ponta pelo desempate",
+        "texto": "O Kaempfs F.C. segue empatando com o SampaMissiones FC, agora 63,89 a 63,20, ainda dentro da faixa de empate da liga. Se fechar assim, sobe para 16 pontos e empata com Resina e Brocador do Bonja na ponta, só que na frente dos dois no desempate de PG turno (690,13 contra 688,34 do Resina e 656,19 do Brocador). O Brocador, aliás, segue perdendo para o Kidiabense FC, só que reduziu a diferença de 14,3 para 10,5 pontos (59,59 a 70,09), sem fôlego pra virar."
       },
       {
-        "icone": "🏆",
-        "titulo": "Império brilha, Gaudérios apanha e a lanterna nem vencendo escapa",
-        "texto": "A maior pontuação parcial da rodada é do Império da Caipira, que crava 77,2 e goleia o Baade FC nesse quesito (77,2 a 51,19), com o Madalena Club logo atrás, 73,09 na vitória sobre o Parizi 01. Do lado ruim, o pior número é do Gaudérios FC, 44,1, perdendo para o VIERTRICOLOR por 59,34 a 44,1. E o detalhe cruel: mesmo vencendo o próprio jogo, o VIERTRICOLOR projetado chegaria a só 6 pontos e ainda seguiria na lanterna isolada, perdendo o desempate de PG turno para o Urachfc, que também vence a rodada com 72,19 e escaparia da degola por pouco."
+        "icone": "📉",
+        "titulo": "Lá embaixo, VIERTRICOLOR e Urachfc correm atrás da fuga",
+        "texto": "A lanterna VIERTRICOLOR vence seu parcial contra o Gaudérios FC por 65,24 a 46,30 e projetaria 6 pontos, mas ainda perderia o desempate de PG turno para o Urachfc, que também está vencendo na rodada (72,19 a 49,55 sobre o Corticeira's Farm FC). E quem crava a maior pontuação parcial de toda a rodada é o Império da Caipira, 80,90 contra o Baade FC, que seguiria com a pior tarde do dia até aqui."
       }
     ],
     "estado": {
       "mercado": 2,
       "jogosIniciados": 10,
-      "assinaturaParciais": "1067774:59.3|13912942:67.1|15282074:64.3|17382079:56.8|25278938:55.8|26079439:56.8|27772103:60.2|2963331:60.7|309735:72.2|3250219:52.8|3419812:45.9|423154:60.5|47572160:73.1|47653263:61.0|487118:60.9|49288650:62.0|4997197:51.2|6742039:68.6|753775:77.2|90277:44.1"
+      "assinaturaParciais": "1067774:65.2|13912942:70.1|15282074:65.0|17382079:59.8|25278938:53.5|26079439:59.8|27772103:60.2|2963331:63.2|309735:72.2|3250219:59.6|3419812:49.5|423154:57.7|47572160:76.1|47653263:64.0|487118:63.9|49288650:59.7|4997197:50.8|6742039:71.6|753775:80.9|90277:46.3"
     },
-    "geradaEm": "2026-09-15T00:25:09.000Z"
+    "geradaEm": "2026-09-15T04:20:00.000Z"
   }
 ]
