@@ -424,34 +424,34 @@
     "rodada": 27,
     "aoVivo": true,
     "rotulo": "Rodada 27 · reta final",
-    "titulo": "Kaempfs mira voo solo, Brocador trava no duelo dos líderes e o título da rodada espera o apito de hoje à noite",
+    "titulo": "Os dez jogos já rolaram, o voo solo do Kaempfs sumiu no meio do caminho e o duelo dos líderes derreteu pro empate",
     "blocos": [
       {
         "icone": "🏁",
-        "titulo": "Nove de dez jogos reais rolando",
-        "texto": "A rodada 27 chegou na reta final: nove dos dez confrontos já tiveram bola rolando no jogo real, e falta só um pra fechar a conta, o Esporte Clube Barão recebe o Resina Club hoje à noite, às 20h. Vale repetir sempre: tudo aqui é pontuação parcial dos atletas escalados, o jogo real é só pano de fundo, e o fechamento oficial ainda pode virar tudo."
+        "titulo": "Os dez confrontos já tiveram bola rolando",
+        "texto": "A rodada 27 entrou de vez na reta final: os dez jogos reais já começaram, incluindo o último a atrasar, Esporte Clube Barão recebendo o Resina Club. Vale repetir sempre: essa pontuação ainda é parcial dos atletas escalados, o fechamento oficial sai depois, e número pode se mexer até lá."
       },
       {
-        "icone": "🚀",
-        "titulo": "Kaempfs confirma o voo solo que eu já avisava",
-        "texto": "Como eu falei há pouco, o Kaempfs F.C. estava batendo o SampaMissiones FC nos parciais, e a vantagem só cresceu: agora é 54,7 a 36,0. Se esse placar segurar até o fechamento, o Kaempfs sobe pra 18 pontos corridos e assume a ponta isolada, ultrapassando de vez Resina Club e Brocador do Bonja, que hoje dividem a liderança com 16 cada."
-      },
-      {
-        "icone": "🔄",
-        "titulo": "Brocador trava, Kidiabense confirma a virada",
-        "texto": "Eu avisei aqui que o duelo dos líderes tinha virado de ponta cabeça, com o Kidiabense passando na frente por míseros 0,3. Pois a distância só aumentou: agora é 60,9 a 46,9, folga grande demais pra falar em empate. Se fechar assim, o Brocador do Bonja não ganha ponto nenhum na rodada e vê o Kaempfs abrir vantagem lá na frente."
+        "icone": "😅",
+        "titulo": "O voo solo do Kaempfs sumiu no meio do caminho",
+        "texto": "Ainda há pouco eu jurava que o Kaempfs F.C. tinha decolado sozinho contra o SampaMissiones FC, com 54,7 a 36,0. A distância evaporou: agora é 60,89 a 60,70, diferença de 0,19, dentro da faixa de empate da liga. Se fechar assim, o Kaempfs sobe para 16 pontos, mas sem folga nenhuma, e o Sampa sai com um pontinho que ninguém apostava."
       },
       {
         "icone": "⏰",
-        "titulo": "Falta o jogo mais caro da rodada",
-        "texto": "O único confronto que ainda não colocou bola pra rolar no jogo real é logo o mais importante: Esporte Clube Barão recebe o Resina Club, um dos dois líderes, só às 20h de hoje. Nos parciais o Barão já aparece na frente por 54,8 a 49,9, mas como o jogo de verdade nem começou, esse número ainda deve se mexer bastante. Se segurar assim, o Resina para nos 16 pontos e vê o Kaempfs disparar sozinho na liderança. Enquanto isso, lá no fundo da tabela, o VIERTRICOLOR bate o Gaudérios nos parciais e tenta finalmente escapar da lanterna isolada, mesmo com o Urachfc seguindo dono da maior pontuação de toda a rodada, os 72,2 contra o Corticeira's Farm FC."
+        "titulo": "O jogo mais caro da rodada também travou no empate",
+        "texto": "O duelo que eu chamei de mais importante, Barão contra o líder Resina Club, apertou de vez: 60,99 a 61,99, diferença de 1,00 ponto, também na faixa do empate. Se travar assim, o Resina sobe para 17 e segue líder isolado, enquanto o Brocador do Bonja, batido pelo Kidiabense por 67,09 a 52,79, fica parado nos 16 e cai para o desempate com o próprio Kaempfs, que o Resina venceria pelo PG turno."
+      },
+      {
+        "icone": "🏆",
+        "titulo": "Império brilha, Gaudérios apanha e a lanterna nem vencendo escapa",
+        "texto": "A maior pontuação parcial da rodada é do Império da Caipira, que crava 77,2 e goleia o Baade FC nesse quesito (77,2 a 51,19), com o Madalena Club logo atrás, 73,09 na vitória sobre o Parizi 01. Do lado ruim, o pior número é do Gaudérios FC, 44,1, perdendo para o VIERTRICOLOR por 59,34 a 44,1. E o detalhe cruel: mesmo vencendo o próprio jogo, o VIERTRICOLOR projetado chegaria a só 6 pontos e ainda seguiria na lanterna isolada, perdendo o desempate de PG turno para o Urachfc, que também vence a rodada com 72,19 e escaparia da degola por pouco."
       }
     ],
     "estado": {
       "mercado": 2,
-      "jogosIniciados": 9,
-      "assinaturaParciais": "1067774:41.7|13912942:60.9|15282074:39.6|17382079:50.6|25278938:43.7|26079439:50.6|27772103:60.2|2963331:36.0|309735:72.2|3250219:46.9|3419812:34.1|423154:29.9|47572160:66.9|47653263:54.8|487118:54.7|49288650:49.9|4997197:40.0|6742039:62.4|753775:65.5|90277:26.8"
+      "jogosIniciados": 10,
+      "assinaturaParciais": "1067774:59.3|13912942:67.1|15282074:64.3|17382079:56.8|25278938:55.8|26079439:56.8|27772103:60.2|2963331:60.7|309735:72.2|3250219:52.8|3419812:45.9|423154:60.5|47572160:73.1|47653263:61.0|487118:60.9|49288650:62.0|4997197:51.2|6742039:68.6|753775:77.2|90277:44.1"
     },
-    "geradaEm": "2026-09-14T00:26:20.367Z"
+    "geradaEm": "2026-09-15T00:25:09.000Z"
   }
 ]
