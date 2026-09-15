@@ -420,38 +420,41 @@
     "geradaEm": "2026-09-08T20:10:00.000Z"
   },
   {
-    "id": "andamento-rodada-27",
+    "id": "rodada-27",
     "rodada": 27,
-    "aoVivo": true,
-    "rotulo": "Rodada 27 · reta final",
-    "titulo": "O duelo dos líderes virou pro lado errado, o Kaempfs cola nos dois e a ponta discute desempate de novo",
+    "titulo": "Resina dispara isolado, Madalena rouba a cena com a melhor da rodada e o Kaempfs vê o sonho de colar na ponta ir por água abaixo",
     "blocos": [
       {
-        "icone": "🏁",
-        "titulo": "Os dez jogos seguem rolando e a pontuação não parou de mexer",
-        "texto": "A rodada 27 continua na reta final com os dez confrontos já em andamento. Desde a minha última passagem por aqui a liga inteira se mexeu mais de 50 pontos somados nos parciais, então segue o aviso de sempre: é tudo provisório dos atletas escalados até o fechamento oficial sair."
+        "icone": "🏆",
+        "titulo": "Cartoleiro da rodada",
+        "texto": "A pontuação mais alta da rodada 27 nem apareceu no meu radar ao vivo: foi o Madalena Club, que atropelou o Parizi 01 por 93,34 a 61,59. Nem uma linha eu escrevi sobre esse duelo no sábado, e olha a mitada que passou batida. Fica a lição: enquanto todo mundo olhava pra ponta da tabela, o Madalena calado ia estourando a régua lá no meio do pelotão."
       },
       {
-        "icone": "🔄",
-        "titulo": "O jogo mais caro da rodada virou de vez",
-        "texto": "Eu tinha avisado que Barão contra o líder Resina Club estava travado em 60,99 a 61,99, dentro da faixa de empate. Pois o placar destravou pro lado errado do líder: agora é 63,99 a 59,69, diferença de 4,30, fora da zona de empate. Se fechar assim, o Resina não sai do lugar nos 16 pontos e o Esporte Clube Barão embolsa os 3 que ainda não tinha."
+        "icone": "🤡",
+        "titulo": "Vexame da rodada",
+        "texto": "Do outro lado, quem entregou a pior tarde da rodada foi o Baade FC, com meros 52,89 pontos na derrota para o Império da Caipira (52,89 a 82,55). Sem departamento médico pra culpar e sem jogo real atrasando nada, foi time inteiro que não rendeu. Fica o aviso de sempre pro novato sem passado de primeiro turno: o returno também cobra a régua."
       },
       {
-        "icone": "🤝",
-        "titulo": "Kaempfs segura o empate e cola na ponta pelo desempate",
-        "texto": "O Kaempfs F.C. segue empatando com o SampaMissiones FC, agora 63,89 a 63,20, ainda dentro da faixa de empate da liga. Se fechar assim, sobe para 16 pontos e empata com Resina e Brocador do Bonja na ponta, só que na frente dos dois no desempate de PG turno (690,13 contra 688,34 do Resina e 656,19 do Brocador). O Brocador, aliás, segue perdendo para o Kidiabense FC, só que reduziu a diferença de 14,3 para 10,5 pontos (59,59 a 70,09), sem fôlego pra virar."
+        "icone": "🔥",
+        "titulo": "Jogo da rodada",
+        "texto": "O confronto mais equilibrado nem precisou de vencedor: Berwinha FC e Mandrackefc brigaram ponto a ponto até fechar em 60,70 a 60,19, diferença de meros 0,51, dentro da regra que transforma o resultado em empate. É o tipo de marcador que faz o coração parar antes do fechamento oficial sair."
       },
       {
-        "icone": "📉",
-        "titulo": "Lá embaixo, VIERTRICOLOR e Urachfc correm atrás da fuga",
-        "texto": "A lanterna VIERTRICOLOR vence seu parcial contra o Gaudérios FC por 65,24 a 46,30 e projetaria 6 pontos, mas ainda perderia o desempate de PG turno para o Urachfc, que também está vencendo na rodada (72,19 a 49,55 sobre o Corticeira's Farm FC). E quem crava a maior pontuação parcial de toda a rodada é o Império da Caipira, 80,90 contra o Baade FC, que seguiria com a pior tarde do dia até aqui."
+        "icone": "📻",
+        "titulo": "Recado pra quem acompanhou ao vivo",
+        "texto": "No sábado eu avisei que o duelo entre Esporte Clube Barão e o líder Resina Club tinha virado pro lado errado, 63,99 a 59,69 pro Barão: bobagem minha, o Resina buscou mais uma virada depois da minha última passagem e fechou vencendo por 66,89 a 63,99, mantendo a ponta. A esperança de que o Kaempfs F.C. colasse no topo empatando com o SampaMissiones FC também não vingou: o time desandou de vez e perdeu por 65,99 a 78. Já o Brocador do Bonja, que eu via perdendo por larga diferença pro Kidiabense FC, encurtou a distância até o fim, mas não teve fôlego pra buscar o empate, caindo por 68,89 a 72,19."
+      },
+      {
+        "icone": "📊",
+        "titulo": "Sobe e desce da tabela",
+        "texto": "Com a vitória, o Resina Club dispara sozinho na ponta com 19 pontos corridos, sem mais depender de desempate de ninguém: 3 pontos de vantagem pro vice Brocador do Bonja, que segue com 16 mesmo após o tropeço. Logo atrás, Kaempfs F.C., Madalena Club e Kidiabense FC empatam em 15 pontos, decididos nessa ordem pelo PG turno (756,12, 742,1 e 706,2, respectivamente). O Kaempfs, campeão do primeiro turno, segue sem sustos, mas também sem conseguir encostar de vez no topo do returno."
+      },
+      {
+        "icone": "🔮",
+        "titulo": "Espiada na próxima rodada",
+        "texto": "A rodada 28 já separa duelo de cabeça: o líder isolado Resina Club recebe o Baade FC, ainda se recuperando do vexame desta rodada. O vice Brocador do Bonja mede forças com o Tricolor Lvfc, enquanto o Kaempfs F.C. tenta reagir contra o Parizi 01. De quebra, o Madalena Club, dono da melhor pontuação da rodada 27, visita o Berwinha FC embalado pela artilharia recente."
       }
     ],
-    "estado": {
-      "mercado": 2,
-      "jogosIniciados": 10,
-      "assinaturaParciais": "1067774:65.2|13912942:70.1|15282074:65.0|17382079:59.8|25278938:53.5|26079439:59.8|27772103:60.2|2963331:63.2|309735:72.2|3250219:59.6|3419812:49.5|423154:57.7|47572160:76.1|47653263:64.0|487118:63.9|49288650:59.7|4997197:50.8|6742039:71.6|753775:80.9|90277:46.3"
-    },
-    "geradaEm": "2026-09-15T04:20:00.000Z"
+    "geradaEm": "2026-09-15T14:45:00.000Z"
   }
 ]
