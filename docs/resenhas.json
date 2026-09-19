@@ -456,5 +456,36 @@
       }
     ],
     "geradaEm": "2026-09-15T14:45:00.000Z"
+  },
+  {
+    "id": "andamento-rodada-28",
+    "rodada": 28,
+    "aoVivo": true,
+    "rotulo": "Rodada 28 · andamento",
+    "titulo": "Rodada 28 começa devagar: pietro filho mita cedo, VIERTRICOLOR sai na frente e Resina de olho na liderança isolada",
+    "blocos": [
+      {
+        "icone": "🔥",
+        "titulo": "Quem está mitando",
+        "texto": "A rodada 28 mal começou e o pietro filho já aparece disparado na pontuação parcial, com 17,9. O time do Alessandro Steinbren nem entrou em campo pelo próprio confronto contra o Esporte Clube Barão, mas já tem atleta escalado rendendo em outro jogo do dia. Logo atrás vem o Corticeira's Farm FC, com 15,73, e o VIERTRICOLOR, com 15,04. É só foto do momento, ainda dá tempo de tudo virar de cabeça pra baixo."
+      },
+      {
+        "icone": "🥶",
+        "titulo": "Quem ainda não saiu do zero",
+        "texto": "No fundo do poço da parcial estão Mandrackefc e Tricolor Lvfc, empatados em 0,2 ponto cada. Antes que alguém grite vexame, calma: com só 2 dos 10 jogos da rodada rolando, a explicação é simples, os atletas escalados por esses dois times ainda não entraram em campo. Time zerado cedo na rodada é sinal de expectativa, não de fracasso."
+      },
+      {
+        "icone": "⚔️",
+        "titulo": "O único duelo que já rolou de verdade",
+        "texto": "O único confronto com jogo real em campo é VIERTRICOLOR contra Alemonstro FBPA, que terminou 1 a 0 para o visitante. Na pontuação do Cartola, porém, quem está na frente é o próprio VIERTRICOLOR, com 15,04 a 13,5, vantagem de apenas 1,54. Time que é lanterna isolada na tabela aparecendo à frente na parcial é o tipo de coisa que rende comentário no grupo."
+      },
+      {
+        "icone": "📋",
+        "titulo": "Faltam 8 jogos",
+        "texto": "Faltam 8 dos 10 jogos da rodada 28 para começar, então relaxa que ainda tem resenha pela frente. Enquanto isso, os holofotes seguem no topo da tabela: o líder isolado Resina Club recebe o Baade FC em casa, o vice Brocador do Bonja mede forças com o Tricolor Lvfc, e o Kaempfs F.C. tenta reagir contra o Parizi 01. De quebra, o Madalena Club visita o Berwinha FC, exatamente os confrontos que eu já tinha separado na resenha passada. Bola rolando, Zé de olho."
+      }
+    ],
+    "estado": {"mercado":2,"jogosIniciados":2,"assinaturaParciais":"1067774:15.0|13912942:10.5|15282074:2.8|17382079:17.9|25278938:1.6|26079439:13.5|27772103:0.2|2963331:9.4|309735:1.8|3250219:1.6|3419812:15.7|423154:7.4|47572160:1.6|47653263:9.3|487118:9.3|49288650:11.5|4997197:0.9|6742039:0.2|753775:6.8|90277:4.4"},
+    "geradaEm": "2026-09-19T20:25:00.000Z"
   }
 ]
