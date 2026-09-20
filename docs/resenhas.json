@@ -462,30 +462,34 @@
     "rodada": 28,
     "aoVivo": true,
     "rotulo": "Rodada 28 · andamento",
-    "titulo": "pietro filho segue líder sem jogar, Brocador e Tricolor grudam num fio e HORST BRAUN afunda na rodada 28",
+    "titulo": "VIERTRICOLOR assume a ponta da rodada 28, pietro filho cai pro pelotão e Resina x Baade vira o duelo da vez",
     "blocos": [
       {
         "icone": "🔥",
         "titulo": "Quem está mitando",
-        "texto": "Cinco dos dez jogos da rodada 28 seguem rolando e o pietro filho continua impávido na ponta da pontuação geral, agora com 58,4, mesmo sem o próprio confronto contra o Esporte Clube Barão ter começado de verdade: são os atletas escalados por ele que estão fazendo a festa em outros jogos do dia. Logo atrás vem o Kaempfs F.C., com 49,3 pontos na parcial contra o Parizi 01, que ainda soma só 19,3."
+        "texto": "A rodada virou de cabeça pra baixo desde a última atualização: quem assumiu a ponta da pontuação parcial foi o VIERTRICOLOR, com 67,3 pontos, justamente o time que hoje mora no fundo do poço da tabela geral, na 20ª posição. Atrás dele vem o Kaempfs F.C., com 59,2, e o pietro filho, que liderava a rodada na cobertura anterior, escorregou pro terceiro lugar com 58,4, ainda sem o próprio confronto contra o Esporte Clube Barão ter saído do papel."
       },
       {
         "icone": "🥶",
-        "titulo": "Quem está no vermelho",
-        "texto": "Quem sofre agora é o HORST BRAUN, com meros 8,72 pontos na visita ao Corticeira's Farm FC, que já crava 34,72. O jogo real desse confronto já terminou 1 a 0 pro Corticeira's, então a explicação é só uma: os atletas escalados pelo HORST renderam pouco até aqui. Já o Mandrackefc segue com -0,2, mas o confronto dele contra o Gaudérios FC ainda nem rolou, então esse número ainda pode virar."
+        "titulo": "Quem está apagado",
+        "texto": "Na rabeira de hoje aparece o Mandrackefc, com 9,55 pontos, mas o confronto dele contra o Gaudérios FC ainda nem começou de verdade, então dá tempo de reagir. Já o Urachfc, penúltimo com 13,7, já está em campo contra o Kidiabense FC (0 a 0 no jogo real) e mesmo assim segue devendo: a explicação é simples, os atletas escalados por ele ainda não renderam muito."
       },
       {
         "icone": "⚔️",
         "titulo": "O duelo mais quente do momento",
-        "texto": "Na cobertura anterior o destaque parelho era VIERTRICOLOR contra Alemonstro FBPA, mas aquele jogo real já fechou empatado em 1 a 1 e o duelo mais grudado agora é outro: Brocador do Bonja contra Tricolor Lvfc, 24,6 a 22,9, diferença de só 1,7 ponto. O jogo real desse confronto terminou 5 a 0 pro Brocador, só que no Cartola quem decide são os atletas escalados, não o placar do clube."
+        "texto": "O confronto apertadinho da cobertura anterior, Brocador do Bonja contra Tricolor Lvfc, esfriou rápido: o Brocador disparou e hoje vence a parcial por 45,2 a 22,9, folga de 22,3 pontos. Quem herdou o posto de duelo mais equilibrado foi Resina Club contra Baade FC, 47,1 a 42,1, só 5 pontos separando os dois, com o próprio Resina, líder isolado da geral, tentando confirmar a ponta também na rodada."
       },
       {
         "icone": "📋",
-        "titulo": "Faltam 5 jogos",
-        "texto": "Ainda restam cinco confrontos pra fechar a rodada 28: Kidiabense FC recebe o Urachfc, Mandrackefc encara o Gaudérios FC, SampaMissiones FC pega o Império da Caipira, Berwinha FC recebe o Madalena Club e o próprio pietro filho, esse que segue líder da pontuação geral, ainda vai enfrentar o Esporte Clube Barão de verdade. Os números continuam parciais e tudo ainda pode virar até o apito final."
+        "titulo": "Faltam 4 jogos",
+        "texto": "Ainda restam quatro confrontos pra fechar a rodada 28: Mandrackefc recebe o Gaudérios FC, SampaMissiones FC encara o Império da Caipira, Berwinha FC pega o Madalena Club, e o pietro filho, que segue no top 3 da pontuação parcial, ainda vai entrar em campo de verdade contra o Esporte Clube Barão. Com 6 dos 10 jogos da rodada rolando, os números continuam parciais e tudo pode virar até o apito final."
       }
     ],
-    "estado": {"mercado":2,"jogosIniciados":5,"assinaturaParciais":"1067774:42.9|13912942:34.3|15282074:8.7|17382079:58.4|25278938:19.3|26079439:46.4|27772103:-0.2|2963331:42.3|309735:3.9|3250219:24.6|3419812:34.7|423154:25.8|47572160:31.6|47653263:31.2|487118:49.3|49288650:41.6|4997197:15.6|6742039:22.9|753775:28.3|90277:30.9"},
-    "geradaEm": "2026-09-20T05:20:00.000Z"
+    "estado": {
+      "mercado": 2,
+      "jogosIniciados": 6,
+      "assinaturaParciais": "1067774:67.3|13912942:45.0|15282074:26.2|17382079:58.4|25278938:28.1|26079439:53.8|27772103:9.6|2963331:42.3|309735:13.7|3250219:45.2|3419812:47.6|423154:29.1|47572160:40.4|47653263:47.4|487118:59.2|49288650:47.1|4997197:42.1|6742039:22.9|753775:33.8|90277:30.9"
+    },
+    "geradaEm": "2026-09-20T20:24:28.000Z"
   }
 ]
