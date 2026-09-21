@@ -462,34 +462,34 @@
     "rodada": 28,
     "aoVivo": true,
     "rotulo": "Rodada 28 · andamento",
-    "titulo": "Alemonstro crava a melhor pontuação da rodada 28, HORST BRAUN leva sova histórica e Resina segue isolado na ponta",
+    "titulo": "Kaempfs rouba a coroa do Alemonstro na reta final, HORST BRAUN leva sova histórica e Resina mira os 20 pontos",
     "blocos": [
       {
-        "icone": "🔀",
-        "titulo": "Se a rodada fechar agora",
-        "texto": "Os dez confrontos da rodada 28 já estão rolando e, se parar exatamente aqui, o Resina Club dispara para 22 pontos corridos, três de vantagem para o vice Brocador do Bonja, que sobe a 19 depois de atropelar o Tricolor Lvfc. Logo atrás forma-se um trio embolado em 18 pontos entre Kaempfs F.C., Madalena Club e Kidiabense FC, e quem carrega a régua do PG turno na frente agora é justamente o Kaempfs, com a pontuação de hoje turbinando o desempate a seu favor."
+        "icone": "🏁",
+        "titulo": "Reta final: os dez jogos já rolaram",
+        "texto": "Os dez confrontos da rodada 28 já tiveram o jogo real inteiro em campo, mas a pontuação do Cartola segue mexendo. Se fechar exatamente agora, o Resina Club fica no empate apertado com o Baade FC e ainda assim dispara para 20 pontos corridos, um à frente do vice Brocador do Bonja, que crava vitória tranquila sobre o Tricolor Lvfc e chega aos 19. Logo atrás, forma-se um trio embolado em 18 pontos entre Kaempfs F.C., Kidiabense FC e Madalena Club, decisão que só sai no desempate depois do fechamento oficial."
       },
       {
-        "icone": "🎯",
-        "titulo": "A ponta que sumiu",
-        "texto": "Quem acompanhou a cobertura anterior lembra que o VIERTRICOLOR abriu a rodada na ponta da pontuação parcial, com 67,3. Não durou: o time fechou com 66,18 e apanhou do Alemonstro FBPA, que assumiu a melhor marca da rodada, 89,84. A régua lá em cima ficou tão apertada que o segundo colocado, Kaempfs F.C. (89,14), e o terceiro, pietro filho (88,34), terminaram a menos de um ponto e meio de distância do topo."
+        "icone": "👑",
+        "titulo": "Kaempfs rouba a coroa que eu tinha dado pro Alemonstro",
+        "texto": "Na cobertura anterior eu cravei o Alemonstro FBPA como dono da melhor pontuação da rodada, com 89,84. Pois é, o Kaempfs F.C. cresceu na reta final e assumiu a ponta com 98,27 na vitória sobre o Parizi 01, seguido de perto pelo pietro filho, que também deslanchou e chegou a 97,47 contra o Esporte Clube Barão. O Alemonstro até melhorou, 92,12 na vitória sobre o VIERTRICOLOR, mas acabou ultrapassado na virada final."
       },
       {
         "icone": "🚿",
-        "titulo": "Quem já pode ir tomando banho",
-        "texto": "Do outro lado da tabela, o HORST BRAUN fechou com a pior pontuação da rodada, meros 24,97, e ainda levou a maior sova do dia: 61,32 a 24,97 para o Corticeira's Farm FC, mais de 36 pontos de diferença. O Mandrackefc também não teve vez e caiu para o Gaudérios FC por 44,79 a 78,64. Resultado desse tamanho não deixa margem para reclamação nenhuma."
+        "titulo": "HORST BRAUN e Mandrackefc, já pode ir tomando banho",
+        "texto": "Do outro lado, o HORST BRAUN confirma o pior momento da rodada: apenas 24,67 pontos e uma sova de mais de 41 pontos de diferença para o Corticeira's Farm FC, que fecha com 65,92. O Mandrackefc também não escapa: 44,17 contra os 80,67 do Gaudérios FC. Com os dez jogos já em campo, os dois times têm pouquíssimo tempo de sobrevida para virar esse resultado."
       },
       {
         "icone": "⚔️",
-        "titulo": "O duelo que ainda pode virar",
-        "texto": "Nem tudo está resolvido: Resina Club e Baade FC seguem separados por apenas 2,98 pontos (75,02 a 72,04), margem curta o suficiente para o líder isolado da geral ver os 3 pontos da rodada escaparem se o placar balançar mais um pouco. Com o mercado fechado e os dez jogos já em campo, mas a pontuação ainda em aberto, vale ficar de olho até o fechamento oficial valer de verdade."
+        "titulo": "O duelo que ainda pode empatar tudo",
+        "texto": "O confronto mais apertado da rodada segue sendo Resina Club contra Baade FC: 79,67 a 81,17, diferença de 1,5 ponto, dentro da margem que vira empate pela regra da liga. Se fechar assim, o líder isolado sai da rodada com só 1 ponto no bolso em vez dos 3 da vitória, e o Brocador do Bonja, colado logo atrás, fica de olho em qualquer detalhe que ainda possa mudar o placar antes do fechamento valer de verdade."
       }
     ],
-    "geradaEm": "2026-09-21T00:24:55.000Z",
+    "geradaEm": "2026-09-21T04:24:58.350Z",
     "estado": {
       "mercado": 2,
       "jogosIniciados": 10,
-      "assinaturaParciais": "1067774:66.2|13912942:75.1|15282074:25.0|17382079:88.3|25278938:60.0|26079439:89.8|27772103:44.8|2963331:72.7|309735:49.1|3250219:81.4|3419812:61.3|423154:48.3|47572160:72.3|47653263:68.8|487118:89.1|49288650:75.0|4997197:72.0|6742039:63.3|753775:61.7|90277:78.6"
+      "assinaturaParciais": "1067774:75.7|13912942:84.3|15282074:24.7|17382079:97.5|25278938:60.4|26079439:92.1|27772103:44.2|2963331:81.6|309735:53.3|3250219:88.5|3419812:65.9|423154:47.9|47572160:72.7|47653263:77.7|487118:98.3|49288650:79.7|4997197:81.2|6742039:76.0|753775:66.4|90277:80.7"
     }
   }
 ]
