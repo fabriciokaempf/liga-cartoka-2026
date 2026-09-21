@@ -462,34 +462,34 @@
     "rodada": 28,
     "aoVivo": true,
     "rotulo": "Rodada 28 · andamento",
-    "titulo": "VIERTRICOLOR assume a ponta da rodada 28, pietro filho cai pro pelotão e Resina x Baade vira o duelo da vez",
+    "titulo": "Alemonstro crava a melhor pontuação da rodada 28, HORST BRAUN leva sova histórica e Resina segue isolado na ponta",
     "blocos": [
       {
-        "icone": "🔥",
-        "titulo": "Quem está mitando",
-        "texto": "A rodada virou de cabeça pra baixo desde a última atualização: quem assumiu a ponta da pontuação parcial foi o VIERTRICOLOR, com 67,3 pontos, justamente o time que hoje mora no fundo do poço da tabela geral, na 20ª posição. Atrás dele vem o Kaempfs F.C., com 59,2, e o pietro filho, que liderava a rodada na cobertura anterior, escorregou pro terceiro lugar com 58,4, ainda sem o próprio confronto contra o Esporte Clube Barão ter saído do papel."
+        "icone": "🔀",
+        "titulo": "Se a rodada fechar agora",
+        "texto": "Os dez confrontos da rodada 28 já estão rolando e, se parar exatamente aqui, o Resina Club dispara para 22 pontos corridos, três de vantagem para o vice Brocador do Bonja, que sobe a 19 depois de atropelar o Tricolor Lvfc. Logo atrás forma-se um trio embolado em 18 pontos entre Kaempfs F.C., Madalena Club e Kidiabense FC, e quem carrega a régua do PG turno na frente agora é justamente o Kaempfs, com a pontuação de hoje turbinando o desempate a seu favor."
       },
       {
-        "icone": "🥶",
-        "titulo": "Quem está apagado",
-        "texto": "Na rabeira de hoje aparece o Mandrackefc, com 9,55 pontos, mas o confronto dele contra o Gaudérios FC ainda nem começou de verdade, então dá tempo de reagir. Já o Urachfc, penúltimo com 13,7, já está em campo contra o Kidiabense FC (0 a 0 no jogo real) e mesmo assim segue devendo: a explicação é simples, os atletas escalados por ele ainda não renderam muito."
+        "icone": "🎯",
+        "titulo": "A ponta que sumiu",
+        "texto": "Quem acompanhou a cobertura anterior lembra que o VIERTRICOLOR abriu a rodada na ponta da pontuação parcial, com 67,3. Não durou: o time fechou com 66,18 e apanhou do Alemonstro FBPA, que assumiu a melhor marca da rodada, 89,84. A régua lá em cima ficou tão apertada que o segundo colocado, Kaempfs F.C. (89,14), e o terceiro, pietro filho (88,34), terminaram a menos de um ponto e meio de distância do topo."
+      },
+      {
+        "icone": "🚿",
+        "titulo": "Quem já pode ir tomando banho",
+        "texto": "Do outro lado da tabela, o HORST BRAUN fechou com a pior pontuação da rodada, meros 24,97, e ainda levou a maior sova do dia: 61,32 a 24,97 para o Corticeira's Farm FC, mais de 36 pontos de diferença. O Mandrackefc também não teve vez e caiu para o Gaudérios FC por 44,79 a 78,64. Resultado desse tamanho não deixa margem para reclamação nenhuma."
       },
       {
         "icone": "⚔️",
-        "titulo": "O duelo mais quente do momento",
-        "texto": "O confronto apertadinho da cobertura anterior, Brocador do Bonja contra Tricolor Lvfc, esfriou rápido: o Brocador disparou e hoje vence a parcial por 45,2 a 22,9, folga de 22,3 pontos. Quem herdou o posto de duelo mais equilibrado foi Resina Club contra Baade FC, 47,1 a 42,1, só 5 pontos separando os dois, com o próprio Resina, líder isolado da geral, tentando confirmar a ponta também na rodada."
-      },
-      {
-        "icone": "📋",
-        "titulo": "Faltam 4 jogos",
-        "texto": "Ainda restam quatro confrontos pra fechar a rodada 28: Mandrackefc recebe o Gaudérios FC, SampaMissiones FC encara o Império da Caipira, Berwinha FC pega o Madalena Club, e o pietro filho, que segue no top 3 da pontuação parcial, ainda vai entrar em campo de verdade contra o Esporte Clube Barão. Com 6 dos 10 jogos da rodada rolando, os números continuam parciais e tudo pode virar até o apito final."
+        "titulo": "O duelo que ainda pode virar",
+        "texto": "Nem tudo está resolvido: Resina Club e Baade FC seguem separados por apenas 2,98 pontos (75,02 a 72,04), margem curta o suficiente para o líder isolado da geral ver os 3 pontos da rodada escaparem se o placar balançar mais um pouco. Com o mercado fechado e os dez jogos já em campo, mas a pontuação ainda em aberto, vale ficar de olho até o fechamento oficial valer de verdade."
       }
     ],
+    "geradaEm": "2026-09-21T00:24:55.000Z",
     "estado": {
       "mercado": 2,
-      "jogosIniciados": 6,
-      "assinaturaParciais": "1067774:67.3|13912942:45.0|15282074:26.2|17382079:58.4|25278938:28.1|26079439:53.8|27772103:9.6|2963331:42.3|309735:13.7|3250219:45.2|3419812:47.6|423154:29.1|47572160:40.4|47653263:47.4|487118:59.2|49288650:47.1|4997197:42.1|6742039:22.9|753775:33.8|90277:30.9"
-    },
-    "geradaEm": "2026-09-20T20:24:28.000Z"
+      "jogosIniciados": 10,
+      "assinaturaParciais": "1067774:66.2|13912942:75.1|15282074:25.0|17382079:88.3|25278938:60.0|26079439:89.8|27772103:44.8|2963331:72.7|309735:49.1|3250219:81.4|3419812:61.3|423154:48.3|47572160:72.3|47653263:68.8|487118:89.1|49288650:75.0|4997197:72.0|6742039:63.3|753775:61.7|90277:78.6"
+    }
   }
 ]
