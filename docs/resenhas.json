@@ -489,5 +489,36 @@
       }
     ],
     "geradaEm": "2026-09-21T20:24:49.000Z"
+  },
+  {
+    "id": "andamento-rodada-29",
+    "rodada": 29,
+    "aoVivo": true,
+    "rotulo": "Rodada 29 · andamento",
+    "titulo": "VIERTRICOLOR mita nos parciais antes de entrar em campo, e o duelo Resina x Kidiabense já está no fio do bigode",
+    "blocos": [
+      {
+        "icone": "🚀",
+        "titulo": "Quem está mitando",
+        "texto": "A rodada 29 ainda está esquentando, mas quem lidera os parciais da liga inteira é justamente o VIERTRICOLOR, lanterna isolada da tabela com 6 pontos corridos: 35,95 na frente de todo mundo, e o jogo dele contra o pietro filho nem começou de verdade. Zoeira pronta: o time que mais perde na tabela é o que mais pontua por enquanto nos parciais."
+      },
+      {
+        "icone": "🥶",
+        "titulo": "Quem está apagado",
+        "texto": "Do outro lado, o HORST BRAUN amarga a pior parcial da rodada, meros 4,72, apesar de estar na frente no jogo real contra o Mandrackefc. No Cartola quem está voando é justamente o Mandrackefc, com 24,9, prova de que escalação não combina com placar do jogo de verdade."
+      },
+      {
+        "icone": "🔥",
+        "titulo": "Duelo mais quente do momento",
+        "texto": "O confronto que mexe de verdade com a ponta da tabela é Resina Club contra Kidiabense FC: o líder aparece com 10,3 e o Kidiabense, um dos três times colados em 18 pontos, com 9,9, só 0,4 de diferença. De quebra, Madalena Club e Kaempfs F.C. empatam exatamente em 10,3 cada, outro duelo que promete render discussão até o apito final."
+      },
+      {
+        "icone": "⏳",
+        "titulo": "O que falta",
+        "texto": "Até agora só 4 dos 10 confrontos da rodada 29 tiveram o jogo real iniciado, ainda faltam 6, incluindo o já comentado pietro filho contra o lanterna VIERTRICOLOR e o vice Brocador do Bonja visitando o Parizi 01. Vale repetir: são parciais, podem virar várias vezes até o mercado fechar de vez."
+      }
+    ],
+    "estado": {"mercado":2,"jogosIniciados":4,"assinaturaParciais":"1067774:36.0|13912942:9.9|15282074:4.7|17382079:11.4|25278938:10.3|26079439:15.3|27772103:24.9|2963331:19.9|309735:18.1|3250219:5.4|3419812:10.3|423154:10.3|47572160:10.3|47653263:19.1|487118:10.3|49288650:10.3|4997197:20.0|6742039:21.5|753775:11.9|90277:21.1"},
+    "geradaEm": "2026-10-08T00:25:12.000Z"
   }
 ]
