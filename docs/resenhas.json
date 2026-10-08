@@ -495,30 +495,34 @@
     "rodada": 29,
     "aoVivo": true,
     "rotulo": "Rodada 29 · andamento",
-    "titulo": "VIERTRICOLOR mita nos parciais antes de entrar em campo, e o duelo Resina x Kidiabense já está no fio do bigode",
+    "titulo": "Pietro filho ultrapassa o VIERTRICOLOR na queda de braço dos parciais, e o Kidiabense já assusta a liderança do Resina",
     "blocos": [
       {
         "icone": "🚀",
         "titulo": "Quem está mitando",
-        "texto": "A rodada 29 ainda está esquentando, mas quem lidera os parciais da liga inteira é justamente o VIERTRICOLOR, lanterna isolada da tabela com 6 pontos corridos: 35,95 na frente de todo mundo, e o jogo dele contra o pietro filho nem começou de verdade. Zoeira pronta: o time que mais perde na tabela é o que mais pontua por enquanto nos parciais."
+        "texto": "Eu avisei ainda há pouco que o VIERTRICOLOR liderava os parciais da liga sem o jogo real ter começado, e a histeria só cresceu: agora é o pietro filho que passa na frente, com 74,4 pontos, contra 71,02 do próprio VIERTRICOLOR. Os dois duelam direto nessa rodada e nenhum dos dois atletas escalados entrou em campo de verdade ainda, prova de que escalação não espera apito nenhum."
       },
       {
         "icone": "🥶",
         "titulo": "Quem está apagado",
-        "texto": "Do outro lado, o HORST BRAUN amarga a pior parcial da rodada, meros 4,72, apesar de estar na frente no jogo real contra o Mandrackefc. No Cartola quem está voando é justamente o Mandrackefc, com 24,9, prova de que escalação não combina com placar do jogo de verdade."
+        "texto": "Na outra ponta, o Madalena Club amarga a pior parcial da rodada, 10,7 pontos, mesmo com o jogo real contra o Kaempfs F.C. já rolando e empatado em 1 a 1. O Brocador do Bonja também patina com 10,8, apesar de vencer de virada o confronto real contra o Parizi 01 por 2 a 1."
       },
       {
         "icone": "🔥",
         "titulo": "Duelo mais quente do momento",
-        "texto": "O confronto que mexe de verdade com a ponta da tabela é Resina Club contra Kidiabense FC: o líder aparece com 10,3 e o Kidiabense, um dos três times colados em 18 pontos, com 9,9, só 0,4 de diferença. De quebra, Madalena Club e Kaempfs F.C. empatam exatamente em 10,3 cada, outro duelo que promete render discussão até o apito final."
+        "texto": "O choque que interessa de verdade pra ponta da tabela é Resina Club contra Kidiabense FC: o líder isolado aparece com só 19,9 pontos, enquanto o Kidiabense, um dos perseguidores colados em 18, dispara para 38,8. Se a parcial travar assim, é virada na liderança."
       },
       {
         "icone": "⏳",
         "titulo": "O que falta",
-        "texto": "Até agora só 4 dos 10 confrontos da rodada 29 tiveram o jogo real iniciado, ainda faltam 6, incluindo o já comentado pietro filho contra o lanterna VIERTRICOLOR e o vice Brocador do Bonja visitando o Parizi 01. Vale repetir: são parciais, podem virar várias vezes até o mercado fechar de vez."
+        "texto": "A rodada 29 já teve 6 dos 10 confrontos com o jogo real iniciado, ainda faltam 4: Baade FC contra Berwinha FC, pietro filho contra VIERTRICOLOR, Gaudérios FC contra Tricolor Lvfc e Urachfc contra Esporte Clube Barão. Vale repetir: são parciais, podem virar de ponta a cabeça até o mercado fechar de vez."
       }
     ],
-    "estado": {"mercado":2,"jogosIniciados":4,"assinaturaParciais":"1067774:36.0|13912942:9.9|15282074:4.7|17382079:11.4|25278938:10.3|26079439:15.3|27772103:24.9|2963331:19.9|309735:18.1|3250219:5.4|3419812:10.3|423154:10.3|47572160:10.3|47653263:19.1|487118:10.3|49288650:10.3|4997197:20.0|6742039:21.5|753775:11.9|90277:21.1"},
-    "geradaEm": "2026-10-08T00:25:12.000Z"
+    "estado": {
+      "mercado": 2,
+      "jogosIniciados": 6,
+      "assinaturaParciais": "1067774:71.0|13912942:38.8|15282074:41.0|17382079:74.4|25278938:13.3|26079439:21.4|27772103:28.4|2963331:22.1|309735:16.5|3250219:10.8|3419812:38.6|423154:28.9|47572160:10.7|47653263:44.9|487118:18.9|49288650:19.9|4997197:32.9|6742039:50.6|753775:57.5|90277:45.8"
+    },
+    "geradaEm": "2026-10-08T04:25:05.180Z"
   }
 ]
