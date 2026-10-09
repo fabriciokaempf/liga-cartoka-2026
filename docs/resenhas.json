@@ -491,38 +491,41 @@
     "geradaEm": "2026-09-21T20:24:49.000Z"
   },
   {
-    "id": "andamento-rodada-29",
+    "id": "rodada-29",
     "rodada": 29,
-    "aoVivo": true,
-    "rotulo": "Rodada 29 · andamento",
-    "titulo": "Brocador vira, Resina cai do topo e pietro filho estoura a artilharia na reta final da rodada 29",
+    "titulo": "Kidiabense assume a ponta isolada, Resina cai pra vice e Brocador perde a virada que eu já tinha dado como fechada",
     "blocos": [
       {
-        "icone": "🔄",
-        "titulo": "Reviravolta na liderança, se parar aqui",
-        "texto": "Se a rodada 29 fechar com os números de agora, segura o coração: o Resina Club, líder isolado desde a rodada 27, perde para o Kidiabense FC por uma diferença gigante (102,54 a 81,70) e sai do topo da tabela. Quem assume a ponta é o Brocador do Bonja, com folgada vantagem sobre o Parizi 01 (91,44 a 82,49), somando 22 pontos corridos na simulação. O Kaempfs F.C. também vence, bate o Madalena Club e empata em pontos com o Kidiabense na briga pela segunda posição. É só retrato do momento, tudo pode mudar até o mercado reabrir."
+        "icone": "🏆",
+        "titulo": "Cartoleiro da rodada",
+        "texto": "A melhor pontuação da rodada 29 nem era a mais comentada: o Gaudérios FC atropelou o Tricolor Lvfc por 125,14 a 111,56 e levou a faixa sem alarde nenhum. Enquanto todo mundo olhava pra briga da ponta, o time do Flávio Pacheco ia estourando a régua lá no meio do pelotão. Mito silencioso, artilharia de respeito."
       },
       {
-        "icone": "💥",
-        "titulo": "Pietro filho e Império brigam pela artilharia do dia",
-        "texto": "Os dois maiores números da rodada pertencem a quem eu já tinha citado na cobertura anterior: o pietro filho estourou para 124,50 pontos goleando o VIERTRICOLOR, que ainda tenta sobreviver com 104,67. Bem de perto vem o Império da Caipira, com 123,40 na vitória tranquila sobre o Corticeira's Farm FC, que fica com 93,58. Se fechar assim, é a melhor dupla de pontuação que essa rodada 29 já mostrou."
+        "icone": "🤡",
+        "titulo": "Vexame da rodada",
+        "texto": "Quem segue sem escapar do fundo da tabela é o Urachfc, com meros 76,46 pontos na derrota para o Esporte Clube Barão (96,71). É a pior pontuação de toda a rodada 29, e o time já soma oito derrotas em dez jogos do returno. A régua lá embaixo virou endereço fixo."
       },
       {
-        "icone": "🚿",
-        "titulo": "Quem já pode ir ensaiando desculpa",
-        "texto": "O Urachfc segue com a pior parcial de toda a liga, 74,25 pontos, e ainda perde o próprio confronto para o Esporte Clube Barão, que soma 92,71. O Madalena Club também amarga a pior tarde entre os times do pelotão de cima: apenas 84,70 contra os 92,34 do Kaempfs F.C., que aproveita e sobe na simulação da tabela."
+        "icone": "🔥",
+        "titulo": "Jogo da rodada",
+        "texto": "O confronto mais apertado nem precisou de drama pra decidir: Madalena Club e Kaempfs F.C. fecharam em 100,36 a 100,34, diferença de 0,02 ponto, a menor de toda a rodada. Dentro da regra que transforma qualquer diferença abaixo de 2 pontos em empate, os dois saem satisfeitos, cada um com seu ponto embaixo do braço."
       },
       {
-        "icone": "⏳",
-        "titulo": "Os dez jogos já rolaram, mas a pontuação não parou",
-        "texto": "Os dez confrontos da rodada 29 já tiveram os jogos reais em campo, mas essas pontuações ainda são parciais e o mercado só reabre quando a rodada fechar de verdade. Qualquer atleta escalado que ainda não entrou em campo pode mudar o cenário até lá, então guarda esse resumo com reserva antes de sair comemorando ou chorando no grupo."
+        "icone": "📻",
+        "titulo": "Recado pra quem acompanhou ao vivo",
+        "texto": "No sábado eu avisei que o Resina Club ia perder pro Kidiabense FC, e acertei a direção, só errei o placar: a conta que eu tinha era 102,54 a 81,70, o fechamento oficial saiu 104,04 a 88,46. Já a previsão de que o Brocador do Bonja ia assumir a ponta batendo o Parizi 01 por 91,44 a 82,49 foi pro lixo, o Parizi virou depois da minha última passagem e fechou vencendo por 108,84 a 101,54. E o combinado de que o Kaempfs F.C. ia vencer o Madalena Club também não se sustentou: os dois cresceram tanto que fecharam num empate de 0,02 ponto que nem o Zé viu chegando."
+      },
+      {
+        "icone": "📊",
+        "titulo": "Sobe e desce da tabela",
+        "texto": "Com o tropeço, o Resina Club perde a liderança isolada que mantinha desde a rodada 27 e cai para a segunda posição, com 20 pontos corridos. Quem assume a ponta sozinho é o Kidiabense FC, agora com 21 pontos, um a mais que o próprio Resina. Logo atrás, Kaempfs F.C., Madalena Club e Brocador do Bonja empatam em 19 pontos, decididos nessa ordem pelo PG turno (958,93, 916,83 e 915,09, respectivamente)."
+      },
+      {
+        "icone": "🔮",
+        "titulo": "Espiada na próxima rodada",
+        "texto": "A rodada 30 já separa duelo direto de liderança: o novo líder isolado Kidiabense FC recebe o HORST BRAUN em casa. O vice Resina Club visita justamente o Brocador do Bonja, que amargou a reviravolta desta rodada. O artilheiro da vez, Gaudérios FC, visita o Berwinha FC embalado pela melhor pontuação da 29, e o vexame Urachfc tenta reagir contra o Mandrackefc."
       }
     ],
-    "estado": {
-      "mercado": 2,
-      "jogosIniciados": 10,
-      "assinaturaParciais": "1067774:104.7|13912942:102.5|15282074:94.9|17382079:124.5|25278938:82.5|26079439:92.2|27772103:84.2|2963331:91.3|309735:74.3|3250219:91.4|3419812:93.6|423154:97.4|47572160:84.7|47653263:92.7|487118:92.3|49288650:81.7|4997197:92.7|6742039:109.9|753775:123.4|90277:106.1"
-    },
-    "geradaEm": "2026-10-09T04:26:12.730Z"
+    "geradaEm": "2026-10-09T12:27:00.000Z"
   }
 ]
