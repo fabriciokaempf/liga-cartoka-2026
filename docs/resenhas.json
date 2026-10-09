@@ -495,34 +495,34 @@
     "rodada": 29,
     "aoVivo": true,
     "rotulo": "Rodada 29 · andamento",
-    "titulo": "Pietro filho ultrapassa o VIERTRICOLOR na queda de braço dos parciais, e o Kidiabense já assusta a liderança do Resina",
+    "titulo": "Brocador vira, Resina cai do topo e pietro filho estoura a artilharia na reta final da rodada 29",
     "blocos": [
       {
-        "icone": "🚀",
-        "titulo": "Quem está mitando",
-        "texto": "Eu avisei ainda há pouco que o VIERTRICOLOR liderava os parciais da liga sem o jogo real ter começado, e a histeria só cresceu: agora é o pietro filho que passa na frente, com 74,4 pontos, contra 71,02 do próprio VIERTRICOLOR. Os dois duelam direto nessa rodada e nenhum dos dois atletas escalados entrou em campo de verdade ainda, prova de que escalação não espera apito nenhum."
+        "icone": "🔄",
+        "titulo": "Reviravolta na liderança, se parar aqui",
+        "texto": "Se a rodada 29 fechar com os números de agora, segura o coração: o Resina Club, líder isolado desde a rodada 27, perde para o Kidiabense FC por uma diferença gigante (102,54 a 81,70) e sai do topo da tabela. Quem assume a ponta é o Brocador do Bonja, com folgada vantagem sobre o Parizi 01 (91,44 a 82,49), somando 22 pontos corridos na simulação. O Kaempfs F.C. também vence, bate o Madalena Club e empata em pontos com o Kidiabense na briga pela segunda posição. É só retrato do momento, tudo pode mudar até o mercado reabrir."
       },
       {
-        "icone": "🥶",
-        "titulo": "Quem está apagado",
-        "texto": "Na outra ponta, o Madalena Club amarga a pior parcial da rodada, 10,7 pontos, mesmo com o jogo real contra o Kaempfs F.C. já rolando e empatado em 1 a 1. O Brocador do Bonja também patina com 10,8, apesar de vencer de virada o confronto real contra o Parizi 01 por 2 a 1."
+        "icone": "💥",
+        "titulo": "Pietro filho e Império brigam pela artilharia do dia",
+        "texto": "Os dois maiores números da rodada pertencem a quem eu já tinha citado na cobertura anterior: o pietro filho estourou para 124,50 pontos goleando o VIERTRICOLOR, que ainda tenta sobreviver com 104,67. Bem de perto vem o Império da Caipira, com 123,40 na vitória tranquila sobre o Corticeira's Farm FC, que fica com 93,58. Se fechar assim, é a melhor dupla de pontuação que essa rodada 29 já mostrou."
       },
       {
-        "icone": "🔥",
-        "titulo": "Duelo mais quente do momento",
-        "texto": "O choque que interessa de verdade pra ponta da tabela é Resina Club contra Kidiabense FC: o líder isolado aparece com só 19,9 pontos, enquanto o Kidiabense, um dos perseguidores colados em 18, dispara para 38,8. Se a parcial travar assim, é virada na liderança."
+        "icone": "🚿",
+        "titulo": "Quem já pode ir ensaiando desculpa",
+        "texto": "O Urachfc segue com a pior parcial de toda a liga, 74,25 pontos, e ainda perde o próprio confronto para o Esporte Clube Barão, que soma 92,71. O Madalena Club também amarga a pior tarde entre os times do pelotão de cima: apenas 84,70 contra os 92,34 do Kaempfs F.C., que aproveita e sobe na simulação da tabela."
       },
       {
         "icone": "⏳",
-        "titulo": "O que falta",
-        "texto": "A rodada 29 já teve 6 dos 10 confrontos com o jogo real iniciado, ainda faltam 4: Baade FC contra Berwinha FC, pietro filho contra VIERTRICOLOR, Gaudérios FC contra Tricolor Lvfc e Urachfc contra Esporte Clube Barão. Vale repetir: são parciais, podem virar de ponta a cabeça até o mercado fechar de vez."
+        "titulo": "Os dez jogos já rolaram, mas a pontuação não parou",
+        "texto": "Os dez confrontos da rodada 29 já tiveram os jogos reais em campo, mas essas pontuações ainda são parciais e o mercado só reabre quando a rodada fechar de verdade. Qualquer atleta escalado que ainda não entrou em campo pode mudar o cenário até lá, então guarda esse resumo com reserva antes de sair comemorando ou chorando no grupo."
       }
     ],
     "estado": {
       "mercado": 2,
-      "jogosIniciados": 6,
-      "assinaturaParciais": "1067774:71.0|13912942:38.8|15282074:41.0|17382079:74.4|25278938:13.3|26079439:21.4|27772103:28.4|2963331:22.1|309735:16.5|3250219:10.8|3419812:38.6|423154:28.9|47572160:10.7|47653263:44.9|487118:18.9|49288650:19.9|4997197:32.9|6742039:50.6|753775:57.5|90277:45.8"
+      "jogosIniciados": 10,
+      "assinaturaParciais": "1067774:104.7|13912942:102.5|15282074:94.9|17382079:124.5|25278938:82.5|26079439:92.2|27772103:84.2|2963331:91.3|309735:74.3|3250219:91.4|3419812:93.6|423154:97.4|47572160:84.7|47653263:92.7|487118:92.3|49288650:81.7|4997197:92.7|6742039:109.9|753775:123.4|90277:106.1"
     },
-    "geradaEm": "2026-10-08T04:25:05.180Z"
+    "geradaEm": "2026-10-09T04:26:12.730Z"
   }
 ]
