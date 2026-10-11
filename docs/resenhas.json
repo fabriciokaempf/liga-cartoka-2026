@@ -533,34 +533,34 @@
     "rodada": 30,
     "aoVivo": true,
     "rotulo": "Rodada 30 · andamento",
-    "titulo": "Rodada 30 em andamento: Tricolor e Madalena mandam no parcial, Resina passa na frente do Brocador",
+    "titulo": "Rodada 30 em andamento: terceiro jogo real entra em campo, Tricolor Lvfc assume a ponta do parcial",
     "blocos": [
       {
+        "icone": "📢",
+        "titulo": "Entrou mais um jogo na conta",
+        "texto": "Desde a última conferência, o confronto entre Corticeira's Farm FC e SampaMissiones FC também entrou em campo, com o jogo real rolando 2 a 1. No Cartola isso não decide nada: o SampaMissiones continua zerado, 0,0 pontos, porque os atletas escalados por ele ainda não entraram em campo. Agora são três dos dez confrontos da rodada com bola rolando."
+      },
+      {
         "icone": "🚀",
-        "titulo": "Quem está mitando (sem nem ter jogado ainda)",
-        "texto": "Tricolor Lvfc e Madalena Club empataram na ponta do parcial, com 33,6 pontos cada, e olha que o jogo real dos dois nem começou. É o Cartola sendo Cartola: quem pontua são os atletas escalados, de clubes variados, não o time da liga. Alemonstro FBPA (32,4), pietro filho (31,6) e Parizi 01 (29,2) completam o pelotão que mais cresceu desde a última conferência."
+        "titulo": "Quem está mitando",
+        "texto": "O Tricolor Lvfc assumiu a ponta do parcial com 36,63 pontos, seguido de Madalena Club (33,63), Alemonstro FBPA (32,38) e pietro filho (31,63). Lembrando que ninguém desses times jogou a partida real ainda: quem pontua são os atletas escalados, de clubes variados, não o time da liga."
       },
       {
         "icone": "🥶",
         "titulo": "Quem está apagado",
-        "texto": "SampaMissiones FC segue zerado, 0,0 pontos, mesmo com o jogo do Corticeira (seu confronto da rodada) já rolando 1 a 1 em campo. A explicação é simples: os atletas escalados pelo SampaMissiones ainda não entraram em campo. VIERTRICOLOR (8,2) e Gaudérios FC (6,6) também amargam a lanterna do parcial por ora."
+        "texto": "Além do SampaMissiones zerado, HORST BRAUN (5,3), Gaudérios FC (6,6) e VIERTRICOLOR (8,2) seguem no fundo do parcial. Sem causa comprovada além da escalação ainda não ter entrado em campo, não dá pra chamar nada disso de vexame: a rodada está só começando pra eles."
       },
       {
         "icone": "🔥",
-        "titulo": "Duelo mais quente: Brocador x Resina",
-        "texto": "O confronto que o Zé já tinha destacado no esquenta segue osso: no jogo real está 0 a 0 entre Brocador do Bonja e Resina Club, mas no parcial o vice líder da classificação Resina Club assumiu a frente, 28,5 a 25,0 sobre o anfitrião. Apertado como ele só, pode virar de novo até o fim."
-      },
-      {
-        "icone": "⏳",
-        "titulo": "Faltam oito jogos reais pra fechar a conta",
-        "texto": "Só dois dos dez confrontos da rodada 30 tiveram a bola rolando até agora, Brocador x Resina e Corticeira x SampaMissiones, os outros oito ainda nem começaram, incluindo Kidiabense x HORST BRAUN e Barão x Kaempfs. Com tanto jogo pela frente, tudo isso é parcial e pode virar de ponta a cabeça, então ninguém comemora ou se desespera com a tabela de agora."
+        "titulo": "Duelo mais quente e o que falta",
+        "texto": "Brocador do Bonja e Resina Club continuam 0 a 0 no jogo real, mas no parcial o vice líder da classificação Resina Club segue na frente, 28,48 a 25,0 sobre o anfitrião. Ainda faltam sete dos dez confrontos da rodada 30 começarem, incluindo Kidiabense x HORST BRAUN e Barão x Kaempfs, então essa tabela de parciais é só um retrato do momento."
       }
     ],
     "estado": {
       "mercado": 2,
-      "jogosIniciados": 2,
-      "assinaturaParciais": "1067774:8.2|13912942:24.9|15282074:3.0|17382079:31.6|25278938:29.2|26079439:32.4|27772103:22.2|2963331:0.0|309735:22.2|3250219:25.0|3419812:16.1|423154:23.7|47572160:33.6|47653263:20.3|487118:28.5|49288650:28.5|4997197:22.2|6742039:33.6|753775:24.5|90277:6.6"
+      "jogosIniciados": 3,
+      "assinaturaParciais": "1067774:8.2|13912942:24.9|15282074:5.3|17382079:31.6|25278938:29.2|26079439:32.4|27772103:27.2|2963331:0.0|309735:27.2|3250219:25.0|3419812:16.1|423154:23.7|47572160:33.6|47653263:20.3|487118:28.5|49288650:28.5|4997197:22.2|6742039:36.6|753775:27.9|90277:6.6"
     },
-    "geradaEm": "2026-10-11T04:24:49.000Z"
+    "geradaEm": "2026-10-11T20:24:27.000Z"
   }
 ]
