@@ -527,5 +527,36 @@
       }
     ],
     "geradaEm": "2026-10-09T12:27:00.000Z"
+  },
+  {
+    "id": "andamento-rodada-30",
+    "rodada": 30,
+    "aoVivo": true,
+    "rotulo": "Rodada 30 · andamento",
+    "titulo": "Esquenta da rodada 30: Brocador e Resina abrem os trabalhos coladinhos no parcial",
+    "blocos": [
+      {
+        "icone": "🔥",
+        "titulo": "Abriu o jogo: Brocador recebe o Resina",
+        "texto": "A rodada 30 já tem confronto rolando: Brocador do Bonja, 5º colocado com 19 pontos, recebe o vice líder Resina Club, que soma 20. No parcial a conta está apertadíssima, 19,50 a 20,05 para o Resina, mas é cedo demais para apostar qualquer coisa, a maioria dos times mal começou a pontuar."
+      },
+      {
+        "icone": "🎙️",
+        "titulo": "Cardápio do dia tem muito jogo bom pela frente",
+        "texto": "Logo depois entra em campo o verdadeiro duelo de cabeça: o líder isolado Kidiabense FC recebe o HORST BRAUN em casa de olho em esticar a vantagem. O Kaempfs F.C., campeão do primeiro turno e no pelotão dos 19 pontos, visita o Esporte Clube Barão. E lá na parte de baixo, o Urachfc mede forças direto com o Mandrackefc, confronto de necessidade entre quem não quer fechar o returno na rabeira."
+      },
+      {
+        "icone": "📊",
+        "titulo": "Quem chega bem, quem chega mal",
+        "texto": "O Kidiabense FC segue isolado na ponta com 21 pontos, com o Resina Club colado a só um ponto de distância. Atrás vem um trio empatado em 19: Kaempfs F.C., Madalena Club e o próprio Brocador do Bonja, nessa ordem pelo desempate do PG turno. Lá embaixo, o Urachfc ocupa a lanterna no desempate com o VIERTRICOLOR, os dois empatados em 6 pontos, com o Mandrackefc (7) por perto tentando não entrar nessa roda."
+      },
+      {
+        "icone": "🧠",
+        "titulo": "Palpite do Zé",
+        "texto": "Com só um jogo rolando e o mercado fechado há pouco tempo, quase ninguém pontuou de verdade ainda, então ninguém deve se assustar com número baixo por enquanto. O Zé aposta que o duelo Brocador x Resina segue decidido nos detalhes até o fim, e que o líder Kidiabense tem estrada livre para abrir ainda mais vantagem contra o HORST BRAUN. Mas é esquenta, guarda o palpite e volta aqui para conferir."
+      }
+    ],
+    "estado": {"mercado":2,"jogosIniciados":1,"assinaturaParciais":"1067774:6.2|13912942:8.7|15282074:0.0|17382079:21.5|25278938:12.1|26079439:24.4|27772103:17.1|2963331:0.0|309735:17.1|3250219:19.5|3419812:8.7|423154:18.6|47572160:20.7|47653263:12.1|487118:20.1|49288650:20.1|4997197:17.1|6742039:20.7|753775:7.2|90277:4.3"},
+    "geradaEm": "2026-10-11T00:25:11.000Z"
   }
 ]
