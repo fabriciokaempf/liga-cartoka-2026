@@ -533,34 +533,34 @@
     "rodada": 30,
     "aoVivo": true,
     "rotulo": "Rodada 30 · reta final",
-    "titulo": "Reta final da rodada 30: Alemonstro assume a ponta do parcial, Kidiabense goleia nos números e Urachfc briga pra sair da lanterna",
+    "titulo": "Reta final da rodada 30: Kaempfs dispara pra vice-liderança do parcial, Urachfc ameaça fugir da lanterna e Brocador trava com Resina na faca",
     "blocos": [
       {
         "icone": "⏱️",
-        "titulo": "Sete de dez no ar",
-        "texto": "A rodada 30 entrou na reta final: sete dos dez confrontos já têm jogo real rolando ou encerrado, e só faltam três para completar a conta, todos ainda hoje (Tricolor Lvfc x Parizi 01, Alemonstro FBPA x pietro filho e Madalena Club x Império da Caipira). Vale repetir o aviso de sempre: tudo aqui é parcial e pode virar até o último escalado entrar em campo."
+        "titulo": "Sete de dez ainda no ar",
+        "texto": "A régua não mudou desde a última passagem: ainda são sete dos dez confrontos com jogo real rolando ou encerrado, e faltam três para fechar a rodada 30, todos ainda hoje (Tricolor Lvfc x Parizi 01, Alemonstro FBPA x pietro filho e Madalena Club x Império da Caipira). O que virou de cabeça pra baixo foi o parcial: muita coisa mudou de posição desde a minha última letra."
       },
       {
         "icone": "🚀",
         "titulo": "Quem está mitando",
-        "texto": "Desde a minha última passagem a liderança do parcial trocou de dono: o Alemonstro FBPA assumiu a ponta com 77,38 pontos, só na frente do Tricolor Lvfc, que folgava sozinho e agora aparece com 77,03. Parizi 01 (74,18) e Brocador do Bonja (72,35) completam o pelotão de cima, e o próprio Brocador está encostando o líder da classificação, o Kidiabense FC (70,30), que está destruindo o HORST BRAUN no confronto direto por 70,30 a 28,70."
+        "texto": "O Kaempfs F.C. cresceu bonito e já tem 74,38 pontos contra o murcho Esporte Clube Barão, parado em 60,28. O Berwinha FC também disparou: 80,85 a 63,15 no Gaudérios FC. E o líder Kidiabense FC só ampliou a goleada sobre o HORST BRAUN, estagnado em 37,90 contra os 78,30 do rival."
       },
       {
-        "icone": "🥶",
-        "titulo": "Fuga da lanterna ao vivo",
-        "texto": "VIERTRICOLOR (20,80) e HORST BRAUN (28,70) seguem no fundo do parcial, mas o duelo mais revelador é lá na rabeira da classificação: Urachfc, atual lanterna isolado, está na frente do Mandrackefc por 47,78 a 42,88 no confronto direto entre os dois. Se o placar parcial se mantiver, o Urachfc deixa a última posição e empurra o Mandrackefc para o fundo do poço."
+        "icone": "🤝",
+        "titulo": "Brocador trava com Resina, Urachfc rouba a cena na lanterna",
+        "texto": "O duelo direto entre Brocador do Bonja e Resina Club segue na faca: 72,35 a 72,38, diferença de 0,03 ponto, dentro da regra que vira empate. Enquanto isso, lá no fundo da tabela, o Urachfc, atual lanterna isolado, folga sobre o Mandrackefc por 47,78 a 42,88 no confronto direto entre os dois, e pode deixar de ser o pior time da liga ainda hoje."
       },
       {
         "icone": "📊",
         "titulo": "Se a rodada acabar assim",
-        "texto": "Com os resultados parciais de agora, o Kidiabense FC amplia a liderança isolada batendo o HORST BRAUN disparado, enquanto o Resina Club, hoje vice, perde o confronto direto para o Brocador do Bonja (72,35 a 64,38) e corre o risco de cair da segunda posição. Kaempfs F.C. (66,38 a 52,28 contra o Barão) e Madalena Club (69,93 a 51,28 contra o Império da Caipira, que ainda não jogou o real) também vencem no parcial e entram na briga pela vice-liderança. Já o VIERTRICOLOR, apanhando do Baade FC por 29 pontos de diferença (20,80 a 49,98), não tem muito motivo pra sonhar e já pode ir separando a toalha."
+        "texto": "Com os parciais de agora, o Kidiabense FC amplia a liderança isolada para 24 pontos corridos. O Kaempfs F.C. salta para a vice-liderança com 22, deixando o Resina Club na terceira posição com 21 (fruto do empate com o Brocador do Bonja, que também vai a 20). O Madalena Club, que nem começou o jogo real contra o Império da Caipira, mira a mesma marca de 22 caso confirme a vitória que tem no parcial, 77,93 a 59,28."
       }
     ],
     "estado": {
       "mercado": 2,
       "jogosIniciados": 7,
-      "assinaturaParciais": "1067774:20.8|13912942:70.3|15282074:28.7|17382079:68.6|25278938:74.2|26079439:77.4|27772103:42.9|2963331:38.5|309735:47.8|3250219:72.3|3419812:58.6|423154:67.0|47572160:69.9|47653263:52.3|487118:66.4|49288650:64.4|4997197:50.0|6742039:77.0|753775:51.3|90277:55.1"
+      "assinaturaParciais": "1067774:28.8|13912942:78.3|15282074:37.9|17382079:76.6|25278938:83.5|26079439:85.4|27772103:42.9|2963331:38.5|309735:47.8|3250219:72.3|3419812:71.1|423154:80.8|47572160:77.9|47653263:60.3|487118:72.4|49288650:72.4|4997197:58.0|6742039:85.0|753775:59.3|90277:63.1"
     },
-    "geradaEm": "2026-10-12T00:25:42.000Z"
+    "geradaEm": "2026-10-12T04:26:03.000Z"
   }
 ]
