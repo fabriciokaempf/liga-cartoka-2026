@@ -532,35 +532,35 @@
     "id": "andamento-rodada-30",
     "rodada": 30,
     "aoVivo": true,
-    "rotulo": "Rodada 30 · andamento",
-    "titulo": "Rodada 30 em andamento: terceiro jogo real entra em campo, Tricolor Lvfc assume a ponta do parcial",
+    "rotulo": "Rodada 30 · reta final",
+    "titulo": "Reta final da rodada 30: Alemonstro assume a ponta do parcial, Kidiabense goleia nos números e Urachfc briga pra sair da lanterna",
     "blocos": [
       {
-        "icone": "📢",
-        "titulo": "Entrou mais um jogo na conta",
-        "texto": "Desde a última conferência, o confronto entre Corticeira's Farm FC e SampaMissiones FC também entrou em campo, com o jogo real rolando 2 a 1. No Cartola isso não decide nada: o SampaMissiones continua zerado, 0,0 pontos, porque os atletas escalados por ele ainda não entraram em campo. Agora são três dos dez confrontos da rodada com bola rolando."
+        "icone": "⏱️",
+        "titulo": "Sete de dez no ar",
+        "texto": "A rodada 30 entrou na reta final: sete dos dez confrontos já têm jogo real rolando ou encerrado, e só faltam três para completar a conta, todos ainda hoje (Tricolor Lvfc x Parizi 01, Alemonstro FBPA x pietro filho e Madalena Club x Império da Caipira). Vale repetir o aviso de sempre: tudo aqui é parcial e pode virar até o último escalado entrar em campo."
       },
       {
         "icone": "🚀",
         "titulo": "Quem está mitando",
-        "texto": "O Tricolor Lvfc assumiu a ponta do parcial com 36,63 pontos, seguido de Madalena Club (33,63), Alemonstro FBPA (32,38) e pietro filho (31,63). Lembrando que ninguém desses times jogou a partida real ainda: quem pontua são os atletas escalados, de clubes variados, não o time da liga."
+        "texto": "Desde a minha última passagem a liderança do parcial trocou de dono: o Alemonstro FBPA assumiu a ponta com 77,38 pontos, só na frente do Tricolor Lvfc, que folgava sozinho e agora aparece com 77,03. Parizi 01 (74,18) e Brocador do Bonja (72,35) completam o pelotão de cima, e o próprio Brocador está encostando o líder da classificação, o Kidiabense FC (70,30), que está destruindo o HORST BRAUN no confronto direto por 70,30 a 28,70."
       },
       {
         "icone": "🥶",
-        "titulo": "Quem está apagado",
-        "texto": "Além do SampaMissiones zerado, HORST BRAUN (5,3), Gaudérios FC (6,6) e VIERTRICOLOR (8,2) seguem no fundo do parcial. Sem causa comprovada além da escalação ainda não ter entrado em campo, não dá pra chamar nada disso de vexame: a rodada está só começando pra eles."
+        "titulo": "Fuga da lanterna ao vivo",
+        "texto": "VIERTRICOLOR (20,80) e HORST BRAUN (28,70) seguem no fundo do parcial, mas o duelo mais revelador é lá na rabeira da classificação: Urachfc, atual lanterna isolado, está na frente do Mandrackefc por 47,78 a 42,88 no confronto direto entre os dois. Se o placar parcial se mantiver, o Urachfc deixa a última posição e empurra o Mandrackefc para o fundo do poço."
       },
       {
-        "icone": "🔥",
-        "titulo": "Duelo mais quente e o que falta",
-        "texto": "Brocador do Bonja e Resina Club continuam 0 a 0 no jogo real, mas no parcial o vice líder da classificação Resina Club segue na frente, 28,48 a 25,0 sobre o anfitrião. Ainda faltam sete dos dez confrontos da rodada 30 começarem, incluindo Kidiabense x HORST BRAUN e Barão x Kaempfs, então essa tabela de parciais é só um retrato do momento."
+        "icone": "📊",
+        "titulo": "Se a rodada acabar assim",
+        "texto": "Com os resultados parciais de agora, o Kidiabense FC amplia a liderança isolada batendo o HORST BRAUN disparado, enquanto o Resina Club, hoje vice, perde o confronto direto para o Brocador do Bonja (72,35 a 64,38) e corre o risco de cair da segunda posição. Kaempfs F.C. (66,38 a 52,28 contra o Barão) e Madalena Club (69,93 a 51,28 contra o Império da Caipira, que ainda não jogou o real) também vencem no parcial e entram na briga pela vice-liderança. Já o VIERTRICOLOR, apanhando do Baade FC por 29 pontos de diferença (20,80 a 49,98), não tem muito motivo pra sonhar e já pode ir separando a toalha."
       }
     ],
     "estado": {
       "mercado": 2,
-      "jogosIniciados": 3,
-      "assinaturaParciais": "1067774:8.2|13912942:24.9|15282074:5.3|17382079:31.6|25278938:29.2|26079439:32.4|27772103:27.2|2963331:0.0|309735:27.2|3250219:25.0|3419812:16.1|423154:23.7|47572160:33.6|47653263:20.3|487118:28.5|49288650:28.5|4997197:22.2|6742039:36.6|753775:27.9|90277:6.6"
+      "jogosIniciados": 7,
+      "assinaturaParciais": "1067774:20.8|13912942:70.3|15282074:28.7|17382079:68.6|25278938:74.2|26079439:77.4|27772103:42.9|2963331:38.5|309735:47.8|3250219:72.3|3419812:58.6|423154:67.0|47572160:69.9|47653263:52.3|487118:66.4|49288650:64.4|4997197:50.0|6742039:77.0|753775:51.3|90277:55.1"
     },
-    "geradaEm": "2026-10-11T20:24:27.000Z"
+    "geradaEm": "2026-10-12T00:25:42.000Z"
   }
 ]
