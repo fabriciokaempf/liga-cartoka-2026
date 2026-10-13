@@ -529,38 +529,41 @@
     "geradaEm": "2026-10-09T12:27:00.000Z"
   },
   {
-    "id": "andamento-rodada-30",
+    "id": "rodada-30",
     "rodada": 30,
-    "aoVivo": true,
-    "rotulo": "Rodada 30 · reta final",
-    "titulo": "Os dez jogos da rodada 30 já rolaram, o Resina dispara sobre o Brocador e o Kidiabense segue isolado na ponta",
+    "titulo": "Madalena estoura a rodada 30, Urachfc e Mandrackefc empatam na raça e o Kidiabense fecha isolado na ponta do returno",
     "blocos": [
       {
-        "icone": "⏱️",
-        "titulo": "Os dois últimos jogos reais já terminaram",
-        "texto": "Os dois confrontos que faltavam fecharam dentro de campo: o Alemonstro FBPA perdeu de pietro filho por 1 a 4 no jogo real, mas no Cartola é o próprio Alemonstro que segue na frente, 103,28 a 100,13, prova de que time que perde o jogo real pode seguir pontuando mais no Cartola. Já o Madalena Club bateu o Império da Caipira por 3 a 1 em campo e também lidera a pontuação do confronto, 95,83 a 91,73. Os dez jogos da rodada já rolaram, mas a pontuação oficial ainda não fechou de vez."
+        "icone": "🏆",
+        "titulo": "Cartoleiro da rodada",
+        "texto": "O Madalena Club foi quem mais pontuou na rodada 30: 126,23 contra os 104,63 do Império da Caipira, de goleada. Foi a única pontuação acima de 120 em toda a rodada, e deixou o Madalena ainda mais forte no quarto lugar do returno."
+      },
+      {
+        "icone": "🙈",
+        "titulo": "Vexame da rodada",
+        "texto": "O SampaMissiones FC fechou com 50,85 pontos, a pior marca da rodada, e perdeu para o Corticeira's Farm FC (78,74). Sem segredo nem desculpa de atleta que não entrou em campo: foi só uma escalação que não rendeu."
+      },
+      {
+        "icone": "⚖️",
+        "titulo": "Jogo da rodada",
+        "texto": "Eu avisei na cobertura ao vivo que a vantagem do Urachfc sobre o Mandrackefc tinha encolhido para 0,70 ponto, e a zica se confirmou: fechou em 88,73 a 87,33, diferença de 1,40, dentro da margem de empate da liga. Ponto pra cada lado, duelo direto que não teve vencedor."
       },
       {
         "icone": "🔄",
-        "titulo": "Resina abre vantagem folgada sobre o Brocador",
-        "texto": "Na última cobertura esse duelo direto estava na faca, 72,40 a 72,30 para o Resina Club contra o Brocador do Bonja, mesmo com o jogo real ainda zerado. De lá para aqui, o placar real fechou em 0 a 0, mas no Cartola o Resina abriu a mão e dispara para 104,83 contra 90,25 do rival, quase 15 pontos de vantagem. Lembrete de sempre: quem decide o confronto da liga é o escalado, não o que acontece dentro de campo."
+        "titulo": "As viradas que a reta final não contou",
+        "texto": "Na última atualização ao vivo o Gaudérios tinha virado sobre o Berwinha e o Alemonstro seguia na frente do pietro filho. A pontuação oficial deu troco nos dois: o Berwinha fechou em 97,75 a 89,65 e levou a melhor, e o pietro filho buscou atrás pra vencer o Alemonstro por 111,33 a 104,08. Parcial é parcial, oficial é outra história."
       },
       {
         "icone": "📊",
-        "titulo": "Se a rodada fechasse agora",
-        "texto": "Com os parciais atuais, o Kidiabense FC mantém a ponta isolada, agora com 24 pontos corridos. O Resina Club sobe para a vice-liderança com 23, separado do Kaempfs F.C. e do Madalena Club, que empatam em 22, com o Kaempfs na frente no desempate do PG turno. Logo atrás, Brocador do Bonja e Alemonstro FBPA aparecem empatados com 19. Vale repetir: é tudo parcial, a rodada 30 ainda não fechou oficialmente."
+        "titulo": "Sobe e desce: o returno de cabeça para baixo",
+        "texto": "O Kidiabense FC, só o terceiro colocado do primeiro turno, fecha a rodada 30 isolado na ponta do returno com 24 pontos. O Resina Club, que tinha amargado a 16ª posição no primeiro turno, é hoje o vice líder com 23, e o pietro filho, 19º colocado na mesma época, aparece agora em 5º lugar. Do outro lado, o Urachfc, que foi o 4º colocado do primeiro turno, despenca para a 19ª posição do returno, quase colado na lanterna isolada do VIERTRICOLOR."
       },
       {
-        "icone": "🧤",
-        "titulo": "No fundo, Urachfc quase cola no Mandrackefc e o Gaudérios vira sobre o Berwinha",
-        "texto": "A folga do Urachfc sobre o Mandrackefc, que era de quase 5 pontos na última cobertura, encolheu para apenas 0,70 ponto (86,33 a 85,63), dentro da margem que vira empate pela regra da liga. Quem não escapa é o VIERTRICOLOR, isolado na lanterna e perdendo de novo para o Baade FC, agora por 63,95 a 90,43. De brinde, o Gaudérios FC virou o duelo contra o Berwinha FC: estava atrás por 63,15 a 80,85 na última olhada e agora passa na frente, 86,65 a 80,85."
+        "icone": "👀",
+        "titulo": "Espiada pra rodada 31",
+        "texto": "A rodada 31 reserva um confronto e tanto pro dia 18: o Resina Club, vice líder do returno, recebe justamente o Madalena Club, que acabou de fazer a maior pontuação da rodada 30. No mesmo dia, o Kidiabense isolado na ponta visita o Império da Caipira: time que tropeça, embola a liderança."
       }
     ],
-    "estado": {
-      "mercado": 2,
-      "jogosIniciados": 10,
-      "assinaturaParciais": "1067774:64.0|13912942:83.9|15282074:66.7|17382079:100.1|25278938:86.2|26079439:103.3|27772103:85.6|2963331:49.4|309735:86.3|3250219:90.3|3419812:71.1|423154:80.8|47572160:95.8|47653263:92.7|487118:106.8|49288650:104.8|4997197:90.4|6742039:85.0|753775:91.7|90277:86.7"
-    },
-    "geradaEm": "2026-10-13T04:25:03.000Z"
+    "geradaEm": "2026-10-13T20:25:46.000Z"
   }
 ]
