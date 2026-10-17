@@ -565,5 +565,40 @@
       }
     ],
     "geradaEm": "2026-10-13T20:25:46.000Z"
+  },
+  {
+    "id": "andamento-rodada-31",
+    "rodada": 31,
+    "aoVivo": true,
+    "rotulo": "Rodada 31 · andamento",
+    "titulo": "Kidiabense e Resina abrem a rodada 31 com duelos diretos pela ponta",
+    "blocos": [
+      {
+        "icone": "🎙️",
+        "titulo": "Abriu o sinal pra rodada 31",
+        "texto": "A bola já rolou uma vez: Kaempfs F.C. e HORST BRAUN terminaram o jogo real em 0 a 0, mas no Cartola ninguém pontuou ainda, os atletas escalados pelos dois times nem entraram em campo direito. Faltam nove confrontos pra começar, e a rodada 31 mal esquentou o motor."
+      },
+      {
+        "icone": "⚔️",
+        "titulo": "Dois líderes, dois testes",
+        "texto": "O líder isolado Kidiabense FC, com 24 pontos, recebe em casa o Império da Caipira, que soma 16 e briga no meio da tabela. Na sequência, o vice Resina Club, com 23, encara o Madalena Club, que também está vivo na ponta com 22: se vencer, chega pertinho da liderança e deixa a rodada ainda mais quente."
+      },
+      {
+        "icone": "🔍",
+        "titulo": "Enquanto isso, lá embaixo",
+        "texto": "O Mandrackefc, com 8 pontos, tenta sair da parte de baixo da tabela contra o SampaMissiones FC, que já tem 16. O Corticeira's Farm FC, com 15, recebe o Brocador do Bonja, hoje com 19 pontos e de olho em se aproximar do pelotão da frente."
+      },
+      {
+        "icone": "🔮",
+        "titulo": "Palpite do Zé",
+        "texto": "Aposto que o Kidiabense segura a ponta contra o Império, mas o olho mesmo fica em Resina e Madalena, porque uma vitória do Madalena embola de vez a liderança. Ainda é cedo pra cravar qualquer coisa, com nove jogos pela frente a rodada 31 pode virar de ponta cabeça."
+      }
+    ],
+    "geradaEm": "2026-10-17T00:24:33.000Z",
+    "estado": {
+      "mercado": 1,
+      "jogosIniciados": 1,
+      "assinaturaParciais": "sem-parciais"
+    }
   }
 ]
