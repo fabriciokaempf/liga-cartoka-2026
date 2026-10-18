@@ -571,34 +571,34 @@
     "rodada": 31,
     "aoVivo": true,
     "rotulo": "Rodada 31 · andamento",
-    "titulo": "Kidiabense e Resina abrem a rodada 31 com duelos diretos pela ponta",
+    "titulo": "Parizi e Alemonstro separados por menos de um ponto, enquanto Resina e Madalena ainda nem entraram em campo",
     "blocos": [
       {
         "icone": "🎙️",
-        "titulo": "Abriu o sinal pra rodada 31",
-        "texto": "A bola já rolou uma vez: Kaempfs F.C. e HORST BRAUN terminaram o jogo real em 0 a 0, mas no Cartola ninguém pontuou ainda, os atletas escalados pelos dois times nem entraram em campo direito. Faltam nove confrontos pra começar, e a rodada 31 mal esquentou o motor."
+        "titulo": "Quatro jogos na conta, seis na reta",
+        "texto": "A rodada 31 avançou desde a última parada: quatro dos dez confrontos já tiveram bola rolando no jogo real, contra só um na atualização anterior. Kaempfs F.C. e HORST BRAUN fecharam o jogo real em 2 a 0, mas no Cartola a disputa ficou apertada, 35,96 a 34,01 para os atletas escalados pelo Kaempfs. Ainda restam seis confrontos para fechar a rodada, então é cedo para cravar qualquer coisa."
       },
       {
-        "icone": "⚔️",
-        "titulo": "Dois líderes, dois testes",
-        "texto": "O líder isolado Kidiabense FC, com 24 pontos, recebe em casa o Império da Caipira, que soma 16 e briga no meio da tabela. Na sequência, o vice Resina Club, com 23, encara o Madalena Club, que também está vivo na ponta com 22: se vencer, chega pertinho da liderança e deixa a rodada ainda mais quente."
+        "icone": "⚡",
+        "titulo": "O duelo mais fervido do momento",
+        "texto": "Quem procura emoção olha para Parizi 01 contra Alemonstro FBPA: no jogo real o time do Parizi venceu, mas no Cartola a diferença é de menos de um ponto, 33,56 a 32,76 para o Alemonstro. Separado por um fio de cabelo, esse placar ainda pode trocar de lado em qualquer parcial."
       },
       {
-        "icone": "🔍",
-        "titulo": "Enquanto isso, lá embaixo",
-        "texto": "O Mandrackefc, com 8 pontos, tenta sair da parte de baixo da tabela contra o SampaMissiones FC, que já tem 16. O Corticeira's Farm FC, com 15, recebe o Brocador do Bonja, hoje com 19 pontos e de olho em se aproximar do pelotão da frente."
+        "icone": "🧐",
+        "titulo": "Líder zerado, time parado mandando bem",
+        "texto": "O líder isolado Kidiabense FC, dono dos 24 pontos na tabela, ainda soma só 17,95 no Cartola porque os atletas dele nem entraram em campo, o confronto contra o Império da Caipira sequer começou. Do outro lado, o jogo do Esporte Clube Barão E.C.B também não rolou, mas o rival Berwinha FC já desponta com 52,16, a maior pontuação da rodada até aqui. É a prova de que no Cartola quem pontua primeiro não é sempre quem joga primeiro."
       },
       {
         "icone": "🔮",
-        "titulo": "Palpite do Zé",
-        "texto": "Aposto que o Kidiabense segura a ponta contra o Império, mas o olho mesmo fica em Resina e Madalena, porque uma vitória do Madalena embola de vez a liderança. Ainda é cedo pra cravar qualquer coisa, com nove jogos pela frente a rodada 31 pode virar de ponta cabeça."
+        "titulo": "O que ainda falta",
+        "texto": "A dupla que prometeu fogo na ponta, Resina Club e Madalena Club, ainda nem viu a bola rolar. Enquanto isso, Corticeira's Farm FC aparece bem na frente do Brocador do Bonja nas parciais, 39,69 a 24,70. Com seis jogos pela frente, a rodada 31 ainda tem bastante corda para puxar."
       }
     ],
-    "geradaEm": "2026-10-17T00:24:33.000Z",
+    "geradaEm": "2026-10-18T00:25:05.069Z",
     "estado": {
-      "mercado": 1,
-      "jogosIniciados": 1,
-      "assinaturaParciais": "sem-parciais"
+      "mercado": 2,
+      "jogosIniciados": 4,
+      "assinaturaParciais": "1067774:38.1|13912942:17.9|15282074:34.0|17382079:32.8|25278938:32.8|26079439:33.6|27772103:47.0|2963331:34.4|309735:43.4|3250219:24.7|3419812:39.7|423154:52.2|47572160:40.1|47653263:32.8|487118:36.0|49288650:33.6|4997197:33.2|6742039:28.0|753775:34.0|90277:39.8"
     }
   }
 ]
