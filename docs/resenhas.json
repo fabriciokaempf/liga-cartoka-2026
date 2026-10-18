@@ -571,34 +571,34 @@
     "rodada": 31,
     "aoVivo": true,
     "rotulo": "Rodada 31 · andamento",
-    "titulo": "Parizi e Alemonstro separados por menos de um ponto, enquanto Resina e Madalena ainda nem entraram em campo",
+    "titulo": "Berwinha dispara nos parciais sem nem ter começado o jogo, e Kidiabense e Resina continuam fora de campo",
     "blocos": [
       {
         "icone": "🎙️",
-        "titulo": "Quatro jogos na conta, seis na reta",
-        "texto": "A rodada 31 avançou desde a última parada: quatro dos dez confrontos já tiveram bola rolando no jogo real, contra só um na atualização anterior. Kaempfs F.C. e HORST BRAUN fecharam o jogo real em 2 a 0, mas no Cartola a disputa ficou apertada, 35,96 a 34,01 para os atletas escalados pelo Kaempfs. Ainda restam seis confrontos para fechar a rodada, então é cedo para cravar qualquer coisa."
+        "titulo": "Metade da rodada rolando",
+        "texto": "A rodada 31 avançou mais um degrau: já são cinco dos dez confrontos com bola rolando no jogo real, um a mais que na última conferência. O destaque da nova largada é Corticeira's Farm FC contra Brocador do Bonja, que entrou em campo e já venceu por 1 a 0 no placar real, com o Corticeira's também na frente no Cartola, 41,6 a 27,4. Ainda restam cinco jogos para começar, então a foto de agora é só isso: uma foto."
       },
       {
         "icone": "⚡",
         "titulo": "O duelo mais fervido do momento",
-        "texto": "Quem procura emoção olha para Parizi 01 contra Alemonstro FBPA: no jogo real o time do Parizi venceu, mas no Cartola a diferença é de menos de um ponto, 33,56 a 32,76 para o Alemonstro. Separado por um fio de cabelo, esse placar ainda pode trocar de lado em qualquer parcial."
+        "texto": "Quem quer emoção de verdade olha para VIERTRICOLOR contra Tricolor Lvfc: o time da casa já venceu o jogo real por 1 a 0, mas no Cartola a diferença é de menos de 3 pontos, 47,64 a 44,89. É o confronto mais apertado entre os que já estão rolando, e qualquer parcial pode virar esse placar de lado."
       },
       {
         "icone": "🧐",
-        "titulo": "Líder zerado, time parado mandando bem",
-        "texto": "O líder isolado Kidiabense FC, dono dos 24 pontos na tabela, ainda soma só 17,95 no Cartola porque os atletas dele nem entraram em campo, o confronto contra o Império da Caipira sequer começou. Do outro lado, o jogo do Esporte Clube Barão E.C.B também não rolou, mas o rival Berwinha FC já desponta com 52,16, a maior pontuação da rodada até aqui. É a prova de que no Cartola quem pontua primeiro não é sempre quem joga primeiro."
+        "titulo": "Líder parado, vice parado, artilheiro parado",
+        "texto": "O líder isolado Kidiabense FC, dono dos 24 pontos na tabela, soma só 29,85 no Cartola porque o confronto contra o Império da Caipira ainda nem começou. O vice Resina Club está no mesmo barco contra o Madalena Club, parado em 43,14. Enquanto os dois ponteiros esperam a bola rolar, quem já desponta como maior pontuação da rodada é o Berwinha FC, com 54,64, também sem seu jogo real ter começado ainda."
       },
       {
         "icone": "🔮",
         "titulo": "O que ainda falta",
-        "texto": "A dupla que prometeu fogo na ponta, Resina Club e Madalena Club, ainda nem viu a bola rolar. Enquanto isso, Corticeira's Farm FC aparece bem na frente do Brocador do Bonja nas parciais, 39,69 a 24,70. Com seis jogos pela frente, a rodada 31 ainda tem bastante corda para puxar."
+        "texto": "Fecham a lista de jogos parados Gaudérios FC contra Baade FC e Mandrackefc contra SampaMissiones FC, nenhum dos dois com apito inicial dado. Com metade da rodada 31 ainda por rolar, tudo isso é só retrato do momento: pontuação parcial não garante nada até o apito final."
       }
     ],
-    "geradaEm": "2026-10-18T00:25:05.069Z",
+    "geradaEm": "2026-10-18T04:25:29.000Z",
     "estado": {
       "mercado": 2,
-      "jogosIniciados": 4,
-      "assinaturaParciais": "1067774:38.1|13912942:17.9|15282074:34.0|17382079:32.8|25278938:32.8|26079439:33.6|27772103:47.0|2963331:34.4|309735:43.4|3250219:24.7|3419812:39.7|423154:52.2|47572160:40.1|47653263:32.8|487118:36.0|49288650:33.6|4997197:33.2|6742039:28.0|753775:34.0|90277:39.8"
+      "jogosIniciados": 5,
+      "assinaturaParciais": "1067774:47.6|13912942:29.9|15282074:42.2|17382079:35.3|25278938:35.3|26079439:40.1|27772103:51.5|2963331:42.7|309735:45.9|3250219:27.4|3419812:41.6|423154:54.6|47572160:49.2|47653263:41.9|487118:38.5|49288650:43.1|4997197:35.7|6742039:44.9|753775:35.0|90277:48.5"
     }
   }
 ]
