@@ -571,34 +571,34 @@
     "rodada": 31,
     "aoVivo": true,
     "rotulo": "Rodada 31 · andamento",
-    "titulo": "Kidiabense segura a ponta por pouco, Mandrackefc estoura parcial sem nem jogar e a rodada 31 entra na reta final",
+    "titulo": "Kidiabense vacila contra o Império, Madalena Club dispara e a rodada 31 fica pendurada num só jogo",
     "blocos": [
       {
         "icone": "🎙️",
-        "titulo": "Reta final na rodada 31",
-        "texto": "A rodada 31 entrou na reta final: sete dos dez confrontos já têm bola rolando no jogo real, dois a mais desde a última conferência. Faltam três jogos para começar, Esporte Clube Barão contra Berwinha FC, Resina Club contra Madalena Club e Mandrackefc contra SampaMissiones FC, e até eles abrirem o apito essas pontuações continuam puro parcial: nada fechado, nada garantido."
+        "titulo": "Reta final: só falta um jogo",
+        "texto": "A rodada 31 está na reta final de verdade: nove dos dez confrontos já têm bola rolando no jogo real, dois a mais desde a última conferência. Só falta Mandrackefc contra SampaMissiones FC, previsto para hoje às 20h, e pelos números que eles carregam até aqui a coisa está emparelhada: 75,99 a 76,14. Promete fechar a rodada com gosto de decisão."
       },
       {
         "icone": "🏆",
-        "titulo": "O líder aperta, mas ainda não solta",
-        "texto": "O Kidiabense FC, isolado na ponta do returno com 24 pontos, enfrenta o Império da Caipira e por enquanto está na frente por 39,76 a 35,04, vantagem de só 4,72 pontos. Eu mesmo avisei na espiada da rodada passada que esse confronto tinha gosto de embolar a liderança se o Kidiabense tropeçasse, e por ora ele segura a onda, mas com margem curta o suficiente para sumir num pisca de olhos."
+        "titulo": "O líder não segura mais",
+        "texto": "Eu avisei na última cobertura que a vantagem do Kidiabense FC sobre o Império da Caipira era curta demais para confiar, e confirmado: o líder isolado do returno virou o jogo ao contrário e agora está atrás por 64,70 a 79,74. Se a rodada fechasse agora, o Kidiabense perderia esse confronto. Ainda dá tempo de reverter, mas a confiança de sábado já parece piada."
       },
       {
-        "icone": "⚡",
-        "titulo": "Empate armado entre VIERTRICOLOR e Tricolor Lvfc",
-        "texto": "Quem quer treta de verdade olha para VIERTRICOLOR contra Tricolor Lvfc: 54,14 a 52,49, diferença de apenas 1,65 ponto, dentro da margem que a liga transforma em empate. É o lanterna isolado em busca de um respiro contra um adversário no meio da tabela, com resultado ainda em aberto até a poeira baixar."
+        "icone": "💥",
+        "titulo": "Madalena Club vira artilheira da rodada",
+        "texto": "O Madalena Club, que já tinha saído na frente do vice líder Resina Club na conferência passada, resolveu não ter moleza: disparou para 96,34 pontos, a maior pontuação da liga na rodada 31, enquanto o Resina travou em 68,24. Diferença de 28 pontos que, se confirmada, bagunça o pelotão de cima da tabela."
       },
       {
-        "icone": "🤯",
-        "titulo": "Mandrackefc mitando sem nem ter saído do vestiário",
-        "texto": "O destaque silencioso da rodada é o Mandrackefc: mesmo sem o jogo real contra o SampaMissiones FC ter começado, já é quem mais pontuou até agora na rodada 31, com 68,54. Resultado curioso para quem ocupa a 18ª posição da tabela com só 8 pontos corridos. No mesmo grupo de jogos represados, o Berwinha FC também já aparece com números de sobra contra o Esporte Clube Barão, 62,24 a 41,94, e o Madalena Club sai na frente do vice líder Resina Club por 49,24 a 43,14. Três jogos que ainda nem apitaram e já prometem agitar a tabela quando a bola rolar de verdade."
+        "icone": "🔄",
+        "titulo": "Virada de lado a lado",
+        "texto": "No duelo entre Esporte Clube Barão e Berwinha FC, quem estava atrás na conferência passada virou o jogo: o Barão foi para 71,04 contra 63,14 do Berwinha. Já o VIERTRICOLOR, lanterna isolado da liga, transformou o que era quase empate contra o Tricolor Lvfc numa goleada parcial, 80,84 a 52,59, número daqueles que ninguém esperava de quem tem só 6 pontos corridos na tabela."
       }
     ],
-    "geradaEm": "2026-10-18T20:24:39.000Z",
+    "geradaEm": "2026-10-19T00:24:47.000Z",
     "estado": {
       "mercado": 2,
-      "jogosIniciados": 7,
-      "assinaturaParciais": "1067774:54.1|13912942:39.8|15282074:58.0|17382079:35.3|25278938:35.3|26079439:55.7|27772103:68.5|2963331:50.3|309735:62.9|3250219:27.4|3419812:41.8|423154:62.2|47572160:49.2|47653263:41.9|487118:38.5|49288650:43.1|4997197:35.7|6742039:52.5|753775:35.0|90277:56.5"
+      "jogosIniciados": 9,
+      "assinaturaParciais": "1067774:80.8|13912942:64.7|15282074:69.0|17382079:74.3|25278938:67.0|26079439:76.7|27772103:76.0|2963331:76.1|309735:81.8|3250219:71.7|3419812:68.0|423154:63.1|47572160:96.3|47653263:71.0|487118:63.6|49288650:68.2|4997197:68.8|6742039:52.6|753775:79.7|90277:69.5"
     }
   }
 ]
