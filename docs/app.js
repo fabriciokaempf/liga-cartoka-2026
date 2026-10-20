@@ -534,7 +534,7 @@
 
   function ativarNavegacao() {
     var links = Array.prototype.slice.call(document.querySelectorAll(".navega a")).filter(function (link) {
-      return link.id !== "atalho-parciais";
+      return link.id !== "atalho-parciais" && link.id !== "atalho-2027";
     });
     if (!("IntersectionObserver" in window)) return;
     var observador = new IntersectionObserver(function (entradas) {
