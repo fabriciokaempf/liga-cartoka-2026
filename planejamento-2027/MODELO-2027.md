@@ -69,6 +69,10 @@ A pontos corridos tem **exatamente 20 vagas, e isso é limite de estrutura, não
 
 A isenção do organizador é regra da liga e não está em discussão: quem toca o site, o robô, a resenha, a cobrança e a tesouraria não paga inscrição. É por isso que todo cálculo de bolo neste documento usa **19 pagantes, não 20**.
 
+**O organizador disputa em condições iguais e concorre à premiação normalmente.** A isenção dispensa do pagamento, não da competição: se terminar em primeiro, recebe o prêmio de campeão como qualquer um, e se terminar em último leva o mico.
+
+Essa regra fica publicada na página desde o primeiro dia, e é justamente isso que a torna tranquila. Regra escrita antes de qualquer resultado é regra; regra inventada depois que alguém terminou em primeiro é confusão.
+
 A expectativa para 2027 é de **mais gente querendo entrar do que vaga disponível**. A regra de distribuição das 19 vagas pagas é:
 
 ### Preferência de quem já está
@@ -314,10 +318,9 @@ A lista pública de confirmados serve aos dois ao mesmo tempo: mostra ao atual q
 ## 12. Pendências
 
 1. **A pendência de 2026 tem direito de preferência?** Com fila de espera a pergunta ficou mais fácil de responder sem atrito: quem está com 2026 em aberto perde a preferência e entra na fila como qualquer um. Precisa ser decidido antes da abertura, não depois que a pessoa pedir a vaga. Ver a seção 4.
-2. **Organizador isento recebe premiação?** A isenção em si é regra fechada, ver a seção 4. O que falta é deixar escrito se quem é isento concorre aos prêmios em dinheiro. Vale decidir e publicar agora, enquanto a pergunta é hipotética, porque decidir depois que o isento terminar em primeiro é conversa muito pior.
-3. **Tamanho da fila que vale a pena manter.** Fila de 3 é saudável, fila de 15 é gente que nunca vai jogar e que desanima. Vale pensar em um limite para não criar expectativa falsa.
-4. **Preço do passaporte.** R$ 350, que é a soma exata, ou R$ 330, que vira desconto de verdade. Ver a seção 5.
-5. **Critério de desempate do bilhete de loteria.** Se dois times fizerem exatamente a mesma pontuação na maior rodada da competição, quem leva? Sugestão: quem fez primeiro, pela rodada mais antiga.
-6. **Política de devolução.** Ver a seção 11.
-7. **Mico da lanterna.** Qual é a prenda, e quem decide.
-8. **Divisão organizacional.** A dupla 50/50 com o dono do Resina Club vale para as três competições ou só para a clássica?
+2. **Tamanho da fila que vale a pena manter.** Fila de 3 é saudável, fila de 15 é gente que nunca vai jogar e que desanima. Vale pensar em um limite para não criar expectativa falsa.
+3. **Preço do passaporte.** R$ 350, que é a soma exata, ou R$ 330, que vira desconto de verdade. Ver a seção 5.
+4. **Critério de desempate do bilhete de loteria.** Se dois times fizerem exatamente a mesma pontuação na maior rodada da competição, quem leva? Sugestão: quem fez primeiro, pela rodada mais antiga.
+5. **Política de devolução.** Ver a seção 11.
+6. **Mico da lanterna.** Qual é a prenda, e quem decide.
+7. **Divisão organizacional.** A dupla 50/50 com o dono do Resina Club vale para as três competições ou só para a clássica?
