@@ -98,10 +98,11 @@ Simples, verificável e não exige julgamento no meio do campeonato.
 
 Cada competição tem o mesmo tamanho de 2026, 19 rodadas, então não dá para usar o argumento de preço por rodada mais barato. O que sustenta o aumento é:
 
-1. **O dobro de prêmios.** Em 2026 eram 5 prêmios por competição. Em 2027 são 10: cinco posições, o artilheiro e quatro prêmios mensais.
-2. **Ninguém em cima ganha menos.** Campeão e vice ganham até um pouco mais do que em 2026, e do 3º ao 5º fica idêntico.
-3. **R$ 125 por 19 rodadas dá menos de R$ 7 por rodada**, com resenha, site e parcial ao vivo.
-4. **Nada do reajuste fica com a organização.**
+1. **O campeão passa dos mil reais.** De R$ 710 em 2026 para R$ 1.068,75, um salto de mais de 50%. É o argumento mais direto que existe, porque aparece no bolso de quem ganha.
+2. **Ninguém ganha menos.** Do 1º ao 5º, nenhuma colocação fica abaixo de 2026, e só o 4º fica igual.
+3. **Prêmio novo de artilheiro**, para quem pontua bem e tem azar nos confrontos.
+4. **R$ 125 por 19 rodadas dá menos de R$ 7 por rodada**, com resenha, site e parcial ao vivo.
+5. **Nada do reajuste fica com a organização.**
 
 ---
 
@@ -115,14 +116,15 @@ Isso resolve três coisas de uma vez: permite abrir inscrição sem ter o bolo f
 
 | categoria | % do bolo |
 | --- | --- |
-| 1º colocado | 30% |
-| 2º colocado | 22% |
-| 3º colocado | 12% |
+| 1º colocado | 45% |
+| 2º colocado | 24% |
+| 3º colocado | 13% |
 | 4º colocado | 8% |
-| 5º colocado | 4% |
-| Artilheiro (maior PG acumulado nas 19 rodadas) | 10% |
-| Melhor do mês (4 prêmios de 3,5%) | 14% |
+| 5º colocado | 5% |
+| Artilheiro (maior PG acumulado nas 19 rodadas) | 5% |
 | **Total** | **100%** |
+
+O princípio que organiza essa divisão: **o campeão precisa ganhar bem mais do que o vice.** São 45% contra 24%, quase o dobro, para que ser campeão valha a pena de verdade e não seja só um degrau acima do segundo lugar.
 
 ### Simulação com 20 times, organizador isento, todos no preço promocional
 
@@ -130,22 +132,36 @@ Bolo de R$ 2.375 por competição.
 
 | categoria | 2027 | 2026 | diferença |
 | --- | --- | --- | --- |
-| 1º | R$ 712,50 | R$ 710 | mais R$ 2,50 |
-| 2º | R$ 522,50 | R$ 520 | mais R$ 2,50 |
-| 3º | R$ 285,00 | R$ 285 | igual |
+| 1º | R$ 1.068,75 | R$ 710 | mais R$ 358,75 |
+| 2º | R$ 570,00 | R$ 520 | mais R$ 50,00 |
+| 3º | R$ 308,75 | R$ 285 | mais R$ 23,75 |
 | 4º | R$ 190,00 | R$ 190 | igual |
-| 5º | R$ 95,00 | R$ 95 | igual |
-| Artilheiro | R$ 237,50 | não existia | nova |
-| Melhor do mês, 4 prêmios | R$ 332,50 no total, cerca de R$ 83 por mês | não existia | nova |
+| 5º | R$ 118,75 | R$ 95 | mais R$ 23,75 |
+| Artilheiro | R$ 118,75 | não existia | nova |
 
-**Ninguém perde nada e o número de prêmios dobra.** Esse quadro é a peça de convencimento mais forte que existe, e é o que deve ir na página.
+**O campeão passa dos mil reais e ninguém ganha menos do que em 2026.** Esse quadro é a peça de convencimento mais forte que existe, e é o que deve ir na página.
 
-### Por que essas duas categorias
+### Por que o artilheiro, e por que pouco
 
-- **Artilheiro** resolve o caso do time que pontua muito e tem azar nos confrontos. Em 2026 o segundo maior pontuador da liga terminou em nono e não levou nada.
-- **Melhor do mês** resolve o time abandonado. Com 19 rodadas são cerca de quatro meses de competição, ou seja, quatro largadas do zero. Quem perde a briga do título ainda tem mês para disputar até a última rodada.
+**Artilheiro** resolve o caso do time que pontua muito e tem azar nos confrontos. Em 2026 o segundo maior pontuador da liga terminou em nono e não levou nada.
 
-As duas juntas também são combustível de resenha: todo fim de mês tem um campeão novo para o Zé Resenha anunciar.
+Mas é prêmio de consolo, não de conquista, então vale **o mesmo que o 5º lugar**: 5% do bolo. Quem ganha a liga ganha muito mais do que quem só pontuou bem, e isso está certo assim. Dar peso grande ao artilheiro seria premiar quem não venceu confronto nenhum quase tanto quanto quem venceu o campeonato.
+
+### Prêmio mensal: fica para depois
+
+A ideia de um prêmio de melhor pontuação do mês foi avaliada e **não entra em 2027**. Numa estrutura de turno e returno separados, cada competição já tem só 19 rodadas, e fatiar isso em quatro minicompetições mensais esvazia a disputa principal sem resolver nada que o artilheiro não resolva. Além disso tiraria verba justamente do prêmio do campeão, que é o contrário do que a liga precisa.
+
+Fica anotada como possibilidade futura, caso em algum momento a liga passe a disputar a temporada inteira de 38 rodadas, onde um recorte mensal faria mais sentido.
+
+### O time abandonado, sem o prêmio mensal
+
+Tirando o mensal, sobra um problema em aberto: o que dar de objetivo a quem perde a briga do título na metade da competição.
+
+A estrutura de turno e returno já ajuda bastante, porque são duas competições por ano e quem vai mal no turno recomeça do zero no returno, com premiação nova. Mas dentro de cada uma delas o problema continua existindo. Possibilidades para discutir, nenhuma decidida:
+
+- Deixar como está e aceitar, já que o returno funciona como reinício.
+- Dar peso maior ao mico da lanterna, criando disputa por não ser o último.
+- Premiar a maior pontuação de uma única rodada, que custa pouco e dá bilhete de loteria a todo mundo até a última rodada.
 
 ### Mico da lanterna
 
@@ -228,7 +244,7 @@ A abertura em outubro é deliberada: o grupo está no pico de atenção, com cin
 
 1. **Intervalo entre pagar e jogar.** Quem leva o passaporte em dezembro só vê a bola rolar na rodada 1, e só joga o returno em agosto. A mitigação é tratar o passaporte como o que ele é, trava de preço e vaga garantida, e não como pagamento de algo que começa amanhã. A clássica, que começa na rodada 1, ajuda a encurtar essa percepção.
 2. **Pedido de devolução.** Com pagamento antecipado alguém vai pedir o dinheiro de volta. **Política escrita antes de abrir**, em vez de improvisada quando o primeiro pedir. Sugestão: devolução integral até a véspera da primeira rodada da competição em questão, zero depois disso.
-3. **Quem leva passaporte e abandona o time no turno.** O passaporte garante a vaga no returno de quem talvez já tenha perdido o interesse. O prêmio mensal ajuda, mas não resolve inteiramente.
+3. **Quem leva passaporte e abandona o time no turno.** O passaporte garante a vaga no returno de quem talvez já tenha perdido o interesse. A premiação nova do returno ajuda a reativar, mas não resolve inteiramente.
 4. **Concentração de caixa.** Receber quase tudo em dezembro significa segurar dinheiro de terceiros por muitos meses. O cofrinho resolve a parte operacional e o rendimento é da organização, mas exige disciplina para não misturar.
 
 ---
@@ -239,7 +255,7 @@ A abertura em outubro é deliberada: o grupo está no pico de atenção, com cin
 2. **Isenção do organizador.** Segue isento nas duas de pontos corridos? Na clássica a divisão atual é meia inscrição com o dono do Resina Club.
 3. **A pendência de 2026.** Um participante pode se inscrever em 2027 com a inscrição de 2026 em aberto? Precisa ser decidido antes da abertura, não depois que a pessoa pedir para entrar.
 4. **Preço do passaporte.** R$ 350, que é a soma exata, ou R$ 330, que vira desconto de verdade. Ver a seção 4.
-5. **Definição dos meses do prêmio mensal.** Depende do calendário do Brasileirão 2027. Com 19 rodadas devem sair quatro prêmios por competição, mas a divisão exata só fecha quando a tabela sair.
+5. **O objetivo de quem já perdeu o título.** Sem o prêmio mensal, falta decidir se fica como está, se o mico da lanterna ganha peso ou se entra um prêmio de maior pontuação de rodada. Ver a seção 5.
 6. **Política de devolução.** Ver a seção 10.
 7. **Mico da lanterna.** Qual é a prenda, e quem decide.
 8. **Divisão organizacional.** A dupla 50/50 com o dono do Resina Club vale para as três competições ou só para a clássica?
