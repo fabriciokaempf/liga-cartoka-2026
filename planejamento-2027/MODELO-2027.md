@@ -100,7 +100,7 @@ Cada competição tem o mesmo tamanho de 2026, 19 rodadas, então não dá para 
 
 1. **O campeão passa dos mil reais.** De R$ 710 em 2026 para R$ 1.068,75, um salto de mais de 50%. É o argumento mais direto que existe, porque aparece no bolso de quem ganha.
 2. **Ninguém ganha menos.** Do 1º ao 5º, nenhuma colocação fica abaixo de 2026, e só o 4º fica igual.
-3. **Prêmio novo de artilheiro**, para quem pontua bem e tem azar nos confrontos.
+3. **Dois prêmios novos**: artilheiro, para quem pontua bem e tem azar nos confrontos, e maior pontuação de uma única rodada, que qualquer um pode ganhar em qualquer rodada.
 4. **R$ 125 por 19 rodadas dá menos de R$ 7 por rodada**, com resenha, site e parcial ao vivo.
 5. **Nada do reajuste fica com a organização.**
 
@@ -117,14 +117,15 @@ Isso resolve três coisas de uma vez: permite abrir inscrição sem ter o bolo f
 | categoria | % do bolo |
 | --- | --- |
 | 1º colocado | 45% |
-| 2º colocado | 24% |
-| 3º colocado | 13% |
+| 2º colocado | 22% |
+| 3º colocado | 12% |
 | 4º colocado | 8% |
 | 5º colocado | 5% |
 | Artilheiro (maior PG acumulado nas 19 rodadas) | 5% |
+| Maior pontuação em uma única rodada | 3% |
 | **Total** | **100%** |
 
-O princípio que organiza essa divisão: **o campeão precisa ganhar bem mais do que o vice.** São 45% contra 24%, quase o dobro, para que ser campeão valha a pena de verdade e não seja só um degrau acima do segundo lugar.
+O princípio que organiza essa divisão: **o campeão precisa ganhar bem mais do que o vice.** São 45% contra 22%, mais do que o dobro, para que ser campeão valha a pena de verdade e não seja só um degrau acima do segundo lugar.
 
 ### Simulação com 20 times, organizador isento, todos no preço promocional
 
@@ -133,11 +134,12 @@ Bolo de R$ 2.375 por competição.
 | categoria | 2027 | 2026 | diferença |
 | --- | --- | --- | --- |
 | 1º | R$ 1.068,75 | R$ 710 | mais R$ 358,75 |
-| 2º | R$ 570,00 | R$ 520 | mais R$ 50,00 |
-| 3º | R$ 308,75 | R$ 285 | mais R$ 23,75 |
+| 2º | R$ 522,50 | R$ 520 | mais R$ 2,50 |
+| 3º | R$ 285,00 | R$ 285 | igual |
 | 4º | R$ 190,00 | R$ 190 | igual |
 | 5º | R$ 118,75 | R$ 95 | mais R$ 23,75 |
 | Artilheiro | R$ 118,75 | não existia | nova |
+| Maior pontuação de rodada | R$ 71,25 | não existia | nova |
 
 **O campeão passa dos mil reais e ninguém ganha menos do que em 2026.** Esse quadro é a peça de convencimento mais forte que existe, e é o que deve ir na página.
 
@@ -153,15 +155,22 @@ A ideia de um prêmio de melhor pontuação do mês foi avaliada e **não entra 
 
 Fica anotada como possibilidade futura, caso em algum momento a liga passe a disputar a temporada inteira de 38 rodadas, onde um recorte mensal faria mais sentido.
 
-### O time abandonado, sem o prêmio mensal
+### Maior pontuação de rodada, o bilhete de loteria
 
-Tirando o mensal, sobra um problema em aberto: o que dar de objetivo a quem perde a briga do título na metade da competição.
+É o prêmio que faz o trabalho que o mensal faria, por um terço do custo e sem nenhuma apuração extra: vai para o maior PG que qualquer time fizer em qualquer rodada da competição.
 
-A estrutura de turno e returno já ajuda bastante, porque são duas competições por ano e quem vai mal no turno recomeça do zero no returno, com premiação nova. Mas dentro de cada uma delas o problema continua existindo. Possibilidades para discutir, nenhuma decidida:
+Por que funciona para o problema do time abandonado:
 
-- Deixar como está e aceitar, já que o returno funciona como reinício.
-- Dar peso maior ao mico da lanterna, criando disputa por não ser o último.
-- Premiar a maior pontuação de uma única rodada, que custa pouco e dá bilhete de loteria a todo mundo até a última rodada.
+- **Qualquer um pode ganhar, inclusive o lanterna.** Não depende de posição na tabela nem de sequência boa, depende de uma rodada só.
+- **Fica em disputa até a rodada 19.** Diferente do título, que costuma estar decidido antes do fim, esse só fecha na última rodada, porque sempre pode aparecer uma pontuação maior.
+- **Custa 3% do bolo**, cerca de R$ 71, e não encosta no prêmio do campeão: os 3% saíram do 2º e do 3º lugar, que mesmo assim continuam acima de 2026.
+- **Dá assunto para o Zé Resenha toda rodada**, porque existe um recorde vigente a ser batido e um dono atual para provocar.
+
+É prêmio pequeno de propósito. O valor dele não está no dinheiro, está em manter todo mundo com algo em jogo.
+
+### O que ainda não está resolvido
+
+A estrutura de turno e returno já ajuda bastante com o time abandonado, porque são duas competições por ano e quem vai mal no turno recomeça do zero no returno, com premiação nova. Com o bilhete de loteria somado a isso, o problema fica bem endereçado, mas não eliminado: quem larga o time de vez continua distorcendo o confronto de quem briga em cima. Se virar problema sério em 2027, a saída a considerar é dar peso ao mico da lanterna, criando disputa por não ser o último.
 
 ### Mico da lanterna
 
@@ -255,7 +264,7 @@ A abertura em outubro é deliberada: o grupo está no pico de atenção, com cin
 2. **Isenção do organizador.** Segue isento nas duas de pontos corridos? Na clássica a divisão atual é meia inscrição com o dono do Resina Club.
 3. **A pendência de 2026.** Um participante pode se inscrever em 2027 com a inscrição de 2026 em aberto? Precisa ser decidido antes da abertura, não depois que a pessoa pedir para entrar.
 4. **Preço do passaporte.** R$ 350, que é a soma exata, ou R$ 330, que vira desconto de verdade. Ver a seção 4.
-5. **O objetivo de quem já perdeu o título.** Sem o prêmio mensal, falta decidir se fica como está, se o mico da lanterna ganha peso ou se entra um prêmio de maior pontuação de rodada. Ver a seção 5.
+5. **Critério de desempate do bilhete de loteria.** Se dois times fizerem exatamente a mesma pontuação na maior rodada da competição, quem leva? Sugestão: quem fez primeiro, pela rodada mais antiga.
 6. **Política de devolução.** Ver a seção 10.
 7. **Mico da lanterna.** Qual é a prenda, e quem decide.
 8. **Divisão organizacional.** A dupla 50/50 com o dono do Resina Club vale para as três competições ou só para a clássica?
