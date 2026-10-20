@@ -567,38 +567,51 @@
     "geradaEm": "2026-10-13T20:25:46.000Z"
   },
   {
-    "id": "andamento-rodada-31",
+    "id": "rodada-31",
     "rodada": 31,
-    "aoVivo": true,
-    "rotulo": "Rodada 31 · andamento",
-    "titulo": "Os dez jogos da rodada 31 já rolaram, Kidiabense tropeça que dá medo e Madalena Club ameaça virar a mesa",
+    "titulo": "Kaempfs assume a ponta, Kidiabense leva baile do Império e a rodada 31 vira a liga de cabeça para baixo",
     "blocos": [
       {
-        "icone": "🏁",
-        "titulo": "Reta final: todos os dez jogos já rolaram",
-        "texto": "A rodada 31 chegou no talo: os dez confrontos já tiveram bola rolando no jogo real, zero jogos restantes no calendário. Isso não fecha a pontuação do Cartola, porque os atletas escalados continuam valendo pontos até a rodada ser validada oficialmente, então nada ainda está cravado. Guarda o coração até lá."
+        "icone": "👑",
+        "titulo": "Troca de dono na liderança",
+        "texto": "Mudou a ponta. O Kaempfs F.C. bateu o HORST BRAUN por 96,09 a 68,99, chegou aos 25 pontos e assumiu a liderança do returno. O Madalena Club também fechou com 25, mas fica em segundo porque o Kaempfs tem 1.174,75 de PG turno contra 1.156,60. Dois times empatados em pontos e separados por 18 pontinhos de pontuação acumulada, isso é liga apertada."
       },
       {
-        "icone": "😱",
-        "titulo": "O líder isolado tropeça que dá medo",
-        "texto": "O Kidiabense FC, líder isolado do returno com 24 pontos, está sendo goleado pelo Império da Caipira por 94,99 a 64,70 nos parciais, e a vantagem do Império só cresceu desde a última conferência. Se a rodada fechar assim, o Kidiabense não soma ponto nenhum nessa rodada e abre a porta para a liderança mudar de dono."
+        "icone": "😵",
+        "titulo": "O líder virou terceiro em noventa minutos",
+        "texto": "O Kidiabense FC chegou na rodada 31 líder isolado e saiu dela em terceiro. Levou 105,29 a 69,90 do Império da Caipira, a maior diferença da rodada, 35,39 pontos. Ficou com os mesmos 24 pontos de antes e viu dois passarem por cima. Liderança que não se defende não dura."
       },
       {
-        "icone": "🚀",
-        "titulo": "Madalena dispara e ameaça virar a mesa",
-        "texto": "O Madalena Club é a artilharia isolada da rodada 31: 102,14 pontos contra o vice líder Resina Club, que trava em 69,64. Se esse resultado se confirmar, o Madalena some 3 pontos corridos e pode terminar a rodada com mais pontos na tabela do que o próprio Kidiabense, dependendo de como fecham os outros confrontos. Virada que ninguém via chegando no sábado."
+        "icone": "🏆",
+        "titulo": "Cartoleiro da rodada",
+        "texto": "Pela segunda rodada seguida o Madalena Club foi o que mais pontuou: 113,54. E não foi contra qualquer um, foi em cima do Resina Club, que marcou 89,39 e caiu para o quarto lugar. O Madalena vem fazendo o returno mais consistente da parte de cima e agora encosta de vez na briga."
       },
       {
-        "icone": "🧹",
-        "titulo": "Sobras da reta final: Vier sonha, resto se ajeita",
-        "texto": "O lanterna isolado VIERTRICOLOR está surpreendendo de novo e aparece na frente do Tricolor Lvfc por 84,04 a 61,59. O Esporte Clube Barão também segue melhor que o Berwinha FC (84,89 a 77,09), o Urachfc cresceu sobre o pietro filho (83,09 a 75,99), o Baade FC está acima do Gaudérios FC (79,44 a 75,34) e o SampaMissiones FC dispara sobre o Mandrackefc (91,49 a 77,29). Já Parizi 01 contra Alemonstro FBPA (77,69 a 76,74) e Corticeira's Farm FC contra Brocador do Bonja (75,16 a 73,38) seguem dentro da margem que vira empate: ninguém respira sossegado."
+        "icone": "🙈",
+        "titulo": "Vexame da rodada",
+        "texto": "O Tricolor Lvfc fechou com 61,79, a pior marca da rodada, e perdeu para o VIERTRICOLOR por 84,04. Detalhe cruel: o VIERTRICOLOR era a lanterna isolada e usou justamente essa vitória para sair do fundo do poço. Alguém tinha que pagar a conta."
+      },
+      {
+        "icone": "⚖️",
+        "titulo": "Dois empates e um deles por três décimos",
+        "texto": "A rodada teve dois duelos decididos pela regra do empate. O pietro filho e o Urachfc ficaram em 83,39 a 83,09, diferença de 0,30, que é praticamente um atleta respirando errado. E o Parizi 01 empatou com o Alemonstro FBPA por 88,79 a 87,59, 1,20 de diferença. Um ponto pra cada e ninguém dormiu feliz."
+      },
+      {
+        "icone": "📉",
+        "titulo": "A lanterna trocou de mãos",
+        "texto": "Com o VIERTRICOLOR vencendo e subindo para 9 pontos, a lanterna sobrou para o Urachfc, que empatou e chegou a 8, os mesmos do Mandrackefc. O desempate é no PG turno e aí o Urachfc leva a pior: 921,38 contra 954,58. Quem começou o returno brigando em cima agora briga pra não terminar em último."
+      },
+      {
+        "icone": "🤔",
+        "titulo": "O azarado da liga",
+        "texto": "Repara nessa: o Império da Caipira tem 1.167,79 de PG turno, a segunda maior pontuação acumulada da liga inteira, atrás só do líder. E está em nono lugar, com 19 pontos. Pontuar bem é uma coisa, pontuar no dia certo contra o adversário certo é outra. O Cartola é cruel assim."
+      },
+      {
+        "icone": "👀",
+        "titulo": "O que vem por aí",
+        "texto": "Faltam sete rodadas e a parte de cima está num punhado: do líder Kaempfs com 25 ao Brocador do Bonja com 22 são só três pontos separando cinco times. Qualquer tropeço embola tudo de novo. Mercado já está aberto para a rodada 32, então escala com carinho."
       }
     ],
-    "geradaEm": "2026-10-20T01:05:00.000Z",
-    "estado": {
-      "mercado": 2,
-      "jogosIniciados": 10,
-      "assinaturaParciais": "1067774:84.0|13912942:64.7|15282074:69.0|17382079:76.0|25278938:77.7|26079439:76.7|27772103:77.3|2963331:91.5|309735:83.1|3250219:73.4|3419812:75.2|423154:77.1|47572160:102.1|47653263:84.9|487118:80.8|49288650:69.6|4997197:79.4|6742039:61.6|753775:95.0|90277:75.3"
-    }
+    "geradaEm": "2026-10-20T15:11:52.470Z"
   }
 ]
