@@ -55,7 +55,51 @@ Consequência prática: não havia de onde tirar prêmio de artilheiro, prêmio 
 
 ---
 
-## 4. Valores da inscrição
+## 4. As 20 vagas
+
+A pontos corridos tem **exatamente 20 vagas, e isso é limite de estrutura, não escolha**. O robô não monta confronto nenhum: ele busca as 10 partidas reais da rodada na API do Cartola e mapeia cada clube para o dono dele. Como a Série A tem 20 clubes, não existe 21ª vaga. E cada vaga vazia vira bye, porque um confronto com clube sem dono simplesmente não acontece e ninguém pontua.
+
+### Como as 20 vagas se dividem
+
+| | vagas |
+| --- | --- |
+| Organizador, isento de inscrição | 1 |
+| Vagas pagas | 19 |
+| **Total** | **20** |
+
+A isenção do organizador é regra da liga e não está em discussão: quem toca o site, o robô, a resenha, a cobrança e a tesouraria não paga inscrição. É por isso que todo cálculo de bolo neste documento usa **19 pagantes, não 20**.
+
+A expectativa para 2027 é de **mais gente querendo entrar do que vaga disponível**. A regra de distribuição das 19 vagas pagas é:
+
+### Preferência de quem já está
+
+Quem jogou a competição em 2026 tem **direito de preferência sobre a própria vaga até 31/12/2026**.
+
+### Fila por ordem de chegada
+
+As vagas que sobrarem em 01/01/2027 vão para a fila de espera, **na ordem de pagamento**. Não é ordem de quem avisou que tinha interesse, é ordem de quem pagou: promessa não segura vaga.
+
+### Por que essa data é a peça central do modelo
+
+Em 2026 o prazo de pagamento não tinha consequência. Por isso virou novela de dois meses, multa improvisada e desgaste.
+
+Agora **31/12 não é só preço, é a vaga**. Quem não confirma até lá não está pagando mais caro, está abrindo o lugar para quem está esperando. É um instrumento muito mais forte do que os R$ 20 de diferença, e tem uma vantagem importante: não usa premiação como argumento de cobrança, usa escassez, que é fato e não pressão.
+
+### Regras de borda, para decidir antes de abrir
+
+1. **Quem está com 2026 em aberto tem preferência?** A sugestão aqui é que não: preferência é privilégio de quem está em dia, e quem tem pendência entra na fila como qualquer um. Isso resolve a cobrança antiga sem cobrar ninguém e sem constranger no grupo.
+2. **Devolução de quem paga e não pega vaga.** Se mais gente da fila pagar do que o número de vagas livres, quem ficou de fora recebe de volta na hora, integral. Isso precisa estar dito **antes** de alguém pagar, não depois.
+3. **O que acontece com a fila.** A fila não some: quem não entrou no turno tem a inscrição do returno em julho como segunda porta, e a clássica, que não tem teto nenhum, como alternativa imediata.
+
+### O que a escassez não resolve
+
+Vale registrar o que ficou de fora. Uma regra com rebaixamento (o lanterna perde a preferência e vai para o fim da fila) resolveria o problema do time abandonado de forma definitiva, porque largar o time custaria a vaga. Com preferência pura, **esse problema continua existindo** e segue endereçado só pela premiação: o prêmio de maior pontuação de rodada, que qualquer um pode ganhar até a última rodada.
+
+Se o abandono de time virar problema sério em 2027, o rebaixamento de um só (o lanterna perde a preferência, mas entra no topo da fila) é a saída a reconsiderar para 2028.
+
+---
+
+## 5. Valores da inscrição
 
 O corte é a virada do ano. Quem decide antes paga menos. O organizador deixa de precisar cobrar.
 
@@ -106,7 +150,7 @@ Cada competição tem o mesmo tamanho de 2026, 19 rodadas, então não dá para 
 
 ---
 
-## 5. Premiação do turno e do returno
+## 6. Premiação do turno e do returno
 
 Vale igual para as duas competições, cada uma com seu próprio bolo.
 
@@ -178,7 +222,7 @@ Prenda simbólica para o último colocado, sem dinheiro envolvido. A definir com
 
 ---
 
-## 6. Premiação da clássica
+## 7. Premiação da clássica
 
 Segue paralela e sem alteração de formato: roda dentro do app do Cartola, sem site e sem resenha.
 
@@ -192,7 +236,7 @@ Com 15 inscritos a R$ 100, o bolo fica em R$ 1.500: R$ 825, R$ 450 e R$ 225.
 
 ---
 
-## 7. Pagamento: chave única
+## 8. Pagamento: chave única
 
 Essa é a correção mais barata e a de maior impacto da temporada.
 
@@ -207,7 +251,7 @@ Planilha ou o próprio `config.json`, com cinco campos por participante: competi
 
 ---
 
-## 8. Arquitetura dos grupos de WhatsApp
+## 9. Arquitetura dos grupos de WhatsApp
 
 | grupo | quem entra | para que serve |
 | --- | --- | --- |
@@ -229,27 +273,36 @@ O instrumento que sobra, e que funciona melhor em grupo aberto do que em grupo f
 
 ---
 
-## 9. Calendário
+## 10. Calendário
 
 | data | o que acontece |
 | --- | --- |
-| 20/10/2026 | abrem as inscrições de 2027: turno, clássica e passaporte |
+| 20/10/2026 | abre a temporada 2027: preferência dos atuais, clássica e passaporte |
 | 02/12/2026 | fim do returno de 2026, rodada 38 |
-| 15/12/2026 | lembrete do corte de preço |
-| 29/12/2026 | último aviso do corte |
-| 31/12/2026 | último dia do preço promocional e último dia do passaporte |
-| 01/01/2027 | preço cheio, passaporte não existe mais |
+| 15/12/2026 | lembrete de confirmação de vaga |
+| 29/12/2026 | último aviso aos atuais |
+| 31/12/2026 | **último dia da preferência**, do preço promocional e do passaporte |
+| 01/01/2027 | as vagas não confirmadas abrem para a fila, por ordem de pagamento, no valor cheio |
 | a confirmar | rodada 1 do Brasileirão 2027: começam o turno e a clássica |
 | véspera da rodada 1 | fecham as inscrições do turno e da clássica |
-| por volta de julho de 2027 | abre a inscrição avulsa do returno, só para quem não tem passaporte |
+| por volta de julho de 2027 | abre a inscrição do returno: primeiro os de 2027, depois a fila |
 | véspera da rodada 20 | fecha a inscrição do returno |
 | ao fechar cada inscrição | divulgação da premiação em reais daquela competição |
 
 A abertura em outubro é deliberada: o grupo está no pico de atenção, com cinco times separados por três pontos na briga do título. Em janeiro o grupo está morno.
 
+### Os dois públicos, e por que isso muda a comunicação
+
+Até 31/12 existem **duas conversas acontecendo ao mesmo tempo**, e misturar as duas é erro:
+
+- **Os 20 de 2026** precisam ouvir "confirma a tua vaga", nunca "vem jogar". Eles já estão dentro, o que se pede é confirmação.
+- **A fila** precisa ouvir "anota teu nome, as vagas que sobrarem saem em janeiro por ordem de pagamento". Prometer vaga a essa gente antes de 01/01 é o jeito mais rápido de criar confusão.
+
+A lista pública de confirmados serve aos dois ao mesmo tempo: mostra ao atual que o prazo é real e mostra à fila quantas vagas ainda podem abrir.
+
 ---
 
-## 10. Riscos conhecidos
+## 11. Riscos conhecidos
 
 1. **Intervalo entre pagar e jogar.** Quem leva o passaporte em dezembro só vê a bola rolar na rodada 1, e só joga o returno em agosto. A mitigação é tratar o passaporte como o que ele é, trava de preço e vaga garantida, e não como pagamento de algo que começa amanhã. A clássica, que começa na rodada 1, ajuda a encurtar essa percepção.
 2. **Pedido de devolução.** Com pagamento antecipado alguém vai pedir o dinheiro de volta. **Política escrita antes de abrir**, em vez de improvisada quando o primeiro pedir. Sugestão: devolução integral até a véspera da primeira rodada da competição em questão, zero depois disso.
@@ -258,13 +311,13 @@ A abertura em outubro é deliberada: o grupo está no pico de atenção, com cin
 
 ---
 
-## 11. Pendências
+## 12. Pendências
 
-1. **Teto de participantes.** Segue em 20 ou abre mais vagas? Afeta a tabela de confrontos, que acompanha a tabela da Série A.
-2. **Isenção do organizador.** Segue isento nas duas de pontos corridos? Na clássica a divisão atual é meia inscrição com o dono do Resina Club.
-3. **A pendência de 2026.** Um participante pode se inscrever em 2027 com a inscrição de 2026 em aberto? Precisa ser decidido antes da abertura, não depois que a pessoa pedir para entrar.
-4. **Preço do passaporte.** R$ 350, que é a soma exata, ou R$ 330, que vira desconto de verdade. Ver a seção 4.
+1. **A pendência de 2026 tem direito de preferência?** Com fila de espera a pergunta ficou mais fácil de responder sem atrito: quem está com 2026 em aberto perde a preferência e entra na fila como qualquer um. Precisa ser decidido antes da abertura, não depois que a pessoa pedir a vaga. Ver a seção 4.
+2. **Organizador isento recebe premiação?** A isenção em si é regra fechada, ver a seção 4. O que falta é deixar escrito se quem é isento concorre aos prêmios em dinheiro. Vale decidir e publicar agora, enquanto a pergunta é hipotética, porque decidir depois que o isento terminar em primeiro é conversa muito pior.
+3. **Tamanho da fila que vale a pena manter.** Fila de 3 é saudável, fila de 15 é gente que nunca vai jogar e que desanima. Vale pensar em um limite para não criar expectativa falsa.
+4. **Preço do passaporte.** R$ 350, que é a soma exata, ou R$ 330, que vira desconto de verdade. Ver a seção 5.
 5. **Critério de desempate do bilhete de loteria.** Se dois times fizerem exatamente a mesma pontuação na maior rodada da competição, quem leva? Sugestão: quem fez primeiro, pela rodada mais antiga.
-6. **Política de devolução.** Ver a seção 10.
+6. **Política de devolução.** Ver a seção 11.
 7. **Mico da lanterna.** Qual é a prenda, e quem decide.
 8. **Divisão organizacional.** A dupla 50/50 com o dono do Resina Club vale para as três competições ou só para a clássica?
