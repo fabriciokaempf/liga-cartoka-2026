@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Liga Cartoka | Temporada 2027</title>
+<meta name="description" content="Inscrições abertas para a temporada 2027 da Liga Cartoka. Valores, premiação e regras do turno, do returno e da clássica.">
+<meta name="theme-color" content="#0a1510">
+<meta property="og:title" content="Liga Cartoka: Temporada 2027">
+<meta property="og:description" content="Inscrições abertas. Turno, returno e clássica, com 10 prêmios por competição e passaporte até 31/12.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://fabriciokaempf.github.io/liga-cartoka-2026/temporada-2027.html">
+<meta property="og:image" content="https://fabriciokaempf.github.io/liga-cartoka-2026/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3Ctext%20y='0.9em'%20font-size='90'%3E%F0%9F%8F%86%3C/text%3E%3C/svg%3E">
+<style>
+:root {
+  --fundo: #0a1510;
+  --carta: #101f18;
+  --carta-clara: #14261d;
+  --borda: #1e3628;
+  --texto: #e9f2ec;
+  --texto-suave: #96ac9e;
+  --texto-apagado: #64796c;
+  --laranja: #ff7a1a;
+  --laranja-claro: #ffb264;
+  --verde: #22c55e;
+  --verde-claro: #4ade80;
+  --amarelo: #ffc933;
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  font-family: -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  background: var(--fundo);
+  color: var(--texto);
+  font-size: 15px;
+  line-height: 1.45;
+}
+
+main { max-width: 720px; margin: 0 auto; padding: 4px 10px 24px; }
+
+section { scroll-margin-top: 66px; }
+
+/* Hero */
+
+.hero {
+  text-align: center;
+  padding: 34px 14px 24px;
+  background:
+    radial-gradient(120% 90% at 50% 0%, rgba(255, 122, 26, 0.14), transparent 55%),
+    repeating-linear-gradient(115deg, rgba(255, 255, 255, 0.022) 0 26px, transparent 26px 52px),
+    linear-gradient(180deg, #122e20, var(--fundo) 92%);
+}
+
+.hero-trofeu {
+  font-size: 44px;
+  line-height: 1;
+  margin-bottom: 6px;
+  filter: drop-shadow(0 4px 14px rgba(255, 170, 40, 0.35));
+}
+
+.hero-titulo {
+  margin: 0;
+  font-size: 30px;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  line-height: 1.15;
+  background: linear-gradient(100deg, #ffffff 20%, var(--laranja-claro) 60%, var(--amarelo) 95%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.hero-sub {
+  margin: 5px 0 0;
+  font-size: 11.5px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: var(--texto-suave);
+}
+
+.selo {
+  margin: 16px auto 0;
+  display: inline-block;
+  font-size: 12.5px;
+  font-weight: 700;
+  color: var(--laranja-claro);
+  background: rgba(255, 122, 26, 0.12);
+  border: 1px solid rgba(255, 122, 26, 0.35);
+  border-radius: 999px;
+  padding: 6px 15px;
+}
+
+.hero-chips {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+  margin-top: 14px;
+}
+
+.hero-chip {
+  font-size: 11.5px;
+  color: var(--texto-suave);
+  background: rgba(255, 255, 255, 0.045);
+  border: 1px solid var(--borda);
+  border-radius: 999px;
+  padding: 5px 11px;
+  white-space: nowrap;
+}
+
+/* Cartões */
+
+.cartao {
+  background: var(--carta);
+  border: 1px solid var(--borda);
+  border-radius: 14px;
+  padding: 16px 14px;
+  margin: 12px 0;
+}
+
+.cartao h2 {
+  margin: 0 0 12px;
+  font-size: 16px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.cartao h3 {
+  margin: 18px 0 8px;
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1.4px;
+  color: var(--texto-suave);
+}
+
+.cartao p { margin: 0 0 10px; color: var(--texto-suave); }
+.cartao p:last-child { margin-bottom: 0; }
+.cartao strong { color: var(--texto); }
+
+/* Tabela de valores */
+
+.valores {
+  display: grid;
+  gap: 10px;
+}
+
+.faixa {
+  border: 1px solid var(--borda);
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.faixa-topo {
+  padding: 8px 12px;
+  font-size: 11.5px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1.4px;
+  background: var(--carta-clara);
+  color: var(--texto-suave);
+  border-bottom: 1px solid var(--borda);
+}
+
+.faixa.promo { border-color: rgba(255, 122, 26, 0.45); }
+
+.faixa.promo .faixa-topo {
+  background: rgba(255, 122, 26, 0.12);
+  color: var(--laranja-claro);
+}
+
+.linha-valor {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 10px;
+  padding: 10px 12px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.linha-valor:last-child { border-bottom: 0; }
+
+.linha-valor span { color: var(--texto-suave); font-size: 14px; }
+
+.linha-valor b {
+  font-size: 17px;
+  font-weight: 800;
+  white-space: nowrap;
+}
+
+.faixa.promo .linha-valor b { color: var(--amarelo); }
+
+.destaque-combo { background: rgba(255, 255, 255, 0.03); }
+
+/* Tabelas */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px 6px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+th {
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1.2px;
+  color: var(--texto-apagado);
+}
+
+td.num, th.num { text-align: right; white-space: nowrap; }
+
+tbody tr:last-child td { border-bottom: 0; }
+
+td b { color: var(--amarelo); }
+
+tr.nova td { color: var(--verde-claro); }
+tr.nova td b { color: var(--verde-claro); }
+
+.etiqueta-nova {
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--verde-claro);
+  background: rgba(34, 197, 94, 0.12);
+  border: 1px solid rgba(34, 197, 94, 0.3);
+  border-radius: 999px;
+  padding: 2px 7px;
+  margin-left: 6px;
+  white-space: nowrap;
+}
+
+/* Lista de regras */
+
+.regras { list-style: none; margin: 0; padding: 0; }
+
+.regras li {
+  display: flex;
+  gap: 10px;
+  padding: 9px 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  color: var(--texto-suave);
+}
+
+.regras li:last-child { border-bottom: 0; }
+
+.regras .icone { flex: 0 0 auto; font-size: 15px; line-height: 1.4; }
+
+/* Nota */
+
+.nota {
+  font-size: 12.5px;
+  color: var(--texto-apagado);
+  background: rgba(255, 255, 255, 0.03);
+  border-left: 2px solid var(--borda);
+  border-radius: 0 8px 8px 0;
+  padding: 9px 11px;
+  margin-top: 12px;
+}
+
+/* Chamada final */
+
+.chamada {
+  text-align: center;
+  background:
+    radial-gradient(120% 120% at 50% 0%, rgba(255, 122, 26, 0.14), transparent 60%),
+    var(--carta);
+  border-color: rgba(255, 122, 26, 0.3);
+}
+
+.chamada h2 { justify-content: center; }
+
+.chamada .prazo {
+  display: inline-block;
+  margin-top: 6px;
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--amarelo);
+  background: rgba(255, 201, 51, 0.1);
+  border: 1px solid rgba(255, 201, 51, 0.3);
+  border-radius: 999px;
+  padding: 6px 14px;
+}
+
+/* Passaporte */
+
+.passaporte {
+  border: 1px solid rgba(255, 201, 51, 0.45);
+  border-radius: 12px;
+  background:
+    radial-gradient(130% 120% at 50% 0%, rgba(255, 201, 51, 0.12), transparent 65%),
+    var(--carta-clara);
+  padding: 14px;
+  margin-top: 14px;
+  text-align: center;
+}
+
+.passaporte .etiqueta {
+  font-size: 11px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 1.6px;
+  color: var(--amarelo);
+}
+
+.passaporte .preco {
+  font-size: 30px;
+  font-weight: 900;
+  line-height: 1.1;
+  margin: 6px 0 2px;
+  color: var(--amarelo);
+}
+
+.passaporte .cobre {
+  font-size: 13px;
+  color: var(--texto);
+  margin: 0 0 8px;
+}
+
+.passaporte .ate {
+  font-size: 11.5px;
+  color: var(--texto-apagado);
+  margin: 0;
+}
+
+footer {
+  text-align: center;
+  padding: 18px 14px 28px;
+  color: var(--texto-apagado);
+  font-size: 11.5px;
+  line-height: 1.6;
+}
+
+footer a { color: var(--texto-suave); }
+
+@media (min-width: 560px) {
+  .valores { grid-template-columns: 1fr 1fr; align-items: start; }
+}
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="hero-trofeu" aria-hidden="true">🏆</div>
+  <h1 class="hero-titulo">Liga Cartoka</h1>
+  <p class="hero-sub">Temporada 2027</p>
+  <p class="selo">Inscrições abertas</p>
+  <div class="hero-chips">
+    <span class="hero-chip">turno, returno e clássica</span>
+    <span class="hero-chip">20 times</span>
+    <span class="hero-chip">10 prêmios por competição</span>
+    <span class="hero-chip">passaporte até 31/12</span>
+  </div>
+</header>
+
+<main>
+
+  <section class="cartao">
+    <h2><span aria-hidden="true">🗓️</span>As três competições</h2>
+    <p>O ano da Cartoka tem três competições, cada uma com inscrição, classificação e campeão próprios. Dá para jogar uma, duas ou as três.</p>
+    <table>
+      <thead>
+        <tr><th>Competição</th><th class="num">Rodadas</th><th class="num">Quando</th></tr>
+      </thead>
+      <tbody>
+        <tr><td><strong>Turno</strong></td><td class="num">1 a 19</td><td class="num">1º semestre</td></tr>
+        <tr><td><strong>Returno</strong></td><td class="num">20 a 38</td><td class="num">2º semestre</td></tr>
+        <tr><td><strong>Clássica</strong></td><td class="num">1 a 38</td><td class="num">o ano todo</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section class="cartao">
+    <h2><span aria-hidden="true">⚽</span>Como funciona</h2>
+    <p>No turno e no returno, cada jogador tem um time no Cartola FC e representa um clube da Série A. Os confrontos de cada rodada seguem a tabela oficial do Brasileirão: se o seu clube pega o clube do vizinho na rodada, vocês dois se enfrentam na liga.</p>
+    <p>Vence o confronto quem fizer mais pontos no Cartola naquela rodada. Vitória vale 3 pontos, e a diferença abaixo de 2 pontos conta como empate, 1 ponto para cada.</p>
+    <p>Tudo roda sozinho num site próprio: classificação, confrontos, parcial ao vivo durante a rodada e a resenha do Zé Resenha no fim de cada uma.</p>
+    <p>A Clássica é diferente: não tem confronto nem site. Roda dentro do próprio app do Cartola e vale a pontuação acumulada no ano inteiro.</p>
+  </section>
+
+  <section class="cartao">
+    <h2><span aria-hidden="true">💰</span>Inscrição</h2>
+    <div class="passaporte">
+      <p class="etiqueta">🎟️ Passaporte 2027</p>
+      <p class="preco">R$ 350</p>
+      <p class="cobre">turno, returno e clássica num pagamento só</p>
+      <p class="ate">disponível até 31/12/2026</p>
+    </div>
+    <div class="nota">
+      O passaporte não é desconto, é <strong>trava de preço</strong>: garante os três no valor promocional, inclusive o returno, cuja inscrição avulsa só abre no meio de 2027 e já sai no valor cheio. E resolve o ano inteiro num Pix só, sem cobrança no meio do caminho.
+    </div>
+
+    <h3>Ou avulso, por competição</h3>
+    <div class="valores">
+      <div class="faixa promo">
+        <div class="faixa-topo">até 31 de dezembro</div>
+        <div class="linha-valor"><span>Turno</span><b>R$ 125</b></div>
+        <div class="linha-valor"><span>Clássica</span><b>R$ 100</b></div>
+        <div class="linha-valor destaque-combo"><span>Returno</span><b>abre depois</b></div>
+      </div>
+      <div class="faixa">
+        <div class="faixa-topo">a partir de 1º de janeiro</div>
+        <div class="linha-valor"><span>Turno</span><b>R$ 145</b></div>
+        <div class="linha-valor"><span>Clássica</span><b>R$ 115</b></div>
+        <div class="linha-valor destaque-combo"><span>Returno</span><b>R$ 145</b></div>
+      </div>
+    </div>
+    <div class="nota">
+      O aumento de 2027 vai <strong>inteiro para a premiação</strong>, e é de onde saem as categorias novas. Nada do reajuste fica com a organização.
+    </div>
+    <div class="nota">
+      Não existe multa de atraso nem desconto de pontos. O que existe é o preço da virada do ano. Turno e Clássica seguem abertos no valor cheio até a véspera da rodada 1, e o Returno até a véspera da rodada 20.
+    </div>
+  </section>
+
+  <section class="cartao">
+    <h2><span aria-hidden="true">🏅</span>Premiação do turno e do returno</h2>
+    <p>Vale igual para as duas, cada uma com seu próprio bolo e seu próprio campeão. A divisão é por percentual do total arrecadado, e os valores em reais saem quando as inscrições daquela competição fecharem, porque o bolo depende de quantos entrarem.</p>
+    <table>
+      <thead>
+        <tr><th>Categoria</th><th class="num">% do bolo</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>1º colocado</td><td class="num"><b>30%</b></td></tr>
+        <tr><td>2º colocado</td><td class="num"><b>22%</b></td></tr>
+        <tr><td>3º colocado</td><td class="num"><b>12%</b></td></tr>
+        <tr><td>4º colocado</td><td class="num"><b>8%</b></td></tr>
+        <tr><td>5º colocado</td><td class="num"><b>4%</b></td></tr>
+        <tr class="nova"><td>Artilheiro<span class="etiqueta-nova">nova</span></td><td class="num"><b>10%</b></td></tr>
+        <tr class="nova"><td>Melhor do mês, 4 prêmios<span class="etiqueta-nova">nova</span></td><td class="num"><b>14%</b></td></tr>
+      </tbody>
+    </table>
+
+    <h3>O que são as categorias novas</h3>
+    <ul class="regras">
+      <li><span class="icone" aria-hidden="true">🎯</span><span><strong>Artilheiro.</strong> Maior PG acumulado nas 19 rodadas da competição, independente de posição na tabela. É para quem pontua alto e tem azar no sorteio dos confrontos.</span></li>
+      <li><span class="icone" aria-hidden="true">📅</span><span><strong>Melhor do mês.</strong> Um prêmio por mês de competição, para quem somar mais pontos no Cartola naquele mês. São quatro largadas do zero: quem perde a briga do título ainda tem mês para disputar até a última rodada.</span></li>
+      <li><span class="icone" aria-hidden="true">🤡</span><span><strong>Mico da lanterna.</strong> Prenda simbólica para o último colocado, sem dinheiro envolvido. A definir pelo grupo, que é metade da graça.</span></li>
+    </ul>
+
+    <h3>Simulação de uma competição, 20 times no valor promocional</h3>
+    <table>
+      <thead>
+        <tr><th>Categoria</th><th class="num">2027</th><th class="num">2026</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>1º</td><td class="num"><b>R$ 712,50</b></td><td class="num">R$ 710</td></tr>
+        <tr><td>2º</td><td class="num"><b>R$ 522,50</b></td><td class="num">R$ 520</td></tr>
+        <tr><td>3º</td><td class="num"><b>R$ 285,00</b></td><td class="num">R$ 285</td></tr>
+        <tr><td>4º</td><td class="num"><b>R$ 190,00</b></td><td class="num">R$ 190</td></tr>
+        <tr><td>5º</td><td class="num"><b>R$ 95,00</b></td><td class="num">R$ 95</td></tr>
+        <tr class="nova"><td>Artilheiro</td><td class="num"><b>R$ 237,50</b></td><td class="num">não existia</td></tr>
+        <tr class="nova"><td>Melhor do mês, cada um</td><td class="num"><b>R$ 83,00</b></td><td class="num">não existia</td></tr>
+      </tbody>
+    </table>
+    <div class="nota">
+      Simulação, não promessa. Serve para mostrar a ideia: <strong>ninguém ganha menos do que em 2026</strong> e o número de prêmios dobra, de 5 para 10.
+    </div>
+  </section>
+
+  <section class="cartao">
+    <h2><span aria-hidden="true">📜</span>Regras</h2>
+    <ul class="regras">
+      <li><span class="icone" aria-hidden="true">⚽</span><span>Turno e returno são competições separadas, com campeão e premiação próprios, e os confrontos seguem a tabela oficial do Brasileirão Série A.</span></li>
+      <li><span class="icone" aria-hidden="true">🏆</span><span>Vence o confronto quem fizer mais pontos no Cartola na rodada. Vitória vale 3 pontos na liga.</span></li>
+      <li><span class="icone" aria-hidden="true">🤝</span><span>Diferença menor que 2 pontos na rodada conta como empate. Cada um leva 1 ponto.</span></li>
+      <li><span class="icone" aria-hidden="true">📊</span><span>O desempate na classificação é o PG do turno, a soma das pontuações do Cartola.</span></li>
+      <li><span class="icone" aria-hidden="true">✅</span><span>A inscrição precisa estar quitada antes da primeira rodada daquela competição. Quem não estiver quitado não entra na tabela.</span></li>
+      <li><span class="icone" aria-hidden="true">🔑</span><span>Uma chave de pagamento só para as três competições. Quem leva o passaporte paga num envio único.</span></li>
+      <li><span class="icone" aria-hidden="true">↩️</span><span>Devolução integral até a véspera da primeira rodada da competição. Depois que a bola rola não há devolução, porque o bolo da premiação já está fechado.</span></li>
+      <li><span class="icone" aria-hidden="true">🗓️</span><span>Todo comprovante tem a data conferida contra o período da temporada.</span></li>
+      <li><span class="icone" aria-hidden="true">🎙️</span><span>A resenha de cada rodada é do Zé Resenha, comentarista da liga, e sai no site e no grupo.</span></li>
+    </ul>
+  </section>
+
+  <section class="cartao">
+    <h2><span aria-hidden="true">🎲</span>A Clássica</h2>
+    <p>Competição paralela, anual, que roda dentro do próprio app do Cartola FC. Sem site, sem resenha e sem confronto: vale a pontuação acumulada na temporada.</p>
+    <p>A premiação é por percentual do arrecadado: <strong>55%</strong> para o campeão, <strong>30%</strong> para o vice e <strong>15%</strong> para o terceiro.</p>
+    <p>Dá para jogar só a Clássica, sem nenhuma das outras. São inscrições independentes, mas o pagamento é sempre na mesma chave.</p>
+    <div class="nota">
+      A Clássica começa na <strong>rodada 1</strong> e vai até a 38, então a inscrição dela fecha junto com a do turno, bem antes da do returno.
+    </div>
+  </section>
+
+  <section class="cartao chamada">
+    <h2><span aria-hidden="true">👊</span>Como entrar</h2>
+    <p>Chama o Fabricio no particular que ele passa os detalhes do pagamento. A chave nunca é divulgada em grupo nem aqui na página.</p>
+    <p class="prazo">Passaporte e valor promocional até 31/12/2026</p>
+  </section>
+
+</main>
+
+<footer>
+  <p>Liga Cartoka · organização: Fabricio Kaempf</p>
+  <p>Dados da API pública do Cartola FC. Página sem vínculo com a Globo.</p>
+</footer>
+
+</body>
+</html>
