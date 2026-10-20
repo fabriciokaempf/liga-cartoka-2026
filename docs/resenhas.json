@@ -571,34 +571,34 @@
     "rodada": 31,
     "aoVivo": true,
     "rotulo": "Rodada 31 · andamento",
-    "titulo": "Kidiabense vacila contra o Império, Madalena Club dispara e a rodada 31 fica pendurada num só jogo",
+    "titulo": "Os dez jogos da rodada 31 já rolaram, Kidiabense tropeça que dá medo e Madalena Club ameaça virar a mesa",
     "blocos": [
       {
-        "icone": "🎙️",
-        "titulo": "Reta final: só falta um jogo",
-        "texto": "A rodada 31 está na reta final de verdade: nove dos dez confrontos já têm bola rolando no jogo real, dois a mais desde a última conferência. Só falta Mandrackefc contra SampaMissiones FC, previsto para hoje às 20h, e pelos números que eles carregam até aqui a coisa está emparelhada: 75,99 a 76,14. Promete fechar a rodada com gosto de decisão."
+        "icone": "🏁",
+        "titulo": "Reta final: todos os dez jogos já rolaram",
+        "texto": "A rodada 31 chegou no talo: os dez confrontos já tiveram bola rolando no jogo real, zero jogos restantes no calendário. Isso não fecha a pontuação do Cartola, porque os atletas escalados continuam valendo pontos até a rodada ser validada oficialmente, então nada ainda está cravado. Guarda o coração até lá."
       },
       {
-        "icone": "🏆",
-        "titulo": "O líder não segura mais",
-        "texto": "Eu avisei na última cobertura que a vantagem do Kidiabense FC sobre o Império da Caipira era curta demais para confiar, e confirmado: o líder isolado do returno virou o jogo ao contrário e agora está atrás por 64,70 a 79,74. Se a rodada fechasse agora, o Kidiabense perderia esse confronto. Ainda dá tempo de reverter, mas a confiança de sábado já parece piada."
+        "icone": "😱",
+        "titulo": "O líder isolado tropeça que dá medo",
+        "texto": "O Kidiabense FC, líder isolado do returno com 24 pontos, está sendo goleado pelo Império da Caipira por 94,99 a 64,70 nos parciais, e a vantagem do Império só cresceu desde a última conferência. Se a rodada fechar assim, o Kidiabense não soma ponto nenhum nessa rodada e abre a porta para a liderança mudar de dono."
       },
       {
-        "icone": "💥",
-        "titulo": "Madalena Club vira artilheira da rodada",
-        "texto": "O Madalena Club, que já tinha saído na frente do vice líder Resina Club na conferência passada, resolveu não ter moleza: disparou para 96,34 pontos, a maior pontuação da liga na rodada 31, enquanto o Resina travou em 68,24. Diferença de 28 pontos que, se confirmada, bagunça o pelotão de cima da tabela."
+        "icone": "🚀",
+        "titulo": "Madalena dispara e ameaça virar a mesa",
+        "texto": "O Madalena Club é a artilharia isolada da rodada 31: 102,14 pontos contra o vice líder Resina Club, que trava em 69,64. Se esse resultado se confirmar, o Madalena some 3 pontos corridos e pode terminar a rodada com mais pontos na tabela do que o próprio Kidiabense, dependendo de como fecham os outros confrontos. Virada que ninguém via chegando no sábado."
       },
       {
-        "icone": "🔄",
-        "titulo": "Virada de lado a lado",
-        "texto": "No duelo entre Esporte Clube Barão e Berwinha FC, quem estava atrás na conferência passada virou o jogo: o Barão foi para 71,04 contra 63,14 do Berwinha. Já o VIERTRICOLOR, lanterna isolado da liga, transformou o que era quase empate contra o Tricolor Lvfc numa goleada parcial, 80,84 a 52,59, número daqueles que ninguém esperava de quem tem só 6 pontos corridos na tabela."
+        "icone": "🧹",
+        "titulo": "Sobras da reta final: Vier sonha, resto se ajeita",
+        "texto": "O lanterna isolado VIERTRICOLOR está surpreendendo de novo e aparece na frente do Tricolor Lvfc por 84,04 a 61,59. O Esporte Clube Barão também segue melhor que o Berwinha FC (84,89 a 77,09), o Urachfc cresceu sobre o pietro filho (83,09 a 75,99), o Baade FC está acima do Gaudérios FC (79,44 a 75,34) e o SampaMissiones FC dispara sobre o Mandrackefc (91,49 a 77,29). Já Parizi 01 contra Alemonstro FBPA (77,69 a 76,74) e Corticeira's Farm FC contra Brocador do Bonja (75,16 a 73,38) seguem dentro da margem que vira empate: ninguém respira sossegado."
       }
     ],
-    "geradaEm": "2026-10-19T00:24:47.000Z",
+    "geradaEm": "2026-10-20T01:05:00.000Z",
     "estado": {
       "mercado": 2,
-      "jogosIniciados": 9,
-      "assinaturaParciais": "1067774:80.8|13912942:64.7|15282074:69.0|17382079:74.3|25278938:67.0|26079439:76.7|27772103:76.0|2963331:76.1|309735:81.8|3250219:71.7|3419812:68.0|423154:63.1|47572160:96.3|47653263:71.0|487118:63.6|49288650:68.2|4997197:68.8|6742039:52.6|753775:79.7|90277:69.5"
+      "jogosIniciados": 10,
+      "assinaturaParciais": "1067774:84.0|13912942:64.7|15282074:69.0|17382079:76.0|25278938:77.7|26079439:76.7|27772103:77.3|2963331:91.5|309735:83.1|3250219:73.4|3419812:75.2|423154:77.1|47572160:102.1|47653263:84.9|487118:80.8|49288650:69.6|4997197:79.4|6742039:61.6|753775:95.0|90277:75.3"
     }
   }
 ]
