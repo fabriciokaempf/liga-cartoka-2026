@@ -81,21 +81,21 @@ A expectativa para 2027 é de **mais gente querendo entrar do que vaga disponív
 
 ### Preferência de quem já está
 
-Quem jogou a competição em 2026 tem **direito de preferência sobre a própria vaga até 31/12/2026**.
+Quem jogou a competição em 2026 tem **direito de preferência sobre a própria vaga até 20/01/2027**.
 
 ### Fila por ordem de chegada
 
-As vagas que sobrarem em 01/01/2027 vão para a fila de espera, **na ordem de pagamento**. Não é ordem de quem avisou que tinha interesse, é ordem de quem pagou: promessa não segura vaga.
+As vagas que sobrarem em 21/01/2027 vão para a fila de espera, **na ordem de pagamento**. Não é ordem de quem avisou que tinha interesse, é ordem de quem pagou: promessa não segura vaga.
 
 ### Por que essa data é a peça central do modelo
 
 Em 2026 o prazo de pagamento não tinha consequência. Por isso virou novela de dois meses, multa improvisada e desgaste.
 
-Agora **31/12 não é só preço, é a vaga**. Quem não confirma até lá não está pagando mais caro, está abrindo o lugar para quem está esperando. É um instrumento muito mais forte do que os R$ 20 de diferença, e tem uma vantagem importante: não usa premiação como argumento de cobrança, usa escassez, que é fato e não pressão.
+Agora **20/01 não é só preço, é a vaga**. Quem não confirma até lá não está pagando mais caro, está abrindo o lugar para quem está esperando. É um instrumento muito mais forte do que os R$ 20 de diferença, e tem uma vantagem importante: não usa premiação como argumento de cobrança, usa escassez, que é fato e não pressão.
 
 ### Regras de borda, para decidir antes de abrir
 
-1. **Quem está com 2026 em aberto tem preferência?** A sugestão aqui é que não: preferência é privilégio de quem está em dia, e quem tem pendência entra na fila como qualquer um. Isso resolve a cobrança antiga sem cobrar ninguém e sem constranger no grupo.
+1. **Quem está com 2026 em aberto não tem preferência.** Decidido: preferência é privilégio de quem está em dia. Quem ficou com inscrição em aberto entra na fila como qualquer um, sem exceção. Resolve a pendência de 2026 sem cobrar ninguém e sem constranger no grupo.
 2. **Devolução de quem paga e não pega vaga.** Se mais gente da fila pagar do que o número de vagas livres, quem ficou de fora recebe de volta na hora, integral. Isso precisa estar dito **antes** de alguém pagar, não depois.
 3. **O que acontece com a fila.** A fila não some: quem não entrou no turno tem a inscrição do returno em julho como segunda porta, e a clássica, que não tem teto nenhum, como alternativa imediata.
 
@@ -115,15 +115,15 @@ Cada competição tem o mesmo preço e **o seu próprio prazo promocional**. Que
 
 | inscrição | promocional | depois do prazo |
 | --- | --- | --- |
-| Turno 2027 | R$ 125 até 31/12/2026 | R$ 145 |
-| Returno 2027 | R$ 125 até o prazo dele, por volta de junho/2027 | R$ 145 |
-| Clássica 2027, o extra | R$ 100 até 31/12/2026 | R$ 115 |
+| Turno 2027 | R$ 125 até 20/01/2027 | R$ 145 |
+| Returno 2027 | R$ 125 até o prazo dele, em julho/2027 | R$ 145 |
+| Clássica 2027, o extra | R$ 100 até 20/01/2027 | R$ 115 |
 
 Turno e returno custam o mesmo porque **são o mesmo produto**: 19 rodadas cada, com o mesmo site, a mesma resenha e a mesma premiação. Cobrar mais caro pelo returno só porque a inscrição dele abre depois penalizaria quem joga o segundo semestre por um prazo que ele nunca teve chance de pegar.
 
 ### Passaporte da temporada
 
-| | até 31/12/2026 |
+| | até 20/01/2027 |
 | --- | --- |
 | **Passaporte 2027: turno, returno e clássica** | **R$ 350** |
 
@@ -137,15 +137,15 @@ Para o organizador, cada passaporte vendido é **uma cobrança a menos no meio d
 ### Notas
 
 - **O aumento vai 100% para premiação.** Nenhum centavo do reajuste fica com a organização. Precisa estar escrito na página e dito no grupo, porque é o argumento inteiro.
-- **A multa deixa de existir.** Não há mais multa de atraso nem desconto de pontos. O preço cheio a partir de 01/01 cumpre esse papel, e cumpre melhor, porque é anunciado antes e não precisa ser aplicado por ninguém.
-- **O passaporte só existe até 31/12.** Depois da virada, cada competição se vende sozinha, no seu preço e no seu prazo.
-- **A urgência de 31/12 é a vaga, não o preço.** Ver a seção 4: quem não confirma até lá abre o lugar para a fila. Esse é o instrumento que faltou em 2026.
+- **A multa deixa de existir.** Não há mais multa de atraso nem desconto de pontos. O preço cheio depois do prazo cumpre esse papel, e cumpre melhor, porque é anunciado antes e não precisa ser aplicado por ninguém.
+- **O passaporte só existe até 20/01.** Depois do prazo, cada competição se vende sozinha, no seu preço e no seu prazo.
+- **A urgência de 20/01 é a vaga, não o preço.** Ver a seção 4: quem não confirma até lá abre o lugar para a fila. Esse é o instrumento que faltou em 2026.
 
 ### Substituto da antiga penalidade
 
 Mantém-se uma regra só, e ela é de elegibilidade, não de punição:
 
-> A inscrição precisa estar quitada antes da primeira rodada daquela competição. Quem não estiver quitado não entra na tabela.
+> A inscrição precisa estar quitada antes da primeira rodada daquela competição: 27/01 para o turno e a clássica, 28/07 para o returno. Quem não estiver quitado não entra na tabela.
 
 Simples, verificável e não exige julgamento no meio do campeonato.
 
@@ -155,7 +155,7 @@ Cada competição tem o mesmo tamanho de 2026, 19 rodadas, então não dá para 
 
 1. **O campeão passa dos mil reais.** De R$ 710 em 2026 para R$ 1.017,50, um salto de mais de 40%. É o argumento mais direto que existe, porque aparece no bolso de quem ganha.
 2. **Ninguém ganha menos.** Com a liga cheia, nenhuma colocação do 1º ao 5º fica abaixo de 2026.
-3. **Dois prêmios novos**: artilheiro, para quem pontua bem e tem azar nos confrontos, e maior pontuação de uma única rodada, que qualquer um pode ganhar em qualquer rodada.
+3. **Cinco prêmios novos**: artilheiro, para quem pontua bem e tem azar nos confrontos, e quatro prêmios de melhor de bloco, um a cada cinco rodadas.
 4. **R$ 125 por 19 rodadas dá menos de R$ 7 por rodada**, com resenha, site e parcial ao vivo.
 5. **Nada do reajuste fica com a organização.**
 
@@ -172,15 +172,15 @@ Isso resolve três coisas de uma vez: permite abrir inscrição sem ter o bolo f
 | categoria | % do bolo |
 | --- | --- |
 | 1º colocado | 44% |
-| 2º colocado | 23% |
-| 3º colocado | 13% |
-| 4º colocado | 9% |
-| 5º colocado | 5% |
-| Artilheiro (maior PG acumulado nas 19 rodadas) | 3% |
-| Maior pontuação em uma única rodada | 3% |
+| 2º colocado | 22,5% |
+| 3º colocado | 12,5% |
+| 4º colocado | 8,5% |
+| 5º colocado | 4,5% |
+| Artilheiro (maior PG acumulado nas 19 rodadas) | 2% |
+| Melhor de cada bloco de rodadas (4 prêmios de 1,5%) | 6% |
 | **Total** | **100%** |
 
-O princípio que organiza essa divisão: **o campeão precisa ganhar bem mais do que o vice.** São 44% contra 23%, quase o dobro, para que ser campeão valha a pena de verdade e não seja só um degrau acima do segundo lugar.
+O princípio que organiza essa divisão: **o campeão precisa ganhar bem mais do que o vice.** São 44% contra 22,5%, quase o dobro, para que ser campeão valha a pena de verdade e não seja só um degrau acima do segundo lugar.
 
 A divisão foi calibrada com duas amarras ao mesmo tempo: o campeão passar dos mil reais e **nenhuma colocação ficar abaixo do que recebeu em 2026**. Com o bolo de R$ 2.312,50 as duas cabem, mas por pouco: é a calibragem que equilibra as duas pontas.
 
@@ -191,12 +191,12 @@ Bolo de R$ 2.312,50 por competição.
 | categoria | 2027 | 2026 | diferença |
 | --- | --- | --- | --- |
 | 1º | R$ 1.017,50 | R$ 710 | mais R$ 307,50 |
-| 2º | R$ 531,88 | R$ 520 | mais R$ 11,88 |
-| 3º | R$ 300,63 | R$ 285 | mais R$ 15,63 |
-| 4º | R$ 208,13 | R$ 190 | mais R$ 18,13 |
-| 5º | R$ 115,63 | R$ 95 | mais R$ 20,63 |
-| Artilheiro | R$ 69,38 | não existia | nova |
-| Maior pontuação de rodada | R$ 69,38 | não existia | nova |
+| 2º | R$ 520,31 | R$ 520 | mais R$ 0,31 |
+| 3º | R$ 289,06 | R$ 285 | mais R$ 4,06 |
+| 4º | R$ 196,56 | R$ 190 | mais R$ 6,56 |
+| 5º | R$ 104,06 | R$ 95 | mais R$ 9,06 |
+| Artilheiro | R$ 46,25 | não existia | nova |
+| Melhor de bloco, cada um dos 4 | R$ 34,69 | não existia | nova |
 
 **O campeão passa dos mil reais e ninguém ganha menos do que em 2026.** Esse quadro é a peça de convencimento mais forte que existe, e é o que deve ir na página.
 
@@ -220,10 +220,10 @@ Há duas formas de comparar 2027 com 2026, e só uma delas é verdadeira.
 | colocação | fatia em 2026 | fatia em 2027 | reais em 2026 | reais em 2027 |
 | --- | --- | --- | --- | --- |
 | 1º | 39,4% | 44,0% | R$ 710 | R$ 1.017,50 |
-| 2º | 28,9% | 23,0% | R$ 520 | R$ 531,88 |
-| 3º | 15,8% | 13,0% | R$ 285 | R$ 300,63 |
-| 4º | 10,6% | 9,0% | R$ 190 | R$ 208,13 |
-| 5º | 5,3% | 5,0% | R$ 95 | R$ 115,63 |
+| 2º | 28,9% | 22,5% | R$ 520 | R$ 520,31 |
+| 3º | 15,8% | 12,5% | R$ 285 | R$ 289,06 |
+| 4º | 10,6% | 8,5% | R$ 190 | R$ 196,56 |
+| 5º | 5,3% | 4,5% | R$ 95 | R$ 104,06 |
 
 **Do 2º ao 5º, a fatia diminuiu.** Eles só não perdem porque o bolo cresceu de R$ 1.800 para R$ 2.312,50. Então nunca dizer que ninguém perdeu fatia, porque é falso e qualquer um com calculadora derruba. O que se diz é que **ninguém leva menos em reais**.
 
@@ -233,30 +233,36 @@ E mesmo isso tem condição: vale **com a liga cheia**. Toda vaga vazia encolhe 
 
 **Artilheiro** resolve o caso do time que pontua muito e tem azar nos confrontos. Em 2026 o segundo maior pontuador da liga terminou em nono e não levou nada.
 
-Mas é prêmio de consolo, não de conquista, então vale **3% do bolo**, o mesmo que o prêmio de maior pontuação de rodada. Quem ganha a liga ganha muito mais do que quem só pontuou bem, e isso está certo assim. Dar peso grande ao artilheiro seria premiar quem não venceu confronto nenhum quase tanto quanto quem venceu o campeonato.
+Mas é prêmio de consolo, não de conquista, então vale **2% do bolo**, menos do que qualquer colocação premiada. Quem ganha a liga ganha muito mais do que quem só pontuou bem, e isso está certo assim. Dar peso grande ao artilheiro seria premiar quem não venceu confronto nenhum quase tanto quanto quem venceu o campeonato.
 
-### Prêmio mensal: fica para depois
+### Nota sobre o prêmio mensal
 
-A ideia de um prêmio de melhor pontuação do mês foi avaliada e **não entra em 2027**. Numa estrutura de turno e returno separados, cada competição já tem só 19 rodadas, e fatiar isso em quatro minicompetições mensais esvazia a disputa principal sem resolver nada que o artilheiro não resolva. Além disso tiraria verba justamente do prêmio do campeão, que é o contrário do que a liga precisa.
+A ideia original era um prêmio de melhor pontuação do mês. Ela foi descartada e voltou em outra forma, melhor: **o recorte por bloco de rodadas em vez de por mês**.
 
-Fica anotada como possibilidade futura, caso em algum momento a liga passe a disputar a temporada inteira de 38 rodadas, onde um recorte mensal faria mais sentido.
+Blocos de rodada são superiores ao mês por dois motivos práticos. Não dependem do calendário do Brasileirão, que tem meses com três rodadas e meses com cinco, nem da pausa de junho e julho. E dividem a competição em partes iguais, o que torna os quatro prêmios comparáveis entre si.
 
-### Maior pontuação de rodada, o bilhete de loteria
+### Melhor de cada bloco de rodadas
 
-É o prêmio que faz o trabalho que o mensal faria, por um terço do custo e sem nenhuma apuração extra: vai para o maior PG que qualquer time fizer em qualquer rodada da competição.
+As 19 rodadas da competição são divididas em **quatro blocos: 5, 5, 5 e 4 rodadas**. Em cada bloco, quem somar mais pontos no Cartola leva o prêmio daquele bloco.
 
-Por que funciona para o problema do time abandonado:
+No turno são as rodadas 1 a 5, 6 a 10, 11 a 15 e 16 a 19. No returno, 20 a 24, 25 a 29, 30 a 34 e 35 a 38.
 
-- **Qualquer um pode ganhar, inclusive o lanterna.** Não depende de posição na tabela nem de sequência boa, depende de uma rodada só.
-- **Fica em disputa até a rodada 19.** Diferente do título, que costuma estar decidido antes do fim, esse só fecha na última rodada, porque sempre pode aparecer uma pontuação maior.
-- **Custa 3% do bolo**, cerca de R$ 69, o mesmo que o artilheiro.
-- **Dá assunto para o Zé Resenha toda rodada**, porque existe um recorde vigente a ser batido e um dono atual para provocar.
+Por que isso resolve o time abandonado melhor do que as alternativas:
 
-É prêmio pequeno de propósito. O valor dele não está no dinheiro, está em manter todo mundo com algo em jogo.
+- **Nunca morre.** A cada cinco rodadas tudo recomeça do zero, então são quatro largadas novas dentro da mesma competição. Quem perdeu a briga do título na rodada 8 ainda tem três blocos pela frente.
+- **Qualquer um pode ganhar, inclusive o lanterna.** Não depende de posição na tabela, só de cinco rodadas boas seguidas.
+- **Dá assunto para o Zé Resenha a cada cinco rodadas**, com um campeão novo para anunciar e um bloco novo abrindo.
+- **Custa 6% do bolo**, R$ 34,69 por bloco.
+
+Essa foi a ideia que substituiu o prêmio de maior pontuação em uma única rodada, que chegou a ser cogitado. O problema daquele é que **podia morrer cedo**: bastava alguém cravar uma pontuação muito alta na rodada 3 para ninguém mais correr atrás. O prêmio de bloco não tem esse defeito.
+
+São prêmios pequenos de propósito. O valor deles não está no dinheiro, está em manter todo mundo com algo em jogo até a última rodada.
 
 ### O que ainda não está resolvido
 
-A estrutura de turno e returno já ajuda bastante com o time abandonado, porque são duas competições por ano e quem vai mal no turno recomeça do zero no returno, com premiação nova. Com o bilhete de loteria somado a isso, o problema fica bem endereçado, mas não eliminado: quem larga o time de vez continua distorcendo o confronto de quem briga em cima. Se virar problema sério em 2027, a saída a considerar é dar peso ao mico da lanterna, criando disputa por não ser o último.
+O problema do time abandonado agora é atacado por três frentes ao mesmo tempo: duas competições por ano com largada nova, quatro blocos de rodada dentro de cada uma, e o grupo fechado, que faz a vaga valer em convívio e não só em dinheiro.
+
+Mesmo assim não está eliminado: quem larga o time de vez continua distorcendo o confronto de quem briga em cima. Se virar problema sério em 2027, a saída a considerar é dar peso ao mico da lanterna, criando disputa por não ser o último.
 
 ### Mico da lanterna
 
@@ -295,53 +301,97 @@ Planilha ou o próprio `config.json`, com cinco campos por participante: competi
 
 ## 9. Arquitetura dos grupos de WhatsApp
 
+São dois grupos, com funções separadas:
+
 | grupo | quem entra | para que serve |
 | --- | --- | --- |
-| **Cartoka FC** (o atual, sem o ano no nome) | aberto: participante, ex-participante e quem só assiste | resenha, parciais ao vivo, fechamento de rodada, zoeira |
+| **Cartoka FC** (o atual, sem o ano no nome) | aberto: participante, ex-participante, quem só assiste | a clássica, que é do ano inteiro, e o funil de novos |
+| **Grupo da liga** (novo, fechado) | só os 20 inscritos na pontos corridos | resenha, parciais ao vivo, fechamento de rodada, zoeira |
 
 Decisões tomadas:
 
-- O grupo é **aberto** e é da **pontos corridos**, turno e returno. A clássica não ganha grupo próprio.
-- O grupo atual **perde o ano do nome**. "Cartoka FC 2026" nasceu com prazo de validade. O grupo é permanente, a temporada é que muda.
-- Hoje são **27 membros para 20 times**. Há pelo menos sete pessoas no grupo que não jogam a pontos corridos, e elas ficam: são o funil de 2027 e 2028.
+- O **grupo da liga é fechado** e só entra quem está inscrito na pontos corridos daquela temporada.
+- O **grupo atual fica aberto** e passa a ser a casa da clássica, que é mais fácil de vender e roda o ano inteiro. É também onde se recruta para as vagas que abrirem.
+- O grupo atual **perde o ano do nome**. "Cartoka FC 2026" nasceu com prazo de validade.
+- Hoje são **27 membros para 20 times**, ou seja, há pelo menos sete pessoas que não jogam a pontos corridos. Elas ficam no grupo aberto, que é exatamente o lugar delas.
 
-### O que grupo aberto custa, e com o que se compensa
+### Por que o grupo fechado
 
-Com grupo aberto não existe consequência prática para quem não paga: quem não se inscreve segue vendo a resenha e participando socialmente. **O preço escalonado e o passaporte passam a ser os únicos instrumentos de cobrança**, e por isso o corte de 31/12 não pode ser flexibilizado para ninguém.
+A versão anterior deste documento previa grupo aberto único. Mudou, e a razão é boa: **com grupo fechado, a vaga na liga passa a valer também em convívio, não só em competição.**
 
-O instrumento que sobra, e que funciona melhor em grupo aberto do que em grupo fechado:
+Quem não se inscreve fica fora da resenha, das parciais ao vivo e da zoeira da rodada. Isso é pressão social sem o organizador precisar cobrar ninguém, sem multa e sem usar premiação como argumento. Em 2026 pagar ou não pagar dava no mesmo até o fim do campeonato, e era justamente essa a falha.
 
-> **Lista pública de confirmados.** Conforme a gurizada confirma, publica-se no grupo a lista de quem já está dentro. Nunca quem falta, nunca valor, nunca premiação. É placar de status, e em grupo aberto quem está de fora está vendo.
+Somado à fila de espera, o efeito fica forte: quem está fora vê a clássica rolando no grupo aberto e sabe que a resenha boa está do outro lado da porta.
+
+### A migração
+
+Criar grupo e migrar gente é a parte chata, então a ordem importa:
+
+1. O **grupo atual permanece** com todo mundo, e vira o grupo da clássica. Ninguém é removido de lugar nenhum, o que evita o constrangimento de tirar sete pessoas na mão.
+2. O **grupo novo nasce** conforme as inscrições são confirmadas, com os 20 da pontos corridos. Nasce pequeno e vai enchendo, e cada entrada é uma confirmação de pagamento.
+3. Entrar no grupo novo vira, na prática, **o recibo de que a vaga está garantida**.
+
+### A lista de confirmados muda de lugar
+
+> A lista de quem já confirmou é publicada no **grupo aberto**, não no fechado. No fechado ela não serve para nada, porque todo mundo ali já pagou. No aberto ela mostra à fila quantas vagas ainda podem abrir, e mostra a quem está enrolando que o prazo é real.
+
+Nunca citar quem falta, nunca citar valor, nunca citar premiação.
 
 ---
 
 ## 10. Calendário
 
+### O calendário oficial da CBF para 2027
+
+Divulgado em 09/10/2026, e é ele que manda em todas as nossas datas:
+
+| | |
+| --- | --- |
+| Série A | 27/01/2027 a 01/12/2027 |
+| Pausa pela Copa do Mundo Feminina | 17/06 a 28/07/2027 |
+
+A pausa cai no meio da temporada e **separa naturalmente o turno do returno**: a ida termina antes de 17/06 e a volta recomeça em 28/07. É o que confirma a janela de inscrição do returno em julho.
+
+A tabela com as rodadas ainda não saiu, então não dá para cravar qual rodada fecha o turno nem a data exata da rodada 20. Isso sai depois e precisa ser conferido.
+
+### As datas da liga
+
 | data | o que acontece |
 | --- | --- |
-| 20/10/2026 | abre a temporada 2027: preferência dos atuais, clássica e passaporte |
+| outubro/2026 | abertura interna: Gustavo começa a chamar no privado quem jogou a 2026 |
 | 02/12/2026 | fim do returno de 2026, rodada 38 |
-| 15/12/2026 | lembrete de confirmação de vaga |
-| 29/12/2026 | último aviso aos atuais |
-| 31/12/2026 | **último dia da preferência**, do preço promocional e do passaporte |
-| 01/01/2027 | as vagas não confirmadas abrem para a fila, por ordem de pagamento, no valor cheio |
-| a confirmar | rodada 1 do Brasileirão 2027: começam o turno e a clássica |
-| véspera da rodada 1 | fecham as inscrições do turno e da clássica |
-| por volta de junho de 2027 | abre a inscrição do returno, no valor promocional, com preferência de quem jogou o turno |
-| prazo do returno | fim do promocional do returno: depois disso, valor cheio e vagas para a fila |
-| véspera da rodada 20 | fecha a inscrição do returno |
-| ao fechar cada inscrição | divulgação da premiação em reais daquela competição |
+| dezembro/2026 | segue a confirmação no privado, sem anúncio no grupo |
+| início de janeiro/2027 | com o número de vagas já conhecido, abre para a fila |
+| **20/01/2027** | **último dia da preferência, do preço promocional e do passaporte** |
+| 21 a 26/01/2027 | vagas não confirmadas liberadas na ordem de pagamento, valor cheio |
+| **27/01/2027** | rodada 1: começam o turno e a clássica |
+| 26/01/2027 | fecham as inscrições do turno e da clássica |
+| antes de 17/06/2027 | última rodada do turno, antes da pausa |
+| julho/2027 | abre a inscrição do returno, preferência de quem jogou o turno |
+| 27/07/2027 | fecha a inscrição do returno |
+| **28/07/2027** | rodada 20: começa o returno |
+| 01/12/2027 | rodada 38, fim da temporada |
 
-A abertura em outubro é deliberada: o grupo está no pico de atenção, com cinco times separados por três pontos na briga do título. Em janeiro o grupo está morno.
+### Por que o prazo saiu de 31/12 para 20/01
+
+O 31/12 era data escolhida por ser fácil de lembrar, não por ser boa. Entre o fim do Brasileirão 2026 e a virada do ano a galera está sem dinheiro e sem cabeça: Natal, férias e gasto de fim de ano.
+
+Mover para 20/01 resolve isso sem perder nada:
+
+- Dá **janeiro inteiro** para confirmar, depois do aperto de dezembro e já com salário novo.
+- Cai **uma semana antes da rodada 1**, quando o assunto Brasileirão volta sozinho e a liga vira pauta natural.
+- Mantém intacto o instrumento que importa: prazo com consequência de vaga.
+
+Vale registrar que a ideia original era colocar o prazo um mês antes do início do Brasileirão. Com a data real, 27 de janeiro, isso daria 27 de dezembro, ou seja, seria mais apertado do que o 31/12 que se queria evitar. Por isso a solução foi puxar para dentro de janeiro em vez de empurrar para fevereiro.
 
 ### Os dois públicos, e por que isso muda a comunicação
 
-Até 31/12 existem **duas conversas acontecendo ao mesmo tempo**, e misturar as duas é erro:
+Existem **duas conversas acontecendo ao mesmo tempo**, em lugares diferentes, e misturar as duas é erro:
 
-- **Os 20 de 2026** precisam ouvir "confirma a tua vaga", nunca "vem jogar". Eles já estão dentro, o que se pede é confirmação.
-- **A fila** precisa ouvir "anota teu nome, as vagas que sobrarem saem em janeiro por ordem de pagamento". Prometer vaga a essa gente antes de 01/01 é o jeito mais rápido de criar confusão.
+- **Os 20 de 2026** são chamados **no privado, um por um**, e o que se pede é confirmação de vaga, nunca adesão. Eles já estão dentro.
+- **A fila** fica sabendo **no grupo aberto**, e só depois que o número de vagas livres já é conhecido. Prometer vaga antes disso é o jeito mais rápido de criar confusão.
 
-A lista pública de confirmados serve aos dois ao mesmo tempo: mostra ao atual que o prazo é real e mostra à fila quantas vagas ainda podem abrir.
+Essa é a mudança de método mais importante: **o anúncio público vem depois da contagem, não antes.** Em vez de anunciar escassez e torcer para dar certo, primeiro se sabe quantas vagas sobraram e só então se abre, com número na mão.
 
 ---
 
@@ -356,8 +406,7 @@ A lista pública de confirmados serve aos dois ao mesmo tempo: mostra ao atual q
 
 ## 12. Pendências
 
-1. **A pendência de 2026 tem direito de preferência?** Com fila de espera a pergunta ficou mais fácil de responder sem atrito: quem está com 2026 em aberto perde a preferência e entra na fila como qualquer um. Precisa ser decidido antes da abertura, não depois que a pessoa pedir a vaga. Ver a seção 4.
-2. **Tamanho da fila que vale a pena manter.** Fila de 3 é saudável, fila de 15 é gente que nunca vai jogar e que desanima. Vale pensar em um limite para não criar expectativa falsa.
+1. **Tamanho da fila que vale a pena manter.** Fila de 3 é saudável, fila de 15 é gente que nunca vai jogar e que desanima. Vale pensar em um limite para não criar expectativa falsa.
 3. **Data exata do prazo promocional do returno.** Depende do calendário do Brasileirão 2027. A referência é algumas semanas antes da rodada 20.
 4. **Critério de desempate do bilhete de loteria.** Se dois times fizerem exatamente a mesma pontuação na maior rodada da competição, quem leva? Sugestão: quem fez primeiro, pela rodada mais antiga.
 5. **Política de devolução.** Ver a seção 11.
