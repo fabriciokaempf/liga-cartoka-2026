@@ -69,7 +69,16 @@ A pontos corridos tem **exatamente 20 vagas, e isso é limite de estrutura, não
 | Vagas em disputa | 18 | inscrição integral |
 | **Total** | **20** | |
 
-A isenção da organização é regra da liga e não está em discussão: quem toca o site, o robô, a resenha, a cobrança e a tesouraria não paga inscrição cheia. O Fabricio é isento integral e o Gustavo paga metade.
+A isenção da organização é regra da liga e não está em discussão: quem toca o site, o robô, a resenha, a cobrança e a tesouraria não paga inscrição cheia.
+
+**A isenção vale só na pontos corridos**, que é a competição que dá trabalho. Combinado com o Gustavo em 21/10/2026:
+
+| | turno | returno | clássica |
+| --- | --- | --- | --- |
+| Fabricio | isento | isento | a definir |
+| Gustavo | R$ 62,50 | R$ 62,50 | R$ 100, integral |
+
+A clássica roda dentro do app do Cartola e não dá trabalho nenhum de organização, então não há motivo para isenção nela.
 
 É por isso que o bolo de cada competição é de **R$ 2.312,50**, e não de R$ 2.500: dezoito inscrições integrais mais a meia do Gustavo.
 
@@ -353,7 +362,7 @@ A tabela com as rodadas ainda não saiu, então não dá para cravar qual rodada
 
 | data | o que acontece |
 | --- | --- |
-| outubro/2026 | abertura interna: Gustavo começa a chamar no privado quem jogou a 2026 |
+| 24 e 25/10/2026 | abertura interna: Gustavo chama no privado quem jogou a 2026 |
 | 02/12/2026 | fim do returno de 2026, rodada 38 |
 | dezembro/2026 | segue a confirmação no privado, sem anúncio no grupo |
 | início de janeiro/2027 | com o número de vagas já conhecido, abre para a fila |
@@ -401,9 +410,9 @@ Essa é a mudança de método mais importante: **o anúncio público vem depois 
 
 ## 12. Pendências
 
-1. **Tamanho da fila que vale a pena manter.** Fila de 3 é saudável, fila de 15 é gente que nunca vai jogar e que desanima. Vale pensar em um limite para não criar expectativa falsa.
-3. **Data exata do prazo promocional do returno.** Depende do calendário do Brasileirão 2027. A referência é algumas semanas antes da rodada 20.
-4. **Critério de desempate do bilhete de loteria.** Se dois times fizerem exatamente a mesma pontuação na maior rodada da competição, quem leva? Sugestão: quem fez primeiro, pela rodada mais antiga.
+1. **O Fabricio paga a clássica?** A isenção vale só na pontos corridos, e o Gustavo já confirmou que paga a clássica integral. Falta definir o mesmo para o Fabricio. Em 2026 a clássica foi meia inscrição para cada um dos dois.
+2. **Tamanho da fila que vale a pena manter.** Fila de 3 é saudável, fila de 15 é gente que nunca vai jogar e que desanima. Vale pensar em um limite para não criar expectativa falsa.
+3. **Data exata do prazo do returno.** A referência é algumas semanas antes da rodada 20, que é 28/07. Fecha quando sair a tabela com as rodadas.
+4. **Critério de desempate dos blocos.** Se dois times empatarem na soma de um bloco de rodadas, quem leva? Sugestão: o melhor colocado na tabela da competição naquele momento.
 5. **Política de devolução.** Ver a seção 11.
 6. **Mico da lanterna.** Qual é a prenda, e quem decide.
-7. **Divisão organizacional.** A dupla 50/50 com o dono do Resina Club vale para as três competições ou só para a clássica?
