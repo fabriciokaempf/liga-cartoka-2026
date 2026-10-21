@@ -62,19 +62,22 @@ A pontos corridos tem **exatamente 20 vagas, e isso é limite de estrutura, não
 
 ### Como as 20 vagas se dividem
 
-| | vagas |
-| --- | --- |
-| Organizador, isento de inscrição | 1 |
-| Vagas pagas | 19 |
-| **Total** | **20** |
+| | vagas | paga |
+| --- | --- | --- |
+| Fabricio, organizador | 1 | isento |
+| Gustavo, organizador | 1 | meia inscrição, R$ 62,50 |
+| Vagas em disputa | 18 | inscrição integral |
+| **Total** | **20** | |
 
-A isenção do organizador é regra da liga e não está em discussão: quem toca o site, o robô, a resenha, a cobrança e a tesouraria não paga inscrição. É por isso que todo cálculo de bolo neste documento usa **19 pagantes, não 20**.
+A isenção da organização é regra da liga e não está em discussão: quem toca o site, o robô, a resenha, a cobrança e a tesouraria não paga inscrição cheia. O Fabricio é isento integral e o Gustavo paga metade.
 
-**O organizador disputa em condições iguais e concorre à premiação normalmente.** A isenção dispensa do pagamento, não da competição: se terminar em primeiro, recebe o prêmio de campeão como qualquer um, e se terminar em último leva o mico.
+É por isso que o bolo de cada competição é de **R$ 2.312,50**, e não de R$ 2.500: dezoito inscrições integrais mais a meia do Gustavo.
+
+**Quem organiza disputa em condições iguais e concorre à premiação normalmente.** A isenção dispensa do pagamento, não da competição: se terminar em primeiro, recebe o prêmio de campeão como qualquer um, e se terminar em último leva o mico.
 
 Essa regra fica publicada na página desde o primeiro dia, e é justamente isso que a torna tranquila. Regra escrita antes de qualquer resultado é regra; regra inventada depois que alguém terminou em primeiro é confusão.
 
-A expectativa para 2027 é de **mais gente querendo entrar do que vaga disponível**. A regra de distribuição das 19 vagas pagas é:
+A expectativa para 2027 é de **mais gente querendo entrar do que vaga disponível**. A regra de distribuição das 18 vagas em disputa é:
 
 ### Preferência de quem já está
 
@@ -150,8 +153,8 @@ Simples, verificável e não exige julgamento no meio do campeonato.
 
 Cada competição tem o mesmo tamanho de 2026, 19 rodadas, então não dá para usar o argumento de preço por rodada mais barato. O que sustenta o aumento é:
 
-1. **O campeão passa dos mil reais.** De R$ 710 em 2026 para R$ 1.068,75, um salto de mais de 50%. É o argumento mais direto que existe, porque aparece no bolso de quem ganha.
-2. **Ninguém ganha menos.** Do 1º ao 5º, nenhuma colocação fica abaixo de 2026, e só o 4º fica igual.
+1. **O campeão passa dos mil reais.** De R$ 710 em 2026 para R$ 1.017,50, um salto de mais de 40%. É o argumento mais direto que existe, porque aparece no bolso de quem ganha.
+2. **Ninguém ganha menos.** Com a liga cheia, nenhuma colocação do 1º ao 5º fica abaixo de 2026.
 3. **Dois prêmios novos**: artilheiro, para quem pontua bem e tem azar nos confrontos, e maior pontuação de uma única rodada, que qualquer um pode ganhar em qualquer rodada.
 4. **R$ 125 por 19 rodadas dá menos de R$ 7 por rodada**, com resenha, site e parcial ao vivo.
 5. **Nada do reajuste fica com a organização.**
@@ -168,30 +171,32 @@ Isso resolve três coisas de uma vez: permite abrir inscrição sem ter o bolo f
 
 | categoria | % do bolo |
 | --- | --- |
-| 1º colocado | 45% |
-| 2º colocado | 22% |
-| 3º colocado | 12% |
-| 4º colocado | 8% |
+| 1º colocado | 44% |
+| 2º colocado | 23% |
+| 3º colocado | 13% |
+| 4º colocado | 9% |
 | 5º colocado | 5% |
-| Artilheiro (maior PG acumulado nas 19 rodadas) | 5% |
+| Artilheiro (maior PG acumulado nas 19 rodadas) | 3% |
 | Maior pontuação em uma única rodada | 3% |
 | **Total** | **100%** |
 
-O princípio que organiza essa divisão: **o campeão precisa ganhar bem mais do que o vice.** São 45% contra 22%, mais do que o dobro, para que ser campeão valha a pena de verdade e não seja só um degrau acima do segundo lugar.
+O princípio que organiza essa divisão: **o campeão precisa ganhar bem mais do que o vice.** São 44% contra 23%, quase o dobro, para que ser campeão valha a pena de verdade e não seja só um degrau acima do segundo lugar.
 
-### Simulação com 20 times, organizador isento, todos no preço promocional
+A divisão foi calibrada com duas amarras ao mesmo tempo: o campeão passar dos mil reais e **nenhuma colocação ficar abaixo do que recebeu em 2026**. Com o bolo de R$ 2.312,50 as duas cabem, mas por pouco: é a calibragem que equilibra as duas pontas.
 
-Bolo de R$ 2.375 por competição.
+### Simulação com a liga cheia, todos no preço promocional
+
+Bolo de R$ 2.312,50 por competição.
 
 | categoria | 2027 | 2026 | diferença |
 | --- | --- | --- | --- |
-| 1º | R$ 1.068,75 | R$ 710 | mais R$ 358,75 |
-| 2º | R$ 522,50 | R$ 520 | mais R$ 2,50 |
-| 3º | R$ 285,00 | R$ 285 | igual |
-| 4º | R$ 190,00 | R$ 190 | igual |
-| 5º | R$ 118,75 | R$ 95 | mais R$ 23,75 |
-| Artilheiro | R$ 118,75 | não existia | nova |
-| Maior pontuação de rodada | R$ 71,25 | não existia | nova |
+| 1º | R$ 1.017,50 | R$ 710 | mais R$ 307,50 |
+| 2º | R$ 531,88 | R$ 520 | mais R$ 11,88 |
+| 3º | R$ 300,63 | R$ 285 | mais R$ 15,63 |
+| 4º | R$ 208,13 | R$ 190 | mais R$ 18,13 |
+| 5º | R$ 115,63 | R$ 95 | mais R$ 20,63 |
+| Artilheiro | R$ 69,38 | não existia | nova |
+| Maior pontuação de rodada | R$ 69,38 | não existia | nova |
 
 **O campeão passa dos mil reais e ninguém ganha menos do que em 2026.** Esse quadro é a peça de convencimento mais forte que existe, e é o que deve ir na página.
 
@@ -201,10 +206,10 @@ Os números acima valem para **uma competição, meio ano de liga**, não para o
 
 | | |
 | --- | --- |
-| Campeão do turno | R$ 1.068,75 |
-| Campeão do returno | R$ 1.068,75 |
-| Quem levar as duas | R$ 2.137,50 |
-| **Total pago pela liga no ano** | **R$ 4.750** |
+| Campeão do turno | R$ 1.017,50 |
+| Campeão do returno | R$ 1.017,50 |
+| Quem levar as duas | R$ 2.035,00 |
+| **Total pago pela liga no ano** | **R$ 4.625** |
 
 Isso precisa estar explícito em toda peça que mostrar valor, porque é exatamente o tipo de número que se lê errado na pressa: o próprio organizador leu a simulação como se fosse anual. Se quem montou leu errado, o grupo lê errado.
 
@@ -214,21 +219,21 @@ Há duas formas de comparar 2027 com 2026, e só uma delas é verdadeira.
 
 | colocação | fatia em 2026 | fatia em 2027 | reais em 2026 | reais em 2027 |
 | --- | --- | --- | --- | --- |
-| 1º | 39,4% | 45,0% | R$ 710 | R$ 1.068,75 |
-| 2º | 28,9% | 22,0% | R$ 520 | R$ 522,50 |
-| 3º | 15,8% | 13,0% | R$ 285 | R$ 285,00 |
-| 4º | 10,6% | 8,0% | R$ 190 | R$ 190,00 |
-| 5º | 5,3% | 5,0% | R$ 95 | R$ 118,75 |
+| 1º | 39,4% | 44,0% | R$ 710 | R$ 1.017,50 |
+| 2º | 28,9% | 23,0% | R$ 520 | R$ 531,88 |
+| 3º | 15,8% | 13,0% | R$ 285 | R$ 300,63 |
+| 4º | 10,6% | 9,0% | R$ 190 | R$ 208,13 |
+| 5º | 5,3% | 5,0% | R$ 95 | R$ 115,63 |
 
-**Do 2º ao 5º, a fatia diminuiu.** Eles só não perdem porque o bolo cresceu de R$ 1.800 para R$ 2.375. Então nunca dizer que ninguém perdeu fatia, porque é falso e qualquer um com calculadora derruba. O que se diz é que **ninguém leva menos em reais**.
+**Do 2º ao 5º, a fatia diminuiu.** Eles só não perdem porque o bolo cresceu de R$ 1.800 para R$ 2.312,50. Então nunca dizer que ninguém perdeu fatia, porque é falso e qualquer um com calculadora derruba. O que se diz é que **ninguém leva menos em reais**.
 
-E mesmo isso tem condição: vale **com a liga cheia**. Com 18 times o bolo cai para R$ 2.125 e o vice levaria R$ 467,50, menos do que em 2026. É mais um motivo para a grade de 20 ser prioridade.
+E mesmo isso tem condição: vale **com a liga cheia**. Toda vaga vazia encolhe o bolo, e com duas ou três vagas abertas as colocações do meio já caem abaixo de 2026. É mais um motivo para a grade de 20 ser prioridade.
 
 ### Por que o artilheiro, e por que pouco
 
 **Artilheiro** resolve o caso do time que pontua muito e tem azar nos confrontos. Em 2026 o segundo maior pontuador da liga terminou em nono e não levou nada.
 
-Mas é prêmio de consolo, não de conquista, então vale **o mesmo que o 5º lugar**: 5% do bolo. Quem ganha a liga ganha muito mais do que quem só pontuou bem, e isso está certo assim. Dar peso grande ao artilheiro seria premiar quem não venceu confronto nenhum quase tanto quanto quem venceu o campeonato.
+Mas é prêmio de consolo, não de conquista, então vale **3% do bolo**, o mesmo que o prêmio de maior pontuação de rodada. Quem ganha a liga ganha muito mais do que quem só pontuou bem, e isso está certo assim. Dar peso grande ao artilheiro seria premiar quem não venceu confronto nenhum quase tanto quanto quem venceu o campeonato.
 
 ### Prêmio mensal: fica para depois
 
@@ -244,7 +249,7 @@ Por que funciona para o problema do time abandonado:
 
 - **Qualquer um pode ganhar, inclusive o lanterna.** Não depende de posição na tabela nem de sequência boa, depende de uma rodada só.
 - **Fica em disputa até a rodada 19.** Diferente do título, que costuma estar decidido antes do fim, esse só fecha na última rodada, porque sempre pode aparecer uma pontuação maior.
-- **Custa 3% do bolo**, cerca de R$ 71, e não encosta no prêmio do campeão: os 3% saíram do 2º e do 3º lugar, que mesmo assim continuam acima de 2026.
+- **Custa 3% do bolo**, cerca de R$ 69, o mesmo que o artilheiro.
 - **Dá assunto para o Zé Resenha toda rodada**, porque existe um recorde vigente a ser batido e um dono atual para provocar.
 
 É prêmio pequeno de propósito. O valor dele não está no dinheiro, está em manter todo mundo com algo em jogo.
