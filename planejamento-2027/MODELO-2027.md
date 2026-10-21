@@ -208,6 +208,22 @@ Os números acima valem para **uma competição, meio ano de liga**, não para o
 
 Isso precisa estar explícito em toda peça que mostrar valor, porque é exatamente o tipo de número que se lê errado na pressa: o próprio organizador leu a simulação como se fosse anual. Se quem montou leu errado, o grupo lê errado.
 
+### A armadilha da comparação com 2026
+
+Há duas formas de comparar 2027 com 2026, e só uma delas é verdadeira.
+
+| colocação | fatia em 2026 | fatia em 2027 | reais em 2026 | reais em 2027 |
+| --- | --- | --- | --- | --- |
+| 1º | 39,4% | 45,0% | R$ 710 | R$ 1.068,75 |
+| 2º | 28,9% | 22,0% | R$ 520 | R$ 522,50 |
+| 3º | 15,8% | 13,0% | R$ 285 | R$ 285,00 |
+| 4º | 10,6% | 8,0% | R$ 190 | R$ 190,00 |
+| 5º | 5,3% | 5,0% | R$ 95 | R$ 118,75 |
+
+**Do 2º ao 5º, a fatia diminuiu.** Eles só não perdem porque o bolo cresceu de R$ 1.800 para R$ 2.375. Então nunca dizer que ninguém perdeu fatia, porque é falso e qualquer um com calculadora derruba. O que se diz é que **ninguém leva menos em reais**.
+
+E mesmo isso tem condição: vale **com a liga cheia**. Com 18 times o bolo cai para R$ 2.125 e o vice levaria R$ 467,50, menos do que em 2026. É mais um motivo para a grade de 20 ser prioridade.
+
 ### Por que o artilheiro, e por que pouco
 
 **Artilheiro** resolve o caso do time que pontua muito e tem azar nos confrontos. Em 2026 o segundo maior pontuador da liga terminou em nono e não levou nada.
