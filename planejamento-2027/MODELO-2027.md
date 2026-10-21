@@ -15,7 +15,7 @@ Documento de decisões, escrito em 20/10/2026 durante a reta final da temporada 
 
 Cada uma tem inscrição, classificação, campeão e premiação próprios, e as duas seguem a tabela do Brasileirão.
 
-Existe ainda a **Clássica**, que é um extra: anual, roda dentro do app do Cartola, sem site, sem resenha e sem confronto, valendo só a pontuação acumulada. Ela aparece neste documento onde for inevitável (pagamento e passaporte), mas não é o assunto. A hierarquia vale também para a página e para as mensagens do grupo: **o foco é sempre a pontos corridos**.
+Existe ainda a **Clássica**, que é um extra: anual, roda dentro do app do Cartola, sem site, sem resenha e sem confronto, valendo só a pontuação acumulada. Ela aparece neste documento onde for inevitável, como no pagamento, mas não é o assunto. A hierarquia vale também para a página e para as mensagens do grupo: **o foco é sempre a pontos corridos**.
 
 Em 2026 cada inscrição custou R$ 100.
 
@@ -32,7 +32,7 @@ A temporada 2026 funcionou como competição e falhou como operação. Quatro fa
 
 Vale notar de onde vem a falha 1: **são três cobranças por ano.** O organizador cobra no começo do ano pelo turno e pela clássica, cobra de novo no meio do ano pelo returno, e cada rodada de cobrança é uma novela. É aí que mora o desgaste de 2026, não em má vontade de ninguém.
 
-A 2027 ataca as quatro com quatro mudanças: preço escalonado por data, chave única, passaporte anual e premiação com mais categorias.
+A 2027 ataca as quatro com quatro mudanças: prazo com consequência de vaga, preço escalonado, chave única de pagamento e premiação com mais categorias.
 
 ---
 
@@ -121,24 +121,19 @@ Cada competição tem o mesmo preço e **o seu próprio prazo promocional**. Que
 
 Turno e returno custam o mesmo porque **são o mesmo produto**: 19 rodadas cada, com o mesmo site, a mesma resenha e a mesma premiação. Cobrar mais caro pelo returno só porque a inscrição dele abre depois penalizaria quem joga o segundo semestre por um prazo que ele nunca teve chance de pegar.
 
-### Passaporte da temporada
+### Não existe pacote
 
-| | até 20/01/2027 |
-| --- | --- |
-| **Passaporte 2027: turno, returno e clássica** | **R$ 350** |
+Cada competição se vende sozinha, no seu preço e no seu prazo. Não há combo, passaporte ou desconto por levar mais de uma.
 
-São exatamente os três preços promocionais somados: 125 + 125 + 100. **Não é desconto, e não precisa ser.** O que o passaporte vende é outra coisa:
+Chegou a ser desenhado um passaporte anual que juntava as três num pagamento só. Foi descartado: **a simplicidade vale mais do que a conveniência que ele trazia**. Uma inscrição por competição é mais fácil de explicar, mais fácil de controlar e não cria duas classes de participante na mesma liga.
 
-- **Vaga garantida o ano inteiro.** Numa liga com fila de espera, quem tem passaporte não disputa vaga de novo em julho. É o benefício real, e vale muito mais do que qualquer desconto.
-- **Um pagamento só.** Resolve o ano em um Pix, o que elimina a segunda rodada de cobrança. Agosto foi exatamente onde 2026 desandou.
-
-Para o organizador, cada passaporte vendido é **uma cobrança a menos no meio do ano** e uma vaga do returno já resolvida em dezembro.
+A consequência a encarar é que **a cobrança do returno volta a existir em julho**, como evento próprio. Ela não fica sem instrumento: o returno tem prazo próprio, com preferência de quem jogou o turno e fila depois disso, exatamente como o turno em janeiro. É a mesma mecânica aplicada duas vezes no ano, em vez de um pacote que tentava evitar a segunda.
 
 ### Notas
 
 - **O aumento vai 100% para premiação.** Nenhum centavo do reajuste fica com a organização. Precisa estar escrito na página e dito no grupo, porque é o argumento inteiro.
 - **A multa deixa de existir.** Não há mais multa de atraso nem desconto de pontos. O preço cheio depois do prazo cumpre esse papel, e cumpre melhor, porque é anunciado antes e não precisa ser aplicado por ninguém.
-- **O passaporte só existe até 20/01.** Depois do prazo, cada competição se vende sozinha, no seu preço e no seu prazo.
+- **Cada competição tem o seu prazo.** O turno e a clássica fecham em 20/01, o returno em julho.
 - **A urgência de 20/01 é a vaga, não o preço.** Ver a seção 4: quem não confirma até lá abre o lugar para a fila. Esse é o instrumento que faltou em 2026.
 
 ### Substituto da antiga penalidade
@@ -290,12 +285,12 @@ Essa é a correção mais barata e a de maior impacto da temporada.
 
 - **Uma chave Pix só** para as três competições.
 - **A chave nunca aparece em grupo nem em página pública.** Só no privado, uma pessoa por vez.
-- Quem leva o passaporte manda **um Pix só**, de R$ 350, e está resolvido o ano inteiro. A separação entre os cofrinhos é feita na mão, do lado da organização, e deixa de ser problema de quem paga.
-- **Todo comprovante tem a data conferida** contra o período da competição antes de ser marcado como pago. Em 2026 houve comprovante de um período apresentado como pagamento de outro, e esse é um erro que o passaporte praticamente elimina, porque passa a existir um pagamento só por pessoa no ano.
+- Quem joga mais de uma competição manda **um Pix só**, com a soma. A separação entre os cofrinhos é feita na mão, do lado da organização, e deixa de ser problema de quem paga.
+- **Todo comprovante tem a data conferida** contra o período da competição antes de ser marcado como pago. Em 2026 houve comprovante de um período apresentado como pagamento de outro, e com três competições no mesmo ano esse erro fica mais fácil de acontecer, não menos.
 
 ### Controle
 
-Planilha ou o próprio `config.json`, com cinco campos por participante: competições contratadas, se é passaporte ou avulso, valor, data do pagamento e faixa de preço aplicada. A faixa importa para fechar o bolo da premiação no fim das inscrições.
+Planilha ou o próprio `config.json`, com quatro campos por participante: competições contratadas, valor, data do pagamento e faixa de preço aplicada. A faixa importa para fechar o bolo da premiação no fim das inscrições.
 
 ---
 
@@ -362,7 +357,7 @@ A tabela com as rodadas ainda não saiu, então não dá para cravar qual rodada
 | 02/12/2026 | fim do returno de 2026, rodada 38 |
 | dezembro/2026 | segue a confirmação no privado, sem anúncio no grupo |
 | início de janeiro/2027 | com o número de vagas já conhecido, abre para a fila |
-| **20/01/2027** | **último dia da preferência, do preço promocional e do passaporte** |
+| **20/01/2027** | **último dia da preferência e do preço promocional do turno e da clássica** |
 | 21 a 26/01/2027 | vagas não confirmadas liberadas na ordem de pagamento, valor cheio |
 | **27/01/2027** | rodada 1: começam o turno e a clássica |
 | 26/01/2027 | fecham as inscrições do turno e da clássica |
@@ -397,9 +392,9 @@ Essa é a mudança de método mais importante: **o anúncio público vem depois 
 
 ## 11. Riscos conhecidos
 
-1. **Intervalo entre pagar e jogar.** Quem leva o passaporte em dezembro só vê a bola rolar na rodada 1, e só joga o returno no segundo semestre. A mitigação é tratar o passaporte como o que ele é, reserva de vaga para o ano inteiro, e não como pagamento de algo que começa amanhã.
+1. **Duas cobranças por ano.** Sem pacote, o returno precisa ser vendido de novo em julho. O risco é repetir a novela de 2026, e o que protege disso é a mesma mecânica do turno: prazo com preferência e fila depois. Ou seja, o instrumento existe, mas precisa ser aplicado com a mesma firmeza nas duas vezes.
 2. **Pedido de devolução.** Com pagamento antecipado alguém vai pedir o dinheiro de volta. **Política escrita antes de abrir**, em vez de improvisada quando o primeiro pedir. Sugestão: devolução integral até a véspera da primeira rodada da competição em questão, zero depois disso.
-3. **Quem leva passaporte e abandona o time no turno.** O passaporte garante a vaga no returno de quem talvez já tenha perdido o interesse. A premiação nova do returno ajuda a reativar, mas não resolve inteiramente.
+3. **Quem abandona o time no turno e volta no returno.** A preferência do returno é de quem jogou o turno, inclusive de quem largou o time no meio. Vale pensar se quem abandonou deve manter preferência, mas isso exige definir o que conta como abandono, e definição vaga vira discussão.
 4. **Concentração de caixa.** Receber quase tudo em dezembro significa segurar dinheiro de terceiros por muitos meses. O cofrinho resolve a parte operacional e o rendimento é da organização, mas exige disciplina para não misturar.
 
 ---
