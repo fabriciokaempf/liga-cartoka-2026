@@ -613,5 +613,36 @@
       }
     ],
     "geradaEm": "2026-10-20T15:11:52.470Z"
+  },
+  {
+    "id": "andamento-rodada-32",
+    "rodada": 32,
+    "aoVivo": true,
+    "rotulo": "Rodada 32 · andamento",
+    "titulo": "Rodada 32 esquenta os motores e o topo embolado promete treta",
+    "blocos": [
+      {
+        "icone": "🎙️",
+        "titulo": "Rodada 32 só engatando",
+        "texto": "A rodada 32 começou com um pezinho só na porta: Império da Caipira e Resina Club já jogaram a bola de verdade e fecharam em 0 a 0, mas no Cartola ainda não apareceu ponto nenhum dos dois lados, já que os atletas escalados por eles nem entraram em campo. Faltam nove confrontos para rolar, o mercado está fechado e a tabela toda segue esperando a primeira pontuação cair de verdade."
+      },
+      {
+        "icone": "⚔️",
+        "titulo": "O líder recebe visita da parte de baixo",
+        "texto": "O Kaempfs F.C., líder isolado do returno com 25 pontos, abre a rodada em casa contra o Corticeira's Farm FC, que ocupa a 15ª posição com 15 pontos. Na teoria é jogo de favorito, mas quem acompanha a Cartoka sabe que teoria não pontua no Cartola."
+      },
+      {
+        "icone": "😅",
+        "titulo": "Lanterna encara a vice-líder",
+        "texto": "Enquanto isso, o Urachfc, que carrega a lanterna isolada da tabela com apenas 8 pontos, tem a missão quase impossível de enfrentar o Madalena Club, vice-líder com 25. De quebra, o Brocador do Bonja, 5º colocado, mede forças com o Mandrackefc, que soma os mesmos 8 pontos do Urachfc e só não ocupa o posto de lanterna porque perde no desempate do PG turno."
+      },
+      {
+        "icone": "🔮",
+        "titulo": "Palpite do Zé",
+        "texto": "Na segunda-feira ainda tem Tricolor Lvfc recebendo o Kidiabense FC, 3º colocado, para fechar a rodada. O Zé aposta que o topo da tabela, com cinco times separados por só três pontos (do líder Kaempfs com 25 ao Brocador com 22), vai continuar embolado depois dessa rodada. Fica de olho que a cobertura volta assim que o primeiro boleiro começar a pontuar de verdade."
+      }
+    ],
+    "geradaEm": "2026-10-24T00:25:34.000Z",
+    "estado": { "mercado": 1, "jogosIniciados": 1, "assinaturaParciais": "sem-parciais" }
   }
 ]
