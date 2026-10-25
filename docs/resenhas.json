@@ -619,30 +619,34 @@
     "rodada": 32,
     "aoVivo": true,
     "rotulo": "Rodada 32 · andamento",
-    "titulo": "Rodada 32 esquenta os motores e o topo embolado promete treta",
+    "titulo": "Reta final da rodada 32: Kaempfs segura a ponta por um fio, Madalena confirma goleada e Resina cola nas parciais",
     "blocos": [
       {
-        "icone": "🎙️",
-        "titulo": "Rodada 32 só engatando",
-        "texto": "A rodada 32 começou com um pezinho só na porta: Império da Caipira e Resina Club já jogaram a bola de verdade e fecharam em 0 a 0, mas no Cartola ainda não apareceu ponto nenhum dos dois lados, já que os atletas escalados por eles nem entraram em campo. Faltam nove confrontos para rolar, o mercado está fechado e a tabela toda segue esperando a primeira pontuação cair de verdade."
+        "icone": "🏃",
+        "titulo": "Oito de dez já com bola rolando",
+        "texto": "A rodada 32 entrou na reta final: oito dos dez confrontos já têm o jogo real em andamento ou encerrado, e só restam Tricolor Lvfc contra Kidiabense FC e Berwinha FC contra VIERTRICOLOR, os dois marcados para segunda-feira. As pontuações abaixo são todas parciais e podem virar até o fechamento oficial, então ninguém vence nem perde nada ainda."
       },
       {
-        "icone": "⚔️",
-        "titulo": "O líder recebe visita da parte de baixo",
-        "texto": "O Kaempfs F.C., líder isolado do returno com 25 pontos, abre a rodada em casa contra o Corticeira's Farm FC, que ocupa a 15ª posição com 15 pontos. Na teoria é jogo de favorito, mas quem acompanha a Cartoka sabe que teoria não pontua no Cartola."
+        "icone": "👑",
+        "titulo": "Topo some por pouco, Resina cola atrás",
+        "texto": "Eu avisei que o líder Kaempfs F.C. recebia o Corticeira's Farm FC, e o favoritismo quase escorregou: 69,96 a 67,96, vantagem de exatos 2 pontos, o suficiente pra não cair na regra do empate. Do outro lado, a missão impossível que eu cantei pro lanterna Urachfc contra o vice Madalena Club se confirmou e sobrou: 34,1 a 69,96, olha que coincidência, o Madalena fez numerinho igual ao do Kaempfs. Nas parciais, Resina Club atropela o Império da Caipira por 56,26 a 46,8 e sobe para 26 pontos, encostando no páreo pela ponta."
       },
       {
-        "icone": "😅",
-        "titulo": "Lanterna encara a vice-líder",
-        "texto": "Enquanto isso, o Urachfc, que carrega a lanterna isolada da tabela com apenas 8 pontos, tem a missão quase impossível de enfrentar o Madalena Club, vice-líder com 25. De quebra, o Brocador do Bonja, 5º colocado, mede forças com o Mandrackefc, que soma os mesmos 8 pontos do Urachfc e só não ocupa o posto de lanterna porque perde no desempate do PG turno."
+        "icone": "🎭",
+        "titulo": "Zoeira e upset na parte de baixo",
+        "texto": "Baade FC está passando o rodo no Esporte Clube Barão (70,96 a 46,2), e o Gaudérios FC está tarraxando o Alemonstro FBPA (73,16 a 53,46). Mais embaixo, duas zebras armadas: o pietro filho, que vinha bem na tabela, está levando a pior do SampaMissiones FC (54,06 a 72,17), e o HORST BRAUN está surpreendendo o Parizi 01 (83,87 a 78,86). Já o duelo direto entre Brocador do Bonja e Mandrackefc confirmou o que eu avisei: 40,4 a 38,74, diferença de 1,66, empate na régua da liga."
       },
       {
         "icone": "🔮",
-        "titulo": "Palpite do Zé",
-        "texto": "Na segunda-feira ainda tem Tricolor Lvfc recebendo o Kidiabense FC, 3º colocado, para fechar a rodada. O Zé aposta que o topo da tabela, com cinco times separados por só três pontos (do líder Kaempfs com 25 ao Brocador com 22), vai continuar embolado depois dessa rodada. Fica de olho que a cobertura volta assim que o primeiro boleiro começar a pontuar de verdade."
+        "titulo": "O que falta pra fechar",
+        "texto": "Segunda-feira ainda tem Tricolor Lvfc recebendo o Kidiabense FC, atual 3º colocado com 24 pontos: um tropeço ali e o Resina Club passa o Kidiabense nas parciais. E o Berwinha FC encara o VIERTRICOLOR, que vem de virar o próprio Tricolor na rodada passada e tenta repetir a dose para sair do fundo da tabela. A cobertura volta assim que esses dois confrontos entrarem em campo."
       }
     ],
-    "geradaEm": "2026-10-24T00:25:34.000Z",
-    "estado": { "mercado": 1, "jogosIniciados": 1, "assinaturaParciais": "sem-parciais" }
+    "geradaEm": "2026-10-25T04:24:30.000Z",
+    "estado": {
+      "mercado": 2,
+      "jogosIniciados": 8,
+      "assinaturaParciais": "1067774:48.0|13912942:62.3|15282074:83.9|17382079:54.1|25278938:78.9|26079439:53.5|27772103:38.7|2963331:72.2|309735:34.1|3250219:40.4|3419812:68.0|423154:79.9|47572160:70.0|47653263:46.2|487118:70.0|49288650:56.3|4997197:71.0|6742039:59.6|753775:46.8|90277:73.2"
+    }
   }
 ]
