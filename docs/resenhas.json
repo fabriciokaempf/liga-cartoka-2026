@@ -613,5 +613,43 @@
       }
     ],
     "geradaEm": "2026-10-20T15:11:52.470Z"
+  },
+  {
+    "id": "rodada-32",
+    "rodada": 32,
+    "titulo": "Madalena crava a melhor da rodada 32 com virada dupla, Kaempfs empata a ponta e o Zé perde a aposta do Resina no apagar das luzes",
+    "blocos": [
+      {
+        "icone": "🏆",
+        "titulo": "Cartoleiro da rodada",
+        "texto": "O Madalena Club fechou a rodada 32 com a melhor pontuação da liga, 104,46 contra o Urachfc, que marcou 92,69. E essa vitória tem gosto de virada dupla: na cobertura ao vivo eu já tinha visto o Madalena destruindo o jogo por 69,96 a 34,10, aí os parciais mostraram o Urachfc crescendo e virando pra 80,70 a 77,76. Dava pra sentir o gostinho da zebra, só que o fechamento oficial resolveu dar o troco: o Madalena cresceu ainda mais e fechou com a maior pontuação da rodada. Duas viradas num confronto só."
+      },
+      {
+        "icone": "🤡",
+        "titulo": "Vexame da rodada",
+        "texto": "Quem levou a pior foi o VIERTRICOLOR, com 71,27 pontos na derrota pro Berwinha FC (89,06 a 71,27), o time que tinha acabado de escapar da lanterna na rodada 31 e já volta a flertar com o fundo do poço. A diferença pro penúltimo colocado da rodada, o Esporte Clube Barão (71,28), foi de um centésimo de ponto. Quase um empate técnico pelo título de pior da rodada."
+      },
+      {
+        "icone": "⚖️",
+        "titulo": "Jogo da rodada",
+        "texto": "O duelo mais apertado nem parecia isso ao vivo. Eu avisei no sábado que o Mandrackefc estava goleando o Brocador do Bonja por 70,84 a 50,25, um resultado sem emoção nenhuma. O fechamento oficial transformou aquilo em quase nada: 73,68 a 74,04, diferença de 0,36 ponto, dentro da regra do empate. Cada lado leva 1 ponto e eu fico devendo explicação de como uma goleada virou empate de time parado."
+      },
+      {
+        "icone": "📻",
+        "titulo": "Recado pra quem acompanhou ao vivo",
+        "texto": "Tive outro carrinho puxado na cobertura ao vivo: avisei que o Resina Club estava batendo o Império da Caipira por 62,46 a 56,55, de olho em subir na tabela. O resultado oficial inverteu tudo: o Império venceu por 80,88 a 78,16 e quem ficou travado foi o próprio Resina. Acertei, ao menos, a direção dos outros três confrontos que fechei ao vivo: o Kaempfs F.C. confirmou a vitória sobre o Corticeira's Farm FC (95,66 a 88,66), o Baade FC manteve a vantagem sobre o Esporte Clube Barão (97,56 a 71,28), e Tricolor Lvfc x Kidiabense FC e Berwinha FC x VIERTRICOLOR só cresceram no placar sem trocar de lado."
+      },
+      {
+        "icone": "📊",
+        "titulo": "Sobe e desce da tabela",
+        "texto": "Na ponta, o Kaempfs F.C. venceu e seguiu na frente, mas agora de mãos dadas com o Madalena Club: os dois somam 28 pontos corridos, e quem decide é o PG turno, com 1.270,41 do Kaempfs contra 1.261,06 do Madalena, uma vantagem curta de pouco mais de 9 pontos acumulados. O Kidiabense FC segue isolado na terceira posição com 24. Atrás, um pelotão de quatro times empata em 23 pontos: Resina Club, Parizi 01, Brocador do Bonja e Baade FC, nessa ordem pelo PG turno. Faltam seis rodadas e a parte de cima da tabela virou um nó só."
+      },
+      {
+        "icone": "🔮",
+        "titulo": "Espiada na próxima rodada",
+        "texto": "A rodada 33 já separa confronto e tanto: o líder Kaempfs F.C. visita o Mandrackefc, que acabou de arrancar um empate no fio do bigode. O vice Madalena Club recebe o Alemonstro FBPA, e o Resina Club, que tropeçou nesta rodada, recebe o Parizi 01, um dos companheiros de pelotão dos 23 pontos. De quebra, o Kidiabense FC recebe o pietro filho em casa, de olho em se aproximar de novo da ponta."
+      }
+    ],
+    "geradaEm": "2026-10-27T13:30:00.000Z"
   }
 ]
