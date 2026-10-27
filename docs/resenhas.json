@@ -615,38 +615,41 @@
     "geradaEm": "2026-10-20T15:11:52.470Z"
   },
   {
-    "id": "andamento-rodada-32",
+    "id": "rodada-32",
     "rodada": 32,
-    "aoVivo": true,
-    "rotulo": "Rodada 32 · andamento",
-    "titulo": "Reta final da rodada 32: Madalena perde virada bizarra pro Urachfc, Resina vira vice e Kidiabense também leva susto",
+    "titulo": "Madalena crava a melhor da rodada 32 com virada dupla, Kaempfs empata a ponta e o Zé perde a aposta do Resina no apagar das luzes",
     "blocos": [
       {
-        "icone": "🏁",
-        "titulo": "Os dois últimos jogos confirmaram a zica",
-        "texto": "Os dois confrontos que faltavam entraram em campo e bateram certinho com o que eu temia. O Tricolor Lvfc derrubou o Kidiabense FC por 71,11 a 64,16, exatamente o tropeço que eu já tinha avisado que podia embolar a ponta. E o Berwinha FC atropelou o VIERTRICOLOR por 82,06 a 52,31, sem dar a menor chance de reação pro time que tinha saído da lanterna na rodada passada."
+        "icone": "🏆",
+        "titulo": "Cartoleiro da rodada",
+        "texto": "O Madalena Club fechou a rodada 32 com a melhor pontuação da liga, 104,46 contra o Urachfc, que marcou 92,69. E essa vitória tem gosto de virada dupla: na cobertura ao vivo eu já tinha visto o Madalena destruindo o jogo por 69,96 a 34,10, aí os parciais mostraram o Urachfc crescendo e virando pra 80,70 a 77,76. Dava pra sentir o gostinho da zebra, só que o fechamento oficial resolveu dar o troco: o Madalena cresceu ainda mais e fechou com a maior pontuação da rodada. Duas viradas num confronto só."
       },
       {
-        "icone": "🙈",
-        "titulo": "A zebra que eu já tinha dado como resolvida",
-        "texto": "Na minha última passagem eu descrevi o Madalena Club destruindo o Urachfc por 69,96 a 34,1, dando aquilo como missão cumprida. Só que o Urachfc não parou de crescer e virou o jogo nos parciais: fechou em 80,7 a 77,76 a favor da casa. Quem escreve resenha antes do fechamento oficial corre esse risco, e hoje foi o Zé que levou o carrinho."
+        "icone": "🤡",
+        "titulo": "Vexame da rodada",
+        "texto": "Quem levou a pior foi o VIERTRICOLOR, com 71,27 pontos na derrota pro Berwinha FC (89,06 a 71,27), o time que tinha acabado de escapar da lanterna na rodada 31 e já volta a flertar com o fundo do poço. A diferença pro penúltimo colocado da rodada, o Esporte Clube Barão (71,28), foi de um centésimo de ponto. Quase um empate técnico pelo título de pior da rodada."
+      },
+      {
+        "icone": "⚖️",
+        "titulo": "Jogo da rodada",
+        "texto": "O duelo mais apertado nem parecia isso ao vivo. Eu avisei no sábado que o Mandrackefc estava goleando o Brocador do Bonja por 70,84 a 50,25, um resultado sem emoção nenhuma. O fechamento oficial transformou aquilo em quase nada: 73,68 a 74,04, diferença de 0,36 ponto, dentro da regra do empate. Cada lado leva 1 ponto e eu fico devendo explicação de como uma goleada virou empate de time parado."
+      },
+      {
+        "icone": "📻",
+        "titulo": "Recado pra quem acompanhou ao vivo",
+        "texto": "Tive outro carrinho puxado na cobertura ao vivo: avisei que o Resina Club estava batendo o Império da Caipira por 62,46 a 56,55, de olho em subir na tabela. O resultado oficial inverteu tudo: o Império venceu por 80,88 a 78,16 e quem ficou travado foi o próprio Resina. Acertei, ao menos, a direção dos outros três confrontos que fechei ao vivo: o Kaempfs F.C. confirmou a vitória sobre o Corticeira's Farm FC (95,66 a 88,66), o Baade FC manteve a vantagem sobre o Esporte Clube Barão (97,56 a 71,28), e Tricolor Lvfc x Kidiabense FC e Berwinha FC x VIERTRICOLOR só cresceram no placar sem trocar de lado."
       },
       {
         "icone": "📊",
-        "titulo": "Se fechar assim, Resina passa dois na tabela",
-        "texto": "Se a pontuação oficial confirmar esses números, o Kaempfs F.C. segue tranquilo na ponta, com 89,66 a 73,56 no Corticeira's Farm FC, chegando aos 28 pontos corridos. Quem sobe de verdade é o Resina Club, que bateu o Império da Caipira por 62,46 a 56,55 e vai a 26, ultrapassando o Madalena Club (que cai pro terceiro com 25 depois da virada do Urachfc) e o Kidiabense FC (quarto, com 24, depois do tropeço pro Tricolor). O Baade FC, que atropelou o Esporte Clube Barão por 77,36 a 53,45, também sobe e encosta no quinto lugar com 23."
+        "titulo": "Sobe e desce da tabela",
+        "texto": "Na ponta, o Kaempfs F.C. venceu e seguiu na frente, mas agora de mãos dadas com o Madalena Club: os dois somam 28 pontos corridos, e quem decide é o PG turno, com 1.270,41 do Kaempfs contra 1.261,06 do Madalena, uma vantagem curta de pouco mais de 9 pontos acumulados. O Kidiabense FC segue isolado na terceira posição com 24. Atrás, um pelotão de quatro times empata em 23 pontos: Resina Club, Parizi 01, Brocador do Bonja e Baade FC, nessa ordem pelo PG turno. Faltam seis rodadas e a parte de cima da tabela virou um nó só."
       },
       {
-        "icone": "🪦",
-        "titulo": "Lanterna troca de time na parte de baixo",
-        "texto": "Urachfc e Mandrackefc, que abriram a rodada ocupando as duas últimas posições da tabela, venceram os dois. O duelo direto entre Brocador do Bonja e Mandrackefc, que na minha última passagem eu descrevi como empate apertadíssimo (40,4 a 38,74), virou de vez: fechou em 70,84 a 50,25 pro Mandrackefc, que saiu rindo da visita. Com isso, os dois escapam do fundo do poço, e quem sobra pra lanterna, se tudo ficar assim, é o VIERTRICOLOR, goleado pelo Berwinha. Vale repetir: nenhum desses números é oficial ainda, a rodada 32 segue em aberto até o fechamento de verdade."
+        "icone": "🔮",
+        "titulo": "Espiada na próxima rodada",
+        "texto": "A rodada 33 já separa confronto e tanto: o líder Kaempfs F.C. visita o Mandrackefc, que acabou de arrancar um empate no fio do bigode. O vice Madalena Club recebe o Alemonstro FBPA, e o Resina Club, que tropeçou nesta rodada, recebe o Parizi 01, um dos companheiros de pelotão dos 23 pontos. De quebra, o Kidiabense FC recebe o pietro filho em casa, de olho em se aproximar de novo da ponta."
       }
     ],
-    "geradaEm": "2026-10-27T00:50:00.000Z",
-    "estado": {
-      "mercado": 2,
-      "jogosIniciados": 10,
-      "assinaturaParciais": "1067774:52.3|13912942:64.2|15282074:86.8|17382079:59.7|25278938:86.7|26079439:59.7|27772103:70.8|2963331:88.8|309735:80.7|3250219:50.3|3419812:73.6|423154:82.1|47572160:77.8|47653263:53.5|487118:89.7|49288650:62.5|4997197:77.4|6742039:71.1|753775:56.5|90277:89.3"
-    }
+    "geradaEm": "2026-10-27T13:30:00.000Z"
   }
 ]
