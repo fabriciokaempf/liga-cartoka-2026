@@ -619,34 +619,34 @@
     "rodada": 32,
     "aoVivo": true,
     "rotulo": "Rodada 32 · andamento",
-    "titulo": "Reta final da rodada 32: Kaempfs segura a ponta por um fio, Madalena confirma goleada e Resina cola nas parciais",
+    "titulo": "Reta final da rodada 32: Madalena perde virada bizarra pro Urachfc, Resina vira vice e Kidiabense também leva susto",
     "blocos": [
       {
-        "icone": "🏃",
-        "titulo": "Oito de dez já com bola rolando",
-        "texto": "A rodada 32 entrou na reta final: oito dos dez confrontos já têm o jogo real em andamento ou encerrado, e só restam Tricolor Lvfc contra Kidiabense FC e Berwinha FC contra VIERTRICOLOR, os dois marcados para segunda-feira. As pontuações abaixo são todas parciais e podem virar até o fechamento oficial, então ninguém vence nem perde nada ainda."
+        "icone": "🏁",
+        "titulo": "Os dois últimos jogos confirmaram a zica",
+        "texto": "Os dois confrontos que faltavam entraram em campo e bateram certinho com o que eu temia. O Tricolor Lvfc derrubou o Kidiabense FC por 71,11 a 64,16, exatamente o tropeço que eu já tinha avisado que podia embolar a ponta. E o Berwinha FC atropelou o VIERTRICOLOR por 82,06 a 52,31, sem dar a menor chance de reação pro time que tinha saído da lanterna na rodada passada."
       },
       {
-        "icone": "👑",
-        "titulo": "Topo some por pouco, Resina cola atrás",
-        "texto": "Eu avisei que o líder Kaempfs F.C. recebia o Corticeira's Farm FC, e o favoritismo quase escorregou: 69,96 a 67,96, vantagem de exatos 2 pontos, o suficiente pra não cair na regra do empate. Do outro lado, a missão impossível que eu cantei pro lanterna Urachfc contra o vice Madalena Club se confirmou e sobrou: 34,1 a 69,96, olha que coincidência, o Madalena fez numerinho igual ao do Kaempfs. Nas parciais, Resina Club atropela o Império da Caipira por 56,26 a 46,8 e sobe para 26 pontos, encostando no páreo pela ponta."
+        "icone": "🙈",
+        "titulo": "A zebra que eu já tinha dado como resolvida",
+        "texto": "Na minha última passagem eu descrevi o Madalena Club destruindo o Urachfc por 69,96 a 34,1, dando aquilo como missão cumprida. Só que o Urachfc não parou de crescer e virou o jogo nos parciais: fechou em 80,7 a 77,76 a favor da casa. Quem escreve resenha antes do fechamento oficial corre esse risco, e hoje foi o Zé que levou o carrinho."
       },
       {
-        "icone": "🎭",
-        "titulo": "Zoeira e upset na parte de baixo",
-        "texto": "Baade FC está passando o rodo no Esporte Clube Barão (70,96 a 46,2), e o Gaudérios FC está tarraxando o Alemonstro FBPA (73,16 a 53,46). Mais embaixo, duas zebras armadas: o pietro filho, que vinha bem na tabela, está levando a pior do SampaMissiones FC (54,06 a 72,17), e o HORST BRAUN está surpreendendo o Parizi 01 (83,87 a 78,86). Já o duelo direto entre Brocador do Bonja e Mandrackefc confirmou o que eu avisei: 40,4 a 38,74, diferença de 1,66, empate na régua da liga."
+        "icone": "📊",
+        "titulo": "Se fechar assim, Resina passa dois na tabela",
+        "texto": "Se a pontuação oficial confirmar esses números, o Kaempfs F.C. segue tranquilo na ponta, com 89,66 a 73,56 no Corticeira's Farm FC, chegando aos 28 pontos corridos. Quem sobe de verdade é o Resina Club, que bateu o Império da Caipira por 62,46 a 56,55 e vai a 26, ultrapassando o Madalena Club (que cai pro terceiro com 25 depois da virada do Urachfc) e o Kidiabense FC (quarto, com 24, depois do tropeço pro Tricolor). O Baade FC, que atropelou o Esporte Clube Barão por 77,36 a 53,45, também sobe e encosta no quinto lugar com 23."
       },
       {
-        "icone": "🔮",
-        "titulo": "O que falta pra fechar",
-        "texto": "Segunda-feira ainda tem Tricolor Lvfc recebendo o Kidiabense FC, atual 3º colocado com 24 pontos: um tropeço ali e o Resina Club passa o Kidiabense nas parciais. E o Berwinha FC encara o VIERTRICOLOR, que vem de virar o próprio Tricolor na rodada passada e tenta repetir a dose para sair do fundo da tabela. A cobertura volta assim que esses dois confrontos entrarem em campo."
+        "icone": "🪦",
+        "titulo": "Lanterna troca de time na parte de baixo",
+        "texto": "Urachfc e Mandrackefc, que abriram a rodada ocupando as duas últimas posições da tabela, venceram os dois. O duelo direto entre Brocador do Bonja e Mandrackefc, que na minha última passagem eu descrevi como empate apertadíssimo (40,4 a 38,74), virou de vez: fechou em 70,84 a 50,25 pro Mandrackefc, que saiu rindo da visita. Com isso, os dois escapam do fundo do poço, e quem sobra pra lanterna, se tudo ficar assim, é o VIERTRICOLOR, goleado pelo Berwinha. Vale repetir: nenhum desses números é oficial ainda, a rodada 32 segue em aberto até o fechamento de verdade."
       }
     ],
-    "geradaEm": "2026-10-25T04:24:30.000Z",
+    "geradaEm": "2026-10-27T00:50:00.000Z",
     "estado": {
       "mercado": 2,
-      "jogosIniciados": 8,
-      "assinaturaParciais": "1067774:48.0|13912942:62.3|15282074:83.9|17382079:54.1|25278938:78.9|26079439:53.5|27772103:38.7|2963331:72.2|309735:34.1|3250219:40.4|3419812:68.0|423154:79.9|47572160:70.0|47653263:46.2|487118:70.0|49288650:56.3|4997197:71.0|6742039:59.6|753775:46.8|90277:73.2"
+      "jogosIniciados": 10,
+      "assinaturaParciais": "1067774:52.3|13912942:64.2|15282074:86.8|17382079:59.7|25278938:86.7|26079439:59.7|27772103:70.8|2963331:88.8|309735:80.7|3250219:50.3|3419812:73.6|423154:82.1|47572160:77.8|47653263:53.5|487118:89.7|49288650:62.5|4997197:77.4|6742039:71.1|753775:56.5|90277:89.3"
     }
   }
 ]
