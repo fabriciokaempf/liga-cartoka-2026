@@ -1,6 +1,6 @@
 # Confirmados da temporada 2027
 
-Contagem das confirmações de vaga. Atualizado em **27/10/2026, 11h11**.
+Contagem das confirmações de vaga. Atualizado em **28/10/2026, 13h33**.
 
 A chamada é feita um por um, no privado, com quem jogou a 2026. Nada vai para o grupo antes de a contagem fechar. Ver a seção 4 do MODELO-2027.md.
 
@@ -15,12 +15,12 @@ A chamada é feita um por um, no privado, com quem jogou a 2026. Nada vai para o
 | Vagas na pontos corridos | 20 |
 | Da organização | 2 |
 | **Vagas em disputa** | **18** |
-| Confirmados na pontos corridos | 8 |
-| **Ainda em aberto** | **12** |
+| Confirmados na pontos corridos | 9 |
+| **Ainda em aberto** | **11** |
 
-Na clássica são 7 confirmados. Um dos oito entrou só na pontos corridos.
+Na clássica são 7 confirmados. Dois dos nove entraram só na pontos corridos.
 
-As 12 vagas em aberto seguem com a **preferência de quem jogou a 2026**, válida até 20/01/2027. O que não for confirmado até lá abre para a fila a partir de 21/01, por ordem de pagamento.
+As 11 vagas em aberto seguem com a **preferência de quem jogou a 2026**, válida até 20/01/2027. O que não for confirmado até lá abre para a fila a partir de 21/01, por ordem de pagamento.
 
 ---
 
@@ -36,6 +36,7 @@ As 12 vagas em aberto seguem com a **preferência de quem jogou a 2026**, válid
 | Horst Braun | sim | sim |
 | Império da Caipira | sim | sim |
 | Parizi 01 | sim | não |
+| Madalena Club | sim | não |
 
 ---
 
@@ -67,7 +68,7 @@ A lista chega pelo privado conforme as confirmações entram. Ao atualizar:
 
 1. Acrescentar o time em **Confirmados**, anotando se entrou nas duas ligas ou só na pontos corridos.
 2. Refazer a contagem de **Onde estamos**.
-3. Atualizar a seção "Quem já confirmou" em `docs/temporada-2027.html`: o número, a largura da barra e a lista de nomes.
+3. Atualizar `docs/temporada-2027.html` em dois lugares: a seção "Quem já confirmou", com o número, a largura da barra e a lista de nomes, e o contador da Clássica, dentro do bloco dela. O da Clássica não tem total, porque ela não tem teto de vagas.
 4. Conferir o comprovante antes de marcar: data compatível com o período, valor e competições contratadas.
 
 A chave Pix não aparece neste nem em nenhum outro arquivo do repositório.

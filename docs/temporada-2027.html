@@ -352,6 +352,32 @@ tr.nova td b { color: var(--verde-claro); }
   padding: 5px 11px;
 }
 
+.contagem-mini {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 4px 9px;
+  margin-top: 11px;
+  padding-top: 11px;
+  border-top: 1px solid rgba(255, 255, 255, 0.07);
+}
+
+.contagem-mini-num {
+  font-size: 22px;
+  font-weight: 900;
+  line-height: 1;
+  color: var(--verde-claro);
+  font-variant-numeric: tabular-nums;
+}
+
+.contagem-mini-rotulo {
+  font-size: 11.5px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1.3px;
+  color: var(--texto-suave);
+}
+
 /* Nota */
 
 .nota {
@@ -460,10 +486,10 @@ footer a { color: var(--texto-suave); }
     <h2><span aria-hidden="true">✅</span>Quem já confirmou</h2>
     <div class="contagem">
       <div class="contagem-topo">
-        <span class="contagem-num">8<span class="contagem-de">de 20</span></span>
+        <span class="contagem-num">9<span class="contagem-de">de 20</span></span>
         <span class="contagem-rotulo">times confirmados</span>
       </div>
-      <div class="barra" role="presentation"><div class="barra-cheia" style="width: 40%"></div></div>
+      <div class="barra" role="presentation"><div class="barra-cheia" style="width: 45%"></div></div>
     </div>
     <ul class="confirmados">
       <li>Kidiabense FC</li>
@@ -474,6 +500,7 @@ footer a { color: var(--texto-suave); }
       <li>Horst Braun</li>
       <li>Império da Caipira</li>
       <li>Parizi 01</li>
+      <li>Madalena Club</li>
     </ul>
     <div class="nota">
       As vagas restantes seguem com a <strong>preferência de quem jogou a temporada 2026</strong>, válida até 20/01. O que não for confirmado até lá abre para a fila de espera a partir de 21/01, por ordem de pagamento.
@@ -607,6 +634,10 @@ footer a { color: var(--texto-suave); }
     <h2><span aria-hidden="true">🎲</span>A Clássica <span class="etiqueta-extra">extra</span></h2>
     <p>Fora da liga, existe a Clássica: uma competição anual que roda dentro do próprio app do Cartola FC. <strong>Sem site, sem resenha e sem confronto</strong>, vale só a pontuação acumulada no ano.</p>
     <p>É inscrição separada, e pode ser jogada sozinha, sem nenhuma das outras. Premiação por percentual do arrecadado: 55%, 30% e 15%. Começa na rodada 1, então a inscrição fecha junto com a do turno.</p>
+    <div class="contagem-mini">
+      <span class="contagem-mini-num">7</span>
+      <span class="contagem-mini-rotulo">já confirmados, e sem limite de vagas</span>
+    </div>
   </section>
 
   <section class="cartao chamada">
