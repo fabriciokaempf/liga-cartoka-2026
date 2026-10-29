@@ -651,5 +651,36 @@
       }
     ],
     "geradaEm": "2026-10-27T13:30:00.000Z"
+  },
+  {
+    "id": "andamento-rodada-33",
+    "rodada": 33,
+    "aoVivo": true,
+    "rotulo": "Rodada 33 · andamento",
+    "titulo": "Madalena treme contra o Alemonstro, Corticeira's Farm e Kidiabense mitam, e a rodada 33 já tem cinco jogos no bolso",
+    "blocos": [
+      {
+        "icone": "🔥",
+        "titulo": "Duelo que mexe com o título",
+        "texto": "O vice líder Madalena Club já venceu o jogo real contra o Alemonstro FBPA por 3 a 0, mas no Cartola a parcial está em 27,25 a 24,73, vantagem curtinha de pouco mais de 2 pontos. O Madalena está empatado em pontos corridos com o líder Kaempfs F.C. e só perde no desempate do PG turno, então cada ponto aqui pesa na briga pela ponta."
+      },
+      {
+        "icone": "🚀",
+        "titulo": "Quem está mitando",
+        "texto": "O Corticeira's Farm FC está destruindo o Esporte Clube Barão nos parciais, 47,2 a 34,2, mesmo com o jogo real travado em 0 a 0. E olha que nem é a maior pontuação do momento: o Kidiabense FC já soma 48,25, a maior parcial da rodada, apesar de o confronto dele contra o pietro filho ainda nem ter começado, prova de que os atletas escalados já estão em campo nos jogos dos seus próprios clubes."
+      },
+      {
+        "icone": "🧊",
+        "titulo": "Quem está apagado",
+        "texto": "Do outro lado, o Urachfc, lanterna isolada da tabela, segue com apenas 10,3 pontos parciais e perdendo para o Baade FC, que já tem 23,2. O Gaudérios FC também patina: venceu o jogo real contra o HORST BRAUN por 2 a 1, mas no Cartola está atrás, 12,9 a 23,4. Ainda é parcial, mas por ora é treta para os dois lados."
+      },
+      {
+        "icone": "⏳",
+        "titulo": "O que falta",
+        "texto": "Cinco dos dez confrontos já rolaram, faltam outros cinco para fechar a rodada 33. O líder Kaempfs F.C. ainda nem entrou em campo e visita o Mandrackefc só amanhã, enquanto o terceiro colocado Kidiabense FC completa o jogo contra o pietro filho ainda esta noite. Tudo pode virar até o apito final, então ninguém descansa."
+      }
+    ],
+    "estado": {"mercado":2,"jogosIniciados":5,"assinaturaParciais":"1067774:32.9|13912942:48.3|15282074:23.4|17382079:33.5|25278938:27.3|26079439:24.7|27772103:10.3|2963331:30.6|309735:10.3|3250219:33.5|3419812:47.2|423154:20.4|47572160:27.3|47653263:34.2|487118:33.5|49288650:34.6|4997197:23.2|6742039:21.7|753775:28.1|90277:12.9"},
+    "geradaEm": "2026-10-29T04:25:30.087Z"
   }
 ]
