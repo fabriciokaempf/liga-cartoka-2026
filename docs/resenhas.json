@@ -657,30 +657,30 @@
     "rodada": 33,
     "aoVivo": true,
     "rotulo": "Rodada 33 · andamento",
-    "titulo": "Kidiabense dispara nos parciais antes mesmo de entrar em campo, Corticeira's Farm mantém o baile no Barão e a rodada 33 segue com cinco jogos no bolso",
+    "titulo": "Kaempfs e Madalena seguem de mãos dadas na ponta, Parizi 01 dispara na subida e a reta final da rodada 33 ainda guarda zebra",
     "blocos": [
       {
-        "icone": "🔥",
-        "titulo": "Duelo que mexe com o título",
-        "texto": "O vice líder Madalena Club já tinha vencido o jogo real contra o Alemonstro FBPA por 3 a 0, e no Cartola a parcial segue apertada: 30,17 a 27,61, vantagem de pouco mais de 2,5 pontos. O Madalena continua empatado em pontos corridos com o líder Kaempfs F.C. e só perde no desempate do PG turno, então essa pontinha de vantagem vale ouro na briga pela ponta."
+        "icone": "🏁",
+        "titulo": "Reta final: sete de dez confrontos já com jogo real encerrado",
+        "texto": "A rodada 33 entra na reta final com sete dos dez confrontos já com a partida real concluída, e os parciais do Cartola ainda rolando. Faltam três: Kidiabense FC x pietro filho, que já aparece praticamente resolvido nos parciais, Mandrackefc x Kaempfs F.C., em campo hoje à noite, e Tricolor Lvfc x SampaMissiones FC, só amanhã. Vale o aviso de sempre: é tudo pontuação parcial e pode virar até o fechamento oficial."
       },
       {
-        "icone": "🚀",
-        "titulo": "Quem está mitando",
-        "texto": "O Corticeira's Farm FC não sai do pedaço: segue destruindo o Esporte Clube Barão nos parciais, agora 52,37 a 39,37, mesmo tendo perdido o jogo real por 3 a 2. E quem cresceu mais desde a última olhada foi o Kidiabense FC, que já soma 52,67 pontos, a maior parcial da rodada, e olha que o confronto dele contra o pietro filho ainda nem começou. Prova de que escalação boa pontua antes mesmo do apito do próprio jogo."
+        "icone": "📊",
+        "titulo": "Se a rodada parasse agora",
+        "texto": "Nos parciais de agora, o líder Kaempfs F.C. está liquidando o Mandrackefc por 35,21 a 13,10 e o vice Madalena Club folga sobre o Alemonstro FBPA por 44,46 a 28,71: os dois seguem de mãos dadas na ponta. Quem mais sobe é o Parizi 01, batendo o Resina Club por 46,46 a 39,11 e saindo do pelotão dos 23 pontos corridos rumo à cola dos líderes, enquanto o Baade FC também vence o Urachfc com sobra, 27,12 a 13,10. A Kidiabense FC, terceira colocada, segue goleando o pietro filho nos parciais por 55,71 a 37,91."
       },
       {
-        "icone": "🧊",
-        "titulo": "Quem está apagado",
-        "texto": "O Urachfc, lanterna isolada da tabela, segue travado com 11,5 pontos parciais, atrás do Baade FC, que já tem 23,2. O Gaudérios FC piorou de situação desde a última cobertura: venceu o jogo real contra o HORST BRAUN por 2 a 1, mas no Cartola a diferença só aumentou, 12,9 a 27,5, e o time que ganhou em campo real é quem mais sofre no placar que importa pra liga."
+        "icone": "🔄",
+        "titulo": "Zebra no radar e duelos que ainda podem virar",
+        "texto": "Tem zebra pintando: a VIERTRICOLOR está na frente do Império da Caipira por 37,91 a 35,41 no Cartola, mesmo tendo perdido o jogo real em casa por 0 a 1. O Esporte Clube Barão venceu em campo o Corticeira's Farm FC por 3 a 2, mas continua levando baile nos parciais, agora 42,91 a 63,91. O Berwinha FC também surpreende o Brocador do Bonja, 40,81 a 37,91, e o SampaMissiones FC aparece na frente do Tricolor Lvfc por 35,01 a 32,31, num confronto cujo jogo real só acontece amanhã. Com margens assim, qualquer pontinho que ainda entrar pode trocar o resultado antes do fechamento."
       },
       {
-        "icone": "⏳",
-        "titulo": "O que falta",
-        "texto": "Continuam cinco dos dez confrontos rolados, faltam outros cinco para fechar a rodada 33. O líder Kaempfs F.C. ainda nem entrou em campo, visita o Mandrackefc só amanhã, e já soma 33,67 pontos parciais de escalação. O terceiro colocado Kidiabense FC completa o jogo contra o pietro filho ainda esta noite, e o VIERTRICOLOR, que enfrenta o Império da Caipira também hoje à noite, já aparece lá na frente com 38,07, mesmo sem o jogo real ter começado. Tudo pode virar até o apito final."
+        "icone": "🚿",
+        "titulo": "Quem já pode ir separando a toalha",
+        "texto": "O Urachfc, lanterna isolada da tabela com 8 pontos corridos, segue travado nos parciais com 13,10 contra o Baade FC e corre risco de abrir ainda mais a distância do penúltimo colocado. O Mandrackefc, que briga pra não afundar com 9 pontos, também não sai do lugar: parado nos mesmos 13,10 diante do líder Kaempfs F.C., sem sinal de reação até agora."
       }
     ],
-    "estado": {"mercado":2,"jogosIniciados":5,"assinaturaParciais":"1067774:38.1|13912942:52.7|15282074:27.5|17382079:36.4|25278938:30.2|26079439:30.2|27772103:11.5|2963331:26.7|309735:11.5|3250219:36.4|3419812:52.4|423154:20.6|47572160:30.2|47653263:39.4|487118:33.7|49288650:37.6|4997197:23.2|6742039:23.1|753775:31.1|90277:12.9"},
-    "geradaEm": "2026-10-29T08:25:29.000Z"
+    "estado": {"mercado":2,"jogosIniciados":7,"assinaturaParciais":"1067774:37.9|13912942:55.7|15282074:45.2|17382079:37.9|25278938:46.5|26079439:28.7|27772103:13.1|2963331:35.0|309735:13.1|3250219:37.9|3419812:63.9|423154:40.8|47572160:44.5|47653263:42.9|487118:35.2|49288650:39.1|4997197:27.1|6742039:32.3|753775:35.4|90277:15.1"},
+    "geradaEm": "2026-10-30T00:26:15.000Z"
   }
 ]
