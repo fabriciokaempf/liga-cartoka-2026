@@ -653,38 +653,41 @@
     "geradaEm": "2026-10-27T13:30:00.000Z"
   },
   {
-    "id": "andamento-rodada-33",
+    "id": "rodada-33",
     "rodada": 33,
-    "aoVivo": true,
-    "rotulo": "Rodada 33 · andamento",
-    "titulo": "Reta final da rodada 33: Kaempfs vira contra o Mandrackefc nos parciais mesmo perdendo a bola rolando",
+    "titulo": "Kaempfs estoura 104,91 mesmo perdendo a bola rolando, pietro filho escapa do empate por 2,55 e a rodada 33 fecha sem nenhum ponto dividido",
     "blocos": [
       {
-        "icone": "🏁",
-        "titulo": "Reta final: nove de dez jogos já com apito final na vida real",
-        "texto": "A rodada 33 chega na reta final com nove dos dez confrontos já resolvidos na vida real. Desde a minha última passagem entrou em campo o duelo entre Mandrackefc e o líder Kaempfs F.C., com vitória do Mandrackefc por 2 a 0 no jogo de verdade. Só falta um: Tricolor Lvfc recebe o SampaMissiones FC hoje à noite para fechar a rodada. Reforço o combinado: é tudo pontuação parcial, pode virar até o apito final de verdade bater em todo mundo."
+        "icone": "🏆",
+        "titulo": "Cartoleiro da rodada",
+        "texto": "O Kaempfs F.C. fechou a rodada 33 com a melhor pontuação da liga, 104,91 contra o Mandrackefc, que ficou com 81,51. Eu já tinha avisado ao vivo que o líder, mesmo perdendo o jogo de verdade por 2 a 0 pro Mandrackefc, virava nos parciais por 81,81 a 72,06. Não parou aí: até o fechamento oficial o Kaempfs ainda cresceu mais, e sobrou pontuação de time que não deixa barato nem quando o jogo real dá as costas."
       },
       {
-        "icone": "👑",
-        "titulo": "A virada do líder",
-        "texto": "No Cartola quem decide são os pontos dos atletas escalados, não o placar do confronto, e o Kaempfs F.C. mostrou isso na prática: perdeu o jogo real para o Mandrackefc por 2 a 0, mas nos parciais virou e aparece na frente por 81,81 a 72,06. O líder, que divide o topo da tabela empatado em pontos de liga com o Madalena Club (28 a 28) e só segue na primeira posição pelo desempate no PG do returno (1270,41 a 1261,06), não larga o osso nem quando a bola real não ajuda."
+        "icone": "🙈",
+        "titulo": "Vexame da rodada",
+        "texto": "Quem fechou com a pior marca da rodada foi o HORST BRAUN, com 57,87 pontos na derrota para o Gaudérios FC (94,41 a 57,87). Sem departamento médico pra culpar e sem atleta fora de campo: foi escalação que simplesmente não decolou em nenhum momento."
       },
       {
-        "icone": "🔄",
-        "titulo": "Outras reviravoltas nos parciais",
-        "texto": "O Berwinha FC também inverteu a história desde a minha última passagem: estava atrás do Brocador do Bonja e agora vence por 79,11 a 62,41, embalado pela goleada real de 4 a 1. Já o Corticeira's Farm FC não teve pena do Esporte Clube Barão: a vantagem que era de 8,40 pontos virou 15,80 (91,21 a 75,41). E para quem gosta de sufoco, o duelo Kidiabense FC x pietro filho segue roçando o empate, 60,61 a 62,41, diferença de só 1,80 ponto, dentro da margem que garante ponto para os dois lados se fechar assim."
+        "icone": "🔥",
+        "titulo": "Jogo da rodada",
+        "texto": "O confronto mais apertado foi pietro filho contra Kidiabense FC, decidido por 2,55 pontos (77,41 a 74,86). Na minha última passagem ao vivo os dois estavam roçando o empate, 60,61 a 62,41, diferença de só 1,80. No fechamento pietro filho conseguiu abrir a margem suficiente pra escapar da divisão de pontos e ficar com a vitória inteira, numa rodada 33 que, aliás, não teve nenhum empate: dez jogos, dez resultados líquidos."
       },
       {
-        "icone": "⏳",
-        "titulo": "O que ainda está em jogo",
-        "texto": "Falta só Tricolor Lvfc x SampaMissiones FC, hoje à noite, para fechar a rodada 33. Curiosamente o SampaMissiones FC já aparece na frente nos parciais, 76,71 a 64,51, mesmo sem a bola ainda ter rolado nesse confronto específico: são pontos de atletas que já atuaram em outras partidas da rodada. No topo da tabela, se tudo terminar como está agora, Kaempfs F.C. e Madalena Club somam mais uma vitória cada e a disputa pelo primeiro lugar continua sendo decidida no detalhe do PG do returno."
+        "icone": "📻",
+        "titulo": "Recado pra quem acompanhou ao vivo",
+        "texto": "No sábado eu avisei que o Berwinha FC vencia o Brocador do Bonja por 79,11 a 62,41, só que o Brocador não baixou a cabeça e encurtou a distância até o fim, caindo por apenas 87,91 a 84,21. O Corticeira's Farm FC também viu a vantagem encolher: chegou a abrir 15,80 pontos de sobra sobre o Esporte Clube Barão e fechou vencendo por só 8,30 (95,71 a 87,41). Já o duelo entre Tricolor Lvfc e SampaMissiones FC, que eu via com o Sampa na frente mesmo sem o jogo real ter começado, fechou exatamente como eu previ: vitória do Sampa por 83,61 a 77,41."
+      },
+      {
+        "icone": "📊",
+        "titulo": "Sobe e desce da tabela",
+        "texto": "Com a vitória, o Kaempfs F.C. segue na ponta ao lado do Madalena Club, os dois empatados em 31 pontos corridos, com o Kaempfs na frente só pelo desempate do PG turno (1375,32 a 1353,97). O pelotão que tinha quatro times empatados em 23 pontos (Resina Club, Parizi 01, Brocador do Bonja e Baade FC) virou de cabeça para baixo: Parizi 01 e Baade FC venceram e saltaram para 26 pontos, na terceira e quarta posição, enquanto Resina Club e Brocador do Bonja perderam e continuam em 23, agora ao lado de dois reforços na mesma pontuação, pietro filho e Berwinha FC, que também chegaram aos 23 depois de vencer na rodada. Na rabeira, Mandrackefc (9 pontos) e Urachfc (8 pontos) seguem isolados nas duas últimas posições."
+      },
+      {
+        "icone": "🔮",
+        "titulo": "Espiada na próxima rodada",
+        "texto": "A rodada 34 já separa confronto e tanto: o vice Madalena Club recebe o Baade FC, que também vem de vitória e quer encostar de vez no topo. O líder Kaempfs F.C. visita o Alemonstro FBPA fora de casa, enquanto pietro filho, que calou o Kidiabense FC nesta rodada, recebe justamente o Brocador do Bonja. Lá na parte de baixo, Urachfc e Resina Club se enfrentam direto, duelo que pode aliviar um dos dois lados da pressão."
       }
     ],
-    "estado": {
-      "mercado": 2,
-      "jogosIniciados": 9,
-      "assinaturaParciais": "1067774:73.1|13912942:60.6|15282074:57.9|17382079:62.4|25278938:85.2|26079439:41.2|27772103:72.1|2963331:76.7|309735:72.1|3250219:62.4|3419812:91.2|423154:79.1|47572160:88.2|47653263:75.4|487118:81.8|49288650:63.6|4997197:78.9|6742039:64.5|753775:47.8|90277:93.2"
-    },
-    "geradaEm": "2026-10-31T04:25:15.000Z"
+    "geradaEm": "2026-10-31T08:25:47.000Z"
   }
 ]
