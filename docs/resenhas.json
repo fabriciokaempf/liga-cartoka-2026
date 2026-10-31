@@ -657,30 +657,34 @@
     "rodada": 33,
     "aoVivo": true,
     "rotulo": "Rodada 33 · andamento",
-    "titulo": "Reta final da rodada 33: o líder Kaempfs aparece atrás do Mandrackefc, e a rodada vira de ponta a ponta nos parciais",
+    "titulo": "Reta final da rodada 33: Kaempfs vira contra o Mandrackefc nos parciais mesmo perdendo a bola rolando",
     "blocos": [
       {
         "icone": "🏁",
-        "titulo": "Reta final: oito de dez jogos já rolaram, faltam dois",
-        "texto": "A rodada 33 avança para a reta final com oito dos dez confrontos já com a partida real encerrada. Desde a minha última passagem, o duelo entre Kidiabense FC e pietro filho também entrou em campo e virou de cabo a rabo nos parciais. Faltam só dois: Mandrackefc recebe o líder Kaempfs F.C. hoje à noite, e Tricolor Lvfc pega o SampaMissiones FC só amanhã. Lembrando sempre: é tudo pontuação parcial e pode virar até o fechamento oficial."
+        "titulo": "Reta final: nove de dez jogos já com apito final na vida real",
+        "texto": "A rodada 33 chega na reta final com nove dos dez confrontos já resolvidos na vida real. Desde a minha última passagem entrou em campo o duelo entre Mandrackefc e o líder Kaempfs F.C., com vitória do Mandrackefc por 2 a 0 no jogo de verdade. Só falta um: Tricolor Lvfc recebe o SampaMissiones FC hoje à noite para fechar a rodada. Reforço o combinado: é tudo pontuação parcial, pode virar até o apito final de verdade bater em todo mundo."
       },
       {
-        "icone": "📊",
-        "titulo": "Se a rodada parasse agora",
-        "texto": "Nos parciais deste instante, o vice Madalena Club segue tranquilo sobre o Alemonstro FBPA (81,71 a 35,21) e o Parizi 01 está destruindo o Resina Club (85,21 a 63,61). Mas o nome que chama atenção é o do próprio líder: Kaempfs F.C. aparece atrás do Mandrackefc por 72,02 a 59,71, num confronto que nem começou na vida real, só rola hoje à noite. Se esse resultado se confirmar, o líder do returno sai de campo derrotado pelo 18º colocado da tabela."
+        "icone": "👑",
+        "titulo": "A virada do líder",
+        "texto": "No Cartola quem decide são os pontos dos atletas escalados, não o placar do confronto, e o Kaempfs F.C. mostrou isso na prática: perdeu o jogo real para o Mandrackefc por 2 a 0, mas nos parciais virou e aparece na frente por 81,81 a 72,06. O líder, que divide o topo da tabela empatado em pontos de liga com o Madalena Club (28 a 28) e só segue na primeira posição pelo desempate no PG do returno (1270,41 a 1261,06), não larga o osso nem quando a bola real não ajuda."
       },
       {
         "icone": "🔄",
-        "titulo": "Viradas desde a última passagem",
-        "texto": "Muita coisa mudou desde a cobertura anterior. O Urachfc, que estava sendo goleado pelo Baade FC (27,12 a 13,10), virou o jogo e agora lidera por 72,02 a 56,82. O Brocador do Bonja também devolveu o troco: estava atrás do Berwinha FC e agora passa na frente, 62,41 a 57,01. E o duelo Kidiabense FC x pietro filho, que era goleada do Kidiabense (55,71 a 37,91), virou pro lado do pietro filho, hoje na frente por 62,41 a 60,61, com apenas 1,80 ponto separando os dois. Já o Esporte Clube Barão encurtou mas não virou: segue atrás do Corticeira's Farm FC, só que agora por 8,40 pontos, bem menos que os 21 de antes."
+        "titulo": "Outras reviravoltas nos parciais",
+        "texto": "O Berwinha FC também inverteu a história desde a minha última passagem: estava atrás do Brocador do Bonja e agora vence por 79,11 a 62,41, embalado pela goleada real de 4 a 1. Já o Corticeira's Farm FC não teve pena do Esporte Clube Barão: a vantagem que era de 8,40 pontos virou 15,80 (91,21 a 75,41). E para quem gosta de sufoco, o duelo Kidiabense FC x pietro filho segue roçando o empate, 60,61 a 62,41, diferença de só 1,80 ponto, dentro da margem que garante ponto para os dois lados se fechar assim."
       },
       {
-        "icone": "🚿",
-        "titulo": "Quem já pode separar a toalha (com ressalva)",
-        "texto": "O HORST BRAUN amarga a pior tarde da rodada até aqui, atrás do Gaudérios FC por 89,07 a 58,01, e o Alemonstro FBPA também não encontra resposta para o Madalena Club. Do outro lado, a VIERTRICOLOR segue surpreendendo: mesmo tendo perdido o jogo real para o Império da Caipira, está na frente nos parciais por 50,71 a 38,31. Com dois confrontos ainda nem começados na vida real, incluindo o duelo do próprio líder, ninguém deveria relaxar antes do apito final de verdade."
+        "icone": "⏳",
+        "titulo": "O que ainda está em jogo",
+        "texto": "Falta só Tricolor Lvfc x SampaMissiones FC, hoje à noite, para fechar a rodada 33. Curiosamente o SampaMissiones FC já aparece na frente nos parciais, 76,71 a 64,51, mesmo sem a bola ainda ter rolado nesse confronto específico: são pontos de atletas que já atuaram em outras partidas da rodada. No topo da tabela, se tudo terminar como está agora, Kaempfs F.C. e Madalena Club somam mais uma vitória cada e a disputa pelo primeiro lugar continua sendo decidida no detalhe do PG do returno."
       }
     ],
-    "estado": {"mercado":2,"jogosIniciados":8,"assinaturaParciais":"1067774:50.7|13912942:60.6|15282074:58.0|17382079:62.4|25278938:85.2|26079439:35.2|27772103:72.0|2963331:56.3|309735:72.0|3250219:62.4|3419812:77.3|423154:57.0|47572160:81.7|47653263:68.9|487118:59.7|49288650:63.6|4997197:56.8|6742039:48.6|753775:38.3|90277:89.1"},
-    "geradaEm": "2026-10-30T04:25:41.000Z"
+    "estado": {
+      "mercado": 2,
+      "jogosIniciados": 9,
+      "assinaturaParciais": "1067774:73.1|13912942:60.6|15282074:57.9|17382079:62.4|25278938:85.2|26079439:41.2|27772103:72.1|2963331:76.7|309735:72.1|3250219:62.4|3419812:91.2|423154:79.1|47572160:88.2|47653263:75.4|487118:81.8|49288650:63.6|4997197:78.9|6742039:64.5|753775:47.8|90277:93.2"
+    },
+    "geradaEm": "2026-10-31T04:25:15.000Z"
   }
 ]
