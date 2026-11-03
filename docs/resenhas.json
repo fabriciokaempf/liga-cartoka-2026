@@ -689,5 +689,40 @@
       }
     ],
     "geradaEm": "2026-10-31T08:25:47.000Z"
+  },
+  {
+    "id": "andamento-rodada-34",
+    "rodada": 34,
+    "aoVivo": true,
+    "rotulo": "Rodada 34 · andamento",
+    "titulo": "Rodada 34 esquenta: Kaempfs encara terra alheia, Madalena testa a régua em casa e o lanterna Urachfc recebe visita de peso",
+    "blocos": [
+      {
+        "icone": "🔥",
+        "titulo": "Cardápio da rodada 34",
+        "texto": "A rodada 34 abre com prato cheio: o líder Kaempfs F.C., que só está na frente do vice Madalena Club por desempate de PG turno (1375,32 a 1353,97, os dois empatados em 31 pontos corridos), visita o Alemonstro FBPA, hoje na 14ª posição com 17 pontos. Em casa, o Madalena recebe o Baade FC de olho em seguir colado na ponta. E lá embaixo tem clássico de necessidade: o lanterna Urachfc, com só 8 pontos, recebe o Resina Club, que briga no pelotão dos 23."
+      },
+      {
+        "icone": "😤",
+        "titulo": "Quem chega embalado, quem chega torto",
+        "texto": "No meio da tabela tem rivalidade pura: Berwinha FC (10º, 23 pontos) recebe o Kidiabense FC (6º, 24 pontos), e pietro filho (8º) encara o Brocador do Bonja (9º), dois do pelotão que briga ponto a ponto. Na parte de baixo, o Corticeira's Farm FC (13º) recebe o Mandrackefc (19º), tentando não deixar o rival encostar, e o Parizi 01 (3º) tem pela frente o VIERTRICOLOR, ainda preso nos 12 pontos."
+      },
+      {
+        "icone": "🔮",
+        "titulo": "Palpite do Zé",
+        "texto": "O Zé aposta que o Kaempfs segura a ponta mesmo fora de casa contra o Alemonstro, e que o Madalena não erra o passo diante do Baade para seguir cravado atrás do líder. Mas guarda esse nome: o Urachfc jogando em casa contra o Resina Club tem gosto de zebra armada. Lanterna só perde moral se deixar barato."
+      },
+      {
+        "icone": "⏳",
+        "titulo": "Calma que isso aqui é só o esquenta",
+        "texto": "Até agora só o jogo real entre Madalena e Baade já apitou o final, 2 a 1 pro Madalena no placar de verdade, mas no Cartola ninguém pontuou nada ainda, nem os próprios times do confronto. Ainda faltam nove jogos para começar, então quem estiver zerado no momento não é vexame, é só atleta que ainda não entrou em campo. O Zé volta com mais cobertura assim que a rodada esquentar de verdade."
+      }
+    ],
+    "geradaEm": "2026-11-03T04:24:59Z",
+    "estado": {
+      "mercado": 1,
+      "jogosIniciados": 1,
+      "assinaturaParciais": "sem-parciais"
+    }
   }
 ]
