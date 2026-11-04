@@ -695,34 +695,34 @@
     "rodada": 34,
     "aoVivo": true,
     "rotulo": "Rodada 34 · andamento",
-    "titulo": "Rodada 34 esquenta: Kaempfs encara terra alheia, Madalena testa a régua em casa e o lanterna Urachfc recebe visita de peso",
+    "titulo": "Rodada 34 andamento: dois jogos reais já apitaram, mas o placar do Cartola continua travado quase todo em zero",
     "blocos": [
       {
+        "icone": "⚽",
+        "titulo": "Dois jogos no ar, parciais de boca fechada",
+        "texto": "Os jogos reais de Madalena Club x Baade FC (2 a 1 pro Madalena) e Alemonstro FBPA x Kaempfs F.C. (1 a 0 pro Alemonstro) já rolaram, mas o Cartola não quis saber: quase todo mundo na liga segue com zero ponto na parcial, incluindo os próprios times desses dois confrontos. Ainda faltam oito dos dez jogos reais da rodada para começar."
+      },
+      {
+        "icone": "😅",
+        "titulo": "A mitada tímida da rodada",
+        "texto": "Quem lidera a parcial por enquanto é o Mandrackefc, que briga lá embaixo na tabela, com uns modestos 1,3 ponto de vantagem sobre o resto da liga. Logo atrás vem o Urachfc, outro que vive a parte de baixo, com 0,5. É pouco, mas numa rodada ainda tão crua até migalha de ponto já rende manchete."
+      },
+      {
         "icone": "🔥",
-        "titulo": "Cardápio da rodada 34",
-        "texto": "A rodada 34 abre com prato cheio: o líder Kaempfs F.C., que só está na frente do vice Madalena Club por desempate de PG turno (1375,32 a 1353,97, os dois empatados em 31 pontos corridos), visita o Alemonstro FBPA, hoje na 14ª posição com 17 pontos. Em casa, o Madalena recebe o Baade FC de olho em seguir colado na ponta. E lá embaixo tem clássico de necessidade: o lanterna Urachfc, com só 8 pontos, recebe o Resina Club, que briga no pelotão dos 23."
-      },
-      {
-        "icone": "😤",
-        "titulo": "Quem chega embalado, quem chega torto",
-        "texto": "No meio da tabela tem rivalidade pura: Berwinha FC (10º, 23 pontos) recebe o Kidiabense FC (6º, 24 pontos), e pietro filho (8º) encara o Brocador do Bonja (9º), dois do pelotão que briga ponto a ponto. Na parte de baixo, o Corticeira's Farm FC (13º) recebe o Mandrackefc (19º), tentando não deixar o rival encostar, e o Parizi 01 (3º) tem pela frente o VIERTRICOLOR, ainda preso nos 12 pontos."
-      },
-      {
-        "icone": "🔮",
-        "titulo": "Palpite do Zé",
-        "texto": "O Zé aposta que o Kaempfs segura a ponta mesmo fora de casa contra o Alemonstro, e que o Madalena não erra o passo diante do Baade para seguir cravado atrás do líder. Mas guarda esse nome: o Urachfc jogando em casa contra o Resina Club tem gosto de zebra armada. Lanterna só perde moral se deixar barato."
+        "titulo": "O duelo pra ficar de olho",
+        "texto": "Enquanto os números não aparecem de verdade, o confronto que continua roubando a cena é Urachfc contra Resina Club: o lanterna recebendo um time que briga no pelotão dos 23 pontos. O Zé já apostou em zebra armada aqui, e o clima de decisão lá embaixo segue de pé."
       },
       {
         "icone": "⏳",
-        "titulo": "Calma que isso aqui é só o esquenta",
-        "texto": "Até agora só o jogo real entre Madalena e Baade já apitou o final, 2 a 1 pro Madalena no placar de verdade, mas no Cartola ninguém pontuou nada ainda, nem os próprios times do confronto. Ainda faltam nove jogos para começar, então quem estiver zerado no momento não é vexame, é só atleta que ainda não entrou em campo. O Zé volta com mais cobertura assim que a rodada esquentar de verdade."
+        "titulo": "O que falta",
+        "texto": "Com dois dos dez confrontos já com o jogo real rolando e oito ainda pra começar, é cedo demais pra chamar time zerado de vexame: são atletas que ainda não entraram em campo, nada mais. As pontuações aqui são só parciais e podem virar de ponta a cabeça até o fechamento oficial da rodada 34."
       }
     ],
-    "geradaEm": "2026-11-03T04:24:59Z",
+    "geradaEm": "2026-11-04T00:24:50Z",
     "estado": {
-      "mercado": 1,
-      "jogosIniciados": 1,
-      "assinaturaParciais": "sem-parciais"
+      "mercado": 2,
+      "jogosIniciados": 2,
+      "assinaturaParciais": "1067774:0.0|13912942:0.0|15282074:0.0|17382079:0.0|25278938:0.0|26079439:0.0|27772103:1.3|2963331:0.0|309735:0.5|3250219:0.0|3419812:0.0|423154:0.0|47572160:0.0|47653263:0.0|487118:0.0|49288650:0.0|4997197:0.0|6742039:0.0|753775:0.0|90277:0.0"
     }
   }
 ]
