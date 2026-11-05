@@ -695,34 +695,34 @@
     "rodada": 34,
     "aoVivo": true,
     "rotulo": "Rodada 34 · andamento",
-    "titulo": "Rodada 34 andamento: terceiro jogo real entra em campo e os lanternas Mandrackefc e Urachfc despontam na parcial",
+    "titulo": "Rodada 34 andamento: cinco jogos no ar, Berwinha e Kidiabense brigam ponto a ponto e os lanternas Urachfc e Mandrackefc continuam mitando",
     "blocos": [
       {
         "icone": "⚽",
-        "titulo": "Mais um jogo real no ar",
-        "texto": "Desde a última passagem por aqui, o terceiro confronto da rodada 34 também colocou bola em campo: HORST BRAUN recebendo o Tricolor Lvfc. Com isso já são três dos dez jogos reais rolando, e os parciais no Cartola saíram do zero quase geral para uma pontuação base espalhada pela liga inteira."
+        "titulo": "Mais dois jogos reais entraram em campo",
+        "texto": "Desde a última passagem por aqui, dois confrontos a mais ligaram o sinal verde: Berwinha FC atropelou o Kidiabense FC por 3 a 0 no jogo real, e pietro filho bateu o Brocador do Bonja por 1 a 0. Com isso, a rodada 34 chega a cinco dos dez confrontos com bola rolando, e os parciais no Cartola já espalharam pontuação pela liga inteira."
+      },
+      {
+        "icone": "🔥",
+        "titulo": "Duelo mais quente do momento",
+        "texto": "O fiozinho mais fino da rodada está em Berwinha FC contra Kidiabense FC: 48,90 a 51,10 nos parciais, diferença de só 2,2 pontos, mesmo com o Berwinha fazendo 3 a 0 no jogo real. Mas o confronto que o Zé já tinha prometido como o grande da rodada também não decepciona: o líder Kaempfs F.C. visita o Alemonstro FBPA e por enquanto está na frente por apenas 2,8 pontos, 69,33 a 66,53. Ninguém pode descansar."
       },
       {
         "icone": "😅",
-        "titulo": "Quem está mitando (por enquanto)",
-        "texto": "A dupla que briga a lanterna da classificação é, pra variar da lógica, quem lidera a parcial: o Mandrackefc desponta com 25,8 pontos e o Urachfc vem logo atrás com 20,5. É cedo e qualquer coisa muda, mas os dois últimos colocados da tabela decidiram dar uma de artilheiro justo nesta rodada."
-      },
-      {
-        "icone": "💤",
-        "titulo": "Quem está apagado",
-        "texto": "Do outro lado, Gaudérios FC e Baade FC seguem zerados na parcial. Não é vexame nenhum, é só isso: os atletas escalados por eles ainda não entraram em campo. A maioria do restante da liga já balançou a rede com 5,2 pontos, um patamar parelho que mostra que a rodada ainda está no começo de conversa."
+        "titulo": "Mitando lá do fundo, apagados logo depois do zero",
+        "texto": "Quem segue roubando a cena nos parciais são justamente os dois lanternas da classificação: o Urachfc aparece com 75,33, a segunda maior pontuação da rodada até agora, e o Mandrackefc vem com 73,14. Já tinha avisado na atualização passada que os dois estavam de olho afiado, e a mitada só cresceu. Do outro lado, Gaudérios FC (26,3) e Corticeira's Farm FC (41,8) seguem com os números mais baixos da rodada, simplesmente porque os atletas escalados por eles ainda não entraram em campo nos próprios jogos."
       },
       {
         "icone": "⏳",
-        "titulo": "O que falta",
-        "texto": "São três dos dez confrontos com o jogo real já rolando e sete ainda pra começar, incluindo os quatro marcados para hoje à noite. A régua ainda é curta demais pra apontar cartoleiro ou vexame da rodada 34: as pontuações aqui são só parciais e podem virar de ponta a cabeça até o fechamento oficial."
+        "titulo": "O que ainda falta",
+        "texto": "Ainda restam cinco confrontos pra rolar: Parizi 01 e VIERTRICOLOR, Corticeira's Farm FC e Mandrackefc, Urachfc e Resina Club, e Império da Caipira e Esporte Clube Barão entram em campo ainda hoje, enquanto o fechamento da rodada fica pra amanhã, com Sampa recebendo o Gaudérios FC. Lembrando sempre: essas pontuações são parciais e podem virar de ponta a cabeça até o fechamento oficial."
       }
     ],
-    "geradaEm": "2026-11-04T04:25:03Z",
+    "geradaEm": "2026-11-05T00:25:49Z",
     "estado": {
       "mercado": 2,
-      "jogosIniciados": 3,
-      "assinaturaParciais": "1067774:12.0|13912942:5.2|15282074:2.8|17382079:5.2|25278938:5.2|26079439:5.2|27772103:25.8|2963331:5.2|309735:20.5|3250219:5.2|3419812:12.0|423154:5.2|47572160:5.2|47653263:5.2|487118:5.2|49288650:5.2|4997197:0.0|6742039:5.2|753775:5.2|90277:0.0"
+      "jogosIniciados": 5,
+      "assinaturaParciais": "1067774:63.3|13912942:51.1|15282074:55.5|17382079:58.7|25278938:74.3|26079439:66.5|27772103:73.1|2963331:59.5|309735:75.3|3250219:65.2|3419812:41.8|423154:48.9|47572160:74.3|47653263:75.8|487118:69.3|49288650:65.2|4997197:64.6|6742039:69.6|753775:60.7|90277:26.3"
     }
   }
 ]
