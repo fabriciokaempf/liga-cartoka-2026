@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-06T18:01:10.132Z",
+  "geradoEm": "2026-11-06T18:06:58.828Z",
   "temporada": 2026,
   "liga": {
     "nome": "Liga Cartoka de pontos corridos 2026",
@@ -337,371 +337,1559 @@
     "rodada": 34,
     "times": {
       "90277": {
-        "atletas": [
-          99274,
-          110668,
-          83528,
-          87863,
-          110506,
-          143193,
-          103445,
-          84816,
-          104084,
-          89274,
-          105647,
-          113103
+        "titulares": [
+          {
+            "id": 104084,
+            "posicaoId": 1
+          },
+          {
+            "id": 103445,
+            "posicaoId": 5
+          },
+          {
+            "id": 105647,
+            "posicaoId": 4
+          },
+          {
+            "id": 89274,
+            "posicaoId": 4
+          },
+          {
+            "id": 84816,
+            "posicaoId": 2
+          },
+          {
+            "id": 87863,
+            "posicaoId": 4
+          },
+          {
+            "id": 113103,
+            "posicaoId": 5
+          },
+          {
+            "id": 83528,
+            "posicaoId": 3
+          },
+          {
+            "id": 143193,
+            "posicaoId": 5
+          },
+          {
+            "id": 110506,
+            "posicaoId": 6
+          },
+          {
+            "id": 99274,
+            "posicaoId": 3
+          },
+          {
+            "id": 110668,
+            "posicaoId": 2
+          }
         ],
-        "capitaoId": 143193
+        "reservas": [
+          {
+            "id": 90703,
+            "posicaoId": 4
+          },
+          {
+            "id": 99552,
+            "posicaoId": 1
+          },
+          {
+            "id": 116461,
+            "posicaoId": 2
+          },
+          {
+            "id": 97653,
+            "posicaoId": 3
+          },
+          {
+            "id": 90302,
+            "posicaoId": 5
+          }
+        ],
+        "capitaoId": 143193,
+        "reservaLuxoId": 90302,
+        "assinante": true
       },
       "309735": {
-        "atletas": [
-          94583,
-          99815,
-          124264,
-          143193,
-          87863,
-          78850,
-          90768,
-          98873,
-          88963,
-          105436,
-          110426,
-          101908
+        "titulares": [
+          {
+            "id": 105436,
+            "posicaoId": 4
+          },
+          {
+            "id": 90768,
+            "posicaoId": 3
+          },
+          {
+            "id": 88963,
+            "posicaoId": 6
+          },
+          {
+            "id": 78850,
+            "posicaoId": 2
+          },
+          {
+            "id": 110426,
+            "posicaoId": 2
+          },
+          {
+            "id": 98873,
+            "posicaoId": 5
+          },
+          {
+            "id": 101908,
+            "posicaoId": 3
+          },
+          {
+            "id": 124264,
+            "posicaoId": 1
+          },
+          {
+            "id": 87863,
+            "posicaoId": 4
+          },
+          {
+            "id": 143193,
+            "posicaoId": 5
+          },
+          {
+            "id": 99815,
+            "posicaoId": 4
+          },
+          {
+            "id": 94583,
+            "posicaoId": 5
+          }
         ],
-        "capitaoId": 94583
+        "reservas": [
+          {
+            "id": 103445,
+            "posicaoId": 5
+          },
+          {
+            "id": 89274,
+            "posicaoId": 4
+          },
+          {
+            "id": 97460,
+            "posicaoId": 3
+          },
+          {
+            "id": 112616,
+            "posicaoId": 1
+          },
+          {
+            "id": 106708,
+            "posicaoId": 2
+          }
+        ],
+        "capitaoId": 94583,
+        "reservaLuxoId": 103445,
+        "assinante": true
       },
       "423154": {
-        "atletas": [
-          110426,
-          71684,
-          98873,
-          84816,
-          105647,
-          113103,
-          87863,
-          97867,
-          99815,
-          110506,
-          94583,
-          71631
+        "titulares": [
+          {
+            "id": 94583,
+            "posicaoId": 5
+          },
+          {
+            "id": 71631,
+            "posicaoId": 1
+          },
+          {
+            "id": 97867,
+            "posicaoId": 3
+          },
+          {
+            "id": 87863,
+            "posicaoId": 4
+          },
+          {
+            "id": 99815,
+            "posicaoId": 4
+          },
+          {
+            "id": 110506,
+            "posicaoId": 6
+          },
+          {
+            "id": 71684,
+            "posicaoId": 3
+          },
+          {
+            "id": 105647,
+            "posicaoId": 4
+          },
+          {
+            "id": 113103,
+            "posicaoId": 5
+          },
+          {
+            "id": 84816,
+            "posicaoId": 2
+          },
+          {
+            "id": 98873,
+            "posicaoId": 5
+          },
+          {
+            "id": 110426,
+            "posicaoId": 2
+          }
         ],
-        "capitaoId": 113103
+        "reservas": [
+          {
+            "id": 97899,
+            "posicaoId": 2
+          },
+          {
+            "id": 71536,
+            "posicaoId": 4
+          },
+          {
+            "id": 143193,
+            "posicaoId": 5
+          },
+          {
+            "id": 123869,
+            "posicaoId": 3
+          },
+          {
+            "id": 110698,
+            "posicaoId": 1
+          }
+        ],
+        "capitaoId": 113103,
+        "reservaLuxoId": 143193,
+        "assinante": false
       },
       "487118": {
-        "atletas": [
-          124526,
-          72018,
-          94583,
-          83528,
-          87863,
-          88963,
-          105647,
-          98873,
-          143193,
-          71684,
-          105436,
-          110426
+        "titulares": [
+          {
+            "id": 88963,
+            "posicaoId": 6
+          },
+          {
+            "id": 71684,
+            "posicaoId": 3
+          },
+          {
+            "id": 98873,
+            "posicaoId": 5
+          },
+          {
+            "id": 105647,
+            "posicaoId": 4
+          },
+          {
+            "id": 110426,
+            "posicaoId": 2
+          },
+          {
+            "id": 105436,
+            "posicaoId": 4
+          },
+          {
+            "id": 87863,
+            "posicaoId": 4
+          },
+          {
+            "id": 83528,
+            "posicaoId": 3
+          },
+          {
+            "id": 143193,
+            "posicaoId": 5
+          },
+          {
+            "id": 72018,
+            "posicaoId": 1
+          },
+          {
+            "id": 94583,
+            "posicaoId": 5
+          },
+          {
+            "id": 124526,
+            "posicaoId": 2
+          }
         ],
-        "capitaoId": 94583
+        "reservas": [
+          {
+            "id": 99552,
+            "posicaoId": 1
+          },
+          {
+            "id": 103445,
+            "posicaoId": 5
+          },
+          {
+            "id": 90703,
+            "posicaoId": 4
+          },
+          {
+            "id": 97653,
+            "posicaoId": 3
+          },
+          {
+            "id": 105175,
+            "posicaoId": 2
+          }
+        ],
+        "capitaoId": 94583,
+        "reservaLuxoId": 103445,
+        "assinante": true
       },
       "753775": {
-        "atletas": [
-          124526,
-          114802,
-          94583,
-          110506,
-          83528,
-          87863,
-          71684,
-          104084,
-          98873,
-          110426,
-          105436,
-          105647
+        "titulares": [
+          {
+            "id": 87863,
+            "posicaoId": 4
+          },
+          {
+            "id": 71684,
+            "posicaoId": 3
+          },
+          {
+            "id": 110426,
+            "posicaoId": 2
+          },
+          {
+            "id": 98873,
+            "posicaoId": 5
+          },
+          {
+            "id": 105647,
+            "posicaoId": 4
+          },
+          {
+            "id": 105436,
+            "posicaoId": 4
+          },
+          {
+            "id": 104084,
+            "posicaoId": 1
+          },
+          {
+            "id": 110506,
+            "posicaoId": 6
+          },
+          {
+            "id": 83528,
+            "posicaoId": 3
+          },
+          {
+            "id": 94583,
+            "posicaoId": 5
+          },
+          {
+            "id": 114802,
+            "posicaoId": 5
+          },
+          {
+            "id": 124526,
+            "posicaoId": 2
+          }
         ],
-        "capitaoId": 94583
+        "reservas": [
+          {
+            "id": 91473,
+            "posicaoId": 4
+          },
+          {
+            "id": 78850,
+            "posicaoId": 2
+          },
+          {
+            "id": 99552,
+            "posicaoId": 1
+          },
+          {
+            "id": 143193,
+            "posicaoId": 5
+          },
+          {
+            "id": 97653,
+            "posicaoId": 3
+          }
+        ],
+        "capitaoId": 94583,
+        "reservaLuxoId": 143193,
+        "assinante": true
       },
       "1067774": {
-        "atletas": [
-          105647,
-          92273,
-          105436,
-          110426,
-          102340,
-          98873,
-          124264,
-          143193,
-          99815,
-          97653,
-          94583,
-          124526
+        "titulares": [
+          {
+            "id": 98873,
+            "posicaoId": 5
+          },
+          {
+            "id": 102340,
+            "posicaoId": 3
+          },
+          {
+            "id": 92273,
+            "posicaoId": 6
+          },
+          {
+            "id": 105647,
+            "posicaoId": 4
+          },
+          {
+            "id": 110426,
+            "posicaoId": 2
+          },
+          {
+            "id": 105436,
+            "posicaoId": 4
+          },
+          {
+            "id": 99815,
+            "posicaoId": 4
+          },
+          {
+            "id": 97653,
+            "posicaoId": 3
+          },
+          {
+            "id": 143193,
+            "posicaoId": 5
+          },
+          {
+            "id": 124264,
+            "posicaoId": 1
+          },
+          {
+            "id": 94583,
+            "posicaoId": 5
+          },
+          {
+            "id": 124526,
+            "posicaoId": 2
+          }
         ],
-        "capitaoId": 94583
+        "reservas": [
+          {
+            "id": 103445,
+            "posicaoId": 5
+          },
+          {
+            "id": 78850,
+            "posicaoId": 2
+          },
+          {
+            "id": 112616,
+            "posicaoId": 1
+          },
+          {
+            "id": 97460,
+            "posicaoId": 3
+          },
+          {
+            "id": 63289,
+            "posicaoId": 4
+          }
+        ],
+        "capitaoId": 94583,
+        "reservaLuxoId": 103445,
+        "assinante": true
       },
       "2963331": {
-        "atletas": [
-          124526,
-          94583,
-          99815,
-          87863,
-          68928,
-          97867,
-          89274,
-          71684,
-          88963,
-          103445,
-          110426,
-          98873
+        "titulares": [
+          {
+            "id": 98873,
+            "posicaoId": 5
+          },
+          {
+            "id": 89274,
+            "posicaoId": 4
+          },
+          {
+            "id": 88963,
+            "posicaoId": 6
+          },
+          {
+            "id": 71684,
+            "posicaoId": 3
+          },
+          {
+            "id": 110426,
+            "posicaoId": 2
+          },
+          {
+            "id": 103445,
+            "posicaoId": 5
+          },
+          {
+            "id": 68928,
+            "posicaoId": 1
+          },
+          {
+            "id": 97867,
+            "posicaoId": 3
+          },
+          {
+            "id": 99815,
+            "posicaoId": 4
+          },
+          {
+            "id": 94583,
+            "posicaoId": 5
+          },
+          {
+            "id": 124526,
+            "posicaoId": 2
+          },
+          {
+            "id": 87863,
+            "posicaoId": 4
+          }
         ],
-        "capitaoId": 94583
+        "reservas": [
+          {
+            "id": 84735,
+            "posicaoId": 4
+          },
+          {
+            "id": 78850,
+            "posicaoId": 2
+          },
+          {
+            "id": 51413,
+            "posicaoId": 1
+          },
+          {
+            "id": 97653,
+            "posicaoId": 3
+          },
+          {
+            "id": 97321,
+            "posicaoId": 5
+          }
+        ],
+        "capitaoId": 94583,
+        "reservaLuxoId": 97321,
+        "assinante": false
       },
       "3250219": {
-        "atletas": [
-          94583,
-          99274,
-          114802,
-          87863,
-          105647,
-          105436,
-          88963,
-          98873,
-          104084,
-          71684,
-          84816,
-          110426
+        "titulares": [
+          {
+            "id": 114802,
+            "posicaoId": 5
+          },
+          {
+            "id": 94583,
+            "posicaoId": 5
+          },
+          {
+            "id": 99274,
+            "posicaoId": 3
+          },
+          {
+            "id": 87863,
+            "posicaoId": 4
+          },
+          {
+            "id": 84816,
+            "posicaoId": 2
+          },
+          {
+            "id": 105436,
+            "posicaoId": 4
+          },
+          {
+            "id": 110426,
+            "posicaoId": 2
+          },
+          {
+            "id": 71684,
+            "posicaoId": 3
+          },
+          {
+            "id": 105647,
+            "posicaoId": 4
+          },
+          {
+            "id": 104084,
+            "posicaoId": 1
+          },
+          {
+            "id": 88963,
+            "posicaoId": 6
+          },
+          {
+            "id": 98873,
+            "posicaoId": 5
+          }
         ],
-        "capitaoId": 98873
+        "reservas": [
+          {
+            "id": 110668,
+            "posicaoId": 2
+          },
+          {
+            "id": 97653,
+            "posicaoId": 3
+          },
+          {
+            "id": 143193,
+            "posicaoId": 5
+          },
+          {
+            "id": 91473,
+            "posicaoId": 4
+          },
+          {
+            "id": 99552,
+            "posicaoId": 1
+          }
+        ],
+        "capitaoId": 98873,
+        "reservaLuxoId": 143193,
+        "assinante": true
       },
       "3419812": {
-        "atletas": [
-          110426,
-          99274,
-          94583,
-          110506,
-          87863,
-          143193,
-          124264,
-          71684,
-          84816,
-          105647,
-          105436,
-          103445
+        "titulares": [
+          {
+            "id": 99274,
+            "posicaoId": 3
+          },
+          {
+            "id": 94583,
+            "posicaoId": 5
+          },
+          {
+            "id": 87863,
+            "posicaoId": 4
+          },
+          {
+            "id": 143193,
+            "posicaoId": 5
+          },
+          {
+            "id": 110506,
+            "posicaoId": 6
+          },
+          {
+            "id": 124264,
+            "posicaoId": 1
+          },
+          {
+            "id": 71684,
+            "posicaoId": 3
+          },
+          {
+            "id": 84816,
+            "posicaoId": 2
+          },
+          {
+            "id": 103445,
+            "posicaoId": 5
+          },
+          {
+            "id": 105436,
+            "posicaoId": 4
+          },
+          {
+            "id": 105647,
+            "posicaoId": 4
+          },
+          {
+            "id": 110426,
+            "posicaoId": 2
+          }
         ],
-        "capitaoId": 143193
+        "reservas": [
+          {
+            "id": 97899,
+            "posicaoId": 2
+          },
+          {
+            "id": 83528,
+            "posicaoId": 3
+          },
+          {
+            "id": 130209,
+            "posicaoId": 5
+          },
+          {
+            "id": 142890,
+            "posicaoId": 4
+          }
+        ],
+        "capitaoId": 143193,
+        "reservaLuxoId": 130209,
+        "assinante": true
       },
       "4997197": {
-        "atletas": [
-          98873,
-          88963,
-          71684,
-          104084,
-          105436,
-          105647,
-          83528,
-          87863,
-          99815,
-          143193,
-          99274,
-          94583
+        "titulares": [
+          {
+            "id": 99274,
+            "posicaoId": 3
+          },
+          {
+            "id": 94583,
+            "posicaoId": 5
+          },
+          {
+            "id": 83528,
+            "posicaoId": 3
+          },
+          {
+            "id": 99815,
+            "posicaoId": 4
+          },
+          {
+            "id": 87863,
+            "posicaoId": 4
+          },
+          {
+            "id": 143193,
+            "posicaoId": 5
+          },
+          {
+            "id": 71684,
+            "posicaoId": 3
+          },
+          {
+            "id": 98873,
+            "posicaoId": 5
+          },
+          {
+            "id": 105436,
+            "posicaoId": 4
+          },
+          {
+            "id": 88963,
+            "posicaoId": 6
+          },
+          {
+            "id": 105647,
+            "posicaoId": 4
+          },
+          {
+            "id": 104084,
+            "posicaoId": 1
+          }
         ],
-        "capitaoId": 94583
+        "reservas": [
+          {
+            "id": 97867,
+            "posicaoId": 3
+          },
+          {
+            "id": 68938,
+            "posicaoId": 4
+          },
+          {
+            "id": 103445,
+            "posicaoId": 5
+          },
+          {
+            "id": 99552,
+            "posicaoId": 1
+          }
+        ],
+        "capitaoId": 94583,
+        "reservaLuxoId": 103445,
+        "assinante": true
       },
       "6742039": {
-        "atletas": [
-          105436,
-          98873,
-          99552,
-          110426,
-          87863,
-          99815,
-          83528,
-          110506,
-          143193,
-          99274,
-          94583,
-          130525
+        "titulares": [
+          {
+            "id": 105436,
+            "posicaoId": 4
+          },
+          {
+            "id": 99552,
+            "posicaoId": 1
+          },
+          {
+            "id": 98873,
+            "posicaoId": 5
+          },
+          {
+            "id": 110426,
+            "posicaoId": 2
+          },
+          {
+            "id": 87863,
+            "posicaoId": 4
+          },
+          {
+            "id": 143193,
+            "posicaoId": 5
+          },
+          {
+            "id": 99815,
+            "posicaoId": 4
+          },
+          {
+            "id": 83528,
+            "posicaoId": 3
+          },
+          {
+            "id": 110506,
+            "posicaoId": 6
+          },
+          {
+            "id": 94583,
+            "posicaoId": 5
+          },
+          {
+            "id": 99274,
+            "posicaoId": 3
+          },
+          {
+            "id": 130525,
+            "posicaoId": 2
+          }
         ],
-        "capitaoId": 94583
+        "reservas": [
+          {
+            "id": 103445,
+            "posicaoId": 5
+          },
+          {
+            "id": 84816,
+            "posicaoId": 2
+          },
+          {
+            "id": 105647,
+            "posicaoId": 4
+          },
+          {
+            "id": 110698,
+            "posicaoId": 1
+          },
+          {
+            "id": 97867,
+            "posicaoId": 3
+          }
+        ],
+        "capitaoId": 94583,
+        "reservaLuxoId": 103445,
+        "assinante": false
       },
       "13912942": {
-        "atletas": [
-          99274,
-          94583,
-          72018,
-          99815,
-          87863,
-          110506,
-          143193,
-          71684,
-          98873,
-          84816,
-          110426,
-          105647
+        "titulares": [
+          {
+            "id": 84816,
+            "posicaoId": 2
+          },
+          {
+            "id": 71684,
+            "posicaoId": 3
+          },
+          {
+            "id": 98873,
+            "posicaoId": 5
+          },
+          {
+            "id": 105647,
+            "posicaoId": 4
+          },
+          {
+            "id": 110426,
+            "posicaoId": 2
+          },
+          {
+            "id": 87863,
+            "posicaoId": 4
+          },
+          {
+            "id": 110506,
+            "posicaoId": 6
+          },
+          {
+            "id": 143193,
+            "posicaoId": 5
+          },
+          {
+            "id": 99815,
+            "posicaoId": 4
+          },
+          {
+            "id": 99274,
+            "posicaoId": 3
+          },
+          {
+            "id": 94583,
+            "posicaoId": 5
+          },
+          {
+            "id": 72018,
+            "posicaoId": 1
+          }
         ],
-        "capitaoId": 98873
+        "reservas": [
+          {
+            "id": 90703,
+            "posicaoId": 4
+          },
+          {
+            "id": 99552,
+            "posicaoId": 1
+          },
+          {
+            "id": 103445,
+            "posicaoId": 5
+          },
+          {
+            "id": 96870,
+            "posicaoId": 2
+          },
+          {
+            "id": 83528,
+            "posicaoId": 3
+          }
+        ],
+        "capitaoId": 98873,
+        "reservaLuxoId": 103445,
+        "assinante": false
       },
       "15282074": {
-        "atletas": [
-          124526,
-          106202,
-          89840,
-          132264,
-          123869,
-          110698,
-          105436,
-          98873,
-          84735,
-          84816,
-          92273,
-          71684
+        "titulares": [
+          {
+            "id": 124526,
+            "posicaoId": 2
+          },
+          {
+            "id": 106202,
+            "posicaoId": 4
+          },
+          {
+            "id": 89840,
+            "posicaoId": 5
+          },
+          {
+            "id": 132264,
+            "posicaoId": 5
+          },
+          {
+            "id": 84735,
+            "posicaoId": 4
+          },
+          {
+            "id": 71684,
+            "posicaoId": 3
+          },
+          {
+            "id": 98873,
+            "posicaoId": 5
+          },
+          {
+            "id": 105436,
+            "posicaoId": 4
+          },
+          {
+            "id": 92273,
+            "posicaoId": 6
+          },
+          {
+            "id": 84816,
+            "posicaoId": 2
+          },
+          {
+            "id": 123869,
+            "posicaoId": 3
+          },
+          {
+            "id": 110698,
+            "posicaoId": 1
+          }
         ],
-        "capitaoId": 98873
+        "reservas": [
+          {
+            "id": 68928,
+            "posicaoId": 1
+          },
+          {
+            "id": 101319,
+            "posicaoId": 2
+          },
+          {
+            "id": 90031,
+            "posicaoId": 5
+          },
+          {
+            "id": 91473,
+            "posicaoId": 4
+          }
+        ],
+        "capitaoId": 98873,
+        "reservaLuxoId": 91473,
+        "assinante": true
       },
       "17382079": {
-        "atletas": [
-          124526,
-          99274,
-          71631,
-          94583,
-          99815,
-          143193,
-          71684,
-          87863,
-          105436,
-          98873,
-          88963,
-          110426
+        "titulares": [
+          {
+            "id": 98873,
+            "posicaoId": 5
+          },
+          {
+            "id": 110426,
+            "posicaoId": 2
+          },
+          {
+            "id": 71684,
+            "posicaoId": 3
+          },
+          {
+            "id": 88963,
+            "posicaoId": 6
+          },
+          {
+            "id": 105436,
+            "posicaoId": 4
+          },
+          {
+            "id": 87863,
+            "posicaoId": 4
+          },
+          {
+            "id": 99815,
+            "posicaoId": 4
+          },
+          {
+            "id": 143193,
+            "posicaoId": 5
+          },
+          {
+            "id": 71631,
+            "posicaoId": 1
+          },
+          {
+            "id": 99274,
+            "posicaoId": 3
+          },
+          {
+            "id": 94583,
+            "posicaoId": 5
+          },
+          {
+            "id": 124526,
+            "posicaoId": 2
+          }
         ],
-        "capitaoId": 98873
+        "reservas": [
+          {
+            "id": 105647,
+            "posicaoId": 4
+          },
+          {
+            "id": 110698,
+            "posicaoId": 1
+          },
+          {
+            "id": 103445,
+            "posicaoId": 5
+          },
+          {
+            "id": 83528,
+            "posicaoId": 3
+          },
+          {
+            "id": 105175,
+            "posicaoId": 2
+          }
+        ],
+        "capitaoId": 98873,
+        "reservaLuxoId": 103445,
+        "assinante": true
       },
       "25278938": {
-        "atletas": [
-          71631,
-          94583,
-          99815,
-          97867,
-          83528,
-          143193,
-          87863,
-          98873,
-          88963,
-          110426,
-          102130,
-          105436
+        "titulares": [
+          {
+            "id": 94583,
+            "posicaoId": 5
+          },
+          {
+            "id": 71631,
+            "posicaoId": 1
+          },
+          {
+            "id": 87863,
+            "posicaoId": 4
+          },
+          {
+            "id": 83528,
+            "posicaoId": 3
+          },
+          {
+            "id": 99815,
+            "posicaoId": 4
+          },
+          {
+            "id": 97867,
+            "posicaoId": 3
+          },
+          {
+            "id": 102130,
+            "posicaoId": 2
+          },
+          {
+            "id": 88963,
+            "posicaoId": 6
+          },
+          {
+            "id": 110426,
+            "posicaoId": 2
+          },
+          {
+            "id": 98873,
+            "posicaoId": 5
+          },
+          {
+            "id": 105436,
+            "posicaoId": 4
+          },
+          {
+            "id": 143193,
+            "posicaoId": 5
+          }
         ],
-        "capitaoId": 94583
+        "reservas": [
+          {
+            "id": 124526,
+            "posicaoId": 2
+          },
+          {
+            "id": 97653,
+            "posicaoId": 3
+          },
+          {
+            "id": 89274,
+            "posicaoId": 4
+          },
+          {
+            "id": 103445,
+            "posicaoId": 5
+          },
+          {
+            "id": 99552,
+            "posicaoId": 1
+          }
+        ],
+        "capitaoId": 94583,
+        "reservaLuxoId": 103445,
+        "assinante": false
       },
       "26079439": {
-        "atletas": [
-          94583,
-          71684,
-          87863,
-          99274,
-          98873,
-          105647,
-          104084,
-          113103,
-          88963,
-          110426,
-          84816,
-          105436
+        "titulares": [
+          {
+            "id": 104084,
+            "posicaoId": 1
+          },
+          {
+            "id": 71684,
+            "posicaoId": 3
+          },
+          {
+            "id": 84816,
+            "posicaoId": 2
+          },
+          {
+            "id": 110426,
+            "posicaoId": 2
+          },
+          {
+            "id": 105647,
+            "posicaoId": 4
+          },
+          {
+            "id": 105436,
+            "posicaoId": 4
+          },
+          {
+            "id": 98873,
+            "posicaoId": 5
+          },
+          {
+            "id": 88963,
+            "posicaoId": 6
+          },
+          {
+            "id": 113103,
+            "posicaoId": 5
+          },
+          {
+            "id": 87863,
+            "posicaoId": 4
+          },
+          {
+            "id": 99274,
+            "posicaoId": 3
+          },
+          {
+            "id": 94583,
+            "posicaoId": 5
+          }
         ],
-        "capitaoId": 94583
+        "reservas": [
+          {
+            "id": 90703,
+            "posicaoId": 4
+          },
+          {
+            "id": 99552,
+            "posicaoId": 1
+          },
+          {
+            "id": 83528,
+            "posicaoId": 3
+          },
+          {
+            "id": 143193,
+            "posicaoId": 5
+          },
+          {
+            "id": 124526,
+            "posicaoId": 2
+          }
+        ],
+        "capitaoId": 94583,
+        "reservaLuxoId": 143193,
+        "assinante": true
       },
       "27772103": {
-        "atletas": [
-          99274,
-          94583,
-          87863,
-          124264,
-          104027,
-          143193,
-          99815,
-          90768,
-          78850,
-          105436,
-          110426,
-          98873
+        "titulares": [
+          {
+            "id": 94583,
+            "posicaoId": 5
+          },
+          {
+            "id": 99274,
+            "posicaoId": 3
+          },
+          {
+            "id": 87863,
+            "posicaoId": 4
+          },
+          {
+            "id": 99815,
+            "posicaoId": 4
+          },
+          {
+            "id": 124264,
+            "posicaoId": 1
+          },
+          {
+            "id": 143193,
+            "posicaoId": 5
+          },
+          {
+            "id": 104027,
+            "posicaoId": 6
+          },
+          {
+            "id": 78850,
+            "posicaoId": 2
+          },
+          {
+            "id": 90768,
+            "posicaoId": 3
+          },
+          {
+            "id": 98873,
+            "posicaoId": 5
+          },
+          {
+            "id": 105436,
+            "posicaoId": 4
+          },
+          {
+            "id": 110426,
+            "posicaoId": 2
+          }
         ],
-        "capitaoId": 94583
+        "reservas": [
+          {
+            "id": 106708,
+            "posicaoId": 2
+          },
+          {
+            "id": 112616,
+            "posicaoId": 1
+          },
+          {
+            "id": 130843,
+            "posicaoId": 3
+          },
+          {
+            "id": 103445,
+            "posicaoId": 5
+          },
+          {
+            "id": 89274,
+            "posicaoId": 4
+          }
+        ],
+        "capitaoId": 94583,
+        "reservaLuxoId": 103445,
+        "assinante": false
       },
       "47572160": {
-        "atletas": [
-          124526,
-          71631,
-          87863,
-          94583,
-          97867,
-          83528,
-          88963,
-          98873,
-          143193,
-          105436,
-          110426,
-          105647
+        "titulares": [
+          {
+            "id": 88963,
+            "posicaoId": 6
+          },
+          {
+            "id": 110426,
+            "posicaoId": 2
+          },
+          {
+            "id": 105436,
+            "posicaoId": 4
+          },
+          {
+            "id": 98873,
+            "posicaoId": 5
+          },
+          {
+            "id": 105647,
+            "posicaoId": 4
+          },
+          {
+            "id": 87863,
+            "posicaoId": 4
+          },
+          {
+            "id": 83528,
+            "posicaoId": 3
+          },
+          {
+            "id": 143193,
+            "posicaoId": 5
+          },
+          {
+            "id": 97867,
+            "posicaoId": 3
+          },
+          {
+            "id": 71631,
+            "posicaoId": 1
+          },
+          {
+            "id": 94583,
+            "posicaoId": 5
+          },
+          {
+            "id": 124526,
+            "posicaoId": 2
+          }
         ],
-        "capitaoId": 94583
+        "reservas": [
+          {
+            "id": 101715,
+            "posicaoId": 5
+          },
+          {
+            "id": 124264,
+            "posicaoId": 1
+          },
+          {
+            "id": 106202,
+            "posicaoId": 4
+          },
+          {
+            "id": 97653,
+            "posicaoId": 3
+          },
+          {
+            "id": 97899,
+            "posicaoId": 2
+          }
+        ],
+        "capitaoId": 94583,
+        "reservaLuxoId": 101715,
+        "assinante": false
       },
       "47653263": {
-        "atletas": [
-          98873,
-          105436,
-          84816,
-          71684,
-          88963,
-          105647,
-          110426,
-          87863,
-          83528,
-          94583,
-          72018,
-          114802
+        "titulares": [
+          {
+            "id": 114802,
+            "posicaoId": 5
+          },
+          {
+            "id": 94583,
+            "posicaoId": 5
+          },
+          {
+            "id": 72018,
+            "posicaoId": 1
+          },
+          {
+            "id": 83528,
+            "posicaoId": 3
+          },
+          {
+            "id": 87863,
+            "posicaoId": 4
+          },
+          {
+            "id": 71684,
+            "posicaoId": 3
+          },
+          {
+            "id": 84816,
+            "posicaoId": 2
+          },
+          {
+            "id": 110426,
+            "posicaoId": 2
+          },
+          {
+            "id": 105647,
+            "posicaoId": 4
+          },
+          {
+            "id": 98873,
+            "posicaoId": 5
+          },
+          {
+            "id": 88963,
+            "posicaoId": 6
+          },
+          {
+            "id": 105436,
+            "posicaoId": 4
+          }
         ],
-        "capitaoId": 94583
+        "reservas": [
+          {
+            "id": 97899,
+            "posicaoId": 2
+          },
+          {
+            "id": 128431,
+            "posicaoId": 4
+          },
+          {
+            "id": 124264,
+            "posicaoId": 1
+          },
+          {
+            "id": 97867,
+            "posicaoId": 3
+          },
+          {
+            "id": 143193,
+            "posicaoId": 5
+          }
+        ],
+        "capitaoId": 94583,
+        "reservaLuxoId": 143193,
+        "assinante": true
       },
       "49288650": {
-        "atletas": [
-          94583,
-          72018,
-          99274,
-          87863,
-          143193,
-          71684,
-          88963,
-          98873,
-          105436,
-          84816,
-          110426,
-          105647
+        "titulares": [
+          {
+            "id": 110426,
+            "posicaoId": 2
+          },
+          {
+            "id": 98873,
+            "posicaoId": 5
+          },
+          {
+            "id": 88963,
+            "posicaoId": 6
+          },
+          {
+            "id": 84816,
+            "posicaoId": 2
+          },
+          {
+            "id": 71684,
+            "posicaoId": 3
+          },
+          {
+            "id": 105647,
+            "posicaoId": 4
+          },
+          {
+            "id": 87863,
+            "posicaoId": 4
+          },
+          {
+            "id": 105436,
+            "posicaoId": 4
+          },
+          {
+            "id": 143193,
+            "posicaoId": 5
+          },
+          {
+            "id": 72018,
+            "posicaoId": 1
+          },
+          {
+            "id": 99274,
+            "posicaoId": 3
+          },
+          {
+            "id": 94583,
+            "posicaoId": 5
+          }
         ],
-        "capitaoId": 98873
+        "reservas": [
+          {
+            "id": 142890,
+            "posicaoId": 4
+          },
+          {
+            "id": 99552,
+            "posicaoId": 1
+          },
+          {
+            "id": 103445,
+            "posicaoId": 5
+          },
+          {
+            "id": 83528,
+            "posicaoId": 3
+          },
+          {
+            "id": 97899,
+            "posicaoId": 2
+          }
+        ],
+        "capitaoId": 98873,
+        "reservaLuxoId": 103445,
+        "assinante": true
       }
     }
   },
   "parciais": {
     "rodada": 34,
-    "atualizadoEm": "2026-11-06T18:01:10.116Z",
+    "atualizadoEm": "2026-11-06T18:06:58.814Z",
     "porTime": {
-      "90277": 94.41,
-      "309735": 81.51,
-      "423154": 87.91,
-      "487118": 104.91,
-      "753775": 60.01,
-      "1067774": 88.81,
-      "2963331": 83.61,
-      "3250219": 84.21,
-      "3419812": 95.71,
-      "4997197": 96.42,
-      "6742039": 77.41,
-      "13912942": 74.86,
-      "15282074": 57.87,
-      "17382079": 77.41,
-      "25278938": 93.51,
-      "26079439": 60.51,
-      "27772103": 81.51,
-      "47572160": 92.91,
-      "47653263": 87.41,
-      "49288650": 82.91
+      "90277": 80.2,
+      "309735": 117.4,
+      "423154": 111.35,
+      "487118": 111.4,
+      "753775": 111.05,
+      "1067774": 127.07,
+      "2963331": 128.6,
+      "3250219": 95.2,
+      "3419812": 70.85,
+      "4997197": 115.7,
+      "6742039": 104.75,
+      "13912942": 93.85,
+      "15282074": 60.97,
+      "17382079": 110.5,
+      "25278938": 96.7,
+      "26079439": 98.4,
+      "27772103": 97.19,
+      "47572160": 96.2,
+      "47653263": 105.2,
+      "49288650": 95.8
     }
   },
   "pontuacoes": {

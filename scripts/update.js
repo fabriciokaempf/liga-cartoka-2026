@@ -291,44 +291,118 @@ async function principal() {
 
   // Parciais ao vivo da rodada em andamento.
   //
-  // A pontuacao parcial NAO e somada na mao aqui. O proprio Cartola publica
-  // o numero pronto em /time/id/{id}/{rodada}, no campo "pontos", ja com
-  // capitao, substituicao automatica de banco e qualquer outra regra interna
-  // aplicada pelo criterio deles. Somar atleta por atleta obrigava a
-  // reimplementar essas regras por fora e dava diferenca grande: na rodada 34
-  // a soma propria errou em quase todos os times, varios por mais de 40
-  // pontos. Ler o valor oficial custa 20 requisicoes por execucao e elimina a
-  // classe inteira de erro.
+  // A API do Cartola nao entrega o placar pronto: o campo "pontos" de
+  // /time/id/{id}/{rodada} so e preenchido quando a rodada consolida e fica
+  // defasado durante os jogos. O numero que o app mostra e calculado por ele
+  // mesmo, em cima de tres pecas que a API entrega soltas. Espelhar exige
+  // refazer as tres regras, nesta ordem:
+  //
+  //   1. Capitao vale 1,5x.
+  //   2. Substituicao automatica de banco: titular que nao pontuou e trocado
+  //      pelo reserva da mesma posicao que pontuou, cada reserva uma vez so.
+  //   3. Reserva de Luxo (recurso do Cartola PRO, campo reserva_luxo_id, vale
+  //      so para time assinante): troca o PIOR pontuador da escalacao,
+  //      independente da posicao, desde que o reserva de luxo pontue mais que
+  //      ele e ainda nao tenha entrado como substituto comum.
+  //
+  // Validado na rodada 34 contra o app: Kaempfs 111,40 e Alemonstro 98,40,
+  // ambos cravados.
+  //
+  // A escalacao congela no fechamento do mercado, entao fica em cache por
+  // rodada: cada execucao busca so /atletas/pontuados e recalcula.
+  const MULTIPLICADOR_CAPITAO = 1.5;
   let escalacoes = null;
   let parciais = null;
 
   if (!simulacao && !gameOver && status.status_mercado === 2) {
-    escalacoes = { rodada: rodadaAtual, times: {} };
-    const porTime = {};
+    escalacoes = (cacheValido && anterior.escalacoes && anterior.escalacoes.rodada === rodadaAtual && anterior.escalacoes.times)
+      ? anterior.escalacoes
+      : { rodada: rodadaAtual, times: {} };
 
     for (const jogador of jogadores) {
+      const chave = String(jogador.timeId);
+      // Entradas de cache antigas nao tem reservaLuxoId: refaz a busca.
+      const cache = escalacoes.times[chave];
+      if (cache && Object.prototype.hasOwnProperty.call(cache, "reservaLuxoId")) continue;
       await pausa(ESPERA_MS);
+      console.log("Escalacao da rodada " + rodadaAtual + ": " + jogador.nome + "...");
       const resposta = await buscarJson("/time/id/" + jogador.timeId + "/" + rodadaAtual, { permitir404: true });
-      if (!resposta || typeof resposta.pontos !== "number" || !isFinite(resposta.pontos)) {
-        console.warn("Aviso: sem parcial oficial para " + jogador.nome + " na rodada " + rodadaAtual + ".");
-        continue;
+      const mapear = (lista) => (Array.isArray(lista) ? lista : [])
+        .filter((a) => a && typeof a.atleta_id === "number")
+        .map((a) => ({ id: a.atleta_id, posicaoId: typeof a.posicao_id === "number" ? a.posicao_id : null }));
+      if (resposta && Array.isArray(resposta.atletas) && resposta.atletas.length > 0) {
+        escalacoes.times[chave] = {
+          titulares: mapear(resposta.atletas),
+          reservas: mapear(resposta.reservas),
+          capitaoId: typeof resposta.capitao_id === "number" ? resposta.capitao_id : null,
+          reservaLuxoId: typeof resposta.reserva_luxo_id === "number" ? resposta.reserva_luxo_id : null,
+          assinante: !!(resposta.time && resposta.time.assinante)
+        };
+      } else {
+        escalacoes.times[chave] = { titulares: [], reservas: [], capitaoId: null, reservaLuxoId: null, assinante: false };
+        console.warn("Aviso: " + jogador.nome + " sem escalacao na rodada " + rodadaAtual + ".");
       }
-      porTime[String(jogador.timeId)] = round2(resposta.pontos);
-      escalacoes.times[String(jogador.timeId)] = {
-        atletas: (Array.isArray(resposta.atletas) ? resposta.atletas : [])
-          .filter((a) => a && typeof a.atleta_id === "number")
-          .map((a) => a.atleta_id),
-        capitaoId: typeof resposta.capitao_id === "number" ? resposta.capitao_id : null
-      };
     }
 
-    if (Object.keys(porTime).length > 0) {
+    await pausa(ESPERA_MS);
+    const pontuados = await buscarJson("/atletas/pontuados", { permitir404: true });
+    if (pontuados && pontuados.rodada === rodadaAtual && pontuados.atletas && Object.keys(pontuados.atletas).length > 0) {
+      const pontuacaoDe = (atletaId) => {
+        const a = pontuados.atletas[String(atletaId)];
+        return a && typeof a.pontuacao === "number" && isFinite(a.pontuacao) ? a.pontuacao : null;
+      };
+
+      const porTime = {};
+      for (const jogador of jogadores) {
+        const e = escalacoes.times[String(jogador.timeId)];
+        const luxoId = e.reservaLuxoId;
+        const banco = Array.isArray(e.reservas) ? e.reservas : [];
+        const usados = new Set();
+
+        // Regras 1 e 2: capitao e substituicao comum, posicao por posicao.
+        const slots = (e.titulares || []).map((titular) => {
+          let pontos = pontuacaoDe(titular.id);
+          let capitao = titular.id === e.capitaoId;
+          if (pontos === null) {
+            const reserva = banco.find((r) =>
+              r.posicaoId === titular.posicaoId &&
+              !usados.has(r.id) &&
+              r.id !== luxoId &&
+              pontuacaoDe(r.id) !== null
+            );
+            if (reserva) {
+              usados.add(reserva.id);
+              pontos = pontuacaoDe(reserva.id);
+              capitao = false; // reserva que substitui capitao nao leva o 1,5x
+            }
+          }
+          return { pontos, capitao };
+        });
+
+        const valorDoSlot = (s) => (s.pontos === null ? -Infinity : (s.capitao ? s.pontos * MULTIPLICADOR_CAPITAO : s.pontos));
+
+        // Regra 3: Reserva de Luxo, so para assinante, no pior slot.
+        const pontosLuxo = (luxoId !== null && !usados.has(luxoId)) ? pontuacaoDe(luxoId) : null;
+        if (e.assinante && pontosLuxo !== null && slots.length > 0) {
+          let indicePior = 0;
+          let valorPior = valorDoSlot(slots[0]);
+          for (let i = 1; i < slots.length; i += 1) {
+            const v = valorDoSlot(slots[i]);
+            if (v < valorPior) { valorPior = v; indicePior = i; }
+          }
+          if (pontosLuxo > valorPior) slots[indicePior] = { pontos: pontosLuxo, capitao: false };
+        }
+
+        const total = slots.reduce((soma, s) => soma + (s.pontos === null ? 0 : valorDoSlot(s)), 0);
+        porTime[String(jogador.timeId)] = round2(total);
+      }
+
       parciais = {
         rodada: rodadaAtual,
         atualizadoEm: new Date().toISOString(),
         porTime
       };
-      console.log("Parciais oficiais da rodada " + rodadaAtual + " lidas para " + Object.keys(porTime).length + " times.");
+      console.log("Parciais da rodada " + rodadaAtual + " calculadas para " + Object.keys(porTime).length + " times.");
     } else {
       console.log("Sem parciais no momento (jogos da rodada " + rodadaAtual + " ainda nao comecaram).");
     }
