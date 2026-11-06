@@ -10,7 +10,7 @@ Página publicada: https://fabriciokaempf.github.io/liga-cartoka-2026/
 - Vence o confronto quem fizer mais pontos no Cartola na rodada. Vitória vale 3 pontos na liga. Empate quando a diferença for menor que 2,0 pontos (1 ponto para cada).
 - Desempate na classificação: PG turno (soma das pontuações do Cartola no returno), depois vitórias.
 - Um robô (GitHub Actions) busca os dados na API pública do Cartola a cada 30 minutos, recalcula tudo e republica o arquivo `docs/data.json` quando algo muda. A página lê apenas esse arquivo.
-- Durante os jogos, os confrontos da rodada em andamento mostram pontuações parciais (escalação congelada no fechamento do mercado, capitão valendo 1,5x, sem substituições automáticas de banco). A pontuação oficial e a classificação entram logo após o Cartola consolidar a rodada.
+- Durante os jogos, os confrontos da rodada em andamento mostram pontuações parciais: escalação congelada no fechamento do mercado, capitão valendo 1,5x e substituição automática de banco. A substituição entra quando o titular não pontua e a partida do clube dele já acabou (ou não vale para a rodada, caso de jogo antecipado antes do fechamento do mercado); o reserva da mesma posição assume o slot, uma vez cada, e reserva que substitui capitão não leva o 1,5x. Enquanto a partida do titular não termina o slot fica em aberto, porque ele ainda pode entrar em campo. A pontuação oficial e a classificação entram logo após o Cartola consolidar a rodada.
 
 ## Como marcar um pagamento de inscrição
 

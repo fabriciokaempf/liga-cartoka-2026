@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-06T09:04:13.813Z",
+  "geradoEm": "2026-11-06T16:33:21.484Z",
   "temporada": 2026,
   "liga": {
     "nome": "Liga Cartoka de pontos corridos 2026",
@@ -338,341 +338,2106 @@
     "times": {
       "90277": {
         "atletas": [
-          87863,
-          113103,
-          103445,
-          99274,
-          83528,
-          110668,
-          110506,
-          84816,
           104084,
           89274,
+          103445,
+          84816,
+          113103,
+          105647,
+          87863,
+          83528,
           143193,
-          105647
+          110506,
+          99274,
+          110668
+        ],
+        "titulares": [
+          {
+            "id": 104084,
+            "clubeId": 275,
+            "posicaoId": 1
+          },
+          {
+            "id": 89274,
+            "clubeId": 275,
+            "posicaoId": 4
+          },
+          {
+            "id": 103445,
+            "clubeId": 283,
+            "posicaoId": 5
+          },
+          {
+            "id": 84816,
+            "clubeId": 262,
+            "posicaoId": 2
+          },
+          {
+            "id": 113103,
+            "clubeId": 275,
+            "posicaoId": 5
+          },
+          {
+            "id": 105647,
+            "clubeId": 275,
+            "posicaoId": 4
+          },
+          {
+            "id": 87863,
+            "clubeId": 262,
+            "posicaoId": 4
+          },
+          {
+            "id": 83528,
+            "clubeId": 262,
+            "posicaoId": 3
+          },
+          {
+            "id": 143193,
+            "clubeId": 293,
+            "posicaoId": 5
+          },
+          {
+            "id": 110506,
+            "clubeId": 275,
+            "posicaoId": 6
+          },
+          {
+            "id": 99274,
+            "clubeId": 275,
+            "posicaoId": 3
+          },
+          {
+            "id": 110668,
+            "clubeId": 293,
+            "posicaoId": 2
+          }
+        ],
+        "reservas": [
+          {
+            "id": 116461,
+            "clubeId": 287,
+            "posicaoId": 2
+          },
+          {
+            "id": 99552,
+            "clubeId": 262,
+            "posicaoId": 1
+          },
+          {
+            "id": 90703,
+            "clubeId": 287,
+            "posicaoId": 4
+          },
+          {
+            "id": 97653,
+            "clubeId": 275,
+            "posicaoId": 3
+          },
+          {
+            "id": 90302,
+            "clubeId": 294,
+            "posicaoId": 5
+          }
         ],
         "capitaoId": 143193
       },
       "309735": {
         "atletas": [
-          90768,
-          78850,
-          88963,
-          101908,
           98873,
-          110426,
-          87863,
+          90768,
+          88963,
+          78850,
+          101908,
           105436,
-          124264,
+          87863,
+          110426,
           99815,
-          94583,
-          143193
+          143193,
+          124264,
+          94583
+        ],
+        "titulares": [
+          {
+            "id": 98873,
+            "clubeId": 262,
+            "posicaoId": 5
+          },
+          {
+            "id": 90768,
+            "clubeId": 283,
+            "posicaoId": 3
+          },
+          {
+            "id": 88963,
+            "clubeId": 262,
+            "posicaoId": 6
+          },
+          {
+            "id": 78850,
+            "clubeId": 2305,
+            "posicaoId": 2
+          },
+          {
+            "id": 101908,
+            "clubeId": 2305,
+            "posicaoId": 3
+          },
+          {
+            "id": 105436,
+            "clubeId": 262,
+            "posicaoId": 4
+          },
+          {
+            "id": 87863,
+            "clubeId": 262,
+            "posicaoId": 4
+          },
+          {
+            "id": 110426,
+            "clubeId": 285,
+            "posicaoId": 2
+          },
+          {
+            "id": 99815,
+            "clubeId": 275,
+            "posicaoId": 4
+          },
+          {
+            "id": 143193,
+            "clubeId": 293,
+            "posicaoId": 5
+          },
+          {
+            "id": 124264,
+            "clubeId": 285,
+            "posicaoId": 1
+          },
+          {
+            "id": 94583,
+            "clubeId": 262,
+            "posicaoId": 5
+          }
+        ],
+        "reservas": [
+          {
+            "id": 103445,
+            "clubeId": 283,
+            "posicaoId": 5
+          },
+          {
+            "id": 89274,
+            "clubeId": 275,
+            "posicaoId": 4
+          },
+          {
+            "id": 97460,
+            "clubeId": 2305,
+            "posicaoId": 3
+          },
+          {
+            "id": 112616,
+            "clubeId": 284,
+            "posicaoId": 1
+          },
+          {
+            "id": 106708,
+            "clubeId": 2305,
+            "posicaoId": 2
+          }
         ],
         "capitaoId": 94583
       },
       "423154": {
         "atletas": [
-          98873,
-          71684,
           84816,
-          87863,
-          113103,
-          99815,
+          71684,
           105647,
-          97867,
+          113103,
+          98873,
           110426,
+          97867,
+          87863,
+          99815,
+          110506,
           71631,
-          94583,
-          110506
+          94583
+        ],
+        "titulares": [
+          {
+            "id": 84816,
+            "clubeId": 262,
+            "posicaoId": 2
+          },
+          {
+            "id": 71684,
+            "clubeId": 275,
+            "posicaoId": 3
+          },
+          {
+            "id": 105647,
+            "clubeId": 275,
+            "posicaoId": 4
+          },
+          {
+            "id": 113103,
+            "clubeId": 275,
+            "posicaoId": 5
+          },
+          {
+            "id": 98873,
+            "clubeId": 262,
+            "posicaoId": 5
+          },
+          {
+            "id": 110426,
+            "clubeId": 285,
+            "posicaoId": 2
+          },
+          {
+            "id": 97867,
+            "clubeId": 262,
+            "posicaoId": 3
+          },
+          {
+            "id": 87863,
+            "clubeId": 262,
+            "posicaoId": 4
+          },
+          {
+            "id": 99815,
+            "clubeId": 275,
+            "posicaoId": 4
+          },
+          {
+            "id": 110506,
+            "clubeId": 275,
+            "posicaoId": 6
+          },
+          {
+            "id": 71631,
+            "clubeId": 284,
+            "posicaoId": 1
+          },
+          {
+            "id": 94583,
+            "clubeId": 262,
+            "posicaoId": 5
+          }
+        ],
+        "reservas": [
+          {
+            "id": 110698,
+            "clubeId": 293,
+            "posicaoId": 1
+          },
+          {
+            "id": 123869,
+            "clubeId": 293,
+            "posicaoId": 3
+          },
+          {
+            "id": 143193,
+            "clubeId": 293,
+            "posicaoId": 5
+          },
+          {
+            "id": 71536,
+            "clubeId": 293,
+            "posicaoId": 4
+          },
+          {
+            "id": 97899,
+            "clubeId": 285,
+            "posicaoId": 2
+          }
         ],
         "capitaoId": 113103
       },
       "487118": {
         "atletas": [
-          88963,
           105436,
-          98873,
-          105647,
-          72018,
-          110426,
-          87863,
           71684,
-          94583,
-          124526,
+          88963,
+          105647,
+          87863,
+          98873,
+          110426,
+          143193,
           83528,
-          143193
+          72018,
+          94583,
+          124526
+        ],
+        "titulares": [
+          {
+            "id": 105436,
+            "clubeId": 262,
+            "posicaoId": 4
+          },
+          {
+            "id": 71684,
+            "clubeId": 275,
+            "posicaoId": 3
+          },
+          {
+            "id": 88963,
+            "clubeId": 262,
+            "posicaoId": 6
+          },
+          {
+            "id": 105647,
+            "clubeId": 275,
+            "posicaoId": 4
+          },
+          {
+            "id": 87863,
+            "clubeId": 262,
+            "posicaoId": 4
+          },
+          {
+            "id": 98873,
+            "clubeId": 262,
+            "posicaoId": 5
+          },
+          {
+            "id": 110426,
+            "clubeId": 285,
+            "posicaoId": 2
+          },
+          {
+            "id": 143193,
+            "clubeId": 293,
+            "posicaoId": 5
+          },
+          {
+            "id": 83528,
+            "clubeId": 262,
+            "posicaoId": 3
+          },
+          {
+            "id": 72018,
+            "clubeId": 280,
+            "posicaoId": 1
+          },
+          {
+            "id": 94583,
+            "clubeId": 262,
+            "posicaoId": 5
+          },
+          {
+            "id": 124526,
+            "clubeId": 275,
+            "posicaoId": 2
+          }
+        ],
+        "reservas": [
+          {
+            "id": 99552,
+            "clubeId": 262,
+            "posicaoId": 1
+          },
+          {
+            "id": 103445,
+            "clubeId": 283,
+            "posicaoId": 5
+          },
+          {
+            "id": 90703,
+            "clubeId": 287,
+            "posicaoId": 4
+          },
+          {
+            "id": 97653,
+            "clubeId": 275,
+            "posicaoId": 3
+          },
+          {
+            "id": 105175,
+            "clubeId": 275,
+            "posicaoId": 2
+          }
         ],
         "capitaoId": 94583
       },
       "753775": {
         "atletas": [
-          110426,
-          71684,
           98873,
-          105647,
-          104084,
           105436,
+          104084,
+          71684,
+          105647,
+          110426,
           87863,
-          110506,
           83528,
+          110506,
           94583,
           114802,
           124526
+        ],
+        "titulares": [
+          {
+            "id": 98873,
+            "clubeId": 262,
+            "posicaoId": 5
+          },
+          {
+            "id": 105436,
+            "clubeId": 262,
+            "posicaoId": 4
+          },
+          {
+            "id": 104084,
+            "clubeId": 275,
+            "posicaoId": 1
+          },
+          {
+            "id": 71684,
+            "clubeId": 275,
+            "posicaoId": 3
+          },
+          {
+            "id": 105647,
+            "clubeId": 275,
+            "posicaoId": 4
+          },
+          {
+            "id": 110426,
+            "clubeId": 285,
+            "posicaoId": 2
+          },
+          {
+            "id": 87863,
+            "clubeId": 262,
+            "posicaoId": 4
+          },
+          {
+            "id": 83528,
+            "clubeId": 262,
+            "posicaoId": 3
+          },
+          {
+            "id": 110506,
+            "clubeId": 275,
+            "posicaoId": 6
+          },
+          {
+            "id": 94583,
+            "clubeId": 262,
+            "posicaoId": 5
+          },
+          {
+            "id": 114802,
+            "clubeId": 275,
+            "posicaoId": 5
+          },
+          {
+            "id": 124526,
+            "clubeId": 275,
+            "posicaoId": 2
+          }
+        ],
+        "reservas": [
+          {
+            "id": 91473,
+            "clubeId": 262,
+            "posicaoId": 4
+          },
+          {
+            "id": 99552,
+            "clubeId": 262,
+            "posicaoId": 1
+          },
+          {
+            "id": 78850,
+            "clubeId": 2305,
+            "posicaoId": 2
+          },
+          {
+            "id": 97653,
+            "clubeId": 275,
+            "posicaoId": 3
+          },
+          {
+            "id": 143193,
+            "clubeId": 293,
+            "posicaoId": 5
+          }
         ],
         "capitaoId": 94583
       },
       "1067774": {
         "atletas": [
-          105647,
+          102340,
           92273,
           110426,
-          102340,
+          105647,
           98873,
           105436,
           124264,
           143193,
-          99815,
           97653,
+          99815,
           94583,
           124526
+        ],
+        "titulares": [
+          {
+            "id": 102340,
+            "clubeId": 287,
+            "posicaoId": 3
+          },
+          {
+            "id": 92273,
+            "clubeId": 293,
+            "posicaoId": 6
+          },
+          {
+            "id": 110426,
+            "clubeId": 285,
+            "posicaoId": 2
+          },
+          {
+            "id": 105647,
+            "clubeId": 275,
+            "posicaoId": 4
+          },
+          {
+            "id": 98873,
+            "clubeId": 262,
+            "posicaoId": 5
+          },
+          {
+            "id": 105436,
+            "clubeId": 262,
+            "posicaoId": 4
+          },
+          {
+            "id": 124264,
+            "clubeId": 285,
+            "posicaoId": 1
+          },
+          {
+            "id": 143193,
+            "clubeId": 293,
+            "posicaoId": 5
+          },
+          {
+            "id": 97653,
+            "clubeId": 275,
+            "posicaoId": 3
+          },
+          {
+            "id": 99815,
+            "clubeId": 275,
+            "posicaoId": 4
+          },
+          {
+            "id": 94583,
+            "clubeId": 262,
+            "posicaoId": 5
+          },
+          {
+            "id": 124526,
+            "clubeId": 275,
+            "posicaoId": 2
+          }
+        ],
+        "reservas": [
+          {
+            "id": 78850,
+            "clubeId": 2305,
+            "posicaoId": 2
+          },
+          {
+            "id": 103445,
+            "clubeId": 283,
+            "posicaoId": 5
+          },
+          {
+            "id": 97460,
+            "clubeId": 2305,
+            "posicaoId": 3
+          },
+          {
+            "id": 112616,
+            "clubeId": 284,
+            "posicaoId": 1
+          },
+          {
+            "id": 63289,
+            "clubeId": 263,
+            "posicaoId": 4
+          }
         ],
         "capitaoId": 94583
       },
       "2963331": {
         "atletas": [
-          94583,
-          124526,
-          68928,
-          97867,
-          99815,
-          87863,
-          98873,
-          103445,
-          71684,
           89274,
           88963,
-          110426
+          71684,
+          110426,
+          98873,
+          103445,
+          68928,
+          87863,
+          99815,
+          97867,
+          94583,
+          124526
+        ],
+        "titulares": [
+          {
+            "id": 89274,
+            "clubeId": 275,
+            "posicaoId": 4
+          },
+          {
+            "id": 88963,
+            "clubeId": 262,
+            "posicaoId": 6
+          },
+          {
+            "id": 71684,
+            "clubeId": 275,
+            "posicaoId": 3
+          },
+          {
+            "id": 110426,
+            "clubeId": 285,
+            "posicaoId": 2
+          },
+          {
+            "id": 98873,
+            "clubeId": 262,
+            "posicaoId": 5
+          },
+          {
+            "id": 103445,
+            "clubeId": 283,
+            "posicaoId": 5
+          },
+          {
+            "id": 68928,
+            "clubeId": 276,
+            "posicaoId": 1
+          },
+          {
+            "id": 87863,
+            "clubeId": 262,
+            "posicaoId": 4
+          },
+          {
+            "id": 99815,
+            "clubeId": 275,
+            "posicaoId": 4
+          },
+          {
+            "id": 97867,
+            "clubeId": 262,
+            "posicaoId": 3
+          },
+          {
+            "id": 94583,
+            "clubeId": 262,
+            "posicaoId": 5
+          },
+          {
+            "id": 124526,
+            "clubeId": 275,
+            "posicaoId": 2
+          }
+        ],
+        "reservas": [
+          {
+            "id": 84735,
+            "clubeId": 262,
+            "posicaoId": 4
+          },
+          {
+            "id": 51413,
+            "clubeId": 2305,
+            "posicaoId": 1
+          },
+          {
+            "id": 78850,
+            "clubeId": 2305,
+            "posicaoId": 2
+          },
+          {
+            "id": 97653,
+            "clubeId": 275,
+            "posicaoId": 3
+          },
+          {
+            "id": 97321,
+            "clubeId": 2305,
+            "posicaoId": 5
+          }
         ],
         "capitaoId": 94583
       },
       "3250219": {
         "atletas": [
-          71684,
-          98873,
           84816,
           88963,
-          105436,
-          104084,
-          105647,
-          87863,
+          98873,
+          71684,
           110426,
-          99274,
+          87863,
+          105647,
+          104084,
+          105436,
           94583,
+          99274,
           114802
+        ],
+        "titulares": [
+          {
+            "id": 84816,
+            "clubeId": 262,
+            "posicaoId": 2
+          },
+          {
+            "id": 88963,
+            "clubeId": 262,
+            "posicaoId": 6
+          },
+          {
+            "id": 98873,
+            "clubeId": 262,
+            "posicaoId": 5
+          },
+          {
+            "id": 71684,
+            "clubeId": 275,
+            "posicaoId": 3
+          },
+          {
+            "id": 110426,
+            "clubeId": 285,
+            "posicaoId": 2
+          },
+          {
+            "id": 87863,
+            "clubeId": 262,
+            "posicaoId": 4
+          },
+          {
+            "id": 105647,
+            "clubeId": 275,
+            "posicaoId": 4
+          },
+          {
+            "id": 104084,
+            "clubeId": 275,
+            "posicaoId": 1
+          },
+          {
+            "id": 105436,
+            "clubeId": 262,
+            "posicaoId": 4
+          },
+          {
+            "id": 94583,
+            "clubeId": 262,
+            "posicaoId": 5
+          },
+          {
+            "id": 99274,
+            "clubeId": 275,
+            "posicaoId": 3
+          },
+          {
+            "id": 114802,
+            "clubeId": 275,
+            "posicaoId": 5
+          }
+        ],
+        "reservas": [
+          {
+            "id": 91473,
+            "clubeId": 262,
+            "posicaoId": 4
+          },
+          {
+            "id": 99552,
+            "clubeId": 262,
+            "posicaoId": 1
+          },
+          {
+            "id": 97653,
+            "clubeId": 275,
+            "posicaoId": 3
+          },
+          {
+            "id": 143193,
+            "clubeId": 293,
+            "posicaoId": 5
+          },
+          {
+            "id": 110668,
+            "clubeId": 293,
+            "posicaoId": 2
+          }
         ],
         "capitaoId": 98873
       },
       "3419812": {
         "atletas": [
-          105647,
           103445,
-          105436,
-          84816,
           71684,
           110426,
+          84816,
+          105647,
+          105436,
           87863,
+          124264,
           143193,
           110506,
-          124264,
           99274,
           94583
+        ],
+        "titulares": [
+          {
+            "id": 103445,
+            "clubeId": 283,
+            "posicaoId": 5
+          },
+          {
+            "id": 71684,
+            "clubeId": 275,
+            "posicaoId": 3
+          },
+          {
+            "id": 110426,
+            "clubeId": 285,
+            "posicaoId": 2
+          },
+          {
+            "id": 84816,
+            "clubeId": 262,
+            "posicaoId": 2
+          },
+          {
+            "id": 105647,
+            "clubeId": 275,
+            "posicaoId": 4
+          },
+          {
+            "id": 105436,
+            "clubeId": 262,
+            "posicaoId": 4
+          },
+          {
+            "id": 87863,
+            "clubeId": 262,
+            "posicaoId": 4
+          },
+          {
+            "id": 124264,
+            "clubeId": 285,
+            "posicaoId": 1
+          },
+          {
+            "id": 143193,
+            "clubeId": 293,
+            "posicaoId": 5
+          },
+          {
+            "id": 110506,
+            "clubeId": 275,
+            "posicaoId": 6
+          },
+          {
+            "id": 99274,
+            "clubeId": 275,
+            "posicaoId": 3
+          },
+          {
+            "id": 94583,
+            "clubeId": 262,
+            "posicaoId": 5
+          }
+        ],
+        "reservas": [
+          {
+            "id": 142890,
+            "clubeId": 263,
+            "posicaoId": 4
+          },
+          {
+            "id": 130209,
+            "clubeId": 287,
+            "posicaoId": 5
+          },
+          {
+            "id": 83528,
+            "clubeId": 262,
+            "posicaoId": 3
+          },
+          {
+            "id": 97899,
+            "clubeId": 285,
+            "posicaoId": 2
+          }
         ],
         "capitaoId": 143193
       },
       "4997197": {
         "atletas": [
-          99274,
-          94583,
-          83528,
-          99815,
+          105436,
           87863,
-          143193,
+          104084,
           98873,
+          105647,
+          99815,
           88963,
           71684,
-          105436,
-          104084,
-          105647
+          143193,
+          83528,
+          99274,
+          94583
+        ],
+        "titulares": [
+          {
+            "id": 105436,
+            "clubeId": 262,
+            "posicaoId": 4
+          },
+          {
+            "id": 87863,
+            "clubeId": 262,
+            "posicaoId": 4
+          },
+          {
+            "id": 104084,
+            "clubeId": 275,
+            "posicaoId": 1
+          },
+          {
+            "id": 98873,
+            "clubeId": 262,
+            "posicaoId": 5
+          },
+          {
+            "id": 105647,
+            "clubeId": 275,
+            "posicaoId": 4
+          },
+          {
+            "id": 99815,
+            "clubeId": 275,
+            "posicaoId": 4
+          },
+          {
+            "id": 88963,
+            "clubeId": 262,
+            "posicaoId": 6
+          },
+          {
+            "id": 71684,
+            "clubeId": 275,
+            "posicaoId": 3
+          },
+          {
+            "id": 143193,
+            "clubeId": 293,
+            "posicaoId": 5
+          },
+          {
+            "id": 83528,
+            "clubeId": 262,
+            "posicaoId": 3
+          },
+          {
+            "id": 99274,
+            "clubeId": 275,
+            "posicaoId": 3
+          },
+          {
+            "id": 94583,
+            "clubeId": 262,
+            "posicaoId": 5
+          }
+        ],
+        "reservas": [
+          {
+            "id": 99552,
+            "clubeId": 262,
+            "posicaoId": 1
+          },
+          {
+            "id": 103445,
+            "clubeId": 283,
+            "posicaoId": 5
+          },
+          {
+            "id": 97867,
+            "clubeId": 262,
+            "posicaoId": 3
+          },
+          {
+            "id": 68938,
+            "clubeId": 315,
+            "posicaoId": 4
+          }
         ],
         "capitaoId": 94583
       },
       "6742039": {
         "atletas": [
-          94583,
-          99274,
-          83528,
-          130525,
-          99815,
-          110506,
-          87863,
+          110426,
           105436,
           99552,
           98873,
+          99815,
           143193,
-          110426
+          87863,
+          83528,
+          110506,
+          94583,
+          130525,
+          99274
+        ],
+        "titulares": [
+          {
+            "id": 110426,
+            "clubeId": 285,
+            "posicaoId": 2
+          },
+          {
+            "id": 105436,
+            "clubeId": 262,
+            "posicaoId": 4
+          },
+          {
+            "id": 99552,
+            "clubeId": 262,
+            "posicaoId": 1
+          },
+          {
+            "id": 98873,
+            "clubeId": 262,
+            "posicaoId": 5
+          },
+          {
+            "id": 99815,
+            "clubeId": 275,
+            "posicaoId": 4
+          },
+          {
+            "id": 143193,
+            "clubeId": 293,
+            "posicaoId": 5
+          },
+          {
+            "id": 87863,
+            "clubeId": 262,
+            "posicaoId": 4
+          },
+          {
+            "id": 83528,
+            "clubeId": 262,
+            "posicaoId": 3
+          },
+          {
+            "id": 110506,
+            "clubeId": 275,
+            "posicaoId": 6
+          },
+          {
+            "id": 94583,
+            "clubeId": 262,
+            "posicaoId": 5
+          },
+          {
+            "id": 130525,
+            "clubeId": 276,
+            "posicaoId": 2
+          },
+          {
+            "id": 99274,
+            "clubeId": 275,
+            "posicaoId": 3
+          }
+        ],
+        "reservas": [
+          {
+            "id": 103445,
+            "clubeId": 283,
+            "posicaoId": 5
+          },
+          {
+            "id": 105647,
+            "clubeId": 275,
+            "posicaoId": 4
+          },
+          {
+            "id": 84816,
+            "clubeId": 262,
+            "posicaoId": 2
+          },
+          {
+            "id": 110698,
+            "clubeId": 293,
+            "posicaoId": 1
+          },
+          {
+            "id": 97867,
+            "clubeId": 262,
+            "posicaoId": 3
+          }
         ],
         "capitaoId": 94583
       },
       "13912942": {
         "atletas": [
-          105647,
+          98873,
           84816,
           71684,
-          87863,
-          143193,
-          98873,
+          105647,
           110426,
-          99274,
-          94583,
           99815,
           110506,
-          72018
+          87863,
+          143193,
+          72018,
+          94583,
+          99274
+        ],
+        "titulares": [
+          {
+            "id": 98873,
+            "clubeId": 262,
+            "posicaoId": 5
+          },
+          {
+            "id": 84816,
+            "clubeId": 262,
+            "posicaoId": 2
+          },
+          {
+            "id": 71684,
+            "clubeId": 275,
+            "posicaoId": 3
+          },
+          {
+            "id": 105647,
+            "clubeId": 275,
+            "posicaoId": 4
+          },
+          {
+            "id": 110426,
+            "clubeId": 285,
+            "posicaoId": 2
+          },
+          {
+            "id": 99815,
+            "clubeId": 275,
+            "posicaoId": 4
+          },
+          {
+            "id": 110506,
+            "clubeId": 275,
+            "posicaoId": 6
+          },
+          {
+            "id": 87863,
+            "clubeId": 262,
+            "posicaoId": 4
+          },
+          {
+            "id": 143193,
+            "clubeId": 293,
+            "posicaoId": 5
+          },
+          {
+            "id": 72018,
+            "clubeId": 280,
+            "posicaoId": 1
+          },
+          {
+            "id": 94583,
+            "clubeId": 262,
+            "posicaoId": 5
+          },
+          {
+            "id": 99274,
+            "clubeId": 275,
+            "posicaoId": 3
+          }
+        ],
+        "reservas": [
+          {
+            "id": 90703,
+            "clubeId": 287,
+            "posicaoId": 4
+          },
+          {
+            "id": 103445,
+            "clubeId": 283,
+            "posicaoId": 5
+          },
+          {
+            "id": 99552,
+            "clubeId": 262,
+            "posicaoId": 1
+          },
+          {
+            "id": 83528,
+            "clubeId": 262,
+            "posicaoId": 3
+          },
+          {
+            "id": 96870,
+            "clubeId": 262,
+            "posicaoId": 2
+          }
         ],
         "capitaoId": 98873
       },
       "15282074": {
         "atletas": [
+          98873,
           105436,
           92273,
-          71684,
-          98873,
           110698,
           84735,
+          71684,
           84816,
-          106202,
-          89840,
           123869,
+          89840,
           132264,
+          106202,
           124526
+        ],
+        "titulares": [
+          {
+            "id": 98873,
+            "clubeId": 262,
+            "posicaoId": 5
+          },
+          {
+            "id": 105436,
+            "clubeId": 262,
+            "posicaoId": 4
+          },
+          {
+            "id": 92273,
+            "clubeId": 293,
+            "posicaoId": 6
+          },
+          {
+            "id": 110698,
+            "clubeId": 293,
+            "posicaoId": 1
+          },
+          {
+            "id": 84735,
+            "clubeId": 262,
+            "posicaoId": 4
+          },
+          {
+            "id": 71684,
+            "clubeId": 275,
+            "posicaoId": 3
+          },
+          {
+            "id": 84816,
+            "clubeId": 262,
+            "posicaoId": 2
+          },
+          {
+            "id": 123869,
+            "clubeId": 293,
+            "posicaoId": 3
+          },
+          {
+            "id": 89840,
+            "clubeId": 276,
+            "posicaoId": 5
+          },
+          {
+            "id": 132264,
+            "clubeId": 283,
+            "posicaoId": 5
+          },
+          {
+            "id": 106202,
+            "clubeId": 285,
+            "posicaoId": 4
+          },
+          {
+            "id": 124526,
+            "clubeId": 275,
+            "posicaoId": 2
+          }
+        ],
+        "reservas": [
+          {
+            "id": 90031,
+            "clubeId": 293,
+            "posicaoId": 5
+          },
+          {
+            "id": 91473,
+            "clubeId": 262,
+            "posicaoId": 4
+          },
+          {
+            "id": 101319,
+            "clubeId": 266,
+            "posicaoId": 2
+          },
+          {
+            "id": 68928,
+            "clubeId": 276,
+            "posicaoId": 1
+          }
         ],
         "capitaoId": 98873
       },
       "17382079": {
         "atletas": [
-          71684,
           110426,
-          88963,
-          98873,
           105436,
+          98873,
+          88963,
+          71684,
           87863,
           143193,
+          71631,
           99815,
           94583,
           99274,
-          71631,
           124526
+        ],
+        "titulares": [
+          {
+            "id": 110426,
+            "clubeId": 285,
+            "posicaoId": 2
+          },
+          {
+            "id": 105436,
+            "clubeId": 262,
+            "posicaoId": 4
+          },
+          {
+            "id": 98873,
+            "clubeId": 262,
+            "posicaoId": 5
+          },
+          {
+            "id": 88963,
+            "clubeId": 262,
+            "posicaoId": 6
+          },
+          {
+            "id": 71684,
+            "clubeId": 275,
+            "posicaoId": 3
+          },
+          {
+            "id": 87863,
+            "clubeId": 262,
+            "posicaoId": 4
+          },
+          {
+            "id": 143193,
+            "clubeId": 293,
+            "posicaoId": 5
+          },
+          {
+            "id": 71631,
+            "clubeId": 284,
+            "posicaoId": 1
+          },
+          {
+            "id": 99815,
+            "clubeId": 275,
+            "posicaoId": 4
+          },
+          {
+            "id": 94583,
+            "clubeId": 262,
+            "posicaoId": 5
+          },
+          {
+            "id": 99274,
+            "clubeId": 275,
+            "posicaoId": 3
+          },
+          {
+            "id": 124526,
+            "clubeId": 275,
+            "posicaoId": 2
+          }
+        ],
+        "reservas": [
+          {
+            "id": 103445,
+            "clubeId": 283,
+            "posicaoId": 5
+          },
+          {
+            "id": 105647,
+            "clubeId": 275,
+            "posicaoId": 4
+          },
+          {
+            "id": 110698,
+            "clubeId": 293,
+            "posicaoId": 1
+          },
+          {
+            "id": 83528,
+            "clubeId": 262,
+            "posicaoId": 3
+          },
+          {
+            "id": 105175,
+            "clubeId": 275,
+            "posicaoId": 2
+          }
         ],
         "capitaoId": 98873
       },
       "25278938": {
         "atletas": [
-          98873,
           102130,
+          98873,
           88963,
-          110426,
-          87863,
           105436,
+          110426,
           143193,
-          83528,
-          97867,
+          87863,
           99815,
+          97867,
+          83528,
           71631,
           94583
+        ],
+        "titulares": [
+          {
+            "id": 102130,
+            "clubeId": 275,
+            "posicaoId": 2
+          },
+          {
+            "id": 98873,
+            "clubeId": 262,
+            "posicaoId": 5
+          },
+          {
+            "id": 88963,
+            "clubeId": 262,
+            "posicaoId": 6
+          },
+          {
+            "id": 105436,
+            "clubeId": 262,
+            "posicaoId": 4
+          },
+          {
+            "id": 110426,
+            "clubeId": 285,
+            "posicaoId": 2
+          },
+          {
+            "id": 143193,
+            "clubeId": 293,
+            "posicaoId": 5
+          },
+          {
+            "id": 87863,
+            "clubeId": 262,
+            "posicaoId": 4
+          },
+          {
+            "id": 99815,
+            "clubeId": 275,
+            "posicaoId": 4
+          },
+          {
+            "id": 97867,
+            "clubeId": 262,
+            "posicaoId": 3
+          },
+          {
+            "id": 83528,
+            "clubeId": 262,
+            "posicaoId": 3
+          },
+          {
+            "id": 71631,
+            "clubeId": 284,
+            "posicaoId": 1
+          },
+          {
+            "id": 94583,
+            "clubeId": 262,
+            "posicaoId": 5
+          }
+        ],
+        "reservas": [
+          {
+            "id": 103445,
+            "clubeId": 283,
+            "posicaoId": 5
+          },
+          {
+            "id": 89274,
+            "clubeId": 275,
+            "posicaoId": 4
+          },
+          {
+            "id": 99552,
+            "clubeId": 262,
+            "posicaoId": 1
+          },
+          {
+            "id": 97653,
+            "clubeId": 275,
+            "posicaoId": 3
+          },
+          {
+            "id": 124526,
+            "clubeId": 275,
+            "posicaoId": 2
+          }
         ],
         "capitaoId": 94583
       },
       "26079439": {
         "atletas": [
-          104084,
           71684,
           88963,
           84816,
+          113103,
           110426,
           105647,
-          98873,
           105436,
-          113103,
+          98873,
+          104084,
           87863,
           94583,
           99274
+        ],
+        "titulares": [
+          {
+            "id": 71684,
+            "clubeId": 275,
+            "posicaoId": 3
+          },
+          {
+            "id": 88963,
+            "clubeId": 262,
+            "posicaoId": 6
+          },
+          {
+            "id": 84816,
+            "clubeId": 262,
+            "posicaoId": 2
+          },
+          {
+            "id": 113103,
+            "clubeId": 275,
+            "posicaoId": 5
+          },
+          {
+            "id": 110426,
+            "clubeId": 285,
+            "posicaoId": 2
+          },
+          {
+            "id": 105647,
+            "clubeId": 275,
+            "posicaoId": 4
+          },
+          {
+            "id": 105436,
+            "clubeId": 262,
+            "posicaoId": 4
+          },
+          {
+            "id": 98873,
+            "clubeId": 262,
+            "posicaoId": 5
+          },
+          {
+            "id": 104084,
+            "clubeId": 275,
+            "posicaoId": 1
+          },
+          {
+            "id": 87863,
+            "clubeId": 262,
+            "posicaoId": 4
+          },
+          {
+            "id": 94583,
+            "clubeId": 262,
+            "posicaoId": 5
+          },
+          {
+            "id": 99274,
+            "clubeId": 275,
+            "posicaoId": 3
+          }
+        ],
+        "reservas": [
+          {
+            "id": 90703,
+            "clubeId": 287,
+            "posicaoId": 4
+          },
+          {
+            "id": 99552,
+            "clubeId": 262,
+            "posicaoId": 1
+          },
+          {
+            "id": 83528,
+            "clubeId": 262,
+            "posicaoId": 3
+          },
+          {
+            "id": 143193,
+            "clubeId": 293,
+            "posicaoId": 5
+          },
+          {
+            "id": 124526,
+            "clubeId": 275,
+            "posicaoId": 2
+          }
         ],
         "capitaoId": 94583
       },
       "27772103": {
         "atletas": [
-          99274,
-          94583,
-          104027,
-          143193,
-          99815,
-          87863,
-          124264,
-          78850,
           98873,
           90768,
+          78850,
           105436,
-          110426
+          110426,
+          87863,
+          104027,
+          99815,
+          143193,
+          94583,
+          124264,
+          99274
+        ],
+        "titulares": [
+          {
+            "id": 98873,
+            "clubeId": 262,
+            "posicaoId": 5
+          },
+          {
+            "id": 90768,
+            "clubeId": 283,
+            "posicaoId": 3
+          },
+          {
+            "id": 78850,
+            "clubeId": 2305,
+            "posicaoId": 2
+          },
+          {
+            "id": 105436,
+            "clubeId": 262,
+            "posicaoId": 4
+          },
+          {
+            "id": 110426,
+            "clubeId": 285,
+            "posicaoId": 2
+          },
+          {
+            "id": 87863,
+            "clubeId": 262,
+            "posicaoId": 4
+          },
+          {
+            "id": 104027,
+            "clubeId": 2305,
+            "posicaoId": 6
+          },
+          {
+            "id": 99815,
+            "clubeId": 275,
+            "posicaoId": 4
+          },
+          {
+            "id": 143193,
+            "clubeId": 293,
+            "posicaoId": 5
+          },
+          {
+            "id": 94583,
+            "clubeId": 262,
+            "posicaoId": 5
+          },
+          {
+            "id": 124264,
+            "clubeId": 285,
+            "posicaoId": 1
+          },
+          {
+            "id": 99274,
+            "clubeId": 275,
+            "posicaoId": 3
+          }
+        ],
+        "reservas": [
+          {
+            "id": 130843,
+            "clubeId": 293,
+            "posicaoId": 3
+          },
+          {
+            "id": 103445,
+            "clubeId": 283,
+            "posicaoId": 5
+          },
+          {
+            "id": 89274,
+            "clubeId": 275,
+            "posicaoId": 4
+          },
+          {
+            "id": 112616,
+            "clubeId": 284,
+            "posicaoId": 1
+          },
+          {
+            "id": 106708,
+            "clubeId": 2305,
+            "posicaoId": 2
+          }
         ],
         "capitaoId": 94583
       },
       "47572160": {
         "atletas": [
-          124526,
-          71631,
-          94583,
+          88963,
+          98873,
+          110426,
+          105436,
+          105647,
+          97867,
           83528,
           87863,
           143193,
-          97867,
-          88963,
-          105647,
-          98873,
-          110426,
-          105436
+          94583,
+          71631,
+          124526
+        ],
+        "titulares": [
+          {
+            "id": 88963,
+            "clubeId": 262,
+            "posicaoId": 6
+          },
+          {
+            "id": 98873,
+            "clubeId": 262,
+            "posicaoId": 5
+          },
+          {
+            "id": 110426,
+            "clubeId": 285,
+            "posicaoId": 2
+          },
+          {
+            "id": 105436,
+            "clubeId": 262,
+            "posicaoId": 4
+          },
+          {
+            "id": 105647,
+            "clubeId": 275,
+            "posicaoId": 4
+          },
+          {
+            "id": 97867,
+            "clubeId": 262,
+            "posicaoId": 3
+          },
+          {
+            "id": 83528,
+            "clubeId": 262,
+            "posicaoId": 3
+          },
+          {
+            "id": 87863,
+            "clubeId": 262,
+            "posicaoId": 4
+          },
+          {
+            "id": 143193,
+            "clubeId": 293,
+            "posicaoId": 5
+          },
+          {
+            "id": 94583,
+            "clubeId": 262,
+            "posicaoId": 5
+          },
+          {
+            "id": 71631,
+            "clubeId": 284,
+            "posicaoId": 1
+          },
+          {
+            "id": 124526,
+            "clubeId": 275,
+            "posicaoId": 2
+          }
+        ],
+        "reservas": [
+          {
+            "id": 101715,
+            "clubeId": 285,
+            "posicaoId": 5
+          },
+          {
+            "id": 124264,
+            "clubeId": 285,
+            "posicaoId": 1
+          },
+          {
+            "id": 97653,
+            "clubeId": 275,
+            "posicaoId": 3
+          },
+          {
+            "id": 106202,
+            "clubeId": 285,
+            "posicaoId": 4
+          },
+          {
+            "id": 97899,
+            "clubeId": 285,
+            "posicaoId": 2
+          }
         ],
         "capitaoId": 94583
       },
       "47653263": {
         "atletas": [
-          105436,
           98873,
-          84816,
           88963,
-          105647,
-          83528,
-          72018,
-          110426,
-          87863,
           71684,
+          110426,
+          83528,
+          87863,
+          84816,
+          105436,
+          105647,
           94583,
+          72018,
           114802
+        ],
+        "titulares": [
+          {
+            "id": 98873,
+            "clubeId": 262,
+            "posicaoId": 5
+          },
+          {
+            "id": 88963,
+            "clubeId": 262,
+            "posicaoId": 6
+          },
+          {
+            "id": 71684,
+            "clubeId": 275,
+            "posicaoId": 3
+          },
+          {
+            "id": 110426,
+            "clubeId": 285,
+            "posicaoId": 2
+          },
+          {
+            "id": 83528,
+            "clubeId": 262,
+            "posicaoId": 3
+          },
+          {
+            "id": 87863,
+            "clubeId": 262,
+            "posicaoId": 4
+          },
+          {
+            "id": 84816,
+            "clubeId": 262,
+            "posicaoId": 2
+          },
+          {
+            "id": 105436,
+            "clubeId": 262,
+            "posicaoId": 4
+          },
+          {
+            "id": 105647,
+            "clubeId": 275,
+            "posicaoId": 4
+          },
+          {
+            "id": 94583,
+            "clubeId": 262,
+            "posicaoId": 5
+          },
+          {
+            "id": 72018,
+            "clubeId": 280,
+            "posicaoId": 1
+          },
+          {
+            "id": 114802,
+            "clubeId": 275,
+            "posicaoId": 5
+          }
+        ],
+        "reservas": [
+          {
+            "id": 124264,
+            "clubeId": 285,
+            "posicaoId": 1
+          },
+          {
+            "id": 143193,
+            "clubeId": 293,
+            "posicaoId": 5
+          },
+          {
+            "id": 97867,
+            "clubeId": 262,
+            "posicaoId": 3
+          },
+          {
+            "id": 128431,
+            "clubeId": 293,
+            "posicaoId": 4
+          },
+          {
+            "id": 97899,
+            "clubeId": 285,
+            "posicaoId": 2
+          }
         ],
         "capitaoId": 94583
       },
       "49288650": {
         "atletas": [
-          99274,
-          72018,
-          94583,
-          143193,
-          87863,
-          84816,
-          88963,
-          98873,
-          71684,
           105647,
+          98873,
+          105436,
+          88963,
+          84816,
+          71684,
+          87863,
           110426,
-          105436
+          143193,
+          94583,
+          72018,
+          99274
+        ],
+        "titulares": [
+          {
+            "id": 105647,
+            "clubeId": 275,
+            "posicaoId": 4
+          },
+          {
+            "id": 98873,
+            "clubeId": 262,
+            "posicaoId": 5
+          },
+          {
+            "id": 105436,
+            "clubeId": 262,
+            "posicaoId": 4
+          },
+          {
+            "id": 88963,
+            "clubeId": 262,
+            "posicaoId": 6
+          },
+          {
+            "id": 84816,
+            "clubeId": 262,
+            "posicaoId": 2
+          },
+          {
+            "id": 71684,
+            "clubeId": 275,
+            "posicaoId": 3
+          },
+          {
+            "id": 87863,
+            "clubeId": 262,
+            "posicaoId": 4
+          },
+          {
+            "id": 110426,
+            "clubeId": 285,
+            "posicaoId": 2
+          },
+          {
+            "id": 143193,
+            "clubeId": 293,
+            "posicaoId": 5
+          },
+          {
+            "id": 94583,
+            "clubeId": 262,
+            "posicaoId": 5
+          },
+          {
+            "id": 72018,
+            "clubeId": 280,
+            "posicaoId": 1
+          },
+          {
+            "id": 99274,
+            "clubeId": 275,
+            "posicaoId": 3
+          }
+        ],
+        "reservas": [
+          {
+            "id": 99552,
+            "clubeId": 262,
+            "posicaoId": 1
+          },
+          {
+            "id": 142890,
+            "clubeId": 263,
+            "posicaoId": 4
+          },
+          {
+            "id": 103445,
+            "clubeId": 283,
+            "posicaoId": 5
+          },
+          {
+            "id": 83528,
+            "clubeId": 262,
+            "posicaoId": 3
+          },
+          {
+            "id": 97899,
+            "clubeId": 285,
+            "posicaoId": 2
+          }
         ],
         "capitaoId": 98873
       }
@@ -680,28 +2445,28 @@
   },
   "parciais": {
     "rodada": 34,
-    "atualizadoEm": "2026-11-06T09:04:13.807Z",
+    "atualizadoEm": "2026-11-06T16:33:21.460Z",
     "porTime": {
       "90277": 71.35,
       "309735": 98.8,
-      "423154": 113.05,
-      "487118": 78.7,
-      "753775": 102.55,
-      "1067774": 99.07,
-      "2963331": 120.1,
+      "423154": 111.35,
+      "487118": 92.8,
+      "753775": 111.05,
+      "1067774": 107.57,
+      "2963331": 128.6,
       "3250219": 95.2,
       "3419812": 70.85,
       "4997197": 97.1,
       "6742039": 104.75,
-      "13912942": 90.95,
+      "13912942": 93.85,
       "15282074": 57.97,
-      "17382079": 82.4,
-      "25278938": 93.8,
+      "17382079": 91.9,
+      "25278938": 96.7,
       "26079439": 98.4,
       "27772103": 97.19,
-      "47572160": 82.7,
-      "47653263": 98.4,
-      "49288650": 74.3
+      "47572160": 96.2,
+      "47653263": 105.2,
+      "49288650": 77.2
     }
   },
   "pontuacoes": {
