@@ -294,19 +294,26 @@ async function principal() {
   // A API do Cartola nao entrega o placar pronto: o campo "pontos" de
   // /time/id/{id}/{rodada} so e preenchido quando a rodada consolida e fica
   // defasado durante os jogos. O numero que o app mostra e calculado por ele
-  // mesmo, em cima de tres pecas que a API entrega soltas. Espelhar exige
-  // refazer as tres regras, nesta ordem:
+  // mesmo, em cima das pecas soltas que a API entrega. Espelhar exige refazer
+  // as regras, nesta ordem:
   //
   //   1. Capitao vale 1,5x.
   //   2. Substituicao automatica de banco: titular que nao pontuou e trocado
   //      pelo reserva da mesma posicao que pontuou, cada reserva uma vez so.
-  //   3. Reserva de Luxo (recurso do Cartola PRO, campo reserva_luxo_id, vale
-  //      so para time assinante): troca o PIOR pontuador da escalacao,
-  //      independente da posicao, desde que o reserva de luxo pontue mais que
-  //      ele e ainda nao tenha entrado como substituto comum.
+  //      So vale quando a partida do clube do titular ja acabou (ou nao conta
+  //      para a rodada, caso de jogo antecipado antes do fechamento do
+  //      mercado). Enquanto o jogo dele nao termina o slot fica em aberto,
+  //      porque ainda pode entrar em campo. O substituto HERDA a capitania.
+  //   3. Reserva de Luxo (campo reserva_luxo_id): troca o PIOR pontuador da
+  //      SUA POSICAO, desde que pontue mais que ele e ainda nao tenha entrado
+  //      como substituto comum. Slot em aberto nao entra na disputa de pior,
+  //      pelo mesmo motivo da regra 2, e vaga vazia vale zero na comparacao.
   //
-  // Validado na rodada 34 contra o app: Kaempfs 111,40 e Alemonstro 98,40,
-  // ambos cravados.
+  // O campo time.assinante NAO serve de filtro para a regra 3: quatro times
+  // marcados como nao assinantes tiveram Reserva de Luxo aplicado na rodada
+  // 34. Basta reserva_luxo_id estar preenchido.
+  //
+  // Conferido na rodada 34 contra a pagina do Cartola, as 20 equipes.
   //
   // A escalacao congela no fechamento do mercado, entao fica em cache por
   // rodada: cada execucao busca so /atletas/pontuados e recalcula.
@@ -321,25 +328,29 @@ async function principal() {
 
     for (const jogador of jogadores) {
       const chave = String(jogador.timeId);
-      // Entradas de cache antigas nao tem reservaLuxoId: refaz a busca.
+      // Entradas de cache antigas nao guardam o clube do titular, necessario
+      // para saber se o jogo dele ja acabou: refaz a busca nesses casos.
       const cache = escalacoes.times[chave];
-      if (cache && Object.prototype.hasOwnProperty.call(cache, "reservaLuxoId")) continue;
+      if (cache && Array.isArray(cache.titulares) && cache.titulares.every((t) => t.clubeId !== undefined)) continue;
       await pausa(ESPERA_MS);
       console.log("Escalacao da rodada " + rodadaAtual + ": " + jogador.nome + "...");
       const resposta = await buscarJson("/time/id/" + jogador.timeId + "/" + rodadaAtual, { permitir404: true });
       const mapear = (lista) => (Array.isArray(lista) ? lista : [])
         .filter((a) => a && typeof a.atleta_id === "number")
-        .map((a) => ({ id: a.atleta_id, posicaoId: typeof a.posicao_id === "number" ? a.posicao_id : null }));
+        .map((a) => ({
+          id: a.atleta_id,
+          posicaoId: typeof a.posicao_id === "number" ? a.posicao_id : null,
+          clubeId: typeof a.clube_id === "number" ? a.clube_id : null
+        }));
       if (resposta && Array.isArray(resposta.atletas) && resposta.atletas.length > 0) {
         escalacoes.times[chave] = {
           titulares: mapear(resposta.atletas),
           reservas: mapear(resposta.reservas),
           capitaoId: typeof resposta.capitao_id === "number" ? resposta.capitao_id : null,
-          reservaLuxoId: typeof resposta.reserva_luxo_id === "number" ? resposta.reserva_luxo_id : null,
-          assinante: !!(resposta.time && resposta.time.assinante)
+          reservaLuxoId: typeof resposta.reserva_luxo_id === "number" ? resposta.reserva_luxo_id : null
         };
       } else {
-        escalacoes.times[chave] = { titulares: [], reservas: [], capitaoId: null, reservaLuxoId: null, assinante: false };
+        escalacoes.times[chave] = { titulares: [], reservas: [], capitaoId: null, reservaLuxoId: null };
         console.warn("Aviso: " + jogador.nome + " sem escalacao na rodada " + rodadaAtual + ".");
       }
     }
@@ -352,6 +363,23 @@ async function principal() {
         return a && typeof a.pontuacao === "number" && isFinite(a.pontuacao) ? a.pontuacao : null;
       };
 
+      // Situacao da partida de cada clube nesta rodada.
+      const situacaoClube = new Map();
+      const rodadaEmCurso = rodadas.find((r) => r.rodada === rodadaAtual);
+      if (rodadaEmCurso) {
+        for (const c of rodadaEmCurso.confrontos) {
+          const encerrada = typeof c.placarCasa === "number" && typeof c.placarFora === "number";
+          const situacao = { valida: c.valida !== false, encerrada };
+          situacaoClube.set(c.casaClubeId, situacao);
+          situacaoClube.set(c.foraClubeId, situacao);
+        }
+      }
+      const slotFechado = (clubeId) => {
+        const s = situacaoClube.get(clubeId);
+        if (!s) return false;
+        return s.valida === false || s.encerrada === true;
+      };
+
       const porTime = {};
       for (const jogador of jogadores) {
         const e = escalacoes.times[String(jogador.timeId)];
@@ -359,41 +387,48 @@ async function principal() {
         const banco = Array.isArray(e.reservas) ? e.reservas : [];
         const usados = new Set();
 
-        // Regras 1 e 2: capitao e substituicao comum, posicao por posicao.
+        // Regras 1 e 2.
         const slots = (e.titulares || []).map((titular) => {
-          let pontos = pontuacaoDe(titular.id);
-          let capitao = titular.id === e.capitaoId;
-          if (pontos === null) {
-            const reserva = banco.find((r) =>
-              r.posicaoId === titular.posicaoId &&
-              !usados.has(r.id) &&
-              r.id !== luxoId &&
-              pontuacaoDe(r.id) !== null
-            );
-            if (reserva) {
-              usados.add(reserva.id);
-              pontos = pontuacaoDe(reserva.id);
-              capitao = false; // reserva que substitui capitao nao leva o 1,5x
-            }
-          }
-          return { pontos, capitao };
+          const capitao = titular.id === e.capitaoId;
+          const posicaoId = titular.posicaoId;
+          const pontos = pontuacaoDe(titular.id);
+          if (pontos !== null) return { pontos, capitao, posicaoId, aberto: false };
+          // Titular sem pontuacao e jogo ainda por vir: slot em aberto.
+          if (!slotFechado(titular.clubeId)) return { pontos: null, capitao, posicaoId, aberto: true };
+          const reserva = banco.find((r) =>
+            r.posicaoId === titular.posicaoId &&
+            !usados.has(r.id) &&
+            r.id !== luxoId &&
+            pontuacaoDe(r.id) !== null
+          );
+          // Substituicao que piora nao acontece: o slot do titular que nao
+          // jogou vale zero, entao reserva com pontuacao negativa fica fora.
+          if (!reserva || pontuacaoDe(reserva.id) <= 0) return { pontos: null, capitao, posicaoId, aberto: false };
+          usados.add(reserva.id);
+          return { pontos: pontuacaoDe(reserva.id), capitao, posicaoId, aberto: false };
         });
 
-        const valorDoSlot = (s) => (s.pontos === null ? -Infinity : (s.capitao ? s.pontos * MULTIPLICADOR_CAPITAO : s.pontos));
+        const valorDoSlot = (s) => (s.pontos === null ? 0 : (s.capitao ? s.pontos * MULTIPLICADOR_CAPITAO : s.pontos));
 
-        // Regra 3: Reserva de Luxo, so para assinante, no pior slot.
+        // Regra 3: Reserva de Luxo no pior slot ja definido.
+        const luxo = banco.find((r) => r.id === luxoId) || null;
         const pontosLuxo = (luxoId !== null && !usados.has(luxoId)) ? pontuacaoDe(luxoId) : null;
-        if (e.assinante && pontosLuxo !== null && slots.length > 0) {
-          let indicePior = 0;
-          let valorPior = valorDoSlot(slots[0]);
-          for (let i = 1; i < slots.length; i += 1) {
+        if (pontosLuxo !== null && luxo) {
+          let indicePior = -1;
+          let valorPior = Infinity;
+          for (let i = 0; i < slots.length; i += 1) {
+            // So disputa vaga da propria posicao.
+            if (slots[i].aberto || slots[i].posicaoId !== luxo.posicaoId) continue;
+            // Vaga sem pontuacao vale zero na disputa de pior, nao menos infinito.
             const v = valorDoSlot(slots[i]);
             if (v < valorPior) { valorPior = v; indicePior = i; }
           }
-          if (pontosLuxo > valorPior) slots[indicePior] = { pontos: pontosLuxo, capitao: false };
+          if (indicePior >= 0 && pontosLuxo > valorPior) {
+            slots[indicePior] = { pontos: pontosLuxo, capitao: slots[indicePior].capitao, posicaoId: slots[indicePior].posicaoId, aberto: false };
+          }
         }
 
-        const total = slots.reduce((soma, s) => soma + (s.pontos === null ? 0 : valorDoSlot(s)), 0);
+        const total = slots.reduce((soma, s) => soma + valorDoSlot(s), 0);
         porTime[String(jogador.timeId)] = round2(total);
       }
 
