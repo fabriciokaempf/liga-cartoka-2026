@@ -695,34 +695,34 @@
     "rodada": 34,
     "aoVivo": true,
     "rotulo": "Rodada 34 · andamento",
-    "titulo": "Rodada 34 andamento: líder empataria com o 14º colocado agora, e os lanternas Urachfc e Mandrackefc seguem mitando em cima do pelotão de cima",
+    "titulo": "Rodada 34 reta final: os dois líderes tropeçam juntos e o Baade FC aproveita a brecha",
     "blocos": [
       {
         "icone": "⚽",
-        "titulo": "Dois jogos reais entraram, só faltam três",
-        "texto": "Desde a última passagem por aqui, mais dois confrontos ligaram o sinal verde: Parizi 01 recebeu o VIERTRICOLOR e Corticeira's Farm FC mediu forças com o Mandrackefc. Com isso, a rodada 34 chega a sete dos dez jogos reais rolando, e só restam três: Urachfc contra Resina Club e Império da Caipira contra Esporte Clube Barão, ainda hoje, e Sampa recebendo o Gaudérios FC, que fica pra amanhã. Detalhe de sempre no Cartola: Urachfc e Resina Club já aparecem pontuando nos parciais mesmo com o jogo de verdade deles ainda nem ter começado."
+        "titulo": "Reta final: só falta um jogo real",
+        "texto": "Desde a última passagem por aqui, Urachfc contra Resina Club e Império da Caipira contra Esporte Clube Barão entraram em campo de verdade. Agora são nove dos dez confrontos com bola rolando, e só falta o Sampa receber o Gaudérios FC. Mesmo sem essa partida ter começado, o Sampa já aparece com a maior pontuação parcial da rodada, cortesia dos atletas dele que já jogaram em outros times."
       },
       {
-        "icone": "🤯",
-        "titulo": "O líder tropeçou feio no parcial",
-        "texto": "Eu avisei na atualização passada que o Kaempfs F.C. segurava o Alemonstro FBPA por 2,8 pontos de vantagem. Virou de cabeça pra baixo: agora é o Alemonstro, 14º colocado da tabela, quem está na frente, 70,6 a 70,1, diferença de meros 0,5 ponto. Se a rodada parasse neste instante, entraria a regra do empate e o líder sairia de lá com só 1 ponto embaixo do braço contra um time da parte de baixo da tabela."
+        "icone": "🫨",
+        "titulo": "Os dois líderes tropeçaram juntos",
+        "texto": "Eu avisei que o Kaempfs F.C. segurava o Alemonstro FBPA por menos de um ponto, e aquele quase empate virou derrota de verdade: Alemonstro 98,4 a 78,7, mais de dezenove pontos de vantagem. E não é só o líder que afunda, o vice Madalena Club também está sendo passado pelo Baade FC, 97,1 a 82,7. Se confirmar, os dois primeiros colocados da liga perdem a rodada ao mesmo tempo."
+      },
+      {
+        "icone": "🙃",
+        "titulo": "Virada na parte de cima da tabela",
+        "texto": "O Baade FC, que já estava colado nos líderes, aproveita a vitória sobre o Madalena Club para seguir roubando pontos da ponta. Do lado de baixo dos primeiros, o Berwinha FC está dando um banho no Kidiabense FC, 113,05 a 90,95, e o Parizi 01 virou de líder pra derrotado no duelo com o VIERTRICOLOR, que agora vence 99,07 a 93,8. No duelo que eu marquei como indefinido na atualização passada, o Império da Caipira também assumiu a frente contra o Esporte Clube Barão, 102,55 a 98,4."
       },
       {
         "icone": "😅",
-        "titulo": "Os lanternas continuam mitando, e com juros",
-        "texto": "Quem eu já tinha avisado que estava afiado continua roubando a cena: o Urachfc, lanterna isolada da classificação, está com 79,6 pontos, a maior pontuação da rodada até agora, folgado contra o Resina Club, que é o 7º colocado da tabela. Do lado dele, o Mandrackefc, penúltimo colocado, também mete medo com 78,29 e goleia o Corticeira's Farm FC por mais de 40 pontos de diferença nos parciais. Se os dois confirmarem, a rodada 34 vira um festival de zebra lá no fundo da tabela."
-      },
-      {
-        "icone": "📊",
-        "titulo": "Quem sobe e quem desce se acabasse agora",
-        "texto": "Nos outros confrontos que já rolam, o Madalena Club, vice líder, está tranquilo contra o Baade FC (74,6 a 65,4), e o Tricolor Lvfc dá um banho no HORST BRAUN (75,15 a 39,57). O Parizi 01 também larga na frente do VIERTRICOLOR (74,6 a 65,27), e o Esporte Clube Barão aparece na frente do Império da Caipira (76,4 a 65,65). Já Berwinha FC e Kidiabense FC seguem roçando o empate, 51,6 a 52,75, e o Brocador do Bonja mantém vantagem sobre o pietro filho (69,3 a 63). Com três jogos ainda nem começados e o líder quase empatando na faixa de trás, ninguém pode ir tomando banho antes da hora."
+        "titulo": "No fundo, os mesmos zebras de sempre",
+        "texto": "Urachfc e Mandrackefc, respectivamente lanterna e penúltimo colocado da tabela, confirmam a mitada que eu já tinha avisado: o Urachfc goleia o Resina Club, 98,8 a 74,3, e o Mandrackefc atropela o Corticeira's Farm FC, 97,19 a 65,55. Pra completar a zona de rebaixamento, o Tricolor Lvfc dá um banho no HORST BRAUN, 104,75 a 50,57. Com só um jogo faltando pra rolar, a rodada 34 promete fechar com a tabela de baixo dando aula pra parte de cima."
       }
     ],
-    "geradaEm": "2026-11-05T08:25:41Z",
+    "geradaEm": "2026-11-06T04:25:18Z",
     "estado": {
       "mercado": 2,
-      "jogosIniciados": 7,
-      "assinaturaParciais": "1067774:65.3|13912942:52.8|15282074:39.6|17382079:63.0|25278938:74.6|26079439:70.6|27772103:78.3|2963331:78.6|309735:79.6|3250219:69.3|3419812:36.5|423154:51.6|47572160:74.6|47653263:76.4|487118:70.1|49288650:66.0|4997197:65.4|6742039:75.2|753775:65.7|90277:11.6"
+      "jogosIniciados": 9,
+      "assinaturaParciais": "1067774:99.1|13912942:91.0|15282074:50.6|17382079:82.4|25278938:93.8|26079439:98.4|27772103:97.2|2963331:114.8|309735:98.8|3250219:95.2|3419812:65.5|423154:113.0|47572160:82.7|47653263:98.4|487118:78.7|49288650:74.3|4997197:97.1|6742039:104.8|753775:102.5|90277:66.0"
     }
   }
 ]
