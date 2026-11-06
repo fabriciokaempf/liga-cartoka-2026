@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-06T18:06:58.828Z",
+  "geradoEm": "2026-11-06T18:08:57.047Z",
   "temporada": 2026,
   "liga": {
     "nome": "Liga Cartoka de pontos corridos 2026",
@@ -343,6 +343,10 @@
             "posicaoId": 1
           },
           {
+            "id": 89274,
+            "posicaoId": 4
+          },
+          {
             "id": 103445,
             "posicaoId": 5
           },
@@ -351,8 +355,8 @@
             "posicaoId": 4
           },
           {
-            "id": 89274,
-            "posicaoId": 4
+            "id": 113103,
+            "posicaoId": 5
           },
           {
             "id": 84816,
@@ -361,10 +365,6 @@
           {
             "id": 87863,
             "posicaoId": 4
-          },
-          {
-            "id": 113103,
-            "posicaoId": 5
           },
           {
             "id": 83528,
@@ -393,12 +393,12 @@
             "posicaoId": 4
           },
           {
-            "id": 99552,
-            "posicaoId": 1
-          },
-          {
             "id": 116461,
             "posicaoId": 2
+          },
+          {
+            "id": 99552,
+            "posicaoId": 1
           },
           {
             "id": 97653,
@@ -416,12 +416,8 @@
       "309735": {
         "titulares": [
           {
-            "id": 105436,
-            "posicaoId": 4
-          },
-          {
-            "id": 90768,
-            "posicaoId": 3
+            "id": 98873,
+            "posicaoId": 5
           },
           {
             "id": 88963,
@@ -432,24 +428,28 @@
             "posicaoId": 2
           },
           {
+            "id": 90768,
+            "posicaoId": 3
+          },
+          {
             "id": 110426,
             "posicaoId": 2
           },
           {
-            "id": 98873,
-            "posicaoId": 5
+            "id": 105436,
+            "posicaoId": 4
           },
           {
             "id": 101908,
             "posicaoId": 3
           },
           {
-            "id": 124264,
-            "posicaoId": 1
-          },
-          {
             "id": 87863,
             "posicaoId": 4
+          },
+          {
+            "id": 124264,
+            "posicaoId": 1
           },
           {
             "id": 143193,
@@ -466,20 +466,20 @@
         ],
         "reservas": [
           {
-            "id": 103445,
-            "posicaoId": 5
-          },
-          {
             "id": 89274,
             "posicaoId": 4
           },
           {
-            "id": 97460,
-            "posicaoId": 3
+            "id": 103445,
+            "posicaoId": 5
           },
           {
             "id": 112616,
             "posicaoId": 1
+          },
+          {
+            "id": 97460,
+            "posicaoId": 3
           },
           {
             "id": 106708,
@@ -493,15 +493,19 @@
       "423154": {
         "titulares": [
           {
-            "id": 94583,
+            "id": 110426,
+            "posicaoId": 2
+          },
+          {
+            "id": 105647,
+            "posicaoId": 4
+          },
+          {
+            "id": 98873,
             "posicaoId": 5
           },
           {
-            "id": 71631,
-            "posicaoId": 1
-          },
-          {
-            "id": 97867,
+            "id": 71684,
             "posicaoId": 3
           },
           {
@@ -513,38 +517,38 @@
             "posicaoId": 4
           },
           {
-            "id": 110506,
-            "posicaoId": 6
-          },
-          {
-            "id": 71684,
-            "posicaoId": 3
-          },
-          {
-            "id": 105647,
-            "posicaoId": 4
+            "id": 84816,
+            "posicaoId": 2
           },
           {
             "id": 113103,
             "posicaoId": 5
           },
           {
-            "id": 84816,
-            "posicaoId": 2
+            "id": 97867,
+            "posicaoId": 3
           },
           {
-            "id": 98873,
+            "id": 71631,
+            "posicaoId": 1
+          },
+          {
+            "id": 110506,
+            "posicaoId": 6
+          },
+          {
+            "id": 94583,
             "posicaoId": 5
-          },
-          {
-            "id": 110426,
-            "posicaoId": 2
           }
         ],
         "reservas": [
           {
-            "id": 97899,
-            "posicaoId": 2
+            "id": 123869,
+            "posicaoId": 3
+          },
+          {
+            "id": 110698,
+            "posicaoId": 1
           },
           {
             "id": 71536,
@@ -555,12 +559,8 @@
             "posicaoId": 5
           },
           {
-            "id": 123869,
-            "posicaoId": 3
-          },
-          {
-            "id": 110698,
-            "posicaoId": 1
+            "id": 97899,
+            "posicaoId": 2
           }
         ],
         "capitaoId": 113103,
@@ -570,11 +570,19 @@
       "487118": {
         "titulares": [
           {
-            "id": 88963,
-            "posicaoId": 6
+            "id": 71684,
+            "posicaoId": 3
           },
           {
-            "id": 71684,
+            "id": 110426,
+            "posicaoId": 2
+          },
+          {
+            "id": 105647,
+            "posicaoId": 4
+          },
+          {
+            "id": 83528,
             "posicaoId": 3
           },
           {
@@ -582,24 +590,16 @@
             "posicaoId": 5
           },
           {
-            "id": 105647,
-            "posicaoId": 4
-          },
-          {
-            "id": 110426,
-            "posicaoId": 2
-          },
-          {
             "id": 105436,
             "posicaoId": 4
           },
           {
-            "id": 87863,
-            "posicaoId": 4
+            "id": 88963,
+            "posicaoId": 6
           },
           {
-            "id": 83528,
-            "posicaoId": 3
+            "id": 87863,
+            "posicaoId": 4
           },
           {
             "id": 143193,
@@ -620,8 +620,8 @@
         ],
         "reservas": [
           {
-            "id": 99552,
-            "posicaoId": 1
+            "id": 97653,
+            "posicaoId": 3
           },
           {
             "id": 103445,
@@ -632,8 +632,8 @@
             "posicaoId": 4
           },
           {
-            "id": 97653,
-            "posicaoId": 3
+            "id": 99552,
+            "posicaoId": 1
           },
           {
             "id": 105175,
@@ -647,8 +647,20 @@
       "753775": {
         "titulares": [
           {
-            "id": 87863,
+            "id": 105436,
             "posicaoId": 4
+          },
+          {
+            "id": 104084,
+            "posicaoId": 1
+          },
+          {
+            "id": 105647,
+            "posicaoId": 4
+          },
+          {
+            "id": 98873,
+            "posicaoId": 5
           },
           {
             "id": 71684,
@@ -659,35 +671,23 @@
             "posicaoId": 2
           },
           {
-            "id": 98873,
-            "posicaoId": 5
-          },
-          {
-            "id": 105647,
+            "id": 87863,
             "posicaoId": 4
-          },
-          {
-            "id": 105436,
-            "posicaoId": 4
-          },
-          {
-            "id": 104084,
-            "posicaoId": 1
-          },
-          {
-            "id": 110506,
-            "posicaoId": 6
           },
           {
             "id": 83528,
             "posicaoId": 3
           },
           {
-            "id": 94583,
-            "posicaoId": 5
+            "id": 110506,
+            "posicaoId": 6
           },
           {
             "id": 114802,
+            "posicaoId": 5
+          },
+          {
+            "id": 94583,
             "posicaoId": 5
           },
           {
@@ -697,24 +697,24 @@
         ],
         "reservas": [
           {
-            "id": 91473,
-            "posicaoId": 4
-          },
-          {
             "id": 78850,
             "posicaoId": 2
+          },
+          {
+            "id": 91473,
+            "posicaoId": 4
           },
           {
             "id": 99552,
             "posicaoId": 1
           },
           {
-            "id": 143193,
-            "posicaoId": 5
-          },
-          {
             "id": 97653,
             "posicaoId": 3
+          },
+          {
+            "id": 143193,
+            "posicaoId": 5
           }
         ],
         "capitaoId": 94583,
@@ -724,8 +724,8 @@
       "1067774": {
         "titulares": [
           {
-            "id": 98873,
-            "posicaoId": 5
+            "id": 105436,
+            "posicaoId": 4
           },
           {
             "id": 102340,
@@ -740,20 +740,16 @@
             "posicaoId": 4
           },
           {
+            "id": 98873,
+            "posicaoId": 5
+          },
+          {
             "id": 110426,
             "posicaoId": 2
           },
           {
-            "id": 105436,
-            "posicaoId": 4
-          },
-          {
             "id": 99815,
             "posicaoId": 4
-          },
-          {
-            "id": 97653,
-            "posicaoId": 3
           },
           {
             "id": 143193,
@@ -762,6 +758,10 @@
           {
             "id": 124264,
             "posicaoId": 1
+          },
+          {
+            "id": 97653,
+            "posicaoId": 3
           },
           {
             "id": 94583,
@@ -801,28 +801,16 @@
       "2963331": {
         "titulares": [
           {
-            "id": 98873,
-            "posicaoId": 5
-          },
-          {
-            "id": 89274,
-            "posicaoId": 4
-          },
-          {
-            "id": 88963,
-            "posicaoId": 6
-          },
-          {
-            "id": 71684,
-            "posicaoId": 3
-          },
-          {
-            "id": 110426,
+            "id": 124526,
             "posicaoId": 2
           },
           {
-            "id": 103445,
+            "id": 94583,
             "posicaoId": 5
+          },
+          {
+            "id": 87863,
+            "posicaoId": 4
           },
           {
             "id": 68928,
@@ -837,19 +825,39 @@
             "posicaoId": 4
           },
           {
-            "id": 94583,
+            "id": 71684,
+            "posicaoId": 3
+          },
+          {
+            "id": 88963,
+            "posicaoId": 6
+          },
+          {
+            "id": 89274,
+            "posicaoId": 4
+          },
+          {
+            "id": 103445,
             "posicaoId": 5
           },
           {
-            "id": 124526,
-            "posicaoId": 2
+            "id": 98873,
+            "posicaoId": 5
           },
           {
-            "id": 87863,
-            "posicaoId": 4
+            "id": 110426,
+            "posicaoId": 2
           }
         ],
         "reservas": [
+          {
+            "id": 97321,
+            "posicaoId": 5
+          },
+          {
+            "id": 97653,
+            "posicaoId": 3
+          },
           {
             "id": 84735,
             "posicaoId": 4
@@ -861,14 +869,6 @@
           {
             "id": 51413,
             "posicaoId": 1
-          },
-          {
-            "id": 97653,
-            "posicaoId": 3
-          },
-          {
-            "id": 97321,
-            "posicaoId": 5
           }
         ],
         "capitaoId": 94583,
@@ -878,8 +878,40 @@
       "3250219": {
         "titulares": [
           {
-            "id": 114802,
+            "id": 104084,
+            "posicaoId": 1
+          },
+          {
+            "id": 98873,
             "posicaoId": 5
+          },
+          {
+            "id": 105436,
+            "posicaoId": 4
+          },
+          {
+            "id": 84816,
+            "posicaoId": 2
+          },
+          {
+            "id": 88963,
+            "posicaoId": 6
+          },
+          {
+            "id": 71684,
+            "posicaoId": 3
+          },
+          {
+            "id": 110426,
+            "posicaoId": 2
+          },
+          {
+            "id": 105647,
+            "posicaoId": 4
+          },
+          {
+            "id": 87863,
+            "posicaoId": 4
           },
           {
             "id": 94583,
@@ -890,46 +922,18 @@
             "posicaoId": 3
           },
           {
-            "id": 87863,
-            "posicaoId": 4
-          },
-          {
-            "id": 84816,
-            "posicaoId": 2
-          },
-          {
-            "id": 105436,
-            "posicaoId": 4
-          },
-          {
-            "id": 110426,
-            "posicaoId": 2
-          },
-          {
-            "id": 71684,
-            "posicaoId": 3
-          },
-          {
-            "id": 105647,
-            "posicaoId": 4
-          },
-          {
-            "id": 104084,
-            "posicaoId": 1
-          },
-          {
-            "id": 88963,
-            "posicaoId": 6
-          },
-          {
-            "id": 98873,
+            "id": 114802,
             "posicaoId": 5
           }
         ],
         "reservas": [
           {
-            "id": 110668,
-            "posicaoId": 2
+            "id": 91473,
+            "posicaoId": 4
+          },
+          {
+            "id": 99552,
+            "posicaoId": 1
           },
           {
             "id": 97653,
@@ -940,12 +944,8 @@
             "posicaoId": 5
           },
           {
-            "id": 91473,
-            "posicaoId": 4
-          },
-          {
-            "id": 99552,
-            "posicaoId": 1
+            "id": 110668,
+            "posicaoId": 2
           }
         ],
         "capitaoId": 98873,
@@ -955,12 +955,28 @@
       "3419812": {
         "titulares": [
           {
-            "id": 99274,
+            "id": 105436,
+            "posicaoId": 4
+          },
+          {
+            "id": 71684,
             "posicaoId": 3
           },
           {
-            "id": 94583,
+            "id": 103445,
             "posicaoId": 5
+          },
+          {
+            "id": 110426,
+            "posicaoId": 2
+          },
+          {
+            "id": 105647,
+            "posicaoId": 4
+          },
+          {
+            "id": 84816,
+            "posicaoId": 2
           },
           {
             "id": 87863,
@@ -979,46 +995,30 @@
             "posicaoId": 1
           },
           {
-            "id": 71684,
-            "posicaoId": 3
-          },
-          {
-            "id": 84816,
-            "posicaoId": 2
-          },
-          {
-            "id": 103445,
+            "id": 94583,
             "posicaoId": 5
           },
           {
-            "id": 105436,
-            "posicaoId": 4
-          },
-          {
-            "id": 105647,
-            "posicaoId": 4
-          },
-          {
-            "id": 110426,
-            "posicaoId": 2
+            "id": 99274,
+            "posicaoId": 3
           }
         ],
         "reservas": [
           {
-            "id": 97899,
-            "posicaoId": 2
-          },
-          {
-            "id": 83528,
-            "posicaoId": 3
+            "id": 142890,
+            "posicaoId": 4
           },
           {
             "id": 130209,
             "posicaoId": 5
           },
           {
-            "id": 142890,
-            "posicaoId": 4
+            "id": 83528,
+            "posicaoId": 3
+          },
+          {
+            "id": 97899,
+            "posicaoId": 2
           }
         ],
         "capitaoId": 143193,
@@ -1028,12 +1028,32 @@
       "4997197": {
         "titulares": [
           {
-            "id": 99274,
+            "id": 98873,
+            "posicaoId": 5
+          },
+          {
+            "id": 88963,
+            "posicaoId": 6
+          },
+          {
+            "id": 71684,
             "posicaoId": 3
           },
           {
-            "id": 94583,
-            "posicaoId": 5
+            "id": 105647,
+            "posicaoId": 4
+          },
+          {
+            "id": 104084,
+            "posicaoId": 1
+          },
+          {
+            "id": 105436,
+            "posicaoId": 4
+          },
+          {
+            "id": 87863,
+            "posicaoId": 4
           },
           {
             "id": 83528,
@@ -1044,47 +1064,19 @@
             "posicaoId": 4
           },
           {
-            "id": 87863,
-            "posicaoId": 4
-          },
-          {
             "id": 143193,
             "posicaoId": 5
           },
           {
-            "id": 71684,
+            "id": 99274,
             "posicaoId": 3
           },
           {
-            "id": 98873,
+            "id": 94583,
             "posicaoId": 5
-          },
-          {
-            "id": 105436,
-            "posicaoId": 4
-          },
-          {
-            "id": 88963,
-            "posicaoId": 6
-          },
-          {
-            "id": 105647,
-            "posicaoId": 4
-          },
-          {
-            "id": 104084,
-            "posicaoId": 1
           }
         ],
         "reservas": [
-          {
-            "id": 97867,
-            "posicaoId": 3
-          },
-          {
-            "id": 68938,
-            "posicaoId": 4
-          },
           {
             "id": 103445,
             "posicaoId": 5
@@ -1092,6 +1084,14 @@
           {
             "id": 99552,
             "posicaoId": 1
+          },
+          {
+            "id": 68938,
+            "posicaoId": 4
+          },
+          {
+            "id": 97867,
+            "posicaoId": 3
           }
         ],
         "capitaoId": 94583,
@@ -1105,28 +1105,28 @@
             "posicaoId": 4
           },
           {
-            "id": 99552,
-            "posicaoId": 1
-          },
-          {
             "id": 98873,
             "posicaoId": 5
           },
           {
-            "id": 110426,
-            "posicaoId": 2
+            "id": 99552,
+            "posicaoId": 1
           },
           {
             "id": 87863,
             "posicaoId": 4
           },
           {
-            "id": 143193,
-            "posicaoId": 5
+            "id": 110426,
+            "posicaoId": 2
           },
           {
             "id": 99815,
             "posicaoId": 4
+          },
+          {
+            "id": 143193,
+            "posicaoId": 5
           },
           {
             "id": 83528,
@@ -1151,16 +1151,16 @@
         ],
         "reservas": [
           {
+            "id": 105647,
+            "posicaoId": 4
+          },
+          {
             "id": 103445,
             "posicaoId": 5
           },
           {
             "id": 84816,
             "posicaoId": 2
-          },
-          {
-            "id": 105647,
-            "posicaoId": 4
           },
           {
             "id": 110698,
@@ -1178,16 +1178,8 @@
       "13912942": {
         "titulares": [
           {
-            "id": 84816,
-            "posicaoId": 2
-          },
-          {
             "id": 71684,
             "posicaoId": 3
-          },
-          {
-            "id": 98873,
-            "posicaoId": 5
           },
           {
             "id": 105647,
@@ -1198,12 +1190,16 @@
             "posicaoId": 2
           },
           {
-            "id": 87863,
-            "posicaoId": 4
+            "id": 98873,
+            "posicaoId": 5
           },
           {
-            "id": 110506,
-            "posicaoId": 6
+            "id": 84816,
+            "posicaoId": 2
+          },
+          {
+            "id": 87863,
+            "posicaoId": 4
           },
           {
             "id": 143193,
@@ -1214,38 +1210,42 @@
             "posicaoId": 4
           },
           {
+            "id": 110506,
+            "posicaoId": 6
+          },
+          {
             "id": 99274,
             "posicaoId": 3
           },
           {
-            "id": 94583,
-            "posicaoId": 5
-          },
-          {
             "id": 72018,
             "posicaoId": 1
+          },
+          {
+            "id": 94583,
+            "posicaoId": 5
           }
         ],
         "reservas": [
           {
-            "id": 90703,
-            "posicaoId": 4
+            "id": 103445,
+            "posicaoId": 5
           },
           {
             "id": 99552,
             "posicaoId": 1
           },
           {
-            "id": 103445,
-            "posicaoId": 5
-          },
-          {
-            "id": 96870,
-            "posicaoId": 2
+            "id": 90703,
+            "posicaoId": 4
           },
           {
             "id": 83528,
             "posicaoId": 3
+          },
+          {
+            "id": 96870,
+            "posicaoId": 2
           }
         ],
         "capitaoId": 98873,
@@ -1255,19 +1255,11 @@
       "15282074": {
         "titulares": [
           {
-            "id": 124526,
-            "posicaoId": 2
+            "id": 92273,
+            "posicaoId": 6
           },
           {
-            "id": 106202,
-            "posicaoId": 4
-          },
-          {
-            "id": 89840,
-            "posicaoId": 5
-          },
-          {
-            "id": 132264,
+            "id": 98873,
             "posicaoId": 5
           },
           {
@@ -1275,50 +1267,58 @@
             "posicaoId": 4
           },
           {
-            "id": 71684,
-            "posicaoId": 3
-          },
-          {
-            "id": 98873,
-            "posicaoId": 5
-          },
-          {
-            "id": 105436,
-            "posicaoId": 4
-          },
-          {
-            "id": 92273,
-            "posicaoId": 6
+            "id": 110698,
+            "posicaoId": 1
           },
           {
             "id": 84816,
             "posicaoId": 2
           },
           {
+            "id": 71684,
+            "posicaoId": 3
+          },
+          {
             "id": 123869,
             "posicaoId": 3
           },
           {
-            "id": 110698,
-            "posicaoId": 1
+            "id": 105436,
+            "posicaoId": 4
+          },
+          {
+            "id": 132264,
+            "posicaoId": 5
+          },
+          {
+            "id": 89840,
+            "posicaoId": 5
+          },
+          {
+            "id": 106202,
+            "posicaoId": 4
+          },
+          {
+            "id": 124526,
+            "posicaoId": 2
           }
         ],
         "reservas": [
           {
-            "id": 68928,
-            "posicaoId": 1
-          },
-          {
-            "id": 101319,
-            "posicaoId": 2
+            "id": 91473,
+            "posicaoId": 4
           },
           {
             "id": 90031,
             "posicaoId": 5
           },
           {
-            "id": 91473,
-            "posicaoId": 4
+            "id": 101319,
+            "posicaoId": 2
+          },
+          {
+            "id": 68928,
+            "posicaoId": 1
           }
         ],
         "capitaoId": 98873,
@@ -1328,36 +1328,8 @@
       "17382079": {
         "titulares": [
           {
-            "id": 98873,
-            "posicaoId": 5
-          },
-          {
-            "id": 110426,
+            "id": 124526,
             "posicaoId": 2
-          },
-          {
-            "id": 71684,
-            "posicaoId": 3
-          },
-          {
-            "id": 88963,
-            "posicaoId": 6
-          },
-          {
-            "id": 105436,
-            "posicaoId": 4
-          },
-          {
-            "id": 87863,
-            "posicaoId": 4
-          },
-          {
-            "id": 99815,
-            "posicaoId": 4
-          },
-          {
-            "id": 143193,
-            "posicaoId": 5
           },
           {
             "id": 71631,
@@ -1372,73 +1344,20 @@
             "posicaoId": 5
           },
           {
-            "id": 124526,
-            "posicaoId": 2
-          }
-        ],
-        "reservas": [
-          {
-            "id": 105647,
-            "posicaoId": 4
-          },
-          {
-            "id": 110698,
-            "posicaoId": 1
-          },
-          {
-            "id": 103445,
+            "id": 143193,
             "posicaoId": 5
-          },
-          {
-            "id": 83528,
-            "posicaoId": 3
-          },
-          {
-            "id": 105175,
-            "posicaoId": 2
-          }
-        ],
-        "capitaoId": 98873,
-        "reservaLuxoId": 103445,
-        "assinante": true
-      },
-      "25278938": {
-        "titulares": [
-          {
-            "id": 94583,
-            "posicaoId": 5
-          },
-          {
-            "id": 71631,
-            "posicaoId": 1
           },
           {
             "id": 87863,
             "posicaoId": 4
           },
           {
-            "id": 83528,
-            "posicaoId": 3
-          },
-          {
             "id": 99815,
             "posicaoId": 4
           },
           {
-            "id": 97867,
+            "id": 71684,
             "posicaoId": 3
-          },
-          {
-            "id": 102130,
-            "posicaoId": 2
-          },
-          {
-            "id": 88963,
-            "posicaoId": 6
-          },
-          {
-            "id": 110426,
-            "posicaoId": 2
           },
           {
             "id": 98873,
@@ -1449,19 +1368,92 @@
             "posicaoId": 4
           },
           {
-            "id": 143193,
-            "posicaoId": 5
+            "id": 88963,
+            "posicaoId": 6
+          },
+          {
+            "id": 110426,
+            "posicaoId": 2
           }
         ],
         "reservas": [
           {
-            "id": 124526,
+            "id": 105175,
             "posicaoId": 2
           },
           {
-            "id": 97653,
+            "id": 83528,
             "posicaoId": 3
           },
+          {
+            "id": 110698,
+            "posicaoId": 1
+          },
+          {
+            "id": 103445,
+            "posicaoId": 5
+          },
+          {
+            "id": 105647,
+            "posicaoId": 4
+          }
+        ],
+        "capitaoId": 98873,
+        "reservaLuxoId": 103445,
+        "assinante": true
+      },
+      "25278938": {
+        "titulares": [
+          {
+            "id": 88963,
+            "posicaoId": 6
+          },
+          {
+            "id": 102130,
+            "posicaoId": 2
+          },
+          {
+            "id": 110426,
+            "posicaoId": 2
+          },
+          {
+            "id": 105436,
+            "posicaoId": 4
+          },
+          {
+            "id": 98873,
+            "posicaoId": 5
+          },
+          {
+            "id": 83528,
+            "posicaoId": 3
+          },
+          {
+            "id": 97867,
+            "posicaoId": 3
+          },
+          {
+            "id": 99815,
+            "posicaoId": 4
+          },
+          {
+            "id": 87863,
+            "posicaoId": 4
+          },
+          {
+            "id": 143193,
+            "posicaoId": 5
+          },
+          {
+            "id": 94583,
+            "posicaoId": 5
+          },
+          {
+            "id": 71631,
+            "posicaoId": 1
+          }
+        ],
+        "reservas": [
           {
             "id": 89274,
             "posicaoId": 4
@@ -1473,6 +1465,14 @@
           {
             "id": 99552,
             "posicaoId": 1
+          },
+          {
+            "id": 97653,
+            "posicaoId": 3
+          },
+          {
+            "id": 124526,
+            "posicaoId": 2
           }
         ],
         "capitaoId": 94583,
@@ -1482,16 +1482,8 @@
       "26079439": {
         "titulares": [
           {
-            "id": 104084,
-            "posicaoId": 1
-          },
-          {
-            "id": 71684,
-            "posicaoId": 3
-          },
-          {
-            "id": 84816,
-            "posicaoId": 2
+            "id": 88963,
+            "posicaoId": 6
           },
           {
             "id": 110426,
@@ -1502,42 +1494,50 @@
             "posicaoId": 4
           },
           {
-            "id": 105436,
-            "posicaoId": 4
-          },
-          {
             "id": 98873,
             "posicaoId": 5
           },
           {
-            "id": 88963,
-            "posicaoId": 6
+            "id": 104084,
+            "posicaoId": 1
+          },
+          {
+            "id": 71684,
+            "posicaoId": 3
           },
           {
             "id": 113103,
             "posicaoId": 5
           },
           {
+            "id": 84816,
+            "posicaoId": 2
+          },
+          {
+            "id": 105436,
+            "posicaoId": 4
+          },
+          {
             "id": 87863,
             "posicaoId": 4
           },
           {
-            "id": 99274,
-            "posicaoId": 3
-          },
-          {
             "id": 94583,
             "posicaoId": 5
+          },
+          {
+            "id": 99274,
+            "posicaoId": 3
           }
         ],
         "reservas": [
           {
-            "id": 90703,
-            "posicaoId": 4
-          },
-          {
             "id": 99552,
             "posicaoId": 1
+          },
+          {
+            "id": 90703,
+            "posicaoId": 4
           },
           {
             "id": 83528,
@@ -1559,32 +1559,32 @@
       "27772103": {
         "titulares": [
           {
-            "id": 94583,
-            "posicaoId": 5
-          },
-          {
             "id": 99274,
             "posicaoId": 3
           },
           {
-            "id": 87863,
-            "posicaoId": 4
+            "id": 94583,
+            "posicaoId": 5
           },
           {
-            "id": 99815,
-            "posicaoId": 4
-          },
-          {
-            "id": 124264,
-            "posicaoId": 1
+            "id": 104027,
+            "posicaoId": 6
           },
           {
             "id": 143193,
             "posicaoId": 5
           },
           {
-            "id": 104027,
-            "posicaoId": 6
+            "id": 99815,
+            "posicaoId": 4
+          },
+          {
+            "id": 87863,
+            "posicaoId": 4
+          },
+          {
+            "id": 124264,
+            "posicaoId": 1
           },
           {
             "id": 78850,
@@ -1621,12 +1621,12 @@
             "posicaoId": 3
           },
           {
-            "id": 103445,
-            "posicaoId": 5
-          },
-          {
             "id": 89274,
             "posicaoId": 4
+          },
+          {
+            "id": 103445,
+            "posicaoId": 5
           }
         ],
         "capitaoId": 94583,
@@ -1640,11 +1640,11 @@
             "posicaoId": 6
           },
           {
-            "id": 110426,
-            "posicaoId": 2
+            "id": 105436,
+            "posicaoId": 4
           },
           {
-            "id": 105436,
+            "id": 105647,
             "posicaoId": 4
           },
           {
@@ -1652,24 +1652,24 @@
             "posicaoId": 5
           },
           {
-            "id": 105647,
-            "posicaoId": 4
-          },
-          {
-            "id": 87863,
-            "posicaoId": 4
+            "id": 110426,
+            "posicaoId": 2
           },
           {
             "id": 83528,
             "posicaoId": 3
           },
           {
-            "id": 143193,
-            "posicaoId": 5
-          },
-          {
             "id": 97867,
             "posicaoId": 3
+          },
+          {
+            "id": 87863,
+            "posicaoId": 4
+          },
+          {
+            "id": 143193,
+            "posicaoId": 5
           },
           {
             "id": 71631,
@@ -1713,24 +1713,8 @@
       "47653263": {
         "titulares": [
           {
-            "id": 114802,
+            "id": 98873,
             "posicaoId": 5
-          },
-          {
-            "id": 94583,
-            "posicaoId": 5
-          },
-          {
-            "id": 72018,
-            "posicaoId": 1
-          },
-          {
-            "id": 83528,
-            "posicaoId": 3
-          },
-          {
-            "id": 87863,
-            "posicaoId": 4
           },
           {
             "id": 71684,
@@ -1741,35 +1725,43 @@
             "posicaoId": 2
           },
           {
-            "id": 110426,
-            "posicaoId": 2
-          },
-          {
             "id": 105647,
             "posicaoId": 4
           },
           {
-            "id": 98873,
-            "posicaoId": 5
+            "id": 110426,
+            "posicaoId": 2
+          },
+          {
+            "id": 105436,
+            "posicaoId": 4
           },
           {
             "id": 88963,
             "posicaoId": 6
           },
           {
-            "id": 105436,
+            "id": 83528,
+            "posicaoId": 3
+          },
+          {
+            "id": 87863,
             "posicaoId": 4
+          },
+          {
+            "id": 72018,
+            "posicaoId": 1
+          },
+          {
+            "id": 94583,
+            "posicaoId": 5
+          },
+          {
+            "id": 114802,
+            "posicaoId": 5
           }
         ],
         "reservas": [
-          {
-            "id": 97899,
-            "posicaoId": 2
-          },
-          {
-            "id": 128431,
-            "posicaoId": 4
-          },
           {
             "id": 124264,
             "posicaoId": 1
@@ -1781,6 +1773,14 @@
           {
             "id": 143193,
             "posicaoId": 5
+          },
+          {
+            "id": 128431,
+            "posicaoId": 4
+          },
+          {
+            "id": 97899,
+            "posicaoId": 2
           }
         ],
         "capitaoId": 94583,
@@ -1790,24 +1790,20 @@
       "49288650": {
         "titulares": [
           {
-            "id": 110426,
-            "posicaoId": 2
-          },
-          {
-            "id": 98873,
-            "posicaoId": 5
-          },
-          {
-            "id": 88963,
-            "posicaoId": 6
+            "id": 71684,
+            "posicaoId": 3
           },
           {
             "id": 84816,
             "posicaoId": 2
           },
           {
-            "id": 71684,
-            "posicaoId": 3
+            "id": 110426,
+            "posicaoId": 2
+          },
+          {
+            "id": 105436,
+            "posicaoId": 4
           },
           {
             "id": 105647,
@@ -1818,8 +1814,12 @@
             "posicaoId": 4
           },
           {
-            "id": 105436,
-            "posicaoId": 4
+            "id": 98873,
+            "posicaoId": 5
+          },
+          {
+            "id": 88963,
+            "posicaoId": 6
           },
           {
             "id": 143193,
@@ -1830,19 +1830,15 @@
             "posicaoId": 1
           },
           {
-            "id": 99274,
-            "posicaoId": 3
-          },
-          {
             "id": 94583,
             "posicaoId": 5
+          },
+          {
+            "id": 99274,
+            "posicaoId": 3
           }
         ],
         "reservas": [
-          {
-            "id": 142890,
-            "posicaoId": 4
-          },
           {
             "id": 99552,
             "posicaoId": 1
@@ -1850,6 +1846,10 @@
           {
             "id": 103445,
             "posicaoId": 5
+          },
+          {
+            "id": 142890,
+            "posicaoId": 4
           },
           {
             "id": 83528,
@@ -1868,7 +1868,7 @@
   },
   "parciais": {
     "rodada": 34,
-    "atualizadoEm": "2026-11-06T18:06:58.814Z",
+    "atualizadoEm": "2026-11-06T18:08:57.030Z",
     "porTime": {
       "90277": 80.2,
       "309735": 117.4,
@@ -2017,7 +2017,7 @@
       "28": 88.47,
       "29": 101.54,
       "30": 93.95,
-      "31": 93.95,
+      "31": 88.58,
       "32": 73.68,
       "33": 84.21
     },
@@ -2382,58 +2382,6 @@
           "resultado": "casa"
         },
         {
-          "casaClubeId": 263,
-          "foraClubeId": 284,
-          "casaTimeId": 25278938,
-          "foraTimeId": 13912942,
-          "dataPartida": "2026-07-29 20:30:00",
-          "valida": false,
-          "placarCasa": null,
-          "placarFora": null,
-          "pontosCasa": 75.83,
-          "pontosFora": 82,
-          "resultado": "fora"
-        },
-        {
-          "casaClubeId": 276,
-          "foraClubeId": 277,
-          "casaTimeId": 3419812,
-          "foraTimeId": 4997197,
-          "dataPartida": "2026-07-29 20:30:00",
-          "valida": false,
-          "placarCasa": null,
-          "placarFora": null,
-          "pontosCasa": 76.3,
-          "pontosFora": 65.85,
-          "resultado": "casa"
-        },
-        {
-          "casaClubeId": 282,
-          "foraClubeId": 280,
-          "casaTimeId": 1067774,
-          "foraTimeId": 47572160,
-          "dataPartida": "2026-07-29 20:30:00",
-          "valida": false,
-          "placarCasa": null,
-          "placarFora": null,
-          "pontosCasa": 64.21,
-          "pontosFora": 74.76,
-          "resultado": "fora"
-        },
-        {
-          "casaClubeId": 315,
-          "foraClubeId": 267,
-          "casaTimeId": 26079439,
-          "foraTimeId": 3250219,
-          "dataPartida": "2026-07-29 20:30:00",
-          "valida": false,
-          "placarCasa": null,
-          "placarFora": null,
-          "pontosCasa": 64.71,
-          "pontosFora": 78,
-          "resultado": "fora"
-        },
-        {
           "casaClubeId": 266,
           "foraClubeId": 265,
           "casaTimeId": 90277,
@@ -2484,6 +2432,58 @@
           "pontosCasa": 90.25,
           "pontosFora": 87.61,
           "resultado": "casa"
+        },
+        {
+          "casaClubeId": 263,
+          "foraClubeId": 284,
+          "casaTimeId": 25278938,
+          "foraTimeId": 13912942,
+          "dataPartida": "2026-09-16 19:30:00",
+          "valida": false,
+          "placarCasa": 3,
+          "placarFora": 2,
+          "pontosCasa": 75.83,
+          "pontosFora": 82,
+          "resultado": "fora"
+        },
+        {
+          "casaClubeId": 276,
+          "foraClubeId": 277,
+          "casaTimeId": 3419812,
+          "foraTimeId": 4997197,
+          "dataPartida": "2026-10-02 20:00:00",
+          "valida": false,
+          "placarCasa": 1,
+          "placarFora": 2,
+          "pontosCasa": 76.3,
+          "pontosFora": 65.85,
+          "resultado": "casa"
+        },
+        {
+          "casaClubeId": 282,
+          "foraClubeId": 280,
+          "casaTimeId": 1067774,
+          "foraTimeId": 47572160,
+          "dataPartida": "2026-10-03 18:30:00",
+          "valida": false,
+          "placarCasa": 1,
+          "placarFora": 0,
+          "pontosCasa": 64.21,
+          "pontosFora": 74.76,
+          "resultado": "fora"
+        },
+        {
+          "casaClubeId": 315,
+          "foraClubeId": 267,
+          "casaTimeId": 26079439,
+          "foraTimeId": 3250219,
+          "dataPartida": "2026-11-14 20:30:00",
+          "valida": false,
+          "placarCasa": null,
+          "placarFora": null,
+          "pontosCasa": 64.71,
+          "pontosFora": 78,
+          "resultado": "fora"
         }
       ]
     },
@@ -3777,7 +3777,7 @@
           "placarCasa": 1,
           "placarFora": 0,
           "pontosCasa": 83.96,
-          "pontosFora": 93.95,
+          "pontosFora": 88.58,
           "resultado": "fora"
         },
         {
@@ -4111,8 +4111,8 @@
           "foraTimeId": 2963331,
           "dataPartida": "2026-10-31 16:00:00",
           "valida": false,
-          "placarCasa": null,
-          "placarFora": null,
+          "placarCasa": 2,
+          "placarFora": 0,
           "pontosCasa": 77.41,
           "pontosFora": 83.61,
           "resultado": "fora"
@@ -4907,7 +4907,7 @@
       "v": 7,
       "e": 2,
       "d": 5,
-      "pgTurno": 1260.88
+      "pgTurno": 1255.51
     },
     {
       "pos": 10,
