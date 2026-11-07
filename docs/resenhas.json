@@ -1,726 +1,726 @@
 [
-  {
-    "id": "abertura",
-    "rodada": null,
-    "titulo": "Apita o Zé: começou a Cartoka!",
-    "blocos": [
-      {
-        "icone": "🎙️",
-        "titulo": "Microfone aberto, bola rolando",
-        "texto": "Senhoras e senhores, o Zé Resenha declara aberto o returno da Cartoka! São 20 cartoleiros, 19 rodadas e confrontos copiando a tabela real do Brasileirão. Quem pontuar mais no Cartola leva os 3 pontos da rodada, e no fim tem R$ 750 para o campeão, com prêmio até o 5º lugar. Pode ir escolhendo o lugar do troféu na estante, mas só depois da rodada 38."
-      },
-      {
-        "icone": "🔮",
-        "titulo": "Bolão da rodada zero",
-        "texto": "Antes da bola rolar, todo mundo é campeão: são 20 cartoleiros se olhando de lado, cada um com seu segredo de escalação. Tem o cientista do scout, o coração que escala o time que torce e o clássico apostador que fecha o time faltando um minuto para o mercado fechar. A partir de agora não tem conversa: é ponto na tabela ou meme no grupo."
-      },
-      {
-        "icone": "🧠",
-        "titulo": "Palpite do Zé",
-        "texto": "O Zé não vai apontar favorito antes da primeira rodada, até porque microfone de comentarista já rendeu muita profecia furada. O que o Zé garante: vai ter mitada de desconhecido, vexame de figurão e pelo menos um empate daqueles de diferença mínima só para gerar discussão no grupo. Guarda este parágrafo para cobrar depois."
-      },
-      {
-        "icone": "⚔️",
-        "titulo": "Pratos do dia na rodada 20",
-        "texto": "A estreia já veio recheada: pietro filho x HORST BRAUN abre os trabalhos, e o 2 a 0 do jogo real não vale nada aqui, quem decide é a pontuação do Cartola. Brocador do Bonja x Kaempfs F.C. coloca o organizador em campo logo de cara: se tropeçar na estreia, a zoeira vem com juros. E Urachfc x VIERTRICOLOR fecha a rodada com cara de decisão antecipada."
-      },
-      {
-        "icone": "💸",
-        "titulo": "Alô, alô, inscrições",
-        "texto": "Recado oficial da diretoria: 6 guerreiros já garantiram a vaga, faltam 14 promessas ambulantes. A inscrição é R$ 100 e a porteira fecha dia 10/08, depois nem choro com nota fiscal resolve. Pode confiar: o Pix dói menos que ver o capitão adversário mitar no domingo à noite."
-      },
-      {
-        "icone": "🍿",
-        "titulo": "Liga o modo resenha",
-        "texto": "De agora em diante, toda rodada tem resenha nova do Zé: zoeira fresquinha e ranking na mesa. Prepara o coração, o time titular e o dedo para o print. São 19 rodadas para virar lenda ou virar meme na Cartoka 2026. Bola pra frente que atrás vem resenha!"
-      }
-    ],
-    "geradaEm": "2026-07-27T00:15:00.000Z"
-  },
-  {
-    "id": "rodada-20",
-    "rodada": 20,
-    "titulo": "Urachfc detona, HORST BRAUN vira lanterna e o returno já engata treta",
-    "blocos": [
-      {
-        "icone": "🏆",
-        "titulo": "Cartoleiro da rodada",
-        "texto": "Quem abriu o returno com show de bola foi o Urachfc, que passou o rodo no VIERTRICOLOR por 127,41 a 86,65 no Cartola e já assume a ponta da tabela. Foi camisa 10 do início ao fim, sem departamento médico e sem susto, só pontuação de gente grande. Se a régua for essa o returno inteiro, já dá para separar espaço na estante para os R$ 750 do primeiro lugar."
-      },
-      {
-        "icone": "🤡",
-        "titulo": "Vexame da rodada",
-        "texto": "Já o HORST BRAUN estreou com a pior de todas: apenas 72,61 pontos e lanterna isolada logo de cara. Time colorado que prometia ser o Beira-Rio da Cartoka virou pousada por uma rodada inteira. Recomendação do Zé: reveja a escalação antes que a lanterna vire hábito."
-      },
-      {
-        "icone": "🔥",
-        "titulo": "Jogo da rodada",
-        "texto": "O confronto mais equilibrado ficou por conta do Esporte Clube Barão contra o Mandrackefc, decidido por apenas 2,50 pontos (103,81 a 101,31). Foi treta até o último apito da rodada, sem espaço para relaxar no sofá. Coração fraco que nem tente acompanhar o Cartola ao vivo nesses jogos."
-      },
-      {
-        "icone": "📊",
-        "titulo": "Sobe e desce da tabela",
-        "texto": "A rodada 20 não teve nenhum empate: foram dez vitórias líquidas, sem margem para acordo. O Urachfc assume a ponta isolado, e o HORST BRAUN já estreia na lanterna, exatamente onde ninguém quer passar o returno inteiro. Com o pelotão de cima embolado entre 100 e 108 pontos, essa tabela promete virar de rodada em rodada."
-      },
-      {
-        "icone": "🔮",
-        "titulo": "Espiada na próxima rodada",
-        "texto": "Na rodada 21, o líder Urachfc visita o SampaMissiones FC, que já quer tirar pontos do ponteiro logo na sequência. O vexame HORST BRAUN tenta reação diante do Berwinha FC, e o duelo Mandrackefc contra pietro filho promete outra pontuação apertada. Bola rolando de novo, e o grupo do WhatsApp já deve estar fervendo com os palpites."
-      },
-      {
-        "icone": "💸",
-        "titulo": "Recado das inscrições",
-        "texto": "A diretoria pede paciência, mas cobra: ainda faltam 14 cartoleiros regularizarem a inscrição de R$ 100, e o prazo segue firme até 10/08/2026. Depois dessa data o Zé não garante nem consolo para quem ficar de fora da briga pelos R$ 750 do título. Corre lá que o boleto não pontua sozinho."
-      }
-    ],
-    "geradaEm": "2026-07-27T15:26:44.000Z"
-  },
-  {
-    "id": "rodada-21",
-    "rodada": 21,
-    "titulo": "Tricolor Lvfc estoura na ponta e Gaudérios vira alvo da zoeira",
-    "blocos": [
-      {
-        "icone": "🏆",
-        "titulo": "Cartoleiro da rodada",
-        "texto": "Quem mandou a real na rodada 21 foi o Tricolor Lvfc, do Lavison: 90,25 pontos contra o Império da Caipira e a melhor pontuação da rodada. Depois de fechar o primeiro turno na 11ª colocação, com apenas 29 pontos, o time agora assume a ponta da tabela do returno no desempate do PG turno, com seis pontos em duas rodadas. Quem duvidava do Tricolor já pode ir se explicando no grupo."
-      },
-      {
-        "icone": "🤡",
-        "titulo": "Vexame da rodada",
-        "texto": "Do outro lado, o Gaudérios FC, do Flávio Pacheco, fez feio: apenas 53,13 pontos na visita ao Esporte Clube Barão, que fechou com 87,11. Foi de longe a pior pontuação da rodada e a segunda derrota seguida do time no returno. Se o ritmo continuar assim, vai sobrar até para o adversário de olho no calendário."
-      },
-      {
-        "icone": "🔥",
-        "titulo": "Jogo da rodada",
-        "texto": "O confronto mais eletrizante ficou por conta de Tricolor Lvfc contra Império da Caipira, decidido por míseros 2,64 pontos (90,25 a 87,61). Quem escalou o time cedo demais deve ter sofrido até o mercado fechar de vez. Duelo apertado desses é o tipo de coisa que rende print guardado até semana que vem."
-      },
-      {
-        "icone": "📊",
-        "titulo": "Sobe e desce da tabela",
-        "texto": "A rodada 21 não teve nenhum empate: foram dez resultados líquidos, sem margem para acordo. A ponta agora é do Tricolor Lvfc, no desempate do PG turno com Esporte Clube Barão e Brocador do Bonja, todos com aproveitamento máximo. O Brocador, aliás, é o vice que perdeu o título do primeiro turno por 1,9 ponto para o Kaempfs F.C. e segue em ritmo de revanche. Na outra ponta, assume a lanterna o VIERTRICOLOR, do Daniel Vier, zerado em duas rodadas e precisando reagir rápido."
-      },
-      {
-        "icone": "🔮",
-        "titulo": "Espiada na próxima rodada",
-        "texto": "Na rodada 22, prepara a pipoca: o líder Tricolor Lvfc encara o Alemonstro FBPA de olho em esticar a vantagem, enquanto o lanterna VIERTRICOLOR tenta o resgate contra o Resina Club. O verdadeiro choque de titãs, porém, é Esporte Clube Barão contra Brocador do Bonja, dois dos times com aproveitamento perfeito até aqui se enfrentando direto. De quebra, o novato Baade FC mede forças com o pietro filho, e o Kaempfs F.C., campeão do primeiro turno, visita o Império da Caipira embalado pela virada sobre o Resina Club."
-      },
-      {
-        "icone": "💸",
-        "titulo": "Recado das inscrições",
-        "texto": "A diretoria dá um toque camarada: 13 cartoleiros ainda não regularizaram a inscrição de R$ 100, e o prazo segue firme até 10/08/2026. Depois dessa data some a chance de brigar pelos R$ 750 do título e pelos demais prêmios até o quinto lugar. Corre lá, guerreiro, que boleto pago rende mais que qualquer escalação de última hora."
-      }
-    ],
-    "geradaEm": "2026-07-31T14:00:00.000Z"
-  },
-  {
-    "id": "especial-pagamentos",
-    "rodada": null,
-    "rotulo": "Edição especial · Pix",
-    "titulo": "Plantão do Pix: faltam 11",
-    "blocos": [
-      {
-        "icone": "🚨",
-        "titulo": "Plantão do Zé",
-        "texto": "Interrompemos a programação normal da resenha: plantão urgente da tesouraria. Hoje não tem gol, não tem mito, o assunto é a inscrição de R$ 100. O prazo do dia 10/08 está logo ali e o Zé foi escalado para fazer a cobrança oficial. Ajeita o boné e abre o aplicativo do banco."
-      },
-      {
-        "icone": "🏆",
-        "titulo": "Hall da fama do Pix",
-        "texto": "Anuncia aí, locutor, que essa escalação merece telão: Kidiabense FC, Kaempfs F.C., Resina Club, Alemonstro FBPA, Corticeira's Farm FC, Madalena Club, Baade FC, Brocador do Bonja e Berwinha FC. Nove clubes de palavra, comprovante na mão e sono tranquilo. Palmas de pé para esse time, que a tesouraria adora."
-      },
-      {
-        "icone": "🕵️",
-        "titulo": "Os 11 foragidos do Pix",
-        "texto": "Do outro lado temos um time completo: são 11 pendentes, dava para escalar com goleiro e tudo. O Zé é educado e não cita nome de ninguém. Mas a aba Inscritos do site não tem a mesma educação: ela mostra na tela quem está Pago e quem está Pendente. Quem quiser sair dessa vitrine já sabe o caminho."
-      },
-      {
-        "icone": "⏰",
-        "titulo": "Seis dias no relógio",
-        "texto": "Hoje é 04/08 e o prazo final é 10/08: menos de uma semana no cronômetro. Em jogo estão R$ 750 para o campeão, R$ 550 para o vice, R$ 300 para o terceiro, R$ 200 para o quarto e R$ 100 para o quinto. São R$ 1.900 na mesa esperando dono. Ficar de fora por causa de um Pix de R$ 100 seria a derrota mais boba do ano."
-      },
-      {
-        "icone": "💸",
-        "titulo": "Aperta o Pix",
-        "texto": "O recado final cabe num toque de apito: R$ 100, um Pix, dez segundos, nome brilhando na coluna dos pagos. Comprovante no grupo vale aplauso de arquibancada lotada. Vamos fechar os 20 inscritos antes do dia 10 e deixar a liga redondinha. Pix feito, resenha em paz."
-      }
-    ],
-    "geradaEm": "2026-08-04T12:00:00.000Z"
-  },
-  {
-    "id": "especial-pagamentos-2",
-    "rodada": null,
-    "rotulo": "Edição especial · Ultimato do Pix",
-    "titulo": "4 dias pro apito final",
-    "blocos": [
-      {
-        "icone": "⏳",
-        "titulo": "Atenção: entramos nos acréscimos",
-        "texto": "Senhoras e senhores, liguem os rádios e segurem o coração: o cronômetro da tesouraria marca 4 dias pro apito final. Segunda-feira, 10/08, a janela de inscrição fecha e não tem prorrogação, não tem pênalti repetido. São R$ 100 no Pix, e quem não acertar as contas até lá assiste à decisão do lado de fora do portão."
-      },
-      {
-        "icone": "🧊",
-        "titulo": "O placar que congelou",
-        "texto": "No dia 04/08 eu soltei o Plantão do Pix todo confiante, achando que ia chover comprovante na minha área. Deu ruim: desde então ninguém novo pagou e o marcador segue congelado em 9 pagos e 11 pendentes. De um lado, o time do comprovante segurando a liga nas costas; do outro, um silêncio de torcida visitante em dia de goleada. Já vi zero a zero de doer os olhos, mas placar que não se mexe nem com cobrança oficial é novidade na minha carreira."
-      },
-      {
-        "icone": "🟨",
-        "titulo": "Amarelo coletivo pros 11",
-        "texto": "Cartão amarelo coletivo pros 11 que seguem fazendo cera no gramado da tesouraria. Eu não cito nomes porque sou educado, mas a aba Inscritos do site não tem a mesma diplomacia: ela mostra em público quem está Pago e quem segue Pendente. Indireta dada, telão ligado, torcida de olho: daqui pra frente, enrolação é revisada lance a lance no VAR."
-      },
-      {
-        "icone": "🏆",
-        "titulo": "O apito final de segunda",
-        "texto": "Segunda-feira, dia 10, o juiz olha pro relógio, enche o pulmão e solta o apito derradeiro: quem não pagou fica automaticamente fora da disputa pelos prêmios. E o que fica na mesa não é troco de padaria: R$ 750, R$ 550, R$ 300, R$ 200 e R$ 100 do primeiro ao quinto, um total de R$ 1.900. Perder essa disputa por causa de um Pix de R$ 100 é tomar gol de bola nas costas nos acréscimos."
-      },
-      {
-        "icone": "📲",
-        "titulo": "O Pix de 10 segundos",
-        "texto": "O lance ensaiado é simples: abre o aplicativo do banco, manda o Pix de R$ 100, solta o comprovante no grupo. Dez segundos, menos tempo que o goleiro leva pra bater um tiro de meta. Quem fizer isso hoje sai da coluna dos Pendentes com moral de artilheiro e ainda ganha elogio na próxima resenha. O apito de segunda vai tocar de qualquer jeito: melhor estar em campo quando ele soar."
-      }
-    ],
-    "geradaEm": "2026-08-06T17:30:00.000Z"
-  },
-  {
-    "id": "especial-regras-atraso",
-    "rodada": null,
-    "rotulo": "Comunicado oficial · Regras de atraso",
-    "titulo": "A diretoria bateu o martelo",
-    "blocos": [
-      {
-        "icone": "⚖️",
-        "titulo": "Hoje o apito final soa",
-        "texto": "Segunda-feira, 10 de agosto: é o último dia do prazo para pagar a inscrição de R$ 100 da Liga Cartoka. Quinze dos vinte já estão com a súmula limpa, cinco ainda seguem pendentes. A diretoria se reuniu, bateu o martelo e definiu as regras para quem passar do prazo, valendo igualzinho para todo mundo. Quem pagar hoje não é atingido por absolutamente nada do que vem a seguir."
-      },
-      {
-        "icone": "🟨",
-        "titulo": "Cartão amarelo: multa de R$ 20",
-        "texto": "Quem não quitar até o fim de hoje entra oficialmente em atraso e leva multa de R$ 20, passando a dever R$ 120. Ainda assim existe uma janela de respiro: pagando os R$ 120 até o fim da rodada 23, ninguém perde ponto nenhum na tabela. É o VAR dando uma última chance antes de o jogo ficar feio."
-      },
-      {
-        "icone": "📉",
-        "titulo": "Da rodada 24 em diante, dói na tabela",
-        "texto": "A partir da rodada 24, quem continuar devendo perde 1 ponto na tabela a cada rodada disputada. O sangramento para no exato momento em que o pagamento é feito, sem desconto retroativo nem meio termo. Só que atenção: os pontos já perdidos não voltam de jeito nenhum, ficam registrados na súmula para sempre."
-      },
-      {
-        "icone": "🏆",
-        "titulo": "Terminou devendo, terminou sem prêmio",
-        "texto": "Os prêmios seguem inalterados: R$ 750, R$ 550, R$ 300, R$ 200 e R$ 100 do primeiro ao quinto lugar, R$ 1.900 no total. Quem chegar ao fim do returno sem ter pago não recebe nada, mesmo que termine entre os cinco primeiros. Nesse caso o prêmio desce para o próximo colocado que estiver em dia, sem choro e sem recurso no tribunal."
-      },
-      {
-        "icone": "⏳",
-        "titulo": "Ninguém sai de campo, mas ainda dá tempo",
-        "texto": "Ninguém é expulso da liga: os confrontos seguem a tabela do Brasileirão e precisam dos 20 times em campo, então quem deve continua jogando normalmente, só que sangrando ponto e sem direito a prêmio. Ninguém quer chegar na rodada 38 com pontos descontados na tabela e assistindo a premiação passar de lado. Estamos na rodada 22 em andamento e a 23 já vem aí, ou seja, hoje ainda dá tempo de resolver. Pagou hoje, tá tudo certo e a bola segue rolando limpa."
-      }
-    ],
-    "geradaEm": "2026-08-10T13:13:50.122Z"
-  },
-  {
-    "id": "rodada-22",
-    "rodada": 22,
-    "titulo": "Império da Caipira estoura, VIERTRICOLOR afunda de novo e Brocador confirma o isolamento que eu já cantava ao vivo",
-    "blocos": [
-      {
-        "icone": "🏆",
-        "titulo": "Cartoleiro da rodada",
-        "texto": "Quem meteu a mão na faixa de melhor da rodada 22 foi o Império da Caipira, que atropelou justamente o Kaempfs F.C., campeão do primeiro turno, por 98,36 a 76,31. Não teve departamento médico nem crise de ansiedade: foi time inteiro rendendo junto, do goleiro ao ponta direita. A coroa do turno passado, ao que parece, não assusta mais ninguém no returno."
-      },
-      {
-        "icone": "🤡",
-        "titulo": "Vexame da rodada",
-        "texto": "Do outro lado do gramado, o VIERTRICOLOR fez feio de novo: apenas 47,50 pontos na visita ao Resina Club, que tarraxou 68,45. É a terceira rodada seguida com a lanterna cravada nas costas e nenhum ponto ganho na tabela do returno. Time desse jeito precisa de uma reunião de elenco, e urgente."
-      },
-      {
-        "icone": "🤝",
-        "titulo": "Jogo da rodada",
-        "texto": "O confronto mais equilibrado foi Parizi 01 contra Gaudérios FC, decidido por míseros 1,65 ponto (74,81 a 76,46), diferença curta o suficiente para virar empate pela regra da liga. Eu avisei na cobertura ao vivo que o Parizi seguia zerado depois de três rodadas, e o time escapou do zero exatamente com esse empate no fio do bigode. O Gaudérios, que também vinha de vexame na rodada anterior, sai com um pontinho debaixo do braço."
-      },
-      {
-        "icone": "📊",
-        "titulo": "Sobe e desce da tabela",
-        "texto": "O Brocador do Bonja confirmou o que eu já cantava ao vivo no sábado: liderança isolada, fechando a visita ao Esporte Clube Barão em 95,01 a 87,31 e somando 9 pontos, sozinho lá em cima. Atrás dele, um pelotão de nove times empata em 6 pontos, entre eles o Império da Caipira, a Tricolor Lvfc, o Mandrackefc e o Baade FC, o novato que já aparece no meio do pelotão sem currículo nenhum de primeiro turno pra chamar de seu. Na rabeira, o VIERTRICOLOR segue isolado na lanterna com 0 ponto em três rodadas, e o Kaempfs F.C., campeão do primeiro turno com aquele 1,9 de vantagem sobre o próprio Brocador, hoje amarga a 13ª posição com apenas 3 pontos. Turno passado é tempero, resenha é agora."
-      },
-      {
-        "icone": "🔮",
-        "titulo": "Espiada na próxima rodada",
-        "texto": "A rodada 23 começa no dia 15/08 com recheio garantido: o líder Brocador do Bonja recebe o Baade FC, aquele novato que só estreou no returno e ainda não tem nada de primeiro turno pra ninguém cobrar. A lanterna isolada VIERTRICOLOR tenta a reação diante do Kidiabense FC, enquanto Corticeira's Farm FC e Tricolor Lvfc se enfrentam direto, dois times do pelotão dos 6 pontos brigando por um respiro. De quebra, Mandrackefc e Império da Caipira também se cruzam, outro confronto de peso no meio da tabela."
-      }
-    ],
-    "geradaEm": "2026-08-10T16:24:55.000Z"
-  },
-  {
-    "id": "rodada-23",
-    "rodada": 23,
-    "titulo": "Brocador perde a coroa que eu mesmo coroei, Império da Caipira assume por desempate e Corticeira's Farm dispara na artilharia dos pontos",
-    "blocos": [
-      {
-        "icone": "🏆",
-        "titulo": "Cartoleiro da rodada",
-        "texto": "Quem fechou a rodada 23 com a melhor pontuação da liga foi o Corticeira's Farm FC, que atropelou o Tricolor Lvfc por 90,57 a 79,55. Eu já tinha avisado ao vivo, no fim de semana, que o time despontava disparado nos parciais com 83,87 pontos, e olha que ainda cresceu depois disso. Mito confirmado antes mesmo do apito final: reconhece que o Zé acerta uma de vez em quando."
-      },
-      {
-        "icone": "🤡",
-        "titulo": "Vexame da rodada",
-        "texto": "A pior pontuação da rodada não foi de quem eu apostava. Na cobertura ao vivo eu tinha apontado a Madalena Club como a lanterninha dos pontos daquele momento, mas quem realmente levou a pior foi ninguém menos que o então líder isolado da tabela: o Brocador do Bonja, com meros 46,77 pontos na derrota para o Baade FC. Coroa que eu mesmo tinha colocado na cabeça do Brocador durou exatamente uma rodada."
-      },
-      {
-        "icone": "🔥",
-        "titulo": "Jogo da rodada",
-        "texto": "O duelo mais equilibrado de verdade ficou por conta de Gaudérios FC e Urachfc, decidido por apenas 7,62 pontos (70,07 a 62,45). Eu tinha apontado ao vivo o confronto entre Parizi 01 e SampaMissiones FC como o mais grudado, com só 3,46 de diferença nos parciais, só que a pontuação final abriu para quase 12 pontos e tirou toda a graça. Fica a lição: parcial é conversa de bar, o que vale é o fechamento."
-      },
-      {
-        "icone": "📊",
-        "titulo": "Sobe e desce da tabela",
-        "texto": "Bateu o martelo e confirmou exatamente o que eu previa ao vivo: cinco times fecharam empatados em 9 pontos, com o desempate no PG turno decidindo tudo. Quem sai na frente agora é o Império da Caipira, que leva a melhor no desempate com 370,33 de PG turno, empatado em pontos com Corticeira's Farm FC, Baade FC, Resina Club e o já citado Brocador do Bonja, que despenca para a quinta posição do pelotão. Na lanterna isolada segue o VIERTRICOLOR, zerado em quatro rodadas e precisando de um milagre para sair do fundo do poço."
-      },
-      {
-        "icone": "🔮",
-        "titulo": "Espiada na próxima rodada",
-        "texto": "A rodada 24 já separa confrontos de interesse: o líder Império da Caipira recebe o Berwinha FC de olho em segurar a ponta, enquanto o Brocador do Bonja tenta reagir contra o Urachfc para não afundar de vez depois do tombo. O Corticeira's Farm FC, atual dono da melhor pontuação da liga, visita o Alemonstro FBPA, e o Baade FC, o novato sem passado de primeiro turno, recebe justamente o Kaempfs F.C., campeão do turno passado. De quebra, o lanterna VIERTRICOLOR mede forças com o HORST BRAUN em busca dos primeiros pontos ganhos no returno."
-      }
-    ],
-    "geradaEm": "2026-08-18T16:17:44Z"
-  },
-  {
-    "id": "especial-balanco-inscricoes",
-    "rodada": null,
-    "rotulo": "Balanço das inscrições",
-    "titulo": "Tesoureiro dormiu feliz (quase)",
-    "blocos": [
-      {
-        "icone": "💸",
-        "titulo": "19 de 20 na súmula",
-        "texto": "A tesouraria fechou o boletim e o placar é de encher os olhos: 19 dos 20 times em dia com os R$ 100. No dia 10 a liga acordou com só 11 pagos e terminou o expediente com 19, um mutirão digno de reta final de janela. Chapéu para a turma que resolveu no apito, sem enrolar o juiz."
-      },
-      {
-        "icone": "⏰",
-        "titulo": "Falta 1 (e o VAR já marcou)",
-        "texto": "Sobrou um solitário na lista da tesouraria, e não vou dar nome porque aqui a gente cobra a situação, não a pessoa. Como o prazo venceu, a multa de R$ 20 já entrou em campo e a inscrição virou R$ 120. A janela para quitar sem perder ponto ia até o fim da rodada 23, e essa janela já fechou."
-      },
-      {
-        "icone": "📉",
-        "titulo": "A partir da 24 dói na tabela",
-        "texto": "Da rodada 24 em diante, que já está rolando, é 1 ponto a menos na tabela a cada rodada disputada enquanto a pendência existir. O desconto para no instante em que o pagamento cair, mas os pontos que foram embora não voltam nem com recurso no tribunal. E quem terminar o returno devendo fica de fora da premiação: o dinheiro escorrega para o próximo colocado que estiver em dia."
-      },
-      {
-        "icone": "🔥",
-        "titulo": "Justo agora que embolou",
-        "texto": "A rodada 23 fechou com cinco times empatados em 9 pontos: Império da Caipira na frente pelo desempate de PG do turno, seguido de Corticeira's Farm FC, Baade FC, Resina Club e Brocador do Bonja. Numa briga desse tamanho, perder 1 ponto por rodada não é arranhão, é cartão vermelho. Com R$ 750, R$ 550, R$ 300, R$ 200 e R$ 100 na mesa, cada ponto vale dinheiro de verdade."
-      },
-      {
-        "icone": "🏁",
-        "titulo": "Resenha encerrada",
-        "texto": "Parabéns aos 19 que resolveram e deixaram a liga rodando redonda. Para o último da fila, o recado é curto: quanto antes o apito da tesouraria soar, menos ponto fica no caminho. Bola em campo e boa rodada 24 para todo mundo."
-      }
-    ],
-    "geradaEm": "2026-08-18T16:46:06.578384Z"
-  },
-  {
-    "id": "rodada-24",
-    "rodada": 24,
-    "titulo": "Rodada 24 fecha com Resina e Brocador colados na ponta, e o Barão cai do pelotão dos 9 no apagar das luzes",
-    "blocos": [
-      {
-        "icone": "🥇",
-        "titulo": "Cartoleiro da rodada: Resina crava a melhor pontuação",
-        "texto": "Como eu avisei ainda no sábado, Resina Club e Brocador do Bonja fecharam a rodada 24 empatados em 12 pontos corridos cada, os dois únicos a vencer com sobra na rodada (138,67 e 132,47, a maior e a segunda maior pontuação do dia). No desempate por PG turno, o Resina segue na frente: 466,61 contra 460,26 do Brocador. Duas máquinas que simplesmente não descolam uma da outra."
-      },
-      {
-        "icone": "🚿",
-        "titulo": "Vexame da rodada: Vier não sai do fundo do poço",
-        "texto": "O VIERTRICOLOR fechou com a pior pontuação da rodada, 74,2, e nem jogando em casa contra o HORST BRAUN escapou da derrota (100,82 a 74,2). Com isso, segue de lanterna isolada, zero vitórias nas cinco rodadas do returno até aqui. Já dá pra separar a toalha com antecedência."
-      },
-      {
-        "icone": "⚡",
-        "titulo": "Jogo da rodada: Sampa fecha o troco escondido no meio da tabela",
-        "texto": "A fisgada mais apertada da rodada passou batida enquanto eu ainda apostava na resistência do Barão: SampaMissiones FC venceu o Esporte Clube Barão por 112,68 a 109,17, diferença de só 3,51 pontos, a menor de toda a rodada 24. Achei que o Barão ia embarcar no pelotão lá de cima, mas o Sampa fechou o troco no fim."
-      },
-      {
-        "icone": "🎢",
-        "titulo": "Sobe e desce: Berwinha entra no pelotão, Barão sai",
-        "texto": "A virada que eu já tinha flagrado ao vivo se confirmou: o Berwinha FC bateu o Império da Caipira por 126,70 a 113,40 e subiu para 9 pontos corridos, entrando no pelotão gigante que ocupa da 3ª à 10ª posição (Corticeira's Farm, Império, Tricolor, Kaempfs, Baade, Alemonstro, Berwinha e HORST BRAUN, todos com 9). Já o Barão, que eu cheguei a incluir nesse grupo durante a cobertura ao vivo, perdeu no apagar das luzes e ficou com 6 pontos, na 13ª posição."
-      },
-      {
-        "icone": "📻",
-        "titulo": "Recado pra quem acompanhou ao vivo",
-        "texto": "No sábado eu avisei que Resina e Brocador estavam de mãos dadas na ponta, brigando pra ver quem descolava primeiro: bateu certinho, os dois fecharam empatados em 12 pontos, com o Resina levando o desempate por pouco mais de 6 pontos de PG turno. A previsão do nó de times na casa dos 9 pontos também quase fechou como o combinado, só o Barão que resolveu furar o acordo lá no finalzinho."
-      },
-      {
-        "icone": "🔮",
-        "titulo": "Espiada na rodada 25",
-        "texto": "A bola só rola de novo a partir do dia 29, mas a tabela de confrontos já está pegando fogo: o Brocador do Bonja recebe o Império da Caipira num duelo direto do pelotão de perseguição, o líder Resina Club enfrenta o Tricolor Lvfc, e o Berwinha FC, embalado pela virada da rodada passada, tenta engatar sequência contra o Parizi 01. Enquanto isso, o Kaempfs mede forças com o Urachfc, que segue tentando escapar da parte de baixo da tabela."
-      }
-    ],
-    "geradaEm": "2026-08-25T14:40:00Z"
-  },
-  {
-    "id": "rodada-25",
-    "rodada": 25,
-    "titulo": "Resina dispara na ponta isolada, Urachfc apanha feio e a rodada 25 vira duelo de empates apertados",
-    "blocos": [
-      {
-        "icone": "🏆",
-        "titulo": "Cartoleiro da rodada",
-        "texto": "Quem fechou a rodada 25 com a melhor pontuação da liga foi o Resina Club, que atropelou o Tricolor Lvfc por 125,03 a 95,53. Foi resultado de time grande, sem susto nenhum, e já empurra o Resina para a ponta isolada da tabela com 15 pontos corridos."
-      },
-      {
-        "icone": "🤡",
-        "titulo": "Vexame da rodada",
-        "texto": "Do outro lado, quem entregou a pior pontuação da rodada foi o Urachfc, com meros 53,08 pontos na derrota para o Kaempfs F.C. (117,83 a 53,08). É a quinta derrota do time em seis rodadas do returno, e a parte de baixo da tabela já virou endereço fixo."
-      },
-      {
-        "icone": "🔥",
-        "titulo": "Jogo da rodada",
-        "texto": "O confronto mais equilibrado nem precisou de vencedor: pietro filho e Gaudérios FC brigaram ponto a ponto até fechar em 109,95 a 110,68, diferença de apenas 0,73, dentro da regra que transforma o resultado em empate. Sorte de quem escalou os dois times, prejuízo de quem queria print de vitória."
-      },
-      {
-        "icone": "📊",
-        "titulo": "Sobe e desce da tabela",
-        "texto": "Na cobertura ao vivo eu apostei que o Gaudérios FC ia fechar com a maior pontuação da rodada. Errei feio: o time só empatou com o pietro filho, e quem levou a coroa de verdade foi o Resina Club. Acertei, porém, a briga pela ponta entre Resina Club e Brocador do Bonja: o Resina confirma a liderança isolada com 15 pontos, dois pontos à frente do vice Brocador, que só empatou com o Império da Caipira por 0,87 de diferença (103,68 a 104,55). Logo atrás, Kaempfs F.C. e Baade FC seguem empatados em 12 pontos, com o Kaempfs na frente no desempate do PG turno."
-      },
-      {
-        "icone": "🔮",
-        "titulo": "Espiada na rodada 26",
-        "texto": "A bola só rola de novo a partir do dia 05/09, e a tabela já separa emoção: o líder Resina Club recebe o Berwinha FC em casa de olho em esticar a vantagem, enquanto o vice Brocador do Bonja visita justamente o Gaudérios FC, que segue devendo aquele empate apertado. O Kaempfs F.C., no desempate lá na frente, visita o Tricolor Lvfc, que acabou de levar a maior sova da rodada 25. E o Baade FC, colado na ponta com 12 pontos, visita o HORST BRAUN, que vem de derrota folgada e tenta reagir em casa."
-      }
-    ],
-    "geradaEm": "2026-09-01T17:35:00.000Z"
-  },
-  {
-    "id": "rodada-26",
-    "rodada": 26,
-    "titulo": "Kidiabense crava a melhor da rodada, Corticeira's Farm passa vergonha e o Brocador cola no Resina bem na treta que eu avisei que vinha",
-    "blocos": [
-      {
-        "icone": "🏆",
-        "titulo": "Cartoleiro da rodada",
-        "texto": "Quem levou a faixa de melhor pontuação da rodada 26 foi o Kidiabense FC, que superou o SampaMissiones FC por 105,85 a 100,82 num duelo em que os dois times passaram dos 100 pontos. Ficou na frente só na unha do Parizi 01, que também estourou a casa dos 105 ao atropelar o Urachfc por 105,30 a 77,11. Rodada de artilheiro lá em cima da tabela de pontuação."
-      },
-      {
-        "icone": "🤡",
-        "titulo": "Vexame da rodada",
-        "texto": "O Corticeira's Farm FC entregou a pior pontuação da rodada, meros 65,71, e ainda saiu batido pelo VIERTRICOLOR fora de casa (65,71 a 88,46). Depois de rondar o pelotão de cima nas rodadas passadas, o time volta a lembrar que semana ruim também bate na porta de quem vinha embalado."
-      },
-      {
-        "icone": "🔥",
-        "titulo": "Jogo da rodada",
-        "texto": "O confronto mais apertado nem precisou de vencedor: HORST BRAUN e Baade FC brigaram ponto a ponto até fechar em 82,68 a 82,81, diferença de meros 0,13, a menor de toda a rodada, e caiu direto na regra do empate. Print desse marcador vale entrar pra galeria dos jogos de doer o coração."
-      },
-      {
-        "icone": "📊",
-        "titulo": "Sobe e desce da tabela",
-        "texto": "Eu avisei na cobertura ao vivo de sábado que a foto da liderança podia mexer assim que a pontuação oficial saísse, e mexeu bonito: o Brocador do Bonja bateu o Gaudérios FC por 92,25 a 88,01 e empatou em pontos com o Resina Club, os dois agora com 16 na ponta. Quem decide é o PG turno, e aí o Resina segue na frente, com 688,34 contra 656,19 do Brocador. Logo atrás, o Kaempfs F.C. goleou o Tricolor Lvfc por 92,50 a 83,65 e chegou aos 15 pontos, a um empurrãozinho do topo. Liderança que parecia tranquila virou rodada de unha roída."
-      },
-      {
-        "icone": "🔮",
-        "titulo": "Espiada na próxima rodada",
-        "texto": "A rodada 27 começa no dia 11/09 com confronto de peso: o líder Resina Club visita o Esporte Clube Barão, enquanto o outro líder, Brocador do Bonja, pega justamente o Kidiabense FC, dono da melhor pontuação da rodada 26. De quebra, o Kaempfs F.C., colado no topo com 15 pontos, recebe o SampaMissiones FC em casa de olho em brigar pela ponta isolada."
-      }
-    ],
-    "geradaEm": "2026-09-08T20:10:00.000Z"
-  },
-  {
-    "id": "rodada-27",
-    "rodada": 27,
-    "titulo": "Resina dispara isolado, Madalena rouba a cena com a melhor da rodada e o Kaempfs vê o sonho de colar na ponta ir por água abaixo",
-    "blocos": [
-      {
-        "icone": "🏆",
-        "titulo": "Cartoleiro da rodada",
-        "texto": "A pontuação mais alta da rodada 27 nem apareceu no meu radar ao vivo: foi o Madalena Club, que atropelou o Parizi 01 por 93,34 a 61,59. Nem uma linha eu escrevi sobre esse duelo no sábado, e olha a mitada que passou batida. Fica a lição: enquanto todo mundo olhava pra ponta da tabela, o Madalena calado ia estourando a régua lá no meio do pelotão."
-      },
-      {
-        "icone": "🤡",
-        "titulo": "Vexame da rodada",
-        "texto": "Do outro lado, quem entregou a pior tarde da rodada foi o Baade FC, com meros 52,89 pontos na derrota para o Império da Caipira (52,89 a 82,55). Sem departamento médico pra culpar e sem jogo real atrasando nada, foi time inteiro que não rendeu. Fica o aviso de sempre pro novato sem passado de primeiro turno: o returno também cobra a régua."
-      },
-      {
-        "icone": "🔥",
-        "titulo": "Jogo da rodada",
-        "texto": "O confronto mais equilibrado nem precisou de vencedor: Berwinha FC e Mandrackefc brigaram ponto a ponto até fechar em 60,70 a 60,19, diferença de meros 0,51, dentro da regra que transforma o resultado em empate. É o tipo de marcador que faz o coração parar antes do fechamento oficial sair."
-      },
-      {
-        "icone": "📻",
-        "titulo": "Recado pra quem acompanhou ao vivo",
-        "texto": "No sábado eu avisei que o duelo entre Esporte Clube Barão e o líder Resina Club tinha virado pro lado errado, 63,99 a 59,69 pro Barão: bobagem minha, o Resina buscou mais uma virada depois da minha última passagem e fechou vencendo por 66,89 a 63,99, mantendo a ponta. A esperança de que o Kaempfs F.C. colasse no topo empatando com o SampaMissiones FC também não vingou: o time desandou de vez e perdeu por 65,99 a 78. Já o Brocador do Bonja, que eu via perdendo por larga diferença pro Kidiabense FC, encurtou a distância até o fim, mas não teve fôlego pra buscar o empate, caindo por 68,89 a 72,19."
-      },
-      {
-        "icone": "📊",
-        "titulo": "Sobe e desce da tabela",
-        "texto": "Com a vitória, o Resina Club dispara sozinho na ponta com 19 pontos corridos, sem mais depender de desempate de ninguém: 3 pontos de vantagem pro vice Brocador do Bonja, que segue com 16 mesmo após o tropeço. Logo atrás, Kaempfs F.C., Madalena Club e Kidiabense FC empatam em 15 pontos, decididos nessa ordem pelo PG turno (756,12, 742,1 e 706,2, respectivamente). O Kaempfs, campeão do primeiro turno, segue sem sustos, mas também sem conseguir encostar de vez no topo do returno."
-      },
-      {
-        "icone": "🔮",
-        "titulo": "Espiada na próxima rodada",
-        "texto": "A rodada 28 já separa duelo de cabeça: o líder isolado Resina Club recebe o Baade FC, ainda se recuperando do vexame desta rodada. O vice Brocador do Bonja mede forças com o Tricolor Lvfc, enquanto o Kaempfs F.C. tenta reagir contra o Parizi 01. De quebra, o Madalena Club, dono da melhor pontuação da rodada 27, visita o Berwinha FC embalado pela artilharia recente."
-      }
-    ],
-    "geradaEm": "2026-09-15T14:45:00.000Z"
-  },
-  {
-    "id": "rodada-28",
-    "rodada": 28,
-    "titulo": "Pietro filho rouba a artilharia da rodada 28 no apagar das luzes, Resina segura o empate e mantém a ponta isolada",
-    "blocos": [
-      {
-        "icone": "🏆",
-        "titulo": "Cartoleiro da rodada: pietro filho vira na hora H",
-        "texto": "Na cobertura ao vivo eu tinha dado a coroa pro Kaempfs F.C., que tinha subido para 98,27 contra o Parizi 01. Pois bem, depois da minha última passagem o time do Fabrício ainda cresceu mais um pouco e fechou em 102,47, só que nem isso segurou o pietro filho, que arrancou de vez e encerrou com 108,57 contra o Esporte Clube Barão, a maior pontuação da rodada 28. Fica a lição: nunca escreve a coroa antes do apito final tocar."
-      },
-      {
-        "icone": "🤡",
-        "titulo": "Vexame da rodada: HORST BRAUN de novo na lanterna",
-        "texto": "Quem não teve pra onde fugir foi o time do HORST WAGNER BRAUN: 34,37 pontos na derrota pro Corticeira's Farm FC, que fechou com 76,12. Até melhorou um pouco desde a última olhada ao vivo, quando estava com 24,67, mas a régua não perdoou: pior pontuação da rodada, com folga de mais de 41 pontos pro adversário."
-      },
-      {
-        "icone": "⚔️",
-        "titulo": "Jogo da rodada: Resina e Baade cumprem a promessa do empate",
-        "texto": "Eu avisei no sábado que o duelo entre o líder Resina Club e o Baade FC estava em 79,67 a 81,17, dentro da margem que vira empate. Bateu na trave certinho: fechou em 85,57 a 85,37, diferença de meros 0,20 pontos, empate garantido pela regra dos 2 pontos. Cada lado leva 1 ponto, e o vice Brocador do Bonja agradece qualquer deslize do líder."
-      },
-      {
-        "icone": "📊",
-        "titulo": "Sobe e desce: Resina isolado, trio de 18 se resolve no PG turno",
-        "texto": "Com o empate, o Resina Club chega a 20 pontos corridos e segue líder isolado, 1 ponto à frente do vice Brocador do Bonja, que bateu o Tricolor Lvfc por 88,47 a 83,17 e foi a 19. Logo atrás, Kaempfs F.C., Madalena Club e Kidiabense FC empatam em 18 pontos: o desempate pelo PG turno favorece nessa ordem o Kaempfs (858,59), o Madalena (816,47) e o Kidiabense (794,77). Lá embaixo, o Mandrackefc segue sozinho com 7 pontos, e o Urachfc (6) segue na frente do VIERTRICOLOR (6) só pelo turno."
-      },
-      {
-        "icone": "🔮",
-        "titulo": "Espiada na próxima rodada",
-        "texto": "A rodada 29 já promete fogo: o líder Resina Club recebe o Kidiabense FC, um dos três times empatados em 18. O Madalena Club, outro nome do trio, mede forças direto com o Kaempfs F.C. O vice Brocador do Bonja visita o Parizi 01, que levou sova na rodada passada, e o artilheiro da vez, pietro filho, tenta repetir a dose contra o lanterna VIERTRICOLOR."
-      }
-    ],
-    "geradaEm": "2026-09-21T20:24:49.000Z"
-  },
-  {
-    "id": "rodada-29",
-    "rodada": 29,
-    "titulo": "Kidiabense assume a ponta isolada, Resina cai pra vice e Brocador perde a virada que eu já tinha dado como fechada",
-    "blocos": [
-      {
-        "icone": "🏆",
-        "titulo": "Cartoleiro da rodada",
-        "texto": "A melhor pontuação da rodada 29 nem era a mais comentada: o Gaudérios FC atropelou o Tricolor Lvfc por 125,14 a 111,56 e levou a faixa sem alarde nenhum. Enquanto todo mundo olhava pra briga da ponta, o time do Flávio Pacheco ia estourando a régua lá no meio do pelotão. Mito silencioso, artilharia de respeito."
-      },
-      {
-        "icone": "🤡",
-        "titulo": "Vexame da rodada",
-        "texto": "Quem segue sem escapar do fundo da tabela é o Urachfc, com meros 76,46 pontos na derrota para o Esporte Clube Barão (96,71). É a pior pontuação de toda a rodada 29, e o time já soma oito derrotas em dez jogos do returno. A régua lá embaixo virou endereço fixo."
-      },
-      {
-        "icone": "🔥",
-        "titulo": "Jogo da rodada",
-        "texto": "O confronto mais apertado nem precisou de drama pra decidir: Madalena Club e Kaempfs F.C. fecharam em 100,36 a 100,34, diferença de 0,02 ponto, a menor de toda a rodada. Dentro da regra que transforma qualquer diferença abaixo de 2 pontos em empate, os dois saem satisfeitos, cada um com seu ponto embaixo do braço."
-      },
-      {
-        "icone": "📻",
-        "titulo": "Recado pra quem acompanhou ao vivo",
-        "texto": "No sábado eu avisei que o Resina Club ia perder pro Kidiabense FC, e acertei a direção, só errei o placar: a conta que eu tinha era 102,54 a 81,70, o fechamento oficial saiu 104,04 a 88,46. Já a previsão de que o Brocador do Bonja ia assumir a ponta batendo o Parizi 01 por 91,44 a 82,49 foi pro lixo, o Parizi virou depois da minha última passagem e fechou vencendo por 108,84 a 101,54. E o combinado de que o Kaempfs F.C. ia vencer o Madalena Club também não se sustentou: os dois cresceram tanto que fecharam num empate de 0,02 ponto que nem o Zé viu chegando."
-      },
-      {
-        "icone": "📊",
-        "titulo": "Sobe e desce da tabela",
-        "texto": "Com o tropeço, o Resina Club perde a liderança isolada que mantinha desde a rodada 27 e cai para a segunda posição, com 20 pontos corridos. Quem assume a ponta sozinho é o Kidiabense FC, agora com 21 pontos, um a mais que o próprio Resina. Logo atrás, Kaempfs F.C., Madalena Club e Brocador do Bonja empatam em 19 pontos, decididos nessa ordem pelo PG turno (958,93, 916,83 e 915,09, respectivamente)."
-      },
-      {
-        "icone": "🔮",
-        "titulo": "Espiada na próxima rodada",
-        "texto": "A rodada 30 já separa duelo direto de liderança: o novo líder isolado Kidiabense FC recebe o HORST BRAUN em casa. O vice Resina Club visita justamente o Brocador do Bonja, que amargou a reviravolta desta rodada. O artilheiro da vez, Gaudérios FC, visita o Berwinha FC embalado pela melhor pontuação da 29, e o vexame Urachfc tenta reagir contra o Mandrackefc."
-      }
-    ],
-    "geradaEm": "2026-10-09T12:27:00.000Z"
-  },
-  {
-    "id": "rodada-30",
-    "rodada": 30,
-    "titulo": "Madalena estoura a rodada 30, Urachfc e Mandrackefc empatam na raça e o Kidiabense fecha isolado na ponta do returno",
-    "blocos": [
-      {
-        "icone": "🏆",
-        "titulo": "Cartoleiro da rodada",
-        "texto": "O Madalena Club foi quem mais pontuou na rodada 30: 126,23 contra os 104,63 do Império da Caipira, de goleada. Foi a única pontuação acima de 120 em toda a rodada, e deixou o Madalena ainda mais forte no quarto lugar do returno."
-      },
-      {
-        "icone": "🙈",
-        "titulo": "Vexame da rodada",
-        "texto": "O SampaMissiones FC fechou com 50,85 pontos, a pior marca da rodada, e perdeu para o Corticeira's Farm FC (78,74). Sem segredo nem desculpa de atleta que não entrou em campo: foi só uma escalação que não rendeu."
-      },
-      {
-        "icone": "⚖️",
-        "titulo": "Jogo da rodada",
-        "texto": "Eu avisei na cobertura ao vivo que a vantagem do Urachfc sobre o Mandrackefc tinha encolhido para 0,70 ponto, e a zica se confirmou: fechou em 88,73 a 87,33, diferença de 1,40, dentro da margem de empate da liga. Ponto pra cada lado, duelo direto que não teve vencedor."
-      },
-      {
-        "icone": "🔄",
-        "titulo": "As viradas que a reta final não contou",
-        "texto": "Na última atualização ao vivo o Gaudérios tinha virado sobre o Berwinha e o Alemonstro seguia na frente do pietro filho. A pontuação oficial deu troco nos dois: o Berwinha fechou em 97,75 a 89,65 e levou a melhor, e o pietro filho buscou atrás pra vencer o Alemonstro por 111,33 a 104,08. Parcial é parcial, oficial é outra história."
-      },
-      {
-        "icone": "📊",
-        "titulo": "Sobe e desce: o returno de cabeça para baixo",
-        "texto": "O Kidiabense FC, só o terceiro colocado do primeiro turno, fecha a rodada 30 isolado na ponta do returno com 24 pontos. O Resina Club, que tinha amargado a 16ª posição no primeiro turno, é hoje o vice líder com 23, e o pietro filho, 19º colocado na mesma época, aparece agora em 5º lugar. Do outro lado, o Urachfc, que foi o 4º colocado do primeiro turno, despenca para a 19ª posição do returno, quase colado na lanterna isolada do VIERTRICOLOR."
-      },
-      {
-        "icone": "👀",
-        "titulo": "Espiada pra rodada 31",
-        "texto": "A rodada 31 reserva um confronto e tanto pro dia 18: o Resina Club, vice líder do returno, recebe justamente o Madalena Club, que acabou de fazer a maior pontuação da rodada 30. No mesmo dia, o Kidiabense isolado na ponta visita o Império da Caipira: time que tropeça, embola a liderança."
-      }
-    ],
-    "geradaEm": "2026-10-13T20:25:46.000Z"
-  },
-  {
-    "id": "rodada-31",
-    "rodada": 31,
-    "titulo": "Kaempfs assume a ponta, Kidiabense leva baile do Império e a rodada 31 vira a liga de cabeça para baixo",
-    "blocos": [
-      {
-        "icone": "👑",
-        "titulo": "Troca de dono na liderança",
-        "texto": "Mudou a ponta. O Kaempfs F.C. bateu o HORST BRAUN por 96,09 a 68,99, chegou aos 25 pontos e assumiu a liderança do returno. O Madalena Club também fechou com 25, mas fica em segundo porque o Kaempfs tem 1.174,75 de PG turno contra 1.156,60. Dois times empatados em pontos e separados por 18 pontinhos de pontuação acumulada, isso é liga apertada."
-      },
-      {
-        "icone": "😵",
-        "titulo": "O líder virou terceiro em noventa minutos",
-        "texto": "O Kidiabense FC chegou na rodada 31 líder isolado e saiu dela em terceiro. Levou 105,29 a 69,90 do Império da Caipira, a maior diferença da rodada, 35,39 pontos. Ficou com os mesmos 24 pontos de antes e viu dois passarem por cima. Liderança que não se defende não dura."
-      },
-      {
-        "icone": "🏆",
-        "titulo": "Cartoleiro da rodada",
-        "texto": "Pela segunda rodada seguida o Madalena Club foi o que mais pontuou: 113,54. E não foi contra qualquer um, foi em cima do Resina Club, que marcou 89,39 e caiu para o quarto lugar. O Madalena vem fazendo o returno mais consistente da parte de cima e agora encosta de vez na briga."
-      },
-      {
-        "icone": "🙈",
-        "titulo": "Vexame da rodada",
-        "texto": "O Tricolor Lvfc fechou com 61,79, a pior marca da rodada, e perdeu para o VIERTRICOLOR por 84,04. Detalhe cruel: o VIERTRICOLOR era a lanterna isolada e usou justamente essa vitória para sair do fundo do poço. Alguém tinha que pagar a conta."
-      },
-      {
-        "icone": "⚖️",
-        "titulo": "Dois empates e um deles por três décimos",
-        "texto": "A rodada teve dois duelos decididos pela regra do empate. O pietro filho e o Urachfc ficaram em 83,39 a 83,09, diferença de 0,30, que é praticamente um atleta respirando errado. E o Parizi 01 empatou com o Alemonstro FBPA por 88,79 a 87,59, 1,20 de diferença. Um ponto pra cada e ninguém dormiu feliz."
-      },
-      {
-        "icone": "📉",
-        "titulo": "A lanterna trocou de mãos",
-        "texto": "Com o VIERTRICOLOR vencendo e subindo para 9 pontos, a lanterna sobrou para o Urachfc, que empatou e chegou a 8, os mesmos do Mandrackefc. O desempate é no PG turno e aí o Urachfc leva a pior: 921,38 contra 954,58. Quem começou o returno brigando em cima agora briga pra não terminar em último."
-      },
-      {
-        "icone": "🤔",
-        "titulo": "O azarado da liga",
-        "texto": "Repara nessa: o Império da Caipira tem 1.167,79 de PG turno, a segunda maior pontuação acumulada da liga inteira, atrás só do líder. E está em nono lugar, com 19 pontos. Pontuar bem é uma coisa, pontuar no dia certo contra o adversário certo é outra. O Cartola é cruel assim."
-      },
-      {
-        "icone": "👀",
-        "titulo": "O que vem por aí",
-        "texto": "Faltam sete rodadas e a parte de cima está num punhado: do líder Kaempfs com 25 ao Brocador do Bonja com 22 são só três pontos separando cinco times. Qualquer tropeço embola tudo de novo. Mercado já está aberto para a rodada 32, então escala com carinho."
-      }
-    ],
-    "geradaEm": "2026-10-20T15:11:52.470Z"
-  },
-  {
-    "id": "rodada-32",
-    "rodada": 32,
-    "titulo": "Madalena crava a melhor da rodada 32 com virada dupla, Kaempfs empata a ponta e o Zé perde a aposta do Resina no apagar das luzes",
-    "blocos": [
-      {
-        "icone": "🏆",
-        "titulo": "Cartoleiro da rodada",
-        "texto": "O Madalena Club fechou a rodada 32 com a melhor pontuação da liga, 104,46 contra o Urachfc, que marcou 92,69. E essa vitória tem gosto de virada dupla: na cobertura ao vivo eu já tinha visto o Madalena destruindo o jogo por 69,96 a 34,10, aí os parciais mostraram o Urachfc crescendo e virando pra 80,70 a 77,76. Dava pra sentir o gostinho da zebra, só que o fechamento oficial resolveu dar o troco: o Madalena cresceu ainda mais e fechou com a maior pontuação da rodada. Duas viradas num confronto só."
-      },
-      {
-        "icone": "🤡",
-        "titulo": "Vexame da rodada",
-        "texto": "Quem levou a pior foi o VIERTRICOLOR, com 71,27 pontos na derrota pro Berwinha FC (89,06 a 71,27), o time que tinha acabado de escapar da lanterna na rodada 31 e já volta a flertar com o fundo do poço. A diferença pro penúltimo colocado da rodada, o Esporte Clube Barão (71,28), foi de um centésimo de ponto. Quase um empate técnico pelo título de pior da rodada."
-      },
-      {
-        "icone": "⚖️",
-        "titulo": "Jogo da rodada",
-        "texto": "O duelo mais apertado nem parecia isso ao vivo. Eu avisei no sábado que o Mandrackefc estava goleando o Brocador do Bonja por 70,84 a 50,25, um resultado sem emoção nenhuma. O fechamento oficial transformou aquilo em quase nada: 73,68 a 74,04, diferença de 0,36 ponto, dentro da regra do empate. Cada lado leva 1 ponto e eu fico devendo explicação de como uma goleada virou empate de time parado."
-      },
-      {
-        "icone": "📻",
-        "titulo": "Recado pra quem acompanhou ao vivo",
-        "texto": "Tive outro carrinho puxado na cobertura ao vivo: avisei que o Resina Club estava batendo o Império da Caipira por 62,46 a 56,55, de olho em subir na tabela. O resultado oficial inverteu tudo: o Império venceu por 80,88 a 78,16 e quem ficou travado foi o próprio Resina. Acertei, ao menos, a direção dos outros três confrontos que fechei ao vivo: o Kaempfs F.C. confirmou a vitória sobre o Corticeira's Farm FC (95,66 a 88,66), o Baade FC manteve a vantagem sobre o Esporte Clube Barão (97,56 a 71,28), e Tricolor Lvfc x Kidiabense FC e Berwinha FC x VIERTRICOLOR só cresceram no placar sem trocar de lado."
-      },
-      {
-        "icone": "📊",
-        "titulo": "Sobe e desce da tabela",
-        "texto": "Na ponta, o Kaempfs F.C. venceu e seguiu na frente, mas agora de mãos dadas com o Madalena Club: os dois somam 28 pontos corridos, e quem decide é o PG turno, com 1.270,41 do Kaempfs contra 1.261,06 do Madalena, uma vantagem curta de pouco mais de 9 pontos acumulados. O Kidiabense FC segue isolado na terceira posição com 24. Atrás, um pelotão de quatro times empata em 23 pontos: Resina Club, Parizi 01, Brocador do Bonja e Baade FC, nessa ordem pelo PG turno. Faltam seis rodadas e a parte de cima da tabela virou um nó só."
-      },
-      {
-        "icone": "🔮",
-        "titulo": "Espiada na próxima rodada",
-        "texto": "A rodada 33 já separa confronto e tanto: o líder Kaempfs F.C. visita o Mandrackefc, que acabou de arrancar um empate no fio do bigode. O vice Madalena Club recebe o Alemonstro FBPA, e o Resina Club, que tropeçou nesta rodada, recebe o Parizi 01, um dos companheiros de pelotão dos 23 pontos. De quebra, o Kidiabense FC recebe o pietro filho em casa, de olho em se aproximar de novo da ponta."
-      }
-    ],
-    "geradaEm": "2026-10-27T13:30:00.000Z"
-  },
-  {
-    "id": "rodada-33",
-    "rodada": 33,
-    "titulo": "Kaempfs estoura 104,91 mesmo perdendo a bola rolando, pietro filho escapa do empate por 2,55 e a rodada 33 fecha sem nenhum ponto dividido",
-    "blocos": [
-      {
-        "icone": "🏆",
-        "titulo": "Cartoleiro da rodada",
-        "texto": "O Kaempfs F.C. fechou a rodada 33 com a melhor pontuação da liga, 104,91 contra o Mandrackefc, que ficou com 81,51. Eu já tinha avisado ao vivo que o líder, mesmo perdendo o jogo de verdade por 2 a 0 pro Mandrackefc, virava nos parciais por 81,81 a 72,06. Não parou aí: até o fechamento oficial o Kaempfs ainda cresceu mais, e sobrou pontuação de time que não deixa barato nem quando o jogo real dá as costas."
-      },
-      {
-        "icone": "🙈",
-        "titulo": "Vexame da rodada",
-        "texto": "Quem fechou com a pior marca da rodada foi o HORST BRAUN, com 57,87 pontos na derrota para o Gaudérios FC (94,41 a 57,87). Sem departamento médico pra culpar e sem atleta fora de campo: foi escalação que simplesmente não decolou em nenhum momento."
-      },
-      {
-        "icone": "🔥",
-        "titulo": "Jogo da rodada",
-        "texto": "O confronto mais apertado foi pietro filho contra Kidiabense FC, decidido por 2,55 pontos (77,41 a 74,86). Na minha última passagem ao vivo os dois estavam roçando o empate, 60,61 a 62,41, diferença de só 1,80. No fechamento pietro filho conseguiu abrir a margem suficiente pra escapar da divisão de pontos e ficar com a vitória inteira, numa rodada 33 que, aliás, não teve nenhum empate: dez jogos, dez resultados líquidos."
-      },
-      {
-        "icone": "📻",
-        "titulo": "Recado pra quem acompanhou ao vivo",
-        "texto": "No sábado eu avisei que o Berwinha FC vencia o Brocador do Bonja por 79,11 a 62,41, só que o Brocador não baixou a cabeça e encurtou a distância até o fim, caindo por apenas 87,91 a 84,21. O Corticeira's Farm FC também viu a vantagem encolher: chegou a abrir 15,80 pontos de sobra sobre o Esporte Clube Barão e fechou vencendo por só 8,30 (95,71 a 87,41). Já o duelo entre Tricolor Lvfc e SampaMissiones FC, que eu via com o Sampa na frente mesmo sem o jogo real ter começado, fechou exatamente como eu previ: vitória do Sampa por 83,61 a 77,41."
-      },
-      {
-        "icone": "📊",
-        "titulo": "Sobe e desce da tabela",
-        "texto": "Com a vitória, o Kaempfs F.C. segue na ponta ao lado do Madalena Club, os dois empatados em 31 pontos corridos, com o Kaempfs na frente só pelo desempate do PG turno (1375,32 a 1353,97). O pelotão que tinha quatro times empatados em 23 pontos (Resina Club, Parizi 01, Brocador do Bonja e Baade FC) virou de cabeça para baixo: Parizi 01 e Baade FC venceram e saltaram para 26 pontos, na terceira e quarta posição, enquanto Resina Club e Brocador do Bonja perderam e continuam em 23, agora ao lado de dois reforços na mesma pontuação, pietro filho e Berwinha FC, que também chegaram aos 23 depois de vencer na rodada. Na rabeira, Mandrackefc (9 pontos) e Urachfc (8 pontos) seguem isolados nas duas últimas posições."
-      },
-      {
-        "icone": "🔮",
-        "titulo": "Espiada na próxima rodada",
-        "texto": "A rodada 34 já separa confronto e tanto: o vice Madalena Club recebe o Baade FC, que também vem de vitória e quer encostar de vez no topo. O líder Kaempfs F.C. visita o Alemonstro FBPA fora de casa, enquanto pietro filho, que calou o Kidiabense FC nesta rodada, recebe justamente o Brocador do Bonja. Lá na parte de baixo, Urachfc e Resina Club se enfrentam direto, duelo que pode aliviar um dos dois lados da pressão."
-      }
-    ],
-    "geradaEm": "2026-10-31T08:25:47.000Z"
-  },
-  {
-    "id": "rodada-34",
-    "rodada": 34,
-    "titulo": "VIERTRICOLOR mitou a rodada inteira sem saber sair da zona de rebaixamento, e o Kaempfs enfim fica isolado na ponta",
-    "blocos": [
-      {
-        "icone": "🏆",
-        "titulo": "Cartoleiro da rodada",
-        "texto": "Eu avisei na reta final que o VIERTRICOLOR, lá na 18ª posição, estava passando o rodo no Parizi 01, que ocupava a terceira colocação da tabela. Pois bem, não só confirmou a zebra como fechou com a melhor pontuação de toda a rodada 34: 129,17 contra os 115,30 do Parizi. Time de zona de rebaixamento maltratando o G-4, só o Cartola explica."
-      },
-      {
-        "icone": "🙈",
-        "titulo": "Vexame da rodada",
-        "texto": "Do outro lado sobrou pro HORST BRAUN: 64,67 pontos na surra que levou do Tricolor Lvfc, que meteu 123,35. Quase 59 pontos de diferença, a maior sova de toda a rodada 34. Sem atleta fora de campo pra culpar: foi escalação que não decolou em nenhum momento."
-      },
-      {
-        "icone": "⚖️",
-        "titulo": "Jogo da rodada",
-        "texto": "A previsão da última passagem ao vivo bateu certinho: Berwinha FC e Kidiabense FC seguiam roçando o empate, 113,05 a 112,45, diferença de 0,6 ponto, dentro da margem que a liga carimba como divisão de pontos. Nem o apito final dos jogos reais desempatou essa dupla, só o fechamento oficial resolveu, e resolveu com um ponto pra cada lado."
-      },
-      {
-        "icone": "📊",
-        "titulo": "Sobe e desce da tabela",
-        "texto": "A outra previsão da reta final também se confirmou: o Kaempfs F.C. segurou a vantagem sobre o Alemonstro FBPA (111,40 a 98,40) e virou líder isolado do returno, com 34 pontos corridos, 3 de vantagem pro vice Madalena Club, que tropeçou pro Baade FC (108,30 a 115,70) e ficou travado em 31. Primeira vez em muitas rodadas que a ponta não depende de desempate de PG turno. O Baade, de quebra, sobe para 29 pontos e cola na briga do meio de tabela. E repara no humor cruel do returno: Urachfc venceu o Resina Club e o próprio VIERTRICOLOR venceu o Parizi 01, só que os dois seguem presos na 20ª e na 18ª posição. Vencer ajuda, mas não é milagre."
-      },
-      {
-        "icone": "🔮",
-        "titulo": "Espiada na próxima rodada",
-        "texto": "A rodada 35 começa dia 14/11 com duelo e tanto: o líder isolado Kaempfs F.C. recebe justamente o VIERTRICOLOR, o time que acabou de cravar a melhor pontuação da rodada 34 lá da 18ª posição. De quebra, o vice Madalena Club visita o SampaMissiones FC, e o Império da Caipira mede forças com o lanterna Urachfc, que vem de vitória sem sair do fundo da tabela."
-      }
-    ],
-    "geradaEm": "2026-11-07T12:25:19Z"
-  }
+ {
+  "id": "abertura",
+  "rodada": null,
+  "titulo": "Apita o Zé: começou a Cartoka!",
+  "blocos": [
+   {
+    "icone": "🎙️",
+    "titulo": "Microfone aberto, bola rolando",
+    "texto": "Senhoras e senhores, o Zé Resenha declara aberto o returno da Cartoka! São 20 cartoleiros, 19 rodadas e confrontos copiando a tabela real do Brasileirão. Quem pontuar mais no Cartola leva os 3 pontos da rodada, e no fim tem R$ 750 para o campeão, com prêmio até o 5º lugar. Pode ir escolhendo o lugar do troféu na estante, mas só depois da rodada 38."
+   },
+   {
+    "icone": "🔮",
+    "titulo": "Bolão da rodada zero",
+    "texto": "Antes da bola rolar, todo mundo é campeão: são 20 cartoleiros se olhando de lado, cada um com seu segredo de escalação. Tem o cientista do scout, o coração que escala o time que torce e o clássico apostador que fecha o time faltando um minuto para o mercado fechar. A partir de agora não tem conversa: é ponto na tabela ou meme no grupo."
+   },
+   {
+    "icone": "🧠",
+    "titulo": "Palpite do Zé",
+    "texto": "O Zé não vai apontar favorito antes da primeira rodada, até porque microfone de comentarista já rendeu muita profecia furada. O que o Zé garante: vai ter mitada de desconhecido, vexame de figurão e pelo menos um empate daqueles de diferença mínima só para gerar discussão no grupo. Guarda este parágrafo para cobrar depois."
+   },
+   {
+    "icone": "⚔️",
+    "titulo": "Pratos do dia na rodada 20",
+    "texto": "A estreia já veio recheada: pietro filho x HORST BRAUN abre os trabalhos, e o 2 a 0 do jogo real não vale nada aqui, quem decide é a pontuação do Cartola. Brocador do Bonja x Kaempfs F.C. coloca o organizador em campo logo de cara: se tropeçar na estreia, a zoeira vem com juros. E Urachfc x VIERTRICOLOR fecha a rodada com cara de decisão antecipada."
+   },
+   {
+    "icone": "💸",
+    "titulo": "Alô, alô, inscrições",
+    "texto": "Recado oficial da diretoria: 6 guerreiros já garantiram a vaga, faltam 14 promessas ambulantes. A inscrição é R$ 100 e a porteira fecha dia 10/08, depois nem choro com nota fiscal resolve. Pode confiar: o Pix dói menos que ver o capitão adversário mitar no domingo à noite."
+   },
+   {
+    "icone": "🍿",
+    "titulo": "Liga o modo resenha",
+    "texto": "De agora em diante, toda rodada tem resenha nova do Zé: zoeira fresquinha e ranking na mesa. Prepara o coração, o time titular e o dedo para o print. São 19 rodadas para virar lenda ou virar meme na Cartoka 2026. Bola pra frente que atrás vem resenha!"
+   }
+  ],
+  "geradaEm": "2026-07-27T00:15:00.000Z"
+ },
+ {
+  "id": "rodada-20",
+  "rodada": 20,
+  "titulo": "Urachfc detona, HORST BRAUN vira lanterna e o returno já engata treta",
+  "blocos": [
+   {
+    "icone": "🏆",
+    "titulo": "Cartoleiro da rodada",
+    "texto": "Quem abriu o returno com show de bola foi o Urachfc, que passou o rodo no VIERTRICOLOR por 127,41 a 86,65 no Cartola e já assume a ponta da tabela. Foi camisa 10 do início ao fim, sem departamento médico e sem susto, só pontuação de gente grande. Se a régua for essa o returno inteiro, já dá para separar espaço na estante para os R$ 750 do primeiro lugar."
+   },
+   {
+    "icone": "🤡",
+    "titulo": "Vexame da rodada",
+    "texto": "Já o HORST BRAUN estreou com a pior de todas: apenas 72,61 pontos e lanterna isolada logo de cara. Time colorado que prometia ser o Beira-Rio da Cartoka virou pousada por uma rodada inteira. Recomendação do Zé: reveja a escalação antes que a lanterna vire hábito."
+   },
+   {
+    "icone": "🔥",
+    "titulo": "Jogo da rodada",
+    "texto": "O confronto mais equilibrado ficou por conta do Esporte Clube Barão contra o Mandrackefc, decidido por apenas 2,50 pontos (103,81 a 101,31). Foi treta até o último apito da rodada, sem espaço para relaxar no sofá. Coração fraco que nem tente acompanhar o Cartola ao vivo nesses jogos."
+   },
+   {
+    "icone": "📊",
+    "titulo": "Sobe e desce da tabela",
+    "texto": "A rodada 20 não teve nenhum empate: foram dez vitórias líquidas, sem margem para acordo. O Urachfc assume a ponta isolado, e o HORST BRAUN já estreia na lanterna, exatamente onde ninguém quer passar o returno inteiro. Com o pelotão de cima embolado entre 100 e 108 pontos, essa tabela promete virar de rodada em rodada."
+   },
+   {
+    "icone": "🔮",
+    "titulo": "Espiada na próxima rodada",
+    "texto": "Na rodada 21, o líder Urachfc visita o SampaMissiones FC, que já quer tirar pontos do ponteiro logo na sequência. O vexame HORST BRAUN tenta reação diante do Berwinha FC, e o duelo Mandrackefc contra pietro filho promete outra pontuação apertada. Bola rolando de novo, e o grupo do WhatsApp já deve estar fervendo com os palpites."
+   },
+   {
+    "icone": "💸",
+    "titulo": "Recado das inscrições",
+    "texto": "A diretoria pede paciência, mas cobra: ainda faltam 14 cartoleiros regularizarem a inscrição de R$ 100, e o prazo segue firme até 10/08/2026. Depois dessa data o Zé não garante nem consolo para quem ficar de fora da briga pelos R$ 750 do título. Corre lá que o boleto não pontua sozinho."
+   }
+  ],
+  "geradaEm": "2026-07-27T15:26:44.000Z"
+ },
+ {
+  "id": "rodada-21",
+  "rodada": 21,
+  "titulo": "Tricolor Lvfc estoura na ponta e Gaudérios vira alvo da zoeira",
+  "blocos": [
+   {
+    "icone": "🏆",
+    "titulo": "Cartoleiro da rodada",
+    "texto": "Quem mandou a real na rodada 21 foi o Tricolor Lvfc, do Lavison: 90,25 pontos contra o Império da Caipira e a melhor pontuação da rodada. Depois de fechar o primeiro turno na 11ª colocação, com apenas 29 pontos, o time agora assume a ponta da tabela do returno no desempate do PG turno, com seis pontos em duas rodadas. Quem duvidava do Tricolor já pode ir se explicando no grupo."
+   },
+   {
+    "icone": "🤡",
+    "titulo": "Vexame da rodada",
+    "texto": "Do outro lado, o Gaudérios FC, do Flávio Pacheco, fez feio: apenas 53,13 pontos na visita ao Esporte Clube Barão, que fechou com 87,11. Foi de longe a pior pontuação da rodada e a segunda derrota seguida do time no returno. Se o ritmo continuar assim, vai sobrar até para o adversário de olho no calendário."
+   },
+   {
+    "icone": "🔥",
+    "titulo": "Jogo da rodada",
+    "texto": "O confronto mais eletrizante ficou por conta de Tricolor Lvfc contra Império da Caipira, decidido por míseros 2,64 pontos (90,25 a 87,61). Quem escalou o time cedo demais deve ter sofrido até o mercado fechar de vez. Duelo apertado desses é o tipo de coisa que rende print guardado até semana que vem."
+   },
+   {
+    "icone": "📊",
+    "titulo": "Sobe e desce da tabela",
+    "texto": "A rodada 21 não teve nenhum empate: foram dez resultados líquidos, sem margem para acordo. A ponta agora é do Tricolor Lvfc, no desempate do PG turno com Esporte Clube Barão e Brocador do Bonja, todos com aproveitamento máximo. O Brocador, aliás, é o vice que perdeu o título do primeiro turno por 1,9 ponto para o Kaempfs F.C. e segue em ritmo de revanche. Na outra ponta, assume a lanterna o VIERTRICOLOR, do Daniel Vier, zerado em duas rodadas e precisando reagir rápido."
+   },
+   {
+    "icone": "🔮",
+    "titulo": "Espiada na próxima rodada",
+    "texto": "Na rodada 22, prepara a pipoca: o líder Tricolor Lvfc encara o Alemonstro FBPA de olho em esticar a vantagem, enquanto o lanterna VIERTRICOLOR tenta o resgate contra o Resina Club. O verdadeiro choque de titãs, porém, é Esporte Clube Barão contra Brocador do Bonja, dois dos times com aproveitamento perfeito até aqui se enfrentando direto. De quebra, o novato Baade FC mede forças com o pietro filho, e o Kaempfs F.C., campeão do primeiro turno, visita o Império da Caipira embalado pela virada sobre o Resina Club."
+   },
+   {
+    "icone": "💸",
+    "titulo": "Recado das inscrições",
+    "texto": "A diretoria dá um toque camarada: 13 cartoleiros ainda não regularizaram a inscrição de R$ 100, e o prazo segue firme até 10/08/2026. Depois dessa data some a chance de brigar pelos R$ 750 do título e pelos demais prêmios até o quinto lugar. Corre lá, guerreiro, que boleto pago rende mais que qualquer escalação de última hora."
+   }
+  ],
+  "geradaEm": "2026-07-31T14:00:00.000Z"
+ },
+ {
+  "id": "especial-pagamentos",
+  "rodada": null,
+  "rotulo": "Edição especial · Pix",
+  "titulo": "Plantão do Pix: faltam 11",
+  "blocos": [
+   {
+    "icone": "🚨",
+    "titulo": "Plantão do Zé",
+    "texto": "Interrompemos a programação normal da resenha: plantão urgente da tesouraria. Hoje não tem gol, não tem mito, o assunto é a inscrição de R$ 100. O prazo do dia 10/08 está logo ali e o Zé foi escalado para fazer a cobrança oficial. Ajeita o boné e abre o aplicativo do banco."
+   },
+   {
+    "icone": "🏆",
+    "titulo": "Hall da fama do Pix",
+    "texto": "Anuncia aí, locutor, que essa escalação merece telão: Kidiabense FC, Kaempfs F.C., Resina Club, Alemonstro FBPA, Corticeira's Farm FC, Madalena Club, Baade FC, Brocador do Bonja e Berwinha FC. Nove clubes de palavra, comprovante na mão e sono tranquilo. Palmas de pé para esse time, que a tesouraria adora."
+   },
+   {
+    "icone": "🕵️",
+    "titulo": "Os 11 foragidos do Pix",
+    "texto": "Do outro lado temos um time completo: são 11 pendentes, dava para escalar com goleiro e tudo. O Zé é educado e não cita nome de ninguém. Mas a aba Inscritos do site não tem a mesma educação: ela mostra na tela quem está Pago e quem está Pendente. Quem quiser sair dessa vitrine já sabe o caminho."
+   },
+   {
+    "icone": "⏰",
+    "titulo": "Seis dias no relógio",
+    "texto": "Hoje é 04/08 e o prazo final é 10/08: menos de uma semana no cronômetro. Em jogo estão R$ 750 para o campeão, R$ 550 para o vice, R$ 300 para o terceiro, R$ 200 para o quarto e R$ 100 para o quinto. São R$ 1.900 na mesa esperando dono. Ficar de fora por causa de um Pix de R$ 100 seria a derrota mais boba do ano."
+   },
+   {
+    "icone": "💸",
+    "titulo": "Aperta o Pix",
+    "texto": "O recado final cabe num toque de apito: R$ 100, um Pix, dez segundos, nome brilhando na coluna dos pagos. Comprovante no grupo vale aplauso de arquibancada lotada. Vamos fechar os 20 inscritos antes do dia 10 e deixar a liga redondinha. Pix feito, resenha em paz."
+   }
+  ],
+  "geradaEm": "2026-08-04T12:00:00.000Z"
+ },
+ {
+  "id": "especial-pagamentos-2",
+  "rodada": null,
+  "rotulo": "Edição especial · Ultimato do Pix",
+  "titulo": "4 dias pro apito final",
+  "blocos": [
+   {
+    "icone": "⏳",
+    "titulo": "Atenção: entramos nos acréscimos",
+    "texto": "Senhoras e senhores, liguem os rádios e segurem o coração: o cronômetro da tesouraria marca 4 dias pro apito final. Segunda-feira, 10/08, a janela de inscrição fecha e não tem prorrogação, não tem pênalti repetido. São R$ 100 no Pix, e quem não acertar as contas até lá assiste à decisão do lado de fora do portão."
+   },
+   {
+    "icone": "🧊",
+    "titulo": "O placar que congelou",
+    "texto": "No dia 04/08 eu soltei o Plantão do Pix todo confiante, achando que ia chover comprovante na minha área. Deu ruim: desde então ninguém novo pagou e o marcador segue congelado em 9 pagos e 11 pendentes. De um lado, o time do comprovante segurando a liga nas costas; do outro, um silêncio de torcida visitante em dia de goleada. Já vi zero a zero de doer os olhos, mas placar que não se mexe nem com cobrança oficial é novidade na minha carreira."
+   },
+   {
+    "icone": "🟨",
+    "titulo": "Amarelo coletivo pros 11",
+    "texto": "Cartão amarelo coletivo pros 11 que seguem fazendo cera no gramado da tesouraria. Eu não cito nomes porque sou educado, mas a aba Inscritos do site não tem a mesma diplomacia: ela mostra em público quem está Pago e quem segue Pendente. Indireta dada, telão ligado, torcida de olho: daqui pra frente, enrolação é revisada lance a lance no VAR."
+   },
+   {
+    "icone": "🏆",
+    "titulo": "O apito final de segunda",
+    "texto": "Segunda-feira, dia 10, o juiz olha pro relógio, enche o pulmão e solta o apito derradeiro: quem não pagou fica automaticamente fora da disputa pelos prêmios. E o que fica na mesa não é troco de padaria: R$ 750, R$ 550, R$ 300, R$ 200 e R$ 100 do primeiro ao quinto, um total de R$ 1.900. Perder essa disputa por causa de um Pix de R$ 100 é tomar gol de bola nas costas nos acréscimos."
+   },
+   {
+    "icone": "📲",
+    "titulo": "O Pix de 10 segundos",
+    "texto": "O lance ensaiado é simples: abre o aplicativo do banco, manda o Pix de R$ 100, solta o comprovante no grupo. Dez segundos, menos tempo que o goleiro leva pra bater um tiro de meta. Quem fizer isso hoje sai da coluna dos Pendentes com moral de artilheiro e ainda ganha elogio na próxima resenha. O apito de segunda vai tocar de qualquer jeito: melhor estar em campo quando ele soar."
+   }
+  ],
+  "geradaEm": "2026-08-06T17:30:00.000Z"
+ },
+ {
+  "id": "especial-regras-atraso",
+  "rodada": null,
+  "rotulo": "Comunicado oficial · Regras de atraso",
+  "titulo": "A diretoria bateu o martelo",
+  "blocos": [
+   {
+    "icone": "⚖️",
+    "titulo": "Hoje o apito final soa",
+    "texto": "Segunda-feira, 10 de agosto: é o último dia do prazo para pagar a inscrição de R$ 100 da Liga Cartoka. Quinze dos vinte já estão com a súmula limpa, cinco ainda seguem pendentes. A diretoria se reuniu, bateu o martelo e definiu as regras para quem passar do prazo, valendo igualzinho para todo mundo. Quem pagar hoje não é atingido por absolutamente nada do que vem a seguir."
+   },
+   {
+    "icone": "🟨",
+    "titulo": "Cartão amarelo: multa de R$ 20",
+    "texto": "Quem não quitar até o fim de hoje entra oficialmente em atraso e leva multa de R$ 20, passando a dever R$ 120. Ainda assim existe uma janela de respiro: pagando os R$ 120 até o fim da rodada 23, ninguém perde ponto nenhum na tabela. É o VAR dando uma última chance antes de o jogo ficar feio."
+   },
+   {
+    "icone": "📉",
+    "titulo": "Da rodada 24 em diante, dói na tabela",
+    "texto": "A partir da rodada 24, quem continuar devendo perde 1 ponto na tabela a cada rodada disputada. O sangramento para no exato momento em que o pagamento é feito, sem desconto retroativo nem meio termo. Só que atenção: os pontos já perdidos não voltam de jeito nenhum, ficam registrados na súmula para sempre."
+   },
+   {
+    "icone": "🏆",
+    "titulo": "Terminou devendo, terminou sem prêmio",
+    "texto": "Os prêmios seguem inalterados: R$ 750, R$ 550, R$ 300, R$ 200 e R$ 100 do primeiro ao quinto lugar, R$ 1.900 no total. Quem chegar ao fim do returno sem ter pago não recebe nada, mesmo que termine entre os cinco primeiros. Nesse caso o prêmio desce para o próximo colocado que estiver em dia, sem choro e sem recurso no tribunal."
+   },
+   {
+    "icone": "⏳",
+    "titulo": "Ninguém sai de campo, mas ainda dá tempo",
+    "texto": "Ninguém é expulso da liga: os confrontos seguem a tabela do Brasileirão e precisam dos 20 times em campo, então quem deve continua jogando normalmente, só que sangrando ponto e sem direito a prêmio. Ninguém quer chegar na rodada 38 com pontos descontados na tabela e assistindo a premiação passar de lado. Estamos na rodada 22 em andamento e a 23 já vem aí, ou seja, hoje ainda dá tempo de resolver. Pagou hoje, tá tudo certo e a bola segue rolando limpa."
+   }
+  ],
+  "geradaEm": "2026-08-10T13:13:50.122Z"
+ },
+ {
+  "id": "rodada-22",
+  "rodada": 22,
+  "titulo": "Império da Caipira estoura, VIERTRICOLOR afunda de novo e Brocador confirma o isolamento que eu já cantava ao vivo",
+  "blocos": [
+   {
+    "icone": "🏆",
+    "titulo": "Cartoleiro da rodada",
+    "texto": "Quem meteu a mão na faixa de melhor da rodada 22 foi o Império da Caipira, que atropelou justamente o Kaempfs F.C., campeão do primeiro turno, por 98,36 a 76,31. Não teve departamento médico nem crise de ansiedade: foi time inteiro rendendo junto, do goleiro ao ponta direita. A coroa do turno passado, ao que parece, não assusta mais ninguém no returno."
+   },
+   {
+    "icone": "🤡",
+    "titulo": "Vexame da rodada",
+    "texto": "Do outro lado do gramado, o VIERTRICOLOR fez feio de novo: apenas 47,50 pontos na visita ao Resina Club, que tarraxou 68,45. É a terceira rodada seguida com a lanterna cravada nas costas e nenhum ponto ganho na tabela do returno. Time desse jeito precisa de uma reunião de elenco, e urgente."
+   },
+   {
+    "icone": "🤝",
+    "titulo": "Jogo da rodada",
+    "texto": "O confronto mais equilibrado foi Parizi 01 contra Gaudérios FC, decidido por míseros 1,65 ponto (74,81 a 76,46), diferença curta o suficiente para virar empate pela regra da liga. Eu avisei na cobertura ao vivo que o Parizi seguia zerado depois de três rodadas, e o time escapou do zero exatamente com esse empate no fio do bigode. O Gaudérios, que também vinha de vexame na rodada anterior, sai com um pontinho debaixo do braço."
+   },
+   {
+    "icone": "📊",
+    "titulo": "Sobe e desce da tabela",
+    "texto": "O Brocador do Bonja confirmou o que eu já cantava ao vivo no sábado: liderança isolada, fechando a visita ao Esporte Clube Barão em 95,01 a 87,31 e somando 9 pontos, sozinho lá em cima. Atrás dele, um pelotão de nove times empata em 6 pontos, entre eles o Império da Caipira, a Tricolor Lvfc, o Mandrackefc e o Baade FC, o novato que já aparece no meio do pelotão sem currículo nenhum de primeiro turno pra chamar de seu. Na rabeira, o VIERTRICOLOR segue isolado na lanterna com 0 ponto em três rodadas, e o Kaempfs F.C., campeão do primeiro turno com aquele 1,9 de vantagem sobre o próprio Brocador, hoje amarga a 13ª posição com apenas 3 pontos. Turno passado é tempero, resenha é agora."
+   },
+   {
+    "icone": "🔮",
+    "titulo": "Espiada na próxima rodada",
+    "texto": "A rodada 23 começa no dia 15/08 com recheio garantido: o líder Brocador do Bonja recebe o Baade FC, aquele novato que só estreou no returno e ainda não tem nada de primeiro turno pra ninguém cobrar. A lanterna isolada VIERTRICOLOR tenta a reação diante do Kidiabense FC, enquanto Corticeira's Farm FC e Tricolor Lvfc se enfrentam direto, dois times do pelotão dos 6 pontos brigando por um respiro. De quebra, Mandrackefc e Império da Caipira também se cruzam, outro confronto de peso no meio da tabela."
+   }
+  ],
+  "geradaEm": "2026-08-10T16:24:55.000Z"
+ },
+ {
+  "id": "rodada-23",
+  "rodada": 23,
+  "titulo": "Brocador perde a coroa que eu mesmo coroei, Império da Caipira assume por desempate e Corticeira's Farm dispara na artilharia dos pontos",
+  "blocos": [
+   {
+    "icone": "🏆",
+    "titulo": "Cartoleiro da rodada",
+    "texto": "Quem fechou a rodada 23 com a melhor pontuação da liga foi o Corticeira's Farm FC, que atropelou o Tricolor Lvfc por 90,57 a 79,55. Eu já tinha avisado ao vivo, no fim de semana, que o time despontava disparado nos parciais com 83,87 pontos, e olha que ainda cresceu depois disso. Mito confirmado antes mesmo do apito final: reconhece que o Zé acerta uma de vez em quando."
+   },
+   {
+    "icone": "🤡",
+    "titulo": "Vexame da rodada",
+    "texto": "A pior pontuação da rodada não foi de quem eu apostava. Na cobertura ao vivo eu tinha apontado a Madalena Club como a lanterninha dos pontos daquele momento, mas quem realmente levou a pior foi ninguém menos que o então líder isolado da tabela: o Brocador do Bonja, com meros 46,77 pontos na derrota para o Baade FC. Coroa que eu mesmo tinha colocado na cabeça do Brocador durou exatamente uma rodada."
+   },
+   {
+    "icone": "🔥",
+    "titulo": "Jogo da rodada",
+    "texto": "O duelo mais equilibrado de verdade ficou por conta de Gaudérios FC e Urachfc, decidido por apenas 7,62 pontos (70,07 a 62,45). Eu tinha apontado ao vivo o confronto entre Parizi 01 e SampaMissiones FC como o mais grudado, com só 3,46 de diferença nos parciais, só que a pontuação final abriu para quase 12 pontos e tirou toda a graça. Fica a lição: parcial é conversa de bar, o que vale é o fechamento."
+   },
+   {
+    "icone": "📊",
+    "titulo": "Sobe e desce da tabela",
+    "texto": "Bateu o martelo e confirmou exatamente o que eu previa ao vivo: cinco times fecharam empatados em 9 pontos, com o desempate no PG turno decidindo tudo. Quem sai na frente agora é o Império da Caipira, que leva a melhor no desempate com 370,33 de PG turno, empatado em pontos com Corticeira's Farm FC, Baade FC, Resina Club e o já citado Brocador do Bonja, que despenca para a quinta posição do pelotão. Na lanterna isolada segue o VIERTRICOLOR, zerado em quatro rodadas e precisando de um milagre para sair do fundo do poço."
+   },
+   {
+    "icone": "🔮",
+    "titulo": "Espiada na próxima rodada",
+    "texto": "A rodada 24 já separa confrontos de interesse: o líder Império da Caipira recebe o Berwinha FC de olho em segurar a ponta, enquanto o Brocador do Bonja tenta reagir contra o Urachfc para não afundar de vez depois do tombo. O Corticeira's Farm FC, atual dono da melhor pontuação da liga, visita o Alemonstro FBPA, e o Baade FC, o novato sem passado de primeiro turno, recebe justamente o Kaempfs F.C., campeão do turno passado. De quebra, o lanterna VIERTRICOLOR mede forças com o HORST BRAUN em busca dos primeiros pontos ganhos no returno."
+   }
+  ],
+  "geradaEm": "2026-08-18T16:17:44Z"
+ },
+ {
+  "id": "especial-balanco-inscricoes",
+  "rodada": null,
+  "rotulo": "Balanço das inscrições",
+  "titulo": "Tesoureiro dormiu feliz (quase)",
+  "blocos": [
+   {
+    "icone": "💸",
+    "titulo": "19 de 20 na súmula",
+    "texto": "A tesouraria fechou o boletim e o placar é de encher os olhos: 19 dos 20 times em dia com os R$ 100. No dia 10 a liga acordou com só 11 pagos e terminou o expediente com 19, um mutirão digno de reta final de janela. Chapéu para a turma que resolveu no apito, sem enrolar o juiz."
+   },
+   {
+    "icone": "⏰",
+    "titulo": "Falta 1 (e o VAR já marcou)",
+    "texto": "Sobrou um solitário na lista da tesouraria, e não vou dar nome porque aqui a gente cobra a situação, não a pessoa. Como o prazo venceu, a multa de R$ 20 já entrou em campo e a inscrição virou R$ 120. A janela para quitar sem perder ponto ia até o fim da rodada 23, e essa janela já fechou."
+   },
+   {
+    "icone": "📉",
+    "titulo": "A partir da 24 dói na tabela",
+    "texto": "Da rodada 24 em diante, que já está rolando, é 1 ponto a menos na tabela a cada rodada disputada enquanto a pendência existir. O desconto para no instante em que o pagamento cair, mas os pontos que foram embora não voltam nem com recurso no tribunal. E quem terminar o returno devendo fica de fora da premiação: o dinheiro escorrega para o próximo colocado que estiver em dia."
+   },
+   {
+    "icone": "🔥",
+    "titulo": "Justo agora que embolou",
+    "texto": "A rodada 23 fechou com cinco times empatados em 9 pontos: Império da Caipira na frente pelo desempate de PG do turno, seguido de Corticeira's Farm FC, Baade FC, Resina Club e Brocador do Bonja. Numa briga desse tamanho, perder 1 ponto por rodada não é arranhão, é cartão vermelho. Com R$ 750, R$ 550, R$ 300, R$ 200 e R$ 100 na mesa, cada ponto vale dinheiro de verdade."
+   },
+   {
+    "icone": "🏁",
+    "titulo": "Resenha encerrada",
+    "texto": "Parabéns aos 19 que resolveram e deixaram a liga rodando redonda. Para o último da fila, o recado é curto: quanto antes o apito da tesouraria soar, menos ponto fica no caminho. Bola em campo e boa rodada 24 para todo mundo."
+   }
+  ],
+  "geradaEm": "2026-08-18T16:46:06.578384Z"
+ },
+ {
+  "id": "rodada-24",
+  "rodada": 24,
+  "titulo": "Rodada 24 fecha com Resina e Brocador colados na ponta, e o Barão cai do pelotão dos 9 no apagar das luzes",
+  "blocos": [
+   {
+    "icone": "🥇",
+    "titulo": "Cartoleiro da rodada: Resina crava a melhor pontuação",
+    "texto": "Como eu avisei ainda no sábado, Resina Club e Brocador do Bonja fecharam a rodada 24 empatados em 12 pontos corridos cada, os dois únicos a vencer com sobra na rodada (138,67 e 132,47, a maior e a segunda maior pontuação do dia). No desempate por PG turno, o Resina segue na frente: 466,61 contra 460,26 do Brocador. Duas máquinas que simplesmente não descolam uma da outra."
+   },
+   {
+    "icone": "🚿",
+    "titulo": "Vexame da rodada: Vier não sai do fundo do poço",
+    "texto": "O VIERTRICOLOR fechou com a pior pontuação da rodada, 74,2, e nem jogando em casa contra o HORST BRAUN escapou da derrota (100,82 a 74,2). Com isso, segue de lanterna isolada, zero vitórias nas cinco rodadas do returno até aqui. Já dá pra separar a toalha com antecedência."
+   },
+   {
+    "icone": "⚡",
+    "titulo": "Jogo da rodada: Sampa fecha o troco escondido no meio da tabela",
+    "texto": "A fisgada mais apertada da rodada passou batida enquanto eu ainda apostava na resistência do Barão: SampaMissiones FC venceu o Esporte Clube Barão por 112,68 a 109,17, diferença de só 3,51 pontos, a menor de toda a rodada 24. Achei que o Barão ia embarcar no pelotão lá de cima, mas o Sampa fechou o troco no fim."
+   },
+   {
+    "icone": "🎢",
+    "titulo": "Sobe e desce: Berwinha entra no pelotão, Barão sai",
+    "texto": "A virada que eu já tinha flagrado ao vivo se confirmou: o Berwinha FC bateu o Império da Caipira por 126,70 a 113,40 e subiu para 9 pontos corridos, entrando no pelotão gigante que ocupa da 3ª à 10ª posição (Corticeira's Farm, Império, Tricolor, Kaempfs, Baade, Alemonstro, Berwinha e HORST BRAUN, todos com 9). Já o Barão, que eu cheguei a incluir nesse grupo durante a cobertura ao vivo, perdeu no apagar das luzes e ficou com 6 pontos, na 13ª posição."
+   },
+   {
+    "icone": "📻",
+    "titulo": "Recado pra quem acompanhou ao vivo",
+    "texto": "No sábado eu avisei que Resina e Brocador estavam de mãos dadas na ponta, brigando pra ver quem descolava primeiro: bateu certinho, os dois fecharam empatados em 12 pontos, com o Resina levando o desempate por pouco mais de 6 pontos de PG turno. A previsão do nó de times na casa dos 9 pontos também quase fechou como o combinado, só o Barão que resolveu furar o acordo lá no finalzinho."
+   },
+   {
+    "icone": "🔮",
+    "titulo": "Espiada na rodada 25",
+    "texto": "A bola só rola de novo a partir do dia 29, mas a tabela de confrontos já está pegando fogo: o Brocador do Bonja recebe o Império da Caipira num duelo direto do pelotão de perseguição, o líder Resina Club enfrenta o Tricolor Lvfc, e o Berwinha FC, embalado pela virada da rodada passada, tenta engatar sequência contra o Parizi 01. Enquanto isso, o Kaempfs mede forças com o Urachfc, que segue tentando escapar da parte de baixo da tabela."
+   }
+  ],
+  "geradaEm": "2026-08-25T14:40:00Z"
+ },
+ {
+  "id": "rodada-25",
+  "rodada": 25,
+  "titulo": "Resina dispara na ponta isolada, Urachfc apanha feio e a rodada 25 vira duelo de empates apertados",
+  "blocos": [
+   {
+    "icone": "🏆",
+    "titulo": "Cartoleiro da rodada",
+    "texto": "Quem fechou a rodada 25 com a melhor pontuação da liga foi o Resina Club, que atropelou o Tricolor Lvfc por 125,03 a 95,53. Foi resultado de time grande, sem susto nenhum, e já empurra o Resina para a ponta isolada da tabela com 15 pontos corridos."
+   },
+   {
+    "icone": "🤡",
+    "titulo": "Vexame da rodada",
+    "texto": "Do outro lado, quem entregou a pior pontuação da rodada foi o Urachfc, com meros 53,08 pontos na derrota para o Kaempfs F.C. (117,83 a 53,08). É a quinta derrota do time em seis rodadas do returno, e a parte de baixo da tabela já virou endereço fixo."
+   },
+   {
+    "icone": "🔥",
+    "titulo": "Jogo da rodada",
+    "texto": "O confronto mais equilibrado nem precisou de vencedor: pietro filho e Gaudérios FC brigaram ponto a ponto até fechar em 109,95 a 110,68, diferença de apenas 0,73, dentro da regra que transforma o resultado em empate. Sorte de quem escalou os dois times, prejuízo de quem queria print de vitória."
+   },
+   {
+    "icone": "📊",
+    "titulo": "Sobe e desce da tabela",
+    "texto": "Na cobertura ao vivo eu apostei que o Gaudérios FC ia fechar com a maior pontuação da rodada. Errei feio: o time só empatou com o pietro filho, e quem levou a coroa de verdade foi o Resina Club. Acertei, porém, a briga pela ponta entre Resina Club e Brocador do Bonja: o Resina confirma a liderança isolada com 15 pontos, dois pontos à frente do vice Brocador, que só empatou com o Império da Caipira por 0,87 de diferença (103,68 a 104,55). Logo atrás, Kaempfs F.C. e Baade FC seguem empatados em 12 pontos, com o Kaempfs na frente no desempate do PG turno."
+   },
+   {
+    "icone": "🔮",
+    "titulo": "Espiada na rodada 26",
+    "texto": "A bola só rola de novo a partir do dia 05/09, e a tabela já separa emoção: o líder Resina Club recebe o Berwinha FC em casa de olho em esticar a vantagem, enquanto o vice Brocador do Bonja visita justamente o Gaudérios FC, que segue devendo aquele empate apertado. O Kaempfs F.C., no desempate lá na frente, visita o Tricolor Lvfc, que acabou de levar a maior sova da rodada 25. E o Baade FC, colado na ponta com 12 pontos, visita o HORST BRAUN, que vem de derrota folgada e tenta reagir em casa."
+   }
+  ],
+  "geradaEm": "2026-09-01T17:35:00.000Z"
+ },
+ {
+  "id": "rodada-26",
+  "rodada": 26,
+  "titulo": "Kidiabense crava a melhor da rodada, Corticeira's Farm passa vergonha e o Brocador cola no Resina bem na treta que eu avisei que vinha",
+  "blocos": [
+   {
+    "icone": "🏆",
+    "titulo": "Cartoleiro da rodada",
+    "texto": "Quem levou a faixa de melhor pontuação da rodada 26 foi o Kidiabense FC, que superou o SampaMissiones FC por 105,85 a 100,82 num duelo em que os dois times passaram dos 100 pontos. Ficou na frente só na unha do Parizi 01, que também estourou a casa dos 105 ao atropelar o Urachfc por 105,30 a 77,11. Rodada de artilheiro lá em cima da tabela de pontuação."
+   },
+   {
+    "icone": "🤡",
+    "titulo": "Vexame da rodada",
+    "texto": "O Corticeira's Farm FC entregou a pior pontuação da rodada, meros 65,71, e ainda saiu batido pelo VIERTRICOLOR fora de casa (65,71 a 88,46). Depois de rondar o pelotão de cima nas rodadas passadas, o time volta a lembrar que semana ruim também bate na porta de quem vinha embalado."
+   },
+   {
+    "icone": "🔥",
+    "titulo": "Jogo da rodada",
+    "texto": "O confronto mais apertado nem precisou de vencedor: HORST BRAUN e Baade FC brigaram ponto a ponto até fechar em 82,68 a 82,81, diferença de meros 0,13, a menor de toda a rodada, e caiu direto na regra do empate. Print desse marcador vale entrar pra galeria dos jogos de doer o coração."
+   },
+   {
+    "icone": "📊",
+    "titulo": "Sobe e desce da tabela",
+    "texto": "Eu avisei na cobertura ao vivo de sábado que a foto da liderança podia mexer assim que a pontuação oficial saísse, e mexeu bonito: o Brocador do Bonja bateu o Gaudérios FC por 92,25 a 88,01 e empatou em pontos com o Resina Club, os dois agora com 16 na ponta. Quem decide é o PG turno, e aí o Resina segue na frente, com 688,34 contra 656,19 do Brocador. Logo atrás, o Kaempfs F.C. goleou o Tricolor Lvfc por 92,50 a 83,65 e chegou aos 15 pontos, a um empurrãozinho do topo. Liderança que parecia tranquila virou rodada de unha roída."
+   },
+   {
+    "icone": "🔮",
+    "titulo": "Espiada na próxima rodada",
+    "texto": "A rodada 27 começa no dia 11/09 com confronto de peso: o líder Resina Club visita o Esporte Clube Barão, enquanto o outro líder, Brocador do Bonja, pega justamente o Kidiabense FC, dono da melhor pontuação da rodada 26. De quebra, o Kaempfs F.C., colado no topo com 15 pontos, recebe o SampaMissiones FC em casa de olho em brigar pela ponta isolada."
+   }
+  ],
+  "geradaEm": "2026-09-08T20:10:00.000Z"
+ },
+ {
+  "id": "rodada-27",
+  "rodada": 27,
+  "titulo": "Resina dispara isolado, Madalena rouba a cena com a melhor da rodada e o Kaempfs vê o sonho de colar na ponta ir por água abaixo",
+  "blocos": [
+   {
+    "icone": "🏆",
+    "titulo": "Cartoleiro da rodada",
+    "texto": "A pontuação mais alta da rodada 27 nem apareceu no meu radar ao vivo: foi o Madalena Club, que atropelou o Parizi 01 por 93,34 a 61,59. Nem uma linha eu escrevi sobre esse duelo no sábado, e olha a mitada que passou batida. Fica a lição: enquanto todo mundo olhava pra ponta da tabela, o Madalena calado ia estourando a régua lá no meio do pelotão."
+   },
+   {
+    "icone": "🤡",
+    "titulo": "Vexame da rodada",
+    "texto": "Do outro lado, quem entregou a pior tarde da rodada foi o Baade FC, com meros 52,89 pontos na derrota para o Império da Caipira (52,89 a 82,55). Sem departamento médico pra culpar e sem jogo real atrasando nada, foi time inteiro que não rendeu. Fica o aviso de sempre pro novato sem passado de primeiro turno: o returno também cobra a régua."
+   },
+   {
+    "icone": "🔥",
+    "titulo": "Jogo da rodada",
+    "texto": "O confronto mais equilibrado nem precisou de vencedor: Berwinha FC e Mandrackefc brigaram ponto a ponto até fechar em 60,70 a 60,19, diferença de meros 0,51, dentro da regra que transforma o resultado em empate. É o tipo de marcador que faz o coração parar antes do fechamento oficial sair."
+   },
+   {
+    "icone": "📻",
+    "titulo": "Recado pra quem acompanhou ao vivo",
+    "texto": "No sábado eu avisei que o duelo entre Esporte Clube Barão e o líder Resina Club tinha virado pro lado errado, 63,99 a 59,69 pro Barão: bobagem minha, o Resina buscou mais uma virada depois da minha última passagem e fechou vencendo por 66,89 a 63,99, mantendo a ponta. A esperança de que o Kaempfs F.C. colasse no topo empatando com o SampaMissiones FC também não vingou: o time desandou de vez e perdeu por 65,99 a 78. Já o Brocador do Bonja, que eu via perdendo por larga diferença pro Kidiabense FC, encurtou a distância até o fim, mas não teve fôlego pra buscar o empate, caindo por 68,89 a 72,19."
+   },
+   {
+    "icone": "📊",
+    "titulo": "Sobe e desce da tabela",
+    "texto": "Com a vitória, o Resina Club dispara sozinho na ponta com 19 pontos corridos, sem mais depender de desempate de ninguém: 3 pontos de vantagem pro vice Brocador do Bonja, que segue com 16 mesmo após o tropeço. Logo atrás, Kaempfs F.C., Madalena Club e Kidiabense FC empatam em 15 pontos, decididos nessa ordem pelo PG turno (756,12, 742,1 e 706,2, respectivamente). O Kaempfs, campeão do primeiro turno, segue sem sustos, mas também sem conseguir encostar de vez no topo do returno."
+   },
+   {
+    "icone": "🔮",
+    "titulo": "Espiada na próxima rodada",
+    "texto": "A rodada 28 já separa duelo de cabeça: o líder isolado Resina Club recebe o Baade FC, ainda se recuperando do vexame desta rodada. O vice Brocador do Bonja mede forças com o Tricolor Lvfc, enquanto o Kaempfs F.C. tenta reagir contra o Parizi 01. De quebra, o Madalena Club, dono da melhor pontuação da rodada 27, visita o Berwinha FC embalado pela artilharia recente."
+   }
+  ],
+  "geradaEm": "2026-09-15T14:45:00.000Z"
+ },
+ {
+  "id": "rodada-28",
+  "rodada": 28,
+  "titulo": "Pietro filho rouba a artilharia da rodada 28 no apagar das luzes, Resina segura o empate e mantém a ponta isolada",
+  "blocos": [
+   {
+    "icone": "🏆",
+    "titulo": "Cartoleiro da rodada: pietro filho vira na hora H",
+    "texto": "Na cobertura ao vivo eu tinha dado a coroa pro Kaempfs F.C., que tinha subido para 98,27 contra o Parizi 01. Pois bem, depois da minha última passagem o time do Fabrício ainda cresceu mais um pouco e fechou em 102,47, só que nem isso segurou o pietro filho, que arrancou de vez e encerrou com 108,57 contra o Esporte Clube Barão, a maior pontuação da rodada 28. Fica a lição: nunca escreve a coroa antes do apito final tocar."
+   },
+   {
+    "icone": "🤡",
+    "titulo": "Vexame da rodada: HORST BRAUN de novo na lanterna",
+    "texto": "Quem não teve pra onde fugir foi o time do HORST WAGNER BRAUN: 34,37 pontos na derrota pro Corticeira's Farm FC, que fechou com 76,12. Até melhorou um pouco desde a última olhada ao vivo, quando estava com 24,67, mas a régua não perdoou: pior pontuação da rodada, com folga de mais de 41 pontos pro adversário."
+   },
+   {
+    "icone": "⚔️",
+    "titulo": "Jogo da rodada: Resina e Baade cumprem a promessa do empate",
+    "texto": "Eu avisei no sábado que o duelo entre o líder Resina Club e o Baade FC estava em 79,67 a 81,17, dentro da margem que vira empate. Bateu na trave certinho: fechou em 85,57 a 85,37, diferença de meros 0,20 pontos, empate garantido pela regra dos 2 pontos. Cada lado leva 1 ponto, e o vice Brocador do Bonja agradece qualquer deslize do líder."
+   },
+   {
+    "icone": "📊",
+    "titulo": "Sobe e desce: Resina isolado, trio de 18 se resolve no PG turno",
+    "texto": "Com o empate, o Resina Club chega a 20 pontos corridos e segue líder isolado, 1 ponto à frente do vice Brocador do Bonja, que bateu o Tricolor Lvfc por 88,47 a 83,17 e foi a 19. Logo atrás, Kaempfs F.C., Madalena Club e Kidiabense FC empatam em 18 pontos: o desempate pelo PG turno favorece nessa ordem o Kaempfs (858,59), o Madalena (816,47) e o Kidiabense (794,77). Lá embaixo, o Mandrackefc segue sozinho com 7 pontos, e o Urachfc (6) segue na frente do VIERTRICOLOR (6) só pelo turno."
+   },
+   {
+    "icone": "🔮",
+    "titulo": "Espiada na próxima rodada",
+    "texto": "A rodada 29 já promete fogo: o líder Resina Club recebe o Kidiabense FC, um dos três times empatados em 18. O Madalena Club, outro nome do trio, mede forças direto com o Kaempfs F.C. O vice Brocador do Bonja visita o Parizi 01, que levou sova na rodada passada, e o artilheiro da vez, pietro filho, tenta repetir a dose contra o lanterna VIERTRICOLOR."
+   }
+  ],
+  "geradaEm": "2026-09-21T20:24:49.000Z"
+ },
+ {
+  "id": "rodada-29",
+  "rodada": 29,
+  "titulo": "Kidiabense assume a ponta isolada, Resina cai pra vice e Brocador perde a virada que eu já tinha dado como fechada",
+  "blocos": [
+   {
+    "icone": "🏆",
+    "titulo": "Cartoleiro da rodada",
+    "texto": "A melhor pontuação da rodada 29 nem era a mais comentada: o Gaudérios FC atropelou o Tricolor Lvfc por 125,14 a 111,56 e levou a faixa sem alarde nenhum. Enquanto todo mundo olhava pra briga da ponta, o time do Flávio Pacheco ia estourando a régua lá no meio do pelotão. Mito silencioso, artilharia de respeito."
+   },
+   {
+    "icone": "🤡",
+    "titulo": "Vexame da rodada",
+    "texto": "Quem segue sem escapar do fundo da tabela é o Urachfc, com meros 76,46 pontos na derrota para o Esporte Clube Barão (96,71). É a pior pontuação de toda a rodada 29, e o time já soma oito derrotas em dez jogos do returno. A régua lá embaixo virou endereço fixo."
+   },
+   {
+    "icone": "🔥",
+    "titulo": "Jogo da rodada",
+    "texto": "O confronto mais apertado nem precisou de drama pra decidir: Madalena Club e Kaempfs F.C. fecharam em 100,36 a 100,34, diferença de 0,02 ponto, a menor de toda a rodada. Dentro da regra que transforma qualquer diferença abaixo de 2 pontos em empate, os dois saem satisfeitos, cada um com seu ponto embaixo do braço."
+   },
+   {
+    "icone": "📻",
+    "titulo": "Recado pra quem acompanhou ao vivo",
+    "texto": "No sábado eu avisei que o Resina Club ia perder pro Kidiabense FC, e acertei a direção, só errei o placar: a conta que eu tinha era 102,54 a 81,70, o fechamento oficial saiu 104,04 a 88,46. Já a previsão de que o Brocador do Bonja ia assumir a ponta batendo o Parizi 01 por 91,44 a 82,49 foi pro lixo, o Parizi virou depois da minha última passagem e fechou vencendo por 108,84 a 101,54. E o combinado de que o Kaempfs F.C. ia vencer o Madalena Club também não se sustentou: os dois cresceram tanto que fecharam num empate de 0,02 ponto que nem o Zé viu chegando."
+   },
+   {
+    "icone": "📊",
+    "titulo": "Sobe e desce da tabela",
+    "texto": "Com o tropeço, o Resina Club perde a liderança isolada que mantinha desde a rodada 27 e cai para a segunda posição, com 20 pontos corridos. Quem assume a ponta sozinho é o Kidiabense FC, agora com 21 pontos, um a mais que o próprio Resina. Logo atrás, Kaempfs F.C., Madalena Club e Brocador do Bonja empatam em 19 pontos, decididos nessa ordem pelo PG turno (958,93, 916,83 e 915,09, respectivamente)."
+   },
+   {
+    "icone": "🔮",
+    "titulo": "Espiada na próxima rodada",
+    "texto": "A rodada 30 já separa duelo direto de liderança: o novo líder isolado Kidiabense FC recebe o HORST BRAUN em casa. O vice Resina Club visita justamente o Brocador do Bonja, que amargou a reviravolta desta rodada. O artilheiro da vez, Gaudérios FC, visita o Berwinha FC embalado pela melhor pontuação da 29, e o vexame Urachfc tenta reagir contra o Mandrackefc."
+   }
+  ],
+  "geradaEm": "2026-10-09T12:27:00.000Z"
+ },
+ {
+  "id": "rodada-30",
+  "rodada": 30,
+  "titulo": "Madalena estoura a rodada 30, Urachfc e Mandrackefc empatam na raça e o Kidiabense fecha isolado na ponta do returno",
+  "blocos": [
+   {
+    "icone": "🏆",
+    "titulo": "Cartoleiro da rodada",
+    "texto": "O Madalena Club foi quem mais pontuou na rodada 30: 126,23 contra os 104,63 do Império da Caipira, de goleada. Foi a única pontuação acima de 120 em toda a rodada, e deixou o Madalena ainda mais forte no quarto lugar do returno."
+   },
+   {
+    "icone": "🙈",
+    "titulo": "Vexame da rodada",
+    "texto": "O SampaMissiones FC fechou com 50,85 pontos, a pior marca da rodada, e perdeu para o Corticeira's Farm FC (78,74). Sem segredo nem desculpa de atleta que não entrou em campo: foi só uma escalação que não rendeu."
+   },
+   {
+    "icone": "⚖️",
+    "titulo": "Jogo da rodada",
+    "texto": "Eu avisei na cobertura ao vivo que a vantagem do Urachfc sobre o Mandrackefc tinha encolhido para 0,70 ponto, e a zica se confirmou: fechou em 88,73 a 87,33, diferença de 1,40, dentro da margem de empate da liga. Ponto pra cada lado, duelo direto que não teve vencedor."
+   },
+   {
+    "icone": "🔄",
+    "titulo": "As viradas que a reta final não contou",
+    "texto": "Na última atualização ao vivo o Gaudérios tinha virado sobre o Berwinha e o Alemonstro seguia na frente do pietro filho. A pontuação oficial deu troco nos dois: o Berwinha fechou em 97,75 a 89,65 e levou a melhor, e o pietro filho buscou atrás pra vencer o Alemonstro por 111,33 a 104,08. Parcial é parcial, oficial é outra história."
+   },
+   {
+    "icone": "📊",
+    "titulo": "Sobe e desce: o returno de cabeça para baixo",
+    "texto": "O Kidiabense FC, só o terceiro colocado do primeiro turno, fecha a rodada 30 isolado na ponta do returno com 24 pontos. O Resina Club, que tinha amargado a 16ª posição no primeiro turno, é hoje o vice líder com 23, e o pietro filho, 19º colocado na mesma época, aparece agora em 5º lugar. Do outro lado, o Urachfc, que foi o 4º colocado do primeiro turno, despenca para a 19ª posição do returno, quase colado na lanterna isolada do VIERTRICOLOR."
+   },
+   {
+    "icone": "👀",
+    "titulo": "Espiada pra rodada 31",
+    "texto": "A rodada 31 reserva um confronto e tanto pro dia 18: o Resina Club, vice líder do returno, recebe justamente o Madalena Club, que acabou de fazer a maior pontuação da rodada 30. No mesmo dia, o Kidiabense isolado na ponta visita o Império da Caipira: time que tropeça, embola a liderança."
+   }
+  ],
+  "geradaEm": "2026-10-13T20:25:46.000Z"
+ },
+ {
+  "id": "rodada-31",
+  "rodada": 31,
+  "titulo": "Kaempfs assume a ponta, Kidiabense leva baile do Império e a rodada 31 vira a liga de cabeça para baixo",
+  "blocos": [
+   {
+    "icone": "👑",
+    "titulo": "Troca de dono na liderança",
+    "texto": "Mudou a ponta. O Kaempfs F.C. bateu o HORST BRAUN por 96,09 a 68,99, chegou aos 25 pontos e assumiu a liderança do returno. O Madalena Club também fechou com 25, mas fica em segundo porque o Kaempfs tem 1.174,75 de PG turno contra 1.156,60. Dois times empatados em pontos e separados por 18 pontinhos de pontuação acumulada, isso é liga apertada."
+   },
+   {
+    "icone": "😵",
+    "titulo": "O líder virou terceiro em noventa minutos",
+    "texto": "O Kidiabense FC chegou na rodada 31 líder isolado e saiu dela em terceiro. Levou 105,29 a 69,90 do Império da Caipira, a maior diferença da rodada, 35,39 pontos. Ficou com os mesmos 24 pontos de antes e viu dois passarem por cima. Liderança que não se defende não dura."
+   },
+   {
+    "icone": "🏆",
+    "titulo": "Cartoleiro da rodada",
+    "texto": "Pela segunda rodada seguida o Madalena Club foi o que mais pontuou: 113,54. E não foi contra qualquer um, foi em cima do Resina Club, que marcou 89,39 e caiu para o quarto lugar. O Madalena vem fazendo o returno mais consistente da parte de cima e agora encosta de vez na briga."
+   },
+   {
+    "icone": "🙈",
+    "titulo": "Vexame da rodada",
+    "texto": "O Tricolor Lvfc fechou com 61,79, a pior marca da rodada, e perdeu para o VIERTRICOLOR por 84,04. Detalhe cruel: o VIERTRICOLOR era a lanterna isolada e usou justamente essa vitória para sair do fundo do poço. Alguém tinha que pagar a conta."
+   },
+   {
+    "icone": "⚖️",
+    "titulo": "Dois empates e um deles por três décimos",
+    "texto": "A rodada teve dois duelos decididos pela regra do empate. O pietro filho e o Urachfc ficaram em 83,39 a 83,09, diferença de 0,30, que é praticamente um atleta respirando errado. E o Parizi 01 empatou com o Alemonstro FBPA por 88,79 a 87,59, 1,20 de diferença. Um ponto pra cada e ninguém dormiu feliz."
+   },
+   {
+    "icone": "📉",
+    "titulo": "A lanterna trocou de mãos",
+    "texto": "Com o VIERTRICOLOR vencendo e subindo para 9 pontos, a lanterna sobrou para o Urachfc, que empatou e chegou a 8, os mesmos do Mandrackefc. O desempate é no PG turno e aí o Urachfc leva a pior: 921,38 contra 954,58. Quem começou o returno brigando em cima agora briga pra não terminar em último."
+   },
+   {
+    "icone": "🤔",
+    "titulo": "O azarado da liga",
+    "texto": "Repara nessa: o Império da Caipira tem 1.167,79 de PG turno, a segunda maior pontuação acumulada da liga inteira, atrás só do líder. E está em nono lugar, com 19 pontos. Pontuar bem é uma coisa, pontuar no dia certo contra o adversário certo é outra. O Cartola é cruel assim."
+   },
+   {
+    "icone": "👀",
+    "titulo": "O que vem por aí",
+    "texto": "Faltam sete rodadas e a parte de cima está num punhado: do líder Kaempfs com 25 ao Brocador do Bonja com 22 são só três pontos separando cinco times. Qualquer tropeço embola tudo de novo. Mercado já está aberto para a rodada 32, então escala com carinho."
+   }
+  ],
+  "geradaEm": "2026-10-20T15:11:52.470Z"
+ },
+ {
+  "id": "rodada-32",
+  "rodada": 32,
+  "titulo": "Madalena crava a melhor da rodada 32 com virada dupla, Kaempfs empata a ponta e o Zé perde a aposta do Resina no apagar das luzes",
+  "blocos": [
+   {
+    "icone": "🏆",
+    "titulo": "Cartoleiro da rodada",
+    "texto": "O Madalena Club fechou a rodada 32 com a melhor pontuação da liga, 104,46 contra o Urachfc, que marcou 92,69. E essa vitória tem gosto de virada dupla: na cobertura ao vivo eu já tinha visto o Madalena destruindo o jogo por 69,96 a 34,10, aí os parciais mostraram o Urachfc crescendo e virando pra 80,70 a 77,76. Dava pra sentir o gostinho da zebra, só que o fechamento oficial resolveu dar o troco: o Madalena cresceu ainda mais e fechou com a maior pontuação da rodada. Duas viradas num confronto só."
+   },
+   {
+    "icone": "🤡",
+    "titulo": "Vexame da rodada",
+    "texto": "Quem levou a pior foi o VIERTRICOLOR, com 71,27 pontos na derrota pro Berwinha FC (89,06 a 71,27), o time que tinha acabado de escapar da lanterna na rodada 31 e já volta a flertar com o fundo do poço. A diferença pro penúltimo colocado da rodada, o Esporte Clube Barão (71,28), foi de um centésimo de ponto. Quase um empate técnico pelo título de pior da rodada."
+   },
+   {
+    "icone": "⚖️",
+    "titulo": "Jogo da rodada",
+    "texto": "O duelo mais apertado nem parecia isso ao vivo. Eu avisei no sábado que o Mandrackefc estava goleando o Brocador do Bonja por 70,84 a 50,25, um resultado sem emoção nenhuma. O fechamento oficial transformou aquilo em quase nada: 73,68 a 74,04, diferença de 0,36 ponto, dentro da regra do empate. Cada lado leva 1 ponto e eu fico devendo explicação de como uma goleada virou empate de time parado."
+   },
+   {
+    "icone": "📻",
+    "titulo": "Recado pra quem acompanhou ao vivo",
+    "texto": "Tive outro carrinho puxado na cobertura ao vivo: avisei que o Resina Club estava batendo o Império da Caipira por 62,46 a 56,55, de olho em subir na tabela. O resultado oficial inverteu tudo: o Império venceu por 80,88 a 78,16 e quem ficou travado foi o próprio Resina. Acertei, ao menos, a direção dos outros três confrontos que fechei ao vivo: o Kaempfs F.C. confirmou a vitória sobre o Corticeira's Farm FC (95,66 a 88,66), o Baade FC manteve a vantagem sobre o Esporte Clube Barão (97,56 a 71,28), e Tricolor Lvfc x Kidiabense FC e Berwinha FC x VIERTRICOLOR só cresceram no placar sem trocar de lado."
+   },
+   {
+    "icone": "📊",
+    "titulo": "Sobe e desce da tabela",
+    "texto": "Na ponta, o Kaempfs F.C. venceu e seguiu na frente, mas agora de mãos dadas com o Madalena Club: os dois somam 28 pontos corridos, e quem decide é o PG turno, com 1.270,41 do Kaempfs contra 1.261,06 do Madalena, uma vantagem curta de pouco mais de 9 pontos acumulados. O Kidiabense FC segue isolado na terceira posição com 24. Atrás, um pelotão de quatro times empata em 23 pontos: Resina Club, Parizi 01, Brocador do Bonja e Baade FC, nessa ordem pelo PG turno. Faltam seis rodadas e a parte de cima da tabela virou um nó só."
+   },
+   {
+    "icone": "🔮",
+    "titulo": "Espiada na próxima rodada",
+    "texto": "A rodada 33 já separa confronto e tanto: o líder Kaempfs F.C. visita o Mandrackefc, que acabou de arrancar um empate no fio do bigode. O vice Madalena Club recebe o Alemonstro FBPA, e o Resina Club, que tropeçou nesta rodada, recebe o Parizi 01, um dos companheiros de pelotão dos 23 pontos. De quebra, o Kidiabense FC recebe o pietro filho em casa, de olho em se aproximar de novo da ponta."
+   }
+  ],
+  "geradaEm": "2026-10-27T13:30:00.000Z"
+ },
+ {
+  "id": "rodada-33",
+  "rodada": 33,
+  "titulo": "Kaempfs estoura 104,91 mesmo perdendo a bola rolando, pietro filho escapa do empate por 2,55 e a rodada 33 fecha sem nenhum ponto dividido",
+  "blocos": [
+   {
+    "icone": "🏆",
+    "titulo": "Cartoleiro da rodada",
+    "texto": "O Kaempfs F.C. fechou a rodada 33 com a melhor pontuação da liga, 104,91 contra o Mandrackefc, que ficou com 81,51. Eu já tinha avisado ao vivo que o líder, mesmo perdendo o jogo de verdade por 2 a 0 pro Mandrackefc, virava nos parciais por 81,81 a 72,06. Não parou aí: até o fechamento oficial o Kaempfs ainda cresceu mais, e sobrou pontuação de time que não deixa barato nem quando o jogo real dá as costas."
+   },
+   {
+    "icone": "🙈",
+    "titulo": "Vexame da rodada",
+    "texto": "Quem fechou com a pior marca da rodada foi o HORST BRAUN, com 57,87 pontos na derrota para o Gaudérios FC (94,41 a 57,87). Sem departamento médico pra culpar e sem atleta fora de campo: foi escalação que simplesmente não decolou em nenhum momento."
+   },
+   {
+    "icone": "🔥",
+    "titulo": "Jogo da rodada",
+    "texto": "O confronto mais apertado foi pietro filho contra Kidiabense FC, decidido por 2,55 pontos (77,41 a 74,86). Na minha última passagem ao vivo os dois estavam roçando o empate, 60,61 a 62,41, diferença de só 1,80. No fechamento pietro filho conseguiu abrir a margem suficiente pra escapar da divisão de pontos e ficar com a vitória inteira, numa rodada 33 que, aliás, não teve nenhum empate: dez jogos, dez resultados líquidos."
+   },
+   {
+    "icone": "📻",
+    "titulo": "Recado pra quem acompanhou ao vivo",
+    "texto": "No sábado eu avisei que o Berwinha FC vencia o Brocador do Bonja por 79,11 a 62,41, só que o Brocador não baixou a cabeça e encurtou a distância até o fim, caindo por apenas 87,91 a 84,21. O Corticeira's Farm FC também viu a vantagem encolher: chegou a abrir 15,80 pontos de sobra sobre o Esporte Clube Barão e fechou vencendo por só 8,30 (95,71 a 87,41). Já o duelo entre Tricolor Lvfc e SampaMissiones FC, que eu via com o Sampa na frente mesmo sem o jogo real ter começado, fechou exatamente como eu previ: vitória do Sampa por 83,61 a 77,41."
+   },
+   {
+    "icone": "📊",
+    "titulo": "Sobe e desce da tabela",
+    "texto": "Com a vitória, o Kaempfs F.C. segue na ponta ao lado do Madalena Club, os dois empatados em 31 pontos corridos, com o Kaempfs na frente só pelo desempate do PG turno (1375,32 a 1353,97). O pelotão que tinha quatro times empatados em 23 pontos (Resina Club, Parizi 01, Brocador do Bonja e Baade FC) virou de cabeça para baixo: Parizi 01 e Baade FC venceram e saltaram para 26 pontos, na terceira e quarta posição, enquanto Resina Club e Brocador do Bonja perderam e continuam em 23, agora ao lado de dois reforços na mesma pontuação, pietro filho e Berwinha FC, que também chegaram aos 23 depois de vencer na rodada. Na rabeira, Mandrackefc (9 pontos) e Urachfc (8 pontos) seguem isolados nas duas últimas posições."
+   },
+   {
+    "icone": "🔮",
+    "titulo": "Espiada na próxima rodada",
+    "texto": "A rodada 34 já separa confronto e tanto: o vice Madalena Club recebe o Baade FC, que também vem de vitória e quer encostar de vez no topo. O líder Kaempfs F.C. visita o Alemonstro FBPA fora de casa, enquanto pietro filho, que calou o Kidiabense FC nesta rodada, recebe justamente o Brocador do Bonja. Lá na parte de baixo, Urachfc e Resina Club se enfrentam direto, duelo que pode aliviar um dos dois lados da pressão."
+   }
+  ],
+  "geradaEm": "2026-10-31T08:25:47.000Z"
+ },
+ {
+  "id": "rodada-34",
+  "rodada": 34,
+  "titulo": "VIERTRICOLOR mitou a rodada inteira sem saber sair da zona de rebaixamento, e o Kaempfs enfim fica isolado na ponta",
+  "blocos": [
+   {
+    "icone": "🏆",
+    "titulo": "Cartoleiro da rodada",
+    "texto": "Eu avisei na reta final que o VIERTRICOLOR, lá na 18ª posição, estava passando o rodo no Parizi 01, que ocupava a terceira colocação da tabela. Pois bem, não só confirmou a zebra como fechou com a melhor pontuação de toda a rodada 34: 129,17 contra os 115,30 do Parizi. Time de zona de rebaixamento maltratando o G-4, só o Cartola explica."
+   },
+   {
+    "icone": "🙈",
+    "titulo": "Vexame da rodada",
+    "texto": "Do outro lado sobrou pro HORST BRAUN: 64,67 pontos na surra que levou do Tricolor Lvfc, que meteu 123,35. Quase 59 pontos de diferença, a maior sova de toda a rodada 34. Sem atleta fora de campo pra culpar: foi escalação que não decolou em nenhum momento."
+   },
+   {
+    "icone": "⚖️",
+    "titulo": "Jogo da rodada",
+    "texto": "A previsão da última passagem ao vivo bateu certinho: Berwinha FC e Kidiabense FC seguiam roçando o empate, 113,05 a 112,45, diferença de 0,6 ponto, dentro da margem que a liga carimba como divisão de pontos. Nem o apito final dos jogos reais desempatou essa dupla, só o fechamento oficial resolveu, e resolveu com um ponto pra cada lado."
+   },
+   {
+    "icone": "📊",
+    "titulo": "Sobe e desce da tabela",
+    "texto": "A outra previsão da reta final também se confirmou: o Kaempfs F.C. segurou a vantagem sobre o Alemonstro FBPA (111,40 a 98,40) e virou líder isolado do returno, com 34 pontos corridos, 3 de vantagem pro vice Madalena Club, que tropeçou pro Baade FC (108,30 a 115,70) e ficou travado em 31. Primeira vez em muitas rodadas que a ponta não depende de desempate de PG turno. O Baade, de quebra, sobe para 29 pontos e assume sozinho o terceiro lugar, bem instalado na zona de premiação. E repara no humor cruel do returno: Urachfc venceu o Resina Club e o próprio VIERTRICOLOR venceu o Parizi 01, só que os dois seguem presos na 20ª e na 18ª posição. Vencer ajuda, mas não é milagre."
+   },
+   {
+    "icone": "🔮",
+    "titulo": "Espiada na próxima rodada",
+    "texto": "A rodada 35 começa dia 14/11 com duelo e tanto: o líder isolado Kaempfs F.C. recebe justamente o VIERTRICOLOR, o time que acabou de cravar a melhor pontuação da rodada 34 lá da 18ª posição. De quebra, o vice Madalena Club visita o SampaMissiones FC, e o Império da Caipira mede forças com o lanterna Urachfc, que vem de vitória sem sair do fundo da tabela."
+   }
+  ],
+  "geradaEm": "2026-11-07T12:25:19Z"
+ }
 ]
