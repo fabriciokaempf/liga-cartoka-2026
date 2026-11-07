@@ -695,34 +695,34 @@
     "rodada": 34,
     "aoVivo": true,
     "rotulo": "Rodada 34 · andamento",
-    "titulo": "Rodada 34 reta final: o líder vira o jogo e Berwinha x Kidiabense quase empata no fio do bigode",
+    "titulo": "Rodada 34 reta final: dez jogos reais no bolso, VIERTRICOLOR dá zebra em cima do Parizi 01",
     "blocos": [
       {
-        "icone": "⚽",
-        "titulo": "Reta final: só falta o Sampa",
-        "texto": "A rodada 34 continua em nove dos dez confrontos com o jogo real rolando, e o único pendente é SampaMissiones FC contra o Gaudérios FC. Mesmo sem bola rolando nesse duelo, o Sampa já aparece com a maior pontuação parcial da rodada inteira, 128,6, puro trabalho dos atletas que ele escalou em outros times. Clássico lembrete de como o Cartola funciona: quem pontua é o escalado, não o confronto da liga."
+        "icone": "🏁",
+        "titulo": "Os dez jogos reais já terminaram",
+        "texto": "Sampa Missiones FC contra Gaudérios FC, o último confronto que faltava rolar, já apitou o final com 0 a 3 no placar real. Com isso os dez jogos da rodada 34 estão encerrados em campo, e agora é só esperar o Cartola fechar a pontuação oficial. As parciais ainda podem balançar um pouco até lá, mas o grosso da história já está contado."
       },
       {
-        "icone": "🔄",
-        "titulo": "O líder virou o jogo que eu já tinha dado por perdido",
-        "texto": "Na última passagem por aqui eu avisei que o líder Kaempfs F.C. estava sendo derrotado pelo Alemonstro FBPA por quase vinte pontos. Pois virou de ponta a ponta: agora é 111,4 a 98,4 para o Kaempfs, que folga ainda mais na ponta se isso se confirmar no fechamento oficial. Resenha que eu quase escrevi errada, salva pelo apito que ainda não tinha tocado."
+        "icone": "👑",
+        "titulo": "O líder disparou e o segundo colocado tropeçou",
+        "texto": "O Kaempfs F.C., que na atualização passada eu já tinha visto virar o jogo contra o Alemonstro FBPA, mantém a vantagem e vence por 111,4 a 98,4. Enquanto isso o vice Madalena Club perde para o Baade FC, 108,3 a 115,7. Se o resultado travar assim no fechamento oficial, o Kaempfs encosta a cara no espelho e vira líder isolado, sem precisar de desempate."
+      },
+      {
+        "icone": "🚨",
+        "titulo": "Zebra: o 18º lugar passa o rodo no 3º",
+        "texto": "O Parizi 01, hoje na terceira posição da tabela, perde de virada nas parciais para o VIERTRICOLOR, que ocupa a 18ª colocação: 115,3 a 129,17. É o tipo de resultado que embaralha tudo no meio da tabela, e o VIERTRICOLOR sai da reta final da rodada com motivo de sobra pra sorrir."
       },
       {
         "icone": "😬",
-        "titulo": "Berwinha e Kidiabense: aquela surra que virou quase empate",
-        "texto": "Outra que mudou de figura: o Berwinha FC chegou a abrir mais de vinte pontos de vantagem sobre o Kidiabense FC, e agora a diferença encolheu para 0,6 ponto (113,05 a 112,45), dentro da margem que a liga transforma em empate. Enquanto isso, o vice Madalena Club continua atrás do Baade FC (108,3 a 115,7), e o Parizi 01 segue perdendo para o VIERTRICOLOR (115,3 a 126,17), aquele resultado que já tinha rendido zoeira na atualização passada e segue de pé."
-      },
-      {
-        "icone": "📉",
-        "titulo": "No fundo da tabela, os zebras não dão trégua",
-        "texto": "O Urachfc, atual lanterna da geral, continua goleando o Resina Club (117,4 a 95,8), e o Mandrackefc atropela o Corticeira's Farm FC por uma diferença gigantesca (115,8 a 70,85). A maior sova da rodada, porém, é do Tricolor Lvfc em cima do HORST BRAUN: 123,3 a 59,8, mais de sessenta pontos de distância. E o pietro filho, que estava atrás na atualização passada, virou para cima do Brocador do Bonja (112,2 a 95,2). Se tudo isso travar assim até o apito final, a parte de baixo da tabela vai dar a maior dor de cabeça pra quem está no meio."
+        "titulo": "Berwinha e Kidiabense seguem agarrados pela unha",
+        "texto": "Fechando como eu já tinha avisado: Berwinha FC e Kidiabense FC continuam na diferença de 0,6 ponto (113,05 a 112,45), dentro da margem que a liga carimba como empate. Nem o apito final dos jogos reais conseguiu desempatar essa dupla, só o Cartola oficial resolve."
       }
     ],
-    "geradaEm": "2026-11-06T20:26:47Z",
+    "geradaEm": "2026-11-07T04:25:36Z",
     "estado": {
       "mercado": 2,
-      "jogosIniciados": 9,
-      "assinaturaParciais": "1067774:126.2|13912942:112.5|15282074:59.8|17382079:112.2|25278938:115.3|26079439:98.4|27772103:115.8|2963331:128.6|309735:117.4|3250219:95.2|3419812:70.8|423154:113.0|47572160:108.3|47653263:105.2|487118:111.4|49288650:95.8|4997197:115.7|6742039:123.3|753775:111.0|90277:82.2"
+      "jogosIniciados": 10,
+      "assinaturaParciais": "1067774:129.2|13912942:112.5|15282074:64.7|17382079:112.2|25278938:115.3|26079439:98.4|27772103:115.8|2963331:128.6|309735:117.4|3250219:95.2|3419812:80.2|423154:113.0|47572160:108.3|47653263:105.2|487118:111.4|49288650:95.8|4997197:115.7|6742039:123.3|753775:111.0|90277:82.2"
     }
   }
 ]
