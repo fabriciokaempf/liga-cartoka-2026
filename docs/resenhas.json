@@ -691,38 +691,36 @@
     "geradaEm": "2026-10-31T08:25:47.000Z"
   },
   {
-    "id": "andamento-rodada-34",
+    "id": "rodada-34",
     "rodada": 34,
-    "aoVivo": true,
-    "rotulo": "Rodada 34 · andamento",
-    "titulo": "Rodada 34 reta final: dez jogos reais no bolso, VIERTRICOLOR dá zebra em cima do Parizi 01",
+    "titulo": "VIERTRICOLOR mitou a rodada inteira sem saber sair da zona de rebaixamento, e o Kaempfs enfim fica isolado na ponta",
     "blocos": [
       {
-        "icone": "🏁",
-        "titulo": "Os dez jogos reais já terminaram",
-        "texto": "Sampa Missiones FC contra Gaudérios FC, o último confronto que faltava rolar, já apitou o final com 0 a 3 no placar real. Com isso os dez jogos da rodada 34 estão encerrados em campo, e agora é só esperar o Cartola fechar a pontuação oficial. As parciais ainda podem balançar um pouco até lá, mas o grosso da história já está contado."
+        "icone": "🏆",
+        "titulo": "Cartoleiro da rodada",
+        "texto": "Eu avisei na reta final que o VIERTRICOLOR, lá na 18ª posição, estava passando o rodo no Parizi 01, que ocupava a terceira colocação da tabela. Pois bem, não só confirmou a zebra como fechou com a melhor pontuação de toda a rodada 34: 129,17 contra os 115,30 do Parizi. Time de zona de rebaixamento maltratando o G-4, só o Cartola explica."
       },
       {
-        "icone": "👑",
-        "titulo": "O líder disparou e o segundo colocado tropeçou",
-        "texto": "O Kaempfs F.C., que na atualização passada eu já tinha visto virar o jogo contra o Alemonstro FBPA, mantém a vantagem e vence por 111,4 a 98,4. Enquanto isso o vice Madalena Club perde para o Baade FC, 108,3 a 115,7. Se o resultado travar assim no fechamento oficial, o Kaempfs encosta a cara no espelho e vira líder isolado, sem precisar de desempate."
+        "icone": "🙈",
+        "titulo": "Vexame da rodada",
+        "texto": "Do outro lado sobrou pro HORST BRAUN: 64,67 pontos na surra que levou do Tricolor Lvfc, que meteu 123,35. Quase 59 pontos de diferença, a maior sova de toda a rodada 34. Sem atleta fora de campo pra culpar: foi escalação que não decolou em nenhum momento."
       },
       {
-        "icone": "🚨",
-        "titulo": "Zebra: o 18º lugar passa o rodo no 3º",
-        "texto": "O Parizi 01, hoje na terceira posição da tabela, perde de virada nas parciais para o VIERTRICOLOR, que ocupa a 18ª colocação: 115,3 a 129,17. É o tipo de resultado que embaralha tudo no meio da tabela, e o VIERTRICOLOR sai da reta final da rodada com motivo de sobra pra sorrir."
+        "icone": "⚖️",
+        "titulo": "Jogo da rodada",
+        "texto": "A previsão da última passagem ao vivo bateu certinho: Berwinha FC e Kidiabense FC seguiam roçando o empate, 113,05 a 112,45, diferença de 0,6 ponto, dentro da margem que a liga carimba como divisão de pontos. Nem o apito final dos jogos reais desempatou essa dupla, só o fechamento oficial resolveu, e resolveu com um ponto pra cada lado."
       },
       {
-        "icone": "😬",
-        "titulo": "Berwinha e Kidiabense seguem agarrados pela unha",
-        "texto": "Fechando como eu já tinha avisado: Berwinha FC e Kidiabense FC continuam na diferença de 0,6 ponto (113,05 a 112,45), dentro da margem que a liga carimba como empate. Nem o apito final dos jogos reais conseguiu desempatar essa dupla, só o Cartola oficial resolve."
+        "icone": "📊",
+        "titulo": "Sobe e desce da tabela",
+        "texto": "A outra previsão da reta final também se confirmou: o Kaempfs F.C. segurou a vantagem sobre o Alemonstro FBPA (111,40 a 98,40) e virou líder isolado do returno, com 34 pontos corridos, 3 de vantagem pro vice Madalena Club, que tropeçou pro Baade FC (108,30 a 115,70) e ficou travado em 31. Primeira vez em muitas rodadas que a ponta não depende de desempate de PG turno. O Baade, de quebra, sobe para 29 pontos e cola na briga do meio de tabela. E repara no humor cruel do returno: Urachfc venceu o Resina Club e o próprio VIERTRICOLOR venceu o Parizi 01, só que os dois seguem presos na 20ª e na 18ª posição. Vencer ajuda, mas não é milagre."
+      },
+      {
+        "icone": "🔮",
+        "titulo": "Espiada na próxima rodada",
+        "texto": "A rodada 35 começa dia 14/11 com duelo e tanto: o líder isolado Kaempfs F.C. recebe justamente o VIERTRICOLOR, o time que acabou de cravar a melhor pontuação da rodada 34 lá da 18ª posição. De quebra, o vice Madalena Club visita o SampaMissiones FC, e o Império da Caipira mede forças com o lanterna Urachfc, que vem de vitória sem sair do fundo da tabela."
       }
     ],
-    "geradaEm": "2026-11-07T04:25:36Z",
-    "estado": {
-      "mercado": 2,
-      "jogosIniciados": 10,
-      "assinaturaParciais": "1067774:129.2|13912942:112.5|15282074:64.7|17382079:112.2|25278938:115.3|26079439:98.4|27772103:115.8|2963331:128.6|309735:117.4|3250219:95.2|3419812:80.2|423154:113.0|47572160:108.3|47653263:105.2|487118:111.4|49288650:95.8|4997197:115.7|6742039:123.3|753775:111.0|90277:82.2"
-    }
+    "geradaEm": "2026-11-07T12:25:19Z"
   }
 ]
