@@ -722,5 +722,36 @@
    }
   ],
   "geradaEm": "2026-11-07T12:25:19Z"
+ },
+ {
+  "id": "andamento-rodada-35",
+  "rodada": 35,
+  "aoVivo": true,
+  "rotulo": "Rodada 35 · andamento",
+  "titulo": "Abriu a rodada 35: Kaempfs recebe o algoz da rodada passada e quase ninguém pontuou ainda",
+  "blocos": [
+   {
+    "icone": "🎙️",
+    "titulo": "Abre a cortina da rodada 35",
+    "texto": "A rodada 35 só engatou a primeira marcha: o mercado ainda está aberto e só o confronto entre Kaempfs F.C. e VIERTRICOLOR já teve o jogo real rolado, terminando em 0 a 0. Quase ninguém pontuou no Cartola até agora, então relaxa: zero no placar aqui é começo de rodada, não é vexame."
+   },
+   {
+    "icone": "⚔️",
+    "titulo": "O líder recebe quem mais mitou na rodada passada",
+    "texto": "O Kaempfs F.C., isolado na ponta com 34 pontos corridos, abre a rodada em casa justamente contra o VIERTRICOLOR, que na rodada 34 cravou a melhor pontuação da liga lá da 18ª posição. Se a mitada se repetir, o líder sente o abalo sísmico. O Zé aposta que o Kaempfs segura a onda, mas não garante sossego."
+   },
+   {
+    "icone": "👀",
+    "titulo": "Zebra e revanche no restante da rodada",
+    "texto": "O vice Madalena Club visita fora de casa o surpreendente SampaMissiones FC, hoje na 4ª posição com 28 pontos, bem longe do 18º lugar que ocupava no primeiro turno. E o Império da Caipira recebe o lanterna isolado Urachfc, que vem de vitória sobre o Resina Club sem sair do fundo da tabela: ganhar ajuda, mas pra sair da 20ª posição vai precisar de mais."
+   },
+   {
+    "icone": "🔮",
+    "titulo": "Resto do cardápio e palpite do Zé",
+    "texto": "Completam a rodada Tricolor Lvfc x Baade FC, Resina Club x Alemonstro FBPA, Berwinha FC x pietro filho, Mandrackefc x Parizi 01, Kidiabense FC x Esporte Clube Barão, Brocador do Bonja x HORST BRAUN e Corticeira's Farm FC x Gaudérios FC. O Zé ainda não arrisca favorito, porque com o mercado nem fechado direito é cedo pra cravar nome. Volto aqui assim que a pontuação começar a aparecer de verdade."
+   }
+  ],
+  "geradaEm": "2026-11-15T00:25:03Z",
+  "estado": { "mercado": 1, "jogosIniciados": 1, "assinaturaParciais": "sem-parciais" }
  }
 ]
