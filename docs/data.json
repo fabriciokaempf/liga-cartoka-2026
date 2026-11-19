@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-14T22:54:38.509Z",
+  "geradoEm": "2026-11-19T01:01:52.622Z",
   "temporada": 2026,
   "liga": {
     "nome": "Liga Cartoka de pontos corridos 2026",
@@ -27,8 +27,8 @@
   "rodadaInicial": 20,
   "rodadaFinal": 38,
   "rodadaAtual": 35,
-  "statusMercado": 1,
-  "bolaRolando": false,
+  "statusMercado": 2,
+  "bolaRolando": true,
   "gameOver": false,
   "ultimaRodadaFechada": 34,
   "jogadores": [
@@ -333,8 +333,1892 @@
       }
     }
   ],
-  "escalacoes": null,
-  "parciais": null,
+  "escalacoes": {
+    "rodada": 35,
+    "times": {
+      "90277": {
+        "titulares": [
+          {
+            "id": 94583,
+            "posicaoId": 5,
+            "clubeId": 262
+          },
+          {
+            "id": 98873,
+            "posicaoId": 5,
+            "clubeId": 262
+          },
+          {
+            "id": 99552,
+            "posicaoId": 1,
+            "clubeId": 262
+          },
+          {
+            "id": 87863,
+            "posicaoId": 4,
+            "clubeId": 262
+          },
+          {
+            "id": 89275,
+            "posicaoId": 2,
+            "clubeId": 283
+          },
+          {
+            "id": 88963,
+            "posicaoId": 6,
+            "clubeId": 262
+          },
+          {
+            "id": 63007,
+            "posicaoId": 4,
+            "clubeId": 277
+          },
+          {
+            "id": 83528,
+            "posicaoId": 3,
+            "clubeId": 262
+          },
+          {
+            "id": 103445,
+            "posicaoId": 5,
+            "clubeId": 283
+          },
+          {
+            "id": 124552,
+            "posicaoId": 4,
+            "clubeId": 267
+          },
+          {
+            "id": 116065,
+            "posicaoId": 2,
+            "clubeId": 267
+          },
+          {
+            "id": 130307,
+            "posicaoId": 3,
+            "clubeId": 284
+          }
+        ],
+        "reservas": [
+          {
+            "id": 97868,
+            "posicaoId": 2,
+            "clubeId": 276
+          },
+          {
+            "id": 84735,
+            "posicaoId": 4,
+            "clubeId": 262
+          },
+          {
+            "id": 113690,
+            "posicaoId": 1,
+            "clubeId": 277
+          },
+          {
+            "id": 105563,
+            "posicaoId": 5,
+            "clubeId": 284
+          },
+          {
+            "id": 118655,
+            "posicaoId": 3,
+            "clubeId": 267
+          }
+        ],
+        "capitaoId": 94583,
+        "reservaLuxoId": 105563
+      },
+      "309735": {
+        "titulares": [
+          {
+            "id": 105436,
+            "posicaoId": 4,
+            "clubeId": 262
+          },
+          {
+            "id": 94583,
+            "posicaoId": 5,
+            "clubeId": 262
+          },
+          {
+            "id": 87863,
+            "posicaoId": 4,
+            "clubeId": 262
+          },
+          {
+            "id": 98873,
+            "posicaoId": 5,
+            "clubeId": 262
+          },
+          {
+            "id": 71631,
+            "posicaoId": 1,
+            "clubeId": 284
+          },
+          {
+            "id": 73992,
+            "posicaoId": 2,
+            "clubeId": 277
+          },
+          {
+            "id": 124552,
+            "posicaoId": 4,
+            "clubeId": 267
+          },
+          {
+            "id": 114802,
+            "posicaoId": 5,
+            "clubeId": 275
+          },
+          {
+            "id": 105175,
+            "posicaoId": 2,
+            "clubeId": 275
+          },
+          {
+            "id": 99274,
+            "posicaoId": 3,
+            "clubeId": 275
+          },
+          {
+            "id": 106147,
+            "posicaoId": 6,
+            "clubeId": 364
+          },
+          {
+            "id": 130048,
+            "posicaoId": 3,
+            "clubeId": 284
+          }
+        ],
+        "reservas": [
+          {
+            "id": 104084,
+            "posicaoId": 1,
+            "clubeId": 275
+          },
+          {
+            "id": 145404,
+            "posicaoId": 2,
+            "clubeId": 275
+          },
+          {
+            "id": 105563,
+            "posicaoId": 5,
+            "clubeId": 284
+          },
+          {
+            "id": 84735,
+            "posicaoId": 4,
+            "clubeId": 262
+          },
+          {
+            "id": 104085,
+            "posicaoId": 3,
+            "clubeId": 275
+          }
+        ],
+        "capitaoId": 98873,
+        "reservaLuxoId": 105563
+      },
+      "423154": {
+        "titulares": [
+          {
+            "id": 97867,
+            "posicaoId": 3,
+            "clubeId": 262
+          },
+          {
+            "id": 99552,
+            "posicaoId": 1,
+            "clubeId": 262
+          },
+          {
+            "id": 83528,
+            "posicaoId": 3,
+            "clubeId": 262
+          },
+          {
+            "id": 94583,
+            "posicaoId": 5,
+            "clubeId": 262
+          },
+          {
+            "id": 63007,
+            "posicaoId": 4,
+            "clubeId": 277
+          },
+          {
+            "id": 87863,
+            "posicaoId": 4,
+            "clubeId": 262
+          },
+          {
+            "id": 88963,
+            "posicaoId": 6,
+            "clubeId": 262
+          },
+          {
+            "id": 98873,
+            "posicaoId": 5,
+            "clubeId": 262
+          },
+          {
+            "id": 124552,
+            "posicaoId": 4,
+            "clubeId": 267
+          },
+          {
+            "id": 103445,
+            "posicaoId": 5,
+            "clubeId": 283
+          },
+          {
+            "id": 130525,
+            "posicaoId": 2,
+            "clubeId": 276
+          },
+          {
+            "id": 116065,
+            "posicaoId": 2,
+            "clubeId": 267
+          }
+        ],
+        "reservas": [
+          {
+            "id": 113690,
+            "posicaoId": 1,
+            "clubeId": 277
+          },
+          {
+            "id": 89275,
+            "posicaoId": 2,
+            "clubeId": 283
+          },
+          {
+            "id": 84558,
+            "posicaoId": 4,
+            "clubeId": 283
+          },
+          {
+            "id": 105563,
+            "posicaoId": 5,
+            "clubeId": 284
+          },
+          {
+            "id": 130307,
+            "posicaoId": 3,
+            "clubeId": 284
+          }
+        ],
+        "capitaoId": 94583,
+        "reservaLuxoId": 105563
+      },
+      "487118": {
+        "titulares": [
+          {
+            "id": 83528,
+            "posicaoId": 3,
+            "clubeId": 262
+          },
+          {
+            "id": 87863,
+            "posicaoId": 4,
+            "clubeId": 262
+          },
+          {
+            "id": 63007,
+            "posicaoId": 4,
+            "clubeId": 277
+          },
+          {
+            "id": 103445,
+            "posicaoId": 5,
+            "clubeId": 283
+          },
+          {
+            "id": 88963,
+            "posicaoId": 6,
+            "clubeId": 262
+          },
+          {
+            "id": 94583,
+            "posicaoId": 5,
+            "clubeId": 262
+          },
+          {
+            "id": 72294,
+            "posicaoId": 1,
+            "clubeId": 282
+          },
+          {
+            "id": 130525,
+            "posicaoId": 2,
+            "clubeId": 276
+          },
+          {
+            "id": 116065,
+            "posicaoId": 2,
+            "clubeId": 267
+          },
+          {
+            "id": 78248,
+            "posicaoId": 3,
+            "clubeId": 264
+          },
+          {
+            "id": 98873,
+            "posicaoId": 5,
+            "clubeId": 262
+          },
+          {
+            "id": 105436,
+            "posicaoId": 4,
+            "clubeId": 262
+          }
+        ],
+        "reservas": [
+          {
+            "id": 98720,
+            "posicaoId": 2,
+            "clubeId": 264
+          },
+          {
+            "id": 99552,
+            "posicaoId": 1,
+            "clubeId": 262
+          },
+          {
+            "id": 124552,
+            "posicaoId": 4,
+            "clubeId": 267
+          },
+          {
+            "id": 105563,
+            "posicaoId": 5,
+            "clubeId": 284
+          },
+          {
+            "id": 130307,
+            "posicaoId": 3,
+            "clubeId": 284
+          }
+        ],
+        "capitaoId": 94583,
+        "reservaLuxoId": 105563
+      },
+      "753775": {
+        "titulares": [
+          {
+            "id": 87863,
+            "posicaoId": 4,
+            "clubeId": 262
+          },
+          {
+            "id": 88963,
+            "posicaoId": 6,
+            "clubeId": 262
+          },
+          {
+            "id": 94583,
+            "posicaoId": 5,
+            "clubeId": 262
+          },
+          {
+            "id": 101727,
+            "posicaoId": 2,
+            "clubeId": 264
+          },
+          {
+            "id": 63007,
+            "posicaoId": 4,
+            "clubeId": 277
+          },
+          {
+            "id": 83528,
+            "posicaoId": 3,
+            "clubeId": 262
+          },
+          {
+            "id": 97867,
+            "posicaoId": 3,
+            "clubeId": 262
+          },
+          {
+            "id": 72294,
+            "posicaoId": 1,
+            "clubeId": 282
+          },
+          {
+            "id": 105436,
+            "posicaoId": 4,
+            "clubeId": 262
+          },
+          {
+            "id": 98873,
+            "posicaoId": 5,
+            "clubeId": 262
+          },
+          {
+            "id": 116706,
+            "posicaoId": 5,
+            "clubeId": 267
+          },
+          {
+            "id": 130525,
+            "posicaoId": 2,
+            "clubeId": 276
+          }
+        ],
+        "reservas": [
+          {
+            "id": 61987,
+            "posicaoId": 2,
+            "clubeId": 262
+          },
+          {
+            "id": 99552,
+            "posicaoId": 1,
+            "clubeId": 262
+          },
+          {
+            "id": 124552,
+            "posicaoId": 4,
+            "clubeId": 267
+          },
+          {
+            "id": 63008,
+            "posicaoId": 3,
+            "clubeId": 276
+          },
+          {
+            "id": 105048,
+            "posicaoId": 5,
+            "clubeId": 364
+          }
+        ],
+        "capitaoId": 94583,
+        "reservaLuxoId": 105048
+      },
+      "1067774": {
+        "titulares": [
+          {
+            "id": 130209,
+            "posicaoId": 5,
+            "clubeId": 287
+          },
+          {
+            "id": 68685,
+            "posicaoId": 4,
+            "clubeId": 285
+          },
+          {
+            "id": 72951,
+            "posicaoId": 3,
+            "clubeId": 285
+          },
+          {
+            "id": 63007,
+            "posicaoId": 4,
+            "clubeId": 277
+          },
+          {
+            "id": 71631,
+            "posicaoId": 1,
+            "clubeId": 284
+          },
+          {
+            "id": 88963,
+            "posicaoId": 6,
+            "clubeId": 262
+          },
+          {
+            "id": 97878,
+            "posicaoId": 3,
+            "clubeId": 294
+          },
+          {
+            "id": 94583,
+            "posicaoId": 5,
+            "clubeId": 262
+          },
+          {
+            "id": 96610,
+            "posicaoId": 4,
+            "clubeId": 283
+          },
+          {
+            "id": 118844,
+            "posicaoId": 5,
+            "clubeId": 264
+          },
+          {
+            "id": 97899,
+            "posicaoId": 2,
+            "clubeId": 285
+          },
+          {
+            "id": 107093,
+            "posicaoId": 2,
+            "clubeId": 265
+          }
+        ],
+        "reservas": [
+          {
+            "id": 146430,
+            "posicaoId": 3,
+            "clubeId": 263
+          },
+          {
+            "id": 104084,
+            "posicaoId": 1,
+            "clubeId": 275
+          },
+          {
+            "id": 105175,
+            "posicaoId": 2,
+            "clubeId": 275
+          },
+          {
+            "id": 93988,
+            "posicaoId": 5,
+            "clubeId": 294
+          },
+          {
+            "id": 117910,
+            "posicaoId": 4,
+            "clubeId": 264
+          }
+        ],
+        "capitaoId": 63007,
+        "reservaLuxoId": 93988
+      },
+      "2963331": {
+        "titulares": [
+          {
+            "id": 105531,
+            "posicaoId": 2,
+            "clubeId": 264
+          },
+          {
+            "id": 63007,
+            "posicaoId": 4,
+            "clubeId": 277
+          },
+          {
+            "id": 116065,
+            "posicaoId": 2,
+            "clubeId": 267
+          },
+          {
+            "id": 106147,
+            "posicaoId": 6,
+            "clubeId": 364
+          },
+          {
+            "id": 105563,
+            "posicaoId": 5,
+            "clubeId": 284
+          },
+          {
+            "id": 87863,
+            "posicaoId": 4,
+            "clubeId": 262
+          },
+          {
+            "id": 71631,
+            "posicaoId": 1,
+            "clubeId": 284
+          },
+          {
+            "id": 83528,
+            "posicaoId": 3,
+            "clubeId": 262
+          },
+          {
+            "id": 98873,
+            "posicaoId": 5,
+            "clubeId": 262
+          },
+          {
+            "id": 94583,
+            "posicaoId": 5,
+            "clubeId": 262
+          },
+          {
+            "id": 97867,
+            "posicaoId": 3,
+            "clubeId": 262
+          },
+          {
+            "id": 117910,
+            "posicaoId": 4,
+            "clubeId": 264
+          }
+        ],
+        "reservas": [
+          {
+            "id": 130307,
+            "posicaoId": 3,
+            "clubeId": 284
+          },
+          {
+            "id": 84735,
+            "posicaoId": 4,
+            "clubeId": 262
+          },
+          {
+            "id": 116706,
+            "posicaoId": 5,
+            "clubeId": 267
+          },
+          {
+            "id": 68928,
+            "posicaoId": 1,
+            "clubeId": 276
+          },
+          {
+            "id": 101727,
+            "posicaoId": 2,
+            "clubeId": 264
+          }
+        ],
+        "capitaoId": 94583,
+        "reservaLuxoId": 116706
+      },
+      "3250219": {
+        "titulares": [
+          {
+            "id": 130307,
+            "posicaoId": 3,
+            "clubeId": 284
+          },
+          {
+            "id": 88963,
+            "posicaoId": 6,
+            "clubeId": 262
+          },
+          {
+            "id": 94583,
+            "posicaoId": 5,
+            "clubeId": 262
+          },
+          {
+            "id": 103445,
+            "posicaoId": 5,
+            "clubeId": 283
+          },
+          {
+            "id": 105531,
+            "posicaoId": 2,
+            "clubeId": 264
+          },
+          {
+            "id": 63007,
+            "posicaoId": 4,
+            "clubeId": 277
+          },
+          {
+            "id": 118655,
+            "posicaoId": 3,
+            "clubeId": 267
+          },
+          {
+            "id": 61987,
+            "posicaoId": 2,
+            "clubeId": 262
+          },
+          {
+            "id": 98873,
+            "posicaoId": 5,
+            "clubeId": 262
+          },
+          {
+            "id": 111690,
+            "posicaoId": 1,
+            "clubeId": 285
+          },
+          {
+            "id": 105436,
+            "posicaoId": 4,
+            "clubeId": 262
+          },
+          {
+            "id": 96610,
+            "posicaoId": 4,
+            "clubeId": 283
+          }
+        ],
+        "reservas": [
+          {
+            "id": 116706,
+            "posicaoId": 5,
+            "clubeId": 267
+          },
+          {
+            "id": 117330,
+            "posicaoId": 3,
+            "clubeId": 267
+          },
+          {
+            "id": 124552,
+            "posicaoId": 4,
+            "clubeId": 267
+          },
+          {
+            "id": 117404,
+            "posicaoId": 1,
+            "clubeId": 283
+          },
+          {
+            "id": 145404,
+            "posicaoId": 2,
+            "clubeId": 275
+          }
+        ],
+        "capitaoId": 98873,
+        "reservaLuxoId": 116706
+      },
+      "3419812": {
+        "titulares": [
+          {
+            "id": 99552,
+            "posicaoId": 1,
+            "clubeId": 262
+          },
+          {
+            "id": 97867,
+            "posicaoId": 3,
+            "clubeId": 262
+          },
+          {
+            "id": 96610,
+            "posicaoId": 4,
+            "clubeId": 283
+          },
+          {
+            "id": 94583,
+            "posicaoId": 5,
+            "clubeId": 262
+          },
+          {
+            "id": 98873,
+            "posicaoId": 5,
+            "clubeId": 262
+          },
+          {
+            "id": 105436,
+            "posicaoId": 4,
+            "clubeId": 262
+          },
+          {
+            "id": 83528,
+            "posicaoId": 3,
+            "clubeId": 262
+          },
+          {
+            "id": 87863,
+            "posicaoId": 4,
+            "clubeId": 262
+          },
+          {
+            "id": 130209,
+            "posicaoId": 5,
+            "clubeId": 287
+          },
+          {
+            "id": 88963,
+            "posicaoId": 6,
+            "clubeId": 262
+          },
+          {
+            "id": 105531,
+            "posicaoId": 2,
+            "clubeId": 264
+          },
+          {
+            "id": 130525,
+            "posicaoId": 2,
+            "clubeId": 276
+          }
+        ],
+        "reservas": [
+          {
+            "id": 95131,
+            "posicaoId": 5,
+            "clubeId": 364
+          },
+          {
+            "id": 124552,
+            "posicaoId": 4,
+            "clubeId": 267
+          },
+          {
+            "id": 61987,
+            "posicaoId": 2,
+            "clubeId": 262
+          },
+          {
+            "id": 110708,
+            "posicaoId": 1,
+            "clubeId": 294
+          },
+          {
+            "id": 63008,
+            "posicaoId": 3,
+            "clubeId": 276
+          }
+        ],
+        "capitaoId": 94583,
+        "reservaLuxoId": 95131
+      },
+      "4997197": {
+        "titulares": [
+          {
+            "id": 105436,
+            "posicaoId": 4,
+            "clubeId": 262
+          },
+          {
+            "id": 83528,
+            "posicaoId": 3,
+            "clubeId": 262
+          },
+          {
+            "id": 82730,
+            "posicaoId": 1,
+            "clubeId": 364
+          },
+          {
+            "id": 87863,
+            "posicaoId": 4,
+            "clubeId": 262
+          },
+          {
+            "id": 98873,
+            "posicaoId": 5,
+            "clubeId": 262
+          },
+          {
+            "id": 88963,
+            "posicaoId": 6,
+            "clubeId": 262
+          },
+          {
+            "id": 94583,
+            "posicaoId": 5,
+            "clubeId": 262
+          },
+          {
+            "id": 63007,
+            "posicaoId": 4,
+            "clubeId": 277
+          },
+          {
+            "id": 105563,
+            "posicaoId": 5,
+            "clubeId": 284
+          },
+          {
+            "id": 105531,
+            "posicaoId": 2,
+            "clubeId": 264
+          },
+          {
+            "id": 116065,
+            "posicaoId": 2,
+            "clubeId": 267
+          },
+          {
+            "id": 130307,
+            "posicaoId": 3,
+            "clubeId": 284
+          }
+        ],
+        "reservas": [
+          {
+            "id": 124552,
+            "posicaoId": 4,
+            "clubeId": 267
+          },
+          {
+            "id": 117404,
+            "posicaoId": 1,
+            "clubeId": 283
+          },
+          {
+            "id": 116706,
+            "posicaoId": 5,
+            "clubeId": 267
+          },
+          {
+            "id": 101727,
+            "posicaoId": 2,
+            "clubeId": 264
+          },
+          {
+            "id": 130048,
+            "posicaoId": 3,
+            "clubeId": 284
+          }
+        ],
+        "capitaoId": 98873,
+        "reservaLuxoId": 116706
+      },
+      "6742039": {
+        "titulares": [
+          {
+            "id": 116065,
+            "posicaoId": 2,
+            "clubeId": 267
+          },
+          {
+            "id": 105531,
+            "posicaoId": 2,
+            "clubeId": 264
+          },
+          {
+            "id": 130307,
+            "posicaoId": 3,
+            "clubeId": 284
+          },
+          {
+            "id": 105563,
+            "posicaoId": 5,
+            "clubeId": 284
+          },
+          {
+            "id": 87863,
+            "posicaoId": 4,
+            "clubeId": 262
+          },
+          {
+            "id": 94583,
+            "posicaoId": 5,
+            "clubeId": 262
+          },
+          {
+            "id": 71631,
+            "posicaoId": 1,
+            "clubeId": 284
+          },
+          {
+            "id": 98873,
+            "posicaoId": 5,
+            "clubeId": 262
+          },
+          {
+            "id": 124552,
+            "posicaoId": 4,
+            "clubeId": 267
+          },
+          {
+            "id": 41929,
+            "posicaoId": 6,
+            "clubeId": 284
+          },
+          {
+            "id": 83528,
+            "posicaoId": 3,
+            "clubeId": 262
+          },
+          {
+            "id": 105436,
+            "posicaoId": 4,
+            "clubeId": 262
+          }
+        ],
+        "reservas": [
+          {
+            "id": 118655,
+            "posicaoId": 3,
+            "clubeId": 267
+          },
+          {
+            "id": 116706,
+            "posicaoId": 5,
+            "clubeId": 267
+          },
+          {
+            "id": 99440,
+            "posicaoId": 4,
+            "clubeId": 287
+          },
+          {
+            "id": 99552,
+            "posicaoId": 1,
+            "clubeId": 262
+          },
+          {
+            "id": 97795,
+            "posicaoId": 2,
+            "clubeId": 364
+          }
+        ],
+        "capitaoId": 105563,
+        "reservaLuxoId": 116706
+      },
+      "13912942": {
+        "titulares": [
+          {
+            "id": 83528,
+            "posicaoId": 3,
+            "clubeId": 262
+          },
+          {
+            "id": 88963,
+            "posicaoId": 6,
+            "clubeId": 262
+          },
+          {
+            "id": 94583,
+            "posicaoId": 5,
+            "clubeId": 262
+          },
+          {
+            "id": 87863,
+            "posicaoId": 4,
+            "clubeId": 262
+          },
+          {
+            "id": 98873,
+            "posicaoId": 5,
+            "clubeId": 262
+          },
+          {
+            "id": 105531,
+            "posicaoId": 2,
+            "clubeId": 264
+          },
+          {
+            "id": 105563,
+            "posicaoId": 5,
+            "clubeId": 284
+          },
+          {
+            "id": 124552,
+            "posicaoId": 4,
+            "clubeId": 267
+          },
+          {
+            "id": 71631,
+            "posicaoId": 1,
+            "clubeId": 284
+          },
+          {
+            "id": 130307,
+            "posicaoId": 3,
+            "clubeId": 284
+          },
+          {
+            "id": 63007,
+            "posicaoId": 4,
+            "clubeId": 277
+          },
+          {
+            "id": 116065,
+            "posicaoId": 2,
+            "clubeId": 267
+          }
+        ],
+        "reservas": [
+          {
+            "id": 104084,
+            "posicaoId": 1,
+            "clubeId": 275
+          },
+          {
+            "id": 99440,
+            "posicaoId": 4,
+            "clubeId": 287
+          },
+          {
+            "id": 91908,
+            "posicaoId": 5,
+            "clubeId": 284
+          },
+          {
+            "id": 101727,
+            "posicaoId": 2,
+            "clubeId": 264
+          },
+          {
+            "id": 63008,
+            "posicaoId": 3,
+            "clubeId": 276
+          }
+        ],
+        "capitaoId": 105563,
+        "reservaLuxoId": 91908
+      },
+      "15282074": {
+        "titulares": [
+          {
+            "id": 95131,
+            "posicaoId": 5,
+            "clubeId": 364
+          },
+          {
+            "id": 61987,
+            "posicaoId": 2,
+            "clubeId": 262
+          },
+          {
+            "id": 99552,
+            "posicaoId": 1,
+            "clubeId": 262
+          },
+          {
+            "id": 87863,
+            "posicaoId": 4,
+            "clubeId": 262
+          },
+          {
+            "id": 105436,
+            "posicaoId": 4,
+            "clubeId": 262
+          },
+          {
+            "id": 84735,
+            "posicaoId": 4,
+            "clubeId": 262
+          },
+          {
+            "id": 89840,
+            "posicaoId": 5,
+            "clubeId": 276
+          },
+          {
+            "id": 104085,
+            "posicaoId": 3,
+            "clubeId": 275
+          },
+          {
+            "id": 91908,
+            "posicaoId": 5,
+            "clubeId": 284
+          },
+          {
+            "id": 72951,
+            "posicaoId": 3,
+            "clubeId": 285
+          },
+          {
+            "id": 107093,
+            "posicaoId": 2,
+            "clubeId": 265
+          },
+          {
+            "id": 87211,
+            "posicaoId": 6,
+            "clubeId": 285
+          }
+        ],
+        "reservas": [
+          {
+            "id": 70164,
+            "posicaoId": 4,
+            "clubeId": 276
+          },
+          {
+            "id": 84042,
+            "posicaoId": 5,
+            "clubeId": 263
+          },
+          {
+            "id": 91772,
+            "posicaoId": 3,
+            "clubeId": 265
+          },
+          {
+            "id": 82730,
+            "posicaoId": 1,
+            "clubeId": 364
+          },
+          {
+            "id": 97899,
+            "posicaoId": 2,
+            "clubeId": 285
+          }
+        ],
+        "capitaoId": 87863,
+        "reservaLuxoId": 84042
+      },
+      "17382079": {
+        "titulares": [
+          {
+            "id": 83528,
+            "posicaoId": 3,
+            "clubeId": 262
+          },
+          {
+            "id": 94583,
+            "posicaoId": 5,
+            "clubeId": 262
+          },
+          {
+            "id": 87863,
+            "posicaoId": 4,
+            "clubeId": 262
+          },
+          {
+            "id": 130307,
+            "posicaoId": 3,
+            "clubeId": 284
+          },
+          {
+            "id": 88963,
+            "posicaoId": 6,
+            "clubeId": 262
+          },
+          {
+            "id": 63007,
+            "posicaoId": 4,
+            "clubeId": 277
+          },
+          {
+            "id": 72294,
+            "posicaoId": 1,
+            "clubeId": 282
+          },
+          {
+            "id": 96610,
+            "posicaoId": 4,
+            "clubeId": 283
+          },
+          {
+            "id": 114802,
+            "posicaoId": 5,
+            "clubeId": 275
+          },
+          {
+            "id": 98873,
+            "posicaoId": 5,
+            "clubeId": 262
+          },
+          {
+            "id": 97795,
+            "posicaoId": 2,
+            "clubeId": 364
+          },
+          {
+            "id": 105531,
+            "posicaoId": 2,
+            "clubeId": 264
+          }
+        ],
+        "reservas": [
+          {
+            "id": 145404,
+            "posicaoId": 2,
+            "clubeId": 275
+          },
+          {
+            "id": 99552,
+            "posicaoId": 1,
+            "clubeId": 262
+          },
+          {
+            "id": 124552,
+            "posicaoId": 4,
+            "clubeId": 267
+          },
+          {
+            "id": 103445,
+            "posicaoId": 5,
+            "clubeId": 283
+          },
+          {
+            "id": 130048,
+            "posicaoId": 3,
+            "clubeId": 284
+          }
+        ],
+        "capitaoId": 98873,
+        "reservaLuxoId": 103445
+      },
+      "25278938": {
+        "titulares": [
+          {
+            "id": 84816,
+            "posicaoId": 2,
+            "clubeId": 262
+          },
+          {
+            "id": 94583,
+            "posicaoId": 5,
+            "clubeId": 262
+          },
+          {
+            "id": 83528,
+            "posicaoId": 3,
+            "clubeId": 262
+          },
+          {
+            "id": 88963,
+            "posicaoId": 6,
+            "clubeId": 262
+          },
+          {
+            "id": 97867,
+            "posicaoId": 3,
+            "clubeId": 262
+          },
+          {
+            "id": 63007,
+            "posicaoId": 4,
+            "clubeId": 277
+          },
+          {
+            "id": 103445,
+            "posicaoId": 5,
+            "clubeId": 283
+          },
+          {
+            "id": 124552,
+            "posicaoId": 4,
+            "clubeId": 267
+          },
+          {
+            "id": 87863,
+            "posicaoId": 4,
+            "clubeId": 262
+          },
+          {
+            "id": 72294,
+            "posicaoId": 1,
+            "clubeId": 282
+          },
+          {
+            "id": 105531,
+            "posicaoId": 2,
+            "clubeId": 264
+          },
+          {
+            "id": 98873,
+            "posicaoId": 5,
+            "clubeId": 262
+          }
+        ],
+        "reservas": [
+          {
+            "id": 96870,
+            "posicaoId": 2,
+            "clubeId": 262
+          },
+          {
+            "id": 99552,
+            "posicaoId": 1,
+            "clubeId": 262
+          },
+          {
+            "id": 116706,
+            "posicaoId": 5,
+            "clubeId": 267
+          },
+          {
+            "id": 130048,
+            "posicaoId": 3,
+            "clubeId": 284
+          },
+          {
+            "id": 71123,
+            "posicaoId": 4,
+            "clubeId": 267
+          }
+        ],
+        "capitaoId": 94583,
+        "reservaLuxoId": 116706
+      },
+      "26079439": {
+        "titulares": [
+          {
+            "id": 106907,
+            "posicaoId": 6,
+            "clubeId": 287
+          },
+          {
+            "id": 98873,
+            "posicaoId": 5,
+            "clubeId": 262
+          },
+          {
+            "id": 96610,
+            "posicaoId": 4,
+            "clubeId": 283
+          },
+          {
+            "id": 105563,
+            "posicaoId": 5,
+            "clubeId": 284
+          },
+          {
+            "id": 71631,
+            "posicaoId": 1,
+            "clubeId": 284
+          },
+          {
+            "id": 63007,
+            "posicaoId": 4,
+            "clubeId": 277
+          },
+          {
+            "id": 124552,
+            "posicaoId": 4,
+            "clubeId": 267
+          },
+          {
+            "id": 87887,
+            "posicaoId": 3,
+            "clubeId": 284
+          },
+          {
+            "id": 130307,
+            "posicaoId": 3,
+            "clubeId": 284
+          },
+          {
+            "id": 94583,
+            "posicaoId": 5,
+            "clubeId": 262
+          },
+          {
+            "id": 130048,
+            "posicaoId": 3,
+            "clubeId": 284
+          },
+          {
+            "id": 87863,
+            "posicaoId": 4,
+            "clubeId": 262
+          }
+        ],
+        "reservas": [
+          {
+            "id": 99552,
+            "posicaoId": 1,
+            "clubeId": 262
+          },
+          {
+            "id": 111309,
+            "posicaoId": 3,
+            "clubeId": 284
+          },
+          {
+            "id": 84735,
+            "posicaoId": 4,
+            "clubeId": 262
+          },
+          {
+            "id": 83257,
+            "posicaoId": 5,
+            "clubeId": 277
+          }
+        ],
+        "capitaoId": 98873,
+        "reservaLuxoId": 83257
+      },
+      "27772103": {
+        "titulares": [
+          {
+            "id": 96610,
+            "posicaoId": 4,
+            "clubeId": 283
+          },
+          {
+            "id": 73992,
+            "posicaoId": 2,
+            "clubeId": 277
+          },
+          {
+            "id": 68899,
+            "posicaoId": 4,
+            "clubeId": 277
+          },
+          {
+            "id": 114802,
+            "posicaoId": 5,
+            "clubeId": 275
+          },
+          {
+            "id": 98873,
+            "posicaoId": 5,
+            "clubeId": 262
+          },
+          {
+            "id": 71631,
+            "posicaoId": 1,
+            "clubeId": 284
+          },
+          {
+            "id": 94583,
+            "posicaoId": 5,
+            "clubeId": 262
+          },
+          {
+            "id": 105175,
+            "posicaoId": 2,
+            "clubeId": 275
+          },
+          {
+            "id": 124552,
+            "posicaoId": 4,
+            "clubeId": 267
+          },
+          {
+            "id": 106147,
+            "posicaoId": 6,
+            "clubeId": 364
+          },
+          {
+            "id": 130048,
+            "posicaoId": 3,
+            "clubeId": 284
+          },
+          {
+            "id": 99274,
+            "posicaoId": 3,
+            "clubeId": 275
+          }
+        ],
+        "reservas": [
+          {
+            "id": 104084,
+            "posicaoId": 1,
+            "clubeId": 275
+          },
+          {
+            "id": 111309,
+            "posicaoId": 3,
+            "clubeId": 284
+          },
+          {
+            "id": 145404,
+            "posicaoId": 2,
+            "clubeId": 275
+          },
+          {
+            "id": 105563,
+            "posicaoId": 5,
+            "clubeId": 284
+          },
+          {
+            "id": 91473,
+            "posicaoId": 4,
+            "clubeId": 262
+          }
+        ],
+        "capitaoId": 98873,
+        "reservaLuxoId": 105563
+      },
+      "47572160": {
+        "titulares": [
+          {
+            "id": 84816,
+            "posicaoId": 2,
+            "clubeId": 262
+          },
+          {
+            "id": 83528,
+            "posicaoId": 3,
+            "clubeId": 262
+          },
+          {
+            "id": 105531,
+            "posicaoId": 2,
+            "clubeId": 264
+          },
+          {
+            "id": 98873,
+            "posicaoId": 5,
+            "clubeId": 262
+          },
+          {
+            "id": 96610,
+            "posicaoId": 4,
+            "clubeId": 283
+          },
+          {
+            "id": 94583,
+            "posicaoId": 5,
+            "clubeId": 262
+          },
+          {
+            "id": 87863,
+            "posicaoId": 4,
+            "clubeId": 262
+          },
+          {
+            "id": 88963,
+            "posicaoId": 6,
+            "clubeId": 262
+          },
+          {
+            "id": 72294,
+            "posicaoId": 1,
+            "clubeId": 282
+          },
+          {
+            "id": 97867,
+            "posicaoId": 3,
+            "clubeId": 262
+          },
+          {
+            "id": 63007,
+            "posicaoId": 4,
+            "clubeId": 277
+          },
+          {
+            "id": 103445,
+            "posicaoId": 5,
+            "clubeId": 283
+          }
+        ],
+        "reservas": [
+          {
+            "id": 99552,
+            "posicaoId": 1,
+            "clubeId": 262
+          },
+          {
+            "id": 61987,
+            "posicaoId": 2,
+            "clubeId": 262
+          },
+          {
+            "id": 124552,
+            "posicaoId": 4,
+            "clubeId": 267
+          },
+          {
+            "id": 92182,
+            "posicaoId": 3,
+            "clubeId": 285
+          },
+          {
+            "id": 83257,
+            "posicaoId": 5,
+            "clubeId": 277
+          }
+        ],
+        "capitaoId": 98873,
+        "reservaLuxoId": 83257
+      },
+      "47653263": {
+        "titulares": [
+          {
+            "id": 96610,
+            "posicaoId": 4,
+            "clubeId": 283
+          },
+          {
+            "id": 87863,
+            "posicaoId": 4,
+            "clubeId": 262
+          },
+          {
+            "id": 83528,
+            "posicaoId": 3,
+            "clubeId": 262
+          },
+          {
+            "id": 78248,
+            "posicaoId": 3,
+            "clubeId": 264
+          },
+          {
+            "id": 94583,
+            "posicaoId": 5,
+            "clubeId": 262
+          },
+          {
+            "id": 88963,
+            "posicaoId": 6,
+            "clubeId": 262
+          },
+          {
+            "id": 63007,
+            "posicaoId": 4,
+            "clubeId": 277
+          },
+          {
+            "id": 103445,
+            "posicaoId": 5,
+            "clubeId": 283
+          },
+          {
+            "id": 98873,
+            "posicaoId": 5,
+            "clubeId": 262
+          },
+          {
+            "id": 72294,
+            "posicaoId": 1,
+            "clubeId": 282
+          },
+          {
+            "id": 116065,
+            "posicaoId": 2,
+            "clubeId": 267
+          },
+          {
+            "id": 105531,
+            "posicaoId": 2,
+            "clubeId": 264
+          }
+        ],
+        "reservas": [
+          {
+            "id": 99552,
+            "posicaoId": 1,
+            "clubeId": 262
+          },
+          {
+            "id": 105436,
+            "posicaoId": 4,
+            "clubeId": 262
+          },
+          {
+            "id": 97867,
+            "posicaoId": 3,
+            "clubeId": 262
+          },
+          {
+            "id": 83257,
+            "posicaoId": 5,
+            "clubeId": 277
+          },
+          {
+            "id": 101727,
+            "posicaoId": 2,
+            "clubeId": 264
+          }
+        ],
+        "capitaoId": 94583,
+        "reservaLuxoId": 83257
+      },
+      "49288650": {
+        "titulares": [
+          {
+            "id": 105436,
+            "posicaoId": 4,
+            "clubeId": 262
+          },
+          {
+            "id": 97867,
+            "posicaoId": 3,
+            "clubeId": 262
+          },
+          {
+            "id": 83528,
+            "posicaoId": 3,
+            "clubeId": 262
+          },
+          {
+            "id": 105563,
+            "posicaoId": 5,
+            "clubeId": 284
+          },
+          {
+            "id": 98873,
+            "posicaoId": 5,
+            "clubeId": 262
+          },
+          {
+            "id": 94583,
+            "posicaoId": 5,
+            "clubeId": 262
+          },
+          {
+            "id": 87863,
+            "posicaoId": 4,
+            "clubeId": 262
+          },
+          {
+            "id": 71631,
+            "posicaoId": 1,
+            "clubeId": 284
+          },
+          {
+            "id": 63007,
+            "posicaoId": 4,
+            "clubeId": 277
+          },
+          {
+            "id": 116065,
+            "posicaoId": 2,
+            "clubeId": 267
+          },
+          {
+            "id": 106147,
+            "posicaoId": 6,
+            "clubeId": 364
+          },
+          {
+            "id": 105531,
+            "posicaoId": 2,
+            "clubeId": 264
+          }
+        ],
+        "reservas": [
+          {
+            "id": 124552,
+            "posicaoId": 4,
+            "clubeId": 267
+          },
+          {
+            "id": 104118,
+            "posicaoId": 1,
+            "clubeId": 287
+          },
+          {
+            "id": 86864,
+            "posicaoId": 2,
+            "clubeId": 364
+          },
+          {
+            "id": 116706,
+            "posicaoId": 5,
+            "clubeId": 267
+          },
+          {
+            "id": 130307,
+            "posicaoId": 3,
+            "clubeId": 284
+          }
+        ],
+        "capitaoId": 98873,
+        "reservaLuxoId": 116706
+      }
+    }
+  },
+  "parciais": {
+    "rodada": 35,
+    "atualizadoEm": "2026-11-19T01:01:52.329Z",
+    "porTime": {
+      "90277": 37.92,
+      "309735": 73.62,
+      "423154": 25.42,
+      "487118": 42.22,
+      "753775": 51.47,
+      "1067774": 46.72,
+      "2963331": 43.37,
+      "3250219": 58.97,
+      "3419812": 35.92,
+      "4997197": 60.57,
+      "6742039": 46.29,
+      "13912942": 42.67,
+      "15282074": 35.9,
+      "17382079": 50.47,
+      "25278938": 36.42,
+      "26079439": 59.5,
+      "27772103": 67.32,
+      "47572160": 50.87,
+      "47653263": 48.32,
+      "49288650": 54.72
+    }
+  },
   "pontuacoes": {
     "90277": {
       "20": 112.75,
@@ -2742,8 +4626,8 @@
           "foraTimeId": 4997197,
           "dataPartida": "2026-11-18 19:30:00",
           "valida": true,
-          "placarCasa": null,
-          "placarFora": null,
+          "placarCasa": 0,
+          "placarFora": 1,
           "pontosCasa": null,
           "pontosFora": null,
           "resultado": null
@@ -2755,8 +4639,8 @@
           "foraTimeId": 26079439,
           "dataPartida": "2026-11-18 20:00:00",
           "valida": true,
-          "placarCasa": null,
-          "placarFora": null,
+          "placarCasa": 2,
+          "placarFora": 0,
           "pontosCasa": null,
           "pontosFora": null,
           "resultado": null
@@ -2768,8 +4652,8 @@
           "foraTimeId": 17382079,
           "dataPartida": "2026-11-18 20:30:00",
           "valida": true,
-          "placarCasa": null,
-          "placarFora": null,
+          "placarCasa": 2,
+          "placarFora": 1,
           "pontosCasa": null,
           "pontosFora": null,
           "resultado": null
@@ -2781,8 +4665,8 @@
           "foraTimeId": 309735,
           "dataPartida": "2026-11-18 20:30:00",
           "valida": true,
-          "placarCasa": null,
-          "placarFora": null,
+          "placarCasa": 0,
+          "placarFora": 1,
           "pontosCasa": null,
           "pontosFora": null,
           "resultado": null
@@ -2794,8 +4678,8 @@
           "foraTimeId": 25278938,
           "dataPartida": "2026-11-18 21:30:00",
           "valida": true,
-          "placarCasa": null,
-          "placarFora": null,
+          "placarCasa": 0,
+          "placarFora": 0,
           "pontosCasa": null,
           "pontosFora": null,
           "resultado": null
@@ -2807,8 +4691,8 @@
           "foraTimeId": 47653263,
           "dataPartida": "2026-11-18 21:30:00",
           "valida": true,
-          "placarCasa": null,
-          "placarFora": null,
+          "placarCasa": 0,
+          "placarFora": 0,
           "pontosCasa": null,
           "pontosFora": null,
           "resultado": null
