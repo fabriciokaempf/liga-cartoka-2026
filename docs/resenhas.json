@@ -728,30 +728,30 @@
   "rodada": 35,
   "aoVivo": true,
   "rotulo": "Rodada 35 · andamento",
-  "titulo": "Abriu a rodada 35: Kaempfs recebe o algoz da rodada passada e quase ninguém pontuou ainda",
+  "titulo": "Reta final da rodada 35: Kaempfs apanha de novo do VIERTRICOLOR e o Mandrackefc dá a zebra do dia em cima do Parizi",
   "blocos": [
    {
-    "icone": "🎙️",
-    "titulo": "Abre a cortina da rodada 35",
-    "texto": "A rodada 35 só engatou a primeira marcha: o mercado ainda está aberto e só o confronto entre Kaempfs F.C. e VIERTRICOLOR já teve o jogo real rolado, terminando em 0 a 0. Quase ninguém pontuou no Cartola até agora, então relaxa: zero no placar aqui é começo de rodada, não é vexame."
+    "icone": "⏱️",
+    "titulo": "Sete jogos no ar, três ainda por vir",
+    "texto": "A rodada 35 já tem sete dos dez jogos reais rolados, mas no Cartola quem decide é a escalação, não o apito do estádio, então nada está fechado. Faltam ainda Brocador do Bonja x HORST BRAUN, SampaMissiones FC x Madalena Club e Corticeira's Farm FC x Gaudérios FC, os três ainda para esta noite. Tudo que vem a seguir é retrato do momento e pode virar de ponta a cabeça até o mercado fechar de vez."
    },
    {
-    "icone": "⚔️",
-    "titulo": "O líder recebe quem mais mitou na rodada passada",
-    "texto": "O Kaempfs F.C., isolado na ponta com 34 pontos corridos, abre a rodada em casa justamente contra o VIERTRICOLOR, que na rodada 34 cravou a melhor pontuação da liga lá da 18ª posição. Se a mitada se repetir, o líder sente o abalo sísmico. O Zé aposta que o Kaempfs segura a onda, mas não garante sossego."
+    "icone": "😱",
+    "titulo": "O líder sofre de novo com o mesmo algoz",
+    "texto": "Se a rodada acabasse agora, o Kaempfs F.C. levaria a segunda rasteira seguida do VIERTRICOLOR, o mesmo time que cravou a melhor pontuação da rodada 34 bem na cara do líder. Os parciais marcam 46,72 a 42,22 para o time do Daniel Vier, 4,5 pontos de vantagem que, se mantida, tiram o Kaempfs da liderança isolada. Para completar o drama, o vice Madalena Club está na frente do SampaMissiones FC por 50,87 a 43,37, o que empataria os dois em pontos corridos, com o Kaempfs segurando a ponta só pelo saldo do PG turno."
    },
    {
-    "icone": "👀",
-    "titulo": "Zebra e revanche no restante da rodada",
-    "texto": "O vice Madalena Club visita fora de casa o surpreendente SampaMissiones FC, hoje na 4ª posição com 28 pontos, bem longe do 18º lugar que ocupava no primeiro turno. E o Império da Caipira recebe o lanterna isolado Urachfc, que vem de vitória sobre o Resina Club sem sair do fundo da tabela: ganhar ajuda, mas pra sair da 20ª posição vai precisar de mais."
+    "icone": "🔨",
+    "titulo": "A zebra do dia tem nome e sobrenome",
+    "texto": "O Mandrackefc, que briga lá embaixo na tabela, está destruindo o Parizi 01, um dos nomes do pelotão de cima, por 67,32 a 36,42. E o lanterna isolado Urachfc repete a dose de bater em time da parte de cima: está na frente do Império da Caipira por 73,62 a 51,47. Só que, como já virou tradição nessa reta de returno, vencer não tira o Urachfc do fundo do poço: mesmo somando os pontos, ele seguiria na 20ª posição."
    },
    {
-    "icone": "🔮",
-    "titulo": "Resto do cardápio e palpite do Zé",
-    "texto": "Completam a rodada Tricolor Lvfc x Baade FC, Resina Club x Alemonstro FBPA, Berwinha FC x pietro filho, Mandrackefc x Parizi 01, Kidiabense FC x Esporte Clube Barão, Brocador do Bonja x HORST BRAUN e Corticeira's Farm FC x Gaudérios FC. O Zé ainda não arrisca favorito, porque com o mercado nem fechado direito é cedo pra cravar nome. Volto aqui assim que a pontuação começar a aparecer de verdade."
+    "icone": "🚿",
+    "titulo": "Quem já pode ir ligando o chuveiro",
+    "texto": "Três confrontos estão com diferença grande demais para sonhar com virada rápida: o Berwinha FC perde do pietro filho por 25 pontos, o Império da Caipira perde do Urachfc por mais de 22 e o Parizi 01 está sendo atropelado pelo Mandrackefc por quase 31. Ainda dá tempo de a escalação reagir, mas quem está nessas contas já pode separar a toalha. O Zé volta aqui assim que mais jogos fecharem."
    }
   ],
-  "geradaEm": "2026-11-15T00:25:03Z",
-  "estado": { "mercado": 1, "jogosIniciados": 1, "assinaturaParciais": "sem-parciais" }
+  "geradaEm": "2026-11-19T01:15:00Z",
+  "estado": { "mercado": 2, "jogosIniciados": 7, "assinaturaParciais": "1067774:46.7|13912942:42.7|15282074:35.9|17382079:50.5|25278938:36.4|26079439:59.5|27772103:67.3|2963331:43.4|309735:73.6|3250219:59.0|3419812:35.9|423154:25.4|47572160:50.9|47653263:48.3|487118:42.2|49288650:54.7|4997197:60.6|6742039:46.3|753775:51.5|90277:37.9" }
  }
 ]
