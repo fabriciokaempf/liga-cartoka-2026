@@ -728,34 +728,34 @@
     "rodada": 35,
     "aoVivo": true,
     "rotulo": "Rodada 35 · andamento",
-    "titulo": "Reta final da rodada 35: VIERTRICOLOR aperta ainda mais o Kaempfs, Barão dispara em cima do Kidiabense e Corticeira's Farm x Gaudérios agora é empate no papel",
+    "titulo": "Brocador entra em campo nos parciais e já goleia o HORST BRAUN, enquanto o resto da reta final da rodada 35 segue travado",
     "blocos": [
       {
-        "icone": "⏱️",
-        "titulo": "O placar de jogos não mudou, mas as parciais sim",
-        "texto": "A contagem real continua em sete jogos no ar e três por vir: Brocador do Bonja x HORST BRAUN, SampaMissiones FC x Madalena Club e Corticeira's Farm FC x Gaudérios FC, todos marcados só para a noite deste dia 19. Mas no Cartola quem pontua é o jogador escalado, não o apito do juiz, e nas últimas horas as parciais se moveram bastante nos sete confrontos já em andamento. Vale repetir o aviso de sempre: nada disso está fechado até o mercado travar de vez."
+        "icone": "⚡",
+        "titulo": "Brocador pisa no acelerador antes do apito real",
+        "texto": "O jogo de verdade entre Brocador do Bonja e HORST BRAUN só começa à noite, mas no Cartola o Brocador já apareceu nos parciais com 80,69 pontos, contra meros 39,3 do HORST BRAUN. Mais de 41 pontos de vantagem antes mesmo da bola rolar na partida real dos dois. A contagem de jogos iniciados continua em sete, com três ainda por vir."
       },
       {
         "icone": "😱",
-        "titulo": "O líder sofre ainda mais com o mesmo algoz",
-        "texto": "O Kaempfs F.C. até melhorou, saiu de 42,22 para 52,34 pontos, mas o VIERTRICOLOR melhorou muito mais e foi de 46,72 para 80,14. A vantagem do Daniel Vier sobre o líder, que já era de 4,5 pontos, agora está em 27,8. O vice Madalena Club também ampliou a diferença sobre o SampaMissiones FC, de 7,5 para 14,72 pontos, o que mantém de pé o cenário de empatar o Kaempfs em pontos corridos se tudo isso se confirmar, com o líder se segurando na ponta só pelo saldo do returno."
+        "titulo": "O líder segue sofrendo do mesmo jeito",
+        "texto": "No restante do tabuleiro nada mudou desde a última passagem: o Kaempfs F.C. continua com 52,34 pontos e o VIERTRICOLOR mantém os 80,14, uma vantagem de quase 28 pontos do time da 18ª posição por cima do líder isolado do returno. Se isso não se mover até o fim, hoje tem zebra homérica guardada."
       },
       {
         "icone": "🔨",
-        "titulo": "Zebras perdendo força de um lado, crescendo do outro",
-        "texto": "O Urachfc ainda bate o Império da Caipira, mas a vantagem caiu de mais de 22 pontos para 10,88, e o Mandrackefc ainda atropela o Parizi 01, só que de 30,9 pontos passou para 24,98. Foi na direção contrária o Esporte Clube Barão, que esticou a surra no Kidiabense FC, de 5,6 pontos para 14,5. E o Berwinha FC, que já perdia por 25 do pietro filho, agora está sendo goleado por quase 40."
+        "titulo": "O resto da rodada em banho-maria",
+        "texto": "Urachfc ainda passa o Império da Caipira por 10,88, Mandrackefc segue na frente do Parizi 01 por quase 25, o Esporte Clube Barão mantém 14,5 de vantagem sobre o Kidiabense FC e o Berwinha FC continua sendo atropelado pelo pietro filho, já com mais de 39 pontos de diferença. Corticeira's Farm FC e Gaudérios FC seguem separados por apenas 1,8 ponto, dentro da margem que a liga carimba como empate."
       },
       {
-        "icone": "⚖️",
-        "titulo": "O duelo da noite virou empate no papel",
-        "texto": "O destaque da atualização é o confronto entre Corticeira's Farm FC e Gaudérios FC, que virou de ponta a cabeça: antes o Gaudérios tinha uma vantagem apertada de 2 pontos, agora é o Corticeira's Farm que está na frente, por 52,74 a 50,94, uma diferença de só 1,8. Dentro da margem de 2 pontos que a liga usa para empate, esse aqui hoje seria ponto dividido para os dois lados. E o detalhe mais gostoso: o jogo real desses dois nem rolou ainda, só entra em campo às 21h30 de hoje."
+        "icone": "⏰",
+        "titulo": "O que ainda falta",
+        "texto": "Faltam três jogos reais para a noite deste dia 19: Brocador do Bonja contra HORST BRAUN, SampaMissiones FC contra Madalena Club e Corticeira's Farm FC contra Gaudérios FC. Com sete confrontos em campo e mais três chegando, a rodada 35 ainda tem bastante história para contar antes do apito final."
       }
     ],
-    "geradaEm": "2026-11-19T12:26:29.975Z",
+    "geradaEm": "2026-11-19T16:26:01Z",
     "estado": {
       "mercado": 2,
       "jogosIniciados": 7,
-      "assinaturaParciais": "1067774:80.1|13912942:55.6|15282074:39.3|17382079:72.8|25278938:46.7|26079439:78.3|27772103:71.7|2963331:54.5|309735:69.7|3419812:52.7|423154:33.5|47572160:69.2|47653263:70.1|487118:52.3|49288650:63.6|4997197:69.9|6742039:62.0|753775:58.8|90277:50.9"
+      "assinaturaParciais": "1067774:80.1|13912942:55.6|15282074:39.3|17382079:72.8|25278938:46.7|26079439:78.3|27772103:71.7|2963331:54.5|309735:69.7|3250219:80.7|3419812:52.7|423154:33.5|47572160:69.2|47653263:70.1|487118:52.3|49288650:63.6|4997197:69.9|6742039:62.0|753775:58.8|90277:50.9"
     }
   }
 ]
