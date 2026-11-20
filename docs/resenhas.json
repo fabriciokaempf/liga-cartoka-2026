@@ -724,38 +724,41 @@
     "geradaEm": "2026-11-07T12:25:19Z"
   },
   {
-    "id": "andamento-rodada-35",
+    "id": "rodada-35",
     "rodada": 35,
-    "aoVivo": true,
-    "rotulo": "Rodada 35 · andamento",
-    "titulo": "Kaempfs quase cai pro VIERTRICOLOR nos parciais, Urachfc e Mandrackefc dão o troco lá embaixo e a rodada 35 chega aos dez jogos reais encerrados",
+    "titulo": "VIERTRICOLOR crava a mitada da rodada derrubando o líder, Kaempfs perde a liderança isolada pro desempate de novo e Urachfc vence mas não sai da lanterna",
     "blocos": [
       {
-        "icone": "⚡",
-        "titulo": "O líder continua sofrendo, e agora pior",
-        "texto": "Eu já tinha avisado que o Kaempfs F.C., líder isolado do returno com 34 pontos na tabela, estava sendo atropelado pelo VIERTRICOLOR, time que ocupa a 18ª posição com apenas 15. A conta só cresceu desde a última passagem e fechou em 93,24 a 59,94, mais de 33 pontos de vantagem pro time que devia estar lá embaixo tremendo. Se isso aguentar até o fechamento oficial, é zebra das grandes pra contar durante semanas."
-      },
-      {
-        "icone": "🔨",
-        "titulo": "O fundo da tabela decide se revoltar",
-        "texto": "Enquanto o líder sofre, o pessoal de baixo aproveita a brecha. O lanterna isolado Urachfc, com 11 pontos, está batendo o Império da Caipira, 7º colocado, por 76,12 a 62,94. E o penúltimo Mandrackefc, com 12, aplica 78,12 a 53,14 no Parizi 01, que ocupa a 5ª posição. Se os dois resultados aguentarem, é dia de alívio puro lá no fundo do poço."
-      },
-      {
         "icone": "🏆",
-        "titulo": "Brocador goleia, Barão vê a vantagem derreter",
-        "texto": "O maior placar da rodada até aqui é do Brocador do Bonja, que crava 86,99 contra meros 44,05 do HORST BRAUN, mais de 42 pontos de diferença. Já o Esporte Clube Barão, que vinha com folga de quase 15 pontos sobre o Kidiabense FC na minha última passagem, viu a vantagem encolher para 8,2 pontos (72,74 a 64,54). Ainda dá pro Kidiabense sonhar com uma virada."
+        "titulo": "Cartoleiro da rodada",
+        "texto": "Quem cravou a melhor pontuação da rodada 35 foi justamente o time que eu já vinha sinalizando na cobertura ao vivo: o VIERTRICOLOR, que fechou com 93,24 pontos e ainda derrubou o líder Kaempfs F.C. por 93,24 a 57,34. Não foi só a zebra que eu avisei no sábado, foi a maior pontuação de toda a rodada saindo de quem ocupava a 18ª posição da tabela antes do apito. Serve de lição: lá embaixo também tem gente escalando tropa boa."
       },
       {
-        "icone": "⚖️",
-        "titulo": "O único empate no fio do bigode",
-        "texto": "Tricolor Lvfc e Baade FC seguem na faixa do empate: 72,45 a 73,99, diferença de só 1,54 ponto, dentro da regra que reparte 1 ponto pra cada lado. Os dez jogos reais da rodada 35 já terminaram e não falta mais nenhum confronto pra começar, mas a pontuação ainda é parcial e pode virar até o último decimal. Ninguém descansa até o fechamento oficial."
+        "icone": "🤡",
+        "titulo": "Vexame da rodada",
+        "texto": "Do outro lado, quem entregou a pior tarde da rodada foi o Berwinha FC, com meros 44,94 pontos na derrota para o pietro filho (72,79 a 44,94). Sem departamento médico pra culpar e sem atleta fora de campo: foi escalação que não rendeu em nenhum momento. Fecha a lanterninha de pontuação da rodada com certa folga do penúltimo, o HORST BRAUN, que também afundou, com 45,64."
+      },
+      {
+        "icone": "🔥",
+        "titulo": "Jogo da rodada",
+        "texto": "O duelo mais equilibrado da rodada eu já tinha fechado ao vivo, ponto por ponto: Tricolor Lvfc e Baade FC seguiam na faixa do empate, 72,45 a 73,99, diferença de 1,54. Bateu exatamente igual no fechamento oficial, 73,65 a 75,19, a mesmíssima diferença de 1,54 que vira empate pela regra da liga. Raríssimo acertar um placar inteiro na mosca desse jeito, guarda o print."
+      },
+      {
+        "icone": "📻",
+        "titulo": "Recado pra quem acompanhou ao vivo",
+        "texto": "A zebra do Kaempfs F.C. não só se confirmou como cresceu: eu via o líder perdendo por 59,94 a 93,24 pro VIERTRICOLOR, e o fechamento ainda apertou mais o parafuso, 57,34 a 93,24. Acertei também a dupla que ia respirar lá embaixo: o Urachfc bateu o Império da Caipira (76,12 a 64,54, eu tinha visto 76,12 a 62,94) e o Mandrackefc confirmou a vitória sobre o Parizi 01 (78,12 a 55,39, eu tinha visto 78,12 a 53,14). O Brocador do Bonja manteve a goleada sobre o HORST BRAUN, só que ainda maior, 86,99 a 45,64, contra os 86,99 a 44,05 que eu tinha visto. E o Esporte Clube Barão, que eu avisei estar vendo a vantagem sobre o Kidiabense FC encolher para 8,2 pontos, fechou exatamente nessa margem, 73,94 a 65,74."
+      },
+      {
+        "icone": "📊",
+        "titulo": "Sobe e desce da tabela",
+        "texto": "A zebra lá na ponta rendeu virada de cenário: o Kaempfs F.C. perdeu e ficou parado em 34 pontos corridos, e o Madalena Club, que bateu o SampaMissiones FC fora de casa, alcançou a mesma marca. Depois de uma rodada inteira sem precisar de desempate, a liderança volta a ser decidida pelo PG turno, com o Kaempfs na frente por 1544,06 a 1531,46 do Madalena, uma história parecida com aquele 1,9 ponto que decidiu o título do primeiro turno contra o Brocador do Bonja, só que agora numa margem mais tranquila. O Baade FC empatou e chegou a 30, mantendo o terceiro lugar a 4 pontos do topo. Lá embaixo, Urachfc e Mandrackefc venceram e ainda assim seguem nas duas últimas posições, prova de que vencer ajuda, mas não tira ninguém do fundo do poço de uma vez."
+      },
+      {
+        "icone": "🔮",
+        "titulo": "Espiada na próxima rodada",
+        "texto": "A rodada 36 já separa duelo daqueles: o líder Kaempfs F.C. visita o Gaudérios FC de olho em reagir à zebra. O novo colega de liderança Madalena Club recebe o Brocador do Bonja, que vem de goleada. E o Baade FC, terceiro colocado, recebe o Kidiabense FC em casa, duelo direto da parte de cima da tabela."
       }
     ],
-    "geradaEm": "2026-11-20T04:25:58Z",
-    "estado": {
-      "mercado": 2,
-      "jogosIniciados": 10,
-      "assinaturaParciais": "1067774:93.2|13912942:64.5|15282074:44.0|17382079:72.8|25278938:53.1|26079439:91.6|27772103:78.1|2963331:58.4|309735:76.1|3250219:87.0|3419812:70.0|423154:47.5|47572160:69.2|47653263:72.7|487118:59.9|49288650:67.7|4997197:69.9|6742039:72.5|753775:62.9|90277:59.9"
-    }
+    "geradaEm": "2026-11-20T08:26:26Z"
   }
 ]
