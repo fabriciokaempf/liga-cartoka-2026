@@ -728,34 +728,34 @@
     "rodada": 35,
     "aoVivo": true,
     "rotulo": "Rodada 35 · andamento",
-    "titulo": "Brocador entra em campo nos parciais e já goleia o HORST BRAUN, enquanto o resto da reta final da rodada 35 segue travado",
+    "titulo": "Kaempfs quase cai pro VIERTRICOLOR nos parciais, Urachfc e Mandrackefc dão o troco lá embaixo e a rodada 35 chega aos dez jogos reais encerrados",
     "blocos": [
       {
         "icone": "⚡",
-        "titulo": "Brocador pisa no acelerador antes do apito real",
-        "texto": "O jogo de verdade entre Brocador do Bonja e HORST BRAUN só começa à noite, mas no Cartola o Brocador já apareceu nos parciais com 80,69 pontos, contra meros 39,3 do HORST BRAUN. Mais de 41 pontos de vantagem antes mesmo da bola rolar na partida real dos dois. A contagem de jogos iniciados continua em sete, com três ainda por vir."
-      },
-      {
-        "icone": "😱",
-        "titulo": "O líder segue sofrendo do mesmo jeito",
-        "texto": "No restante do tabuleiro nada mudou desde a última passagem: o Kaempfs F.C. continua com 52,34 pontos e o VIERTRICOLOR mantém os 80,14, uma vantagem de quase 28 pontos do time da 18ª posição por cima do líder isolado do returno. Se isso não se mover até o fim, hoje tem zebra homérica guardada."
+        "titulo": "O líder continua sofrendo, e agora pior",
+        "texto": "Eu já tinha avisado que o Kaempfs F.C., líder isolado do returno com 34 pontos na tabela, estava sendo atropelado pelo VIERTRICOLOR, time que ocupa a 18ª posição com apenas 15. A conta só cresceu desde a última passagem e fechou em 93,24 a 59,94, mais de 33 pontos de vantagem pro time que devia estar lá embaixo tremendo. Se isso aguentar até o fechamento oficial, é zebra das grandes pra contar durante semanas."
       },
       {
         "icone": "🔨",
-        "titulo": "O resto da rodada em banho-maria",
-        "texto": "Urachfc ainda passa o Império da Caipira por 10,88, Mandrackefc segue na frente do Parizi 01 por quase 25, o Esporte Clube Barão mantém 14,5 de vantagem sobre o Kidiabense FC e o Berwinha FC continua sendo atropelado pelo pietro filho, já com mais de 39 pontos de diferença. Corticeira's Farm FC e Gaudérios FC seguem separados por apenas 1,8 ponto, dentro da margem que a liga carimba como empate."
+        "titulo": "O fundo da tabela decide se revoltar",
+        "texto": "Enquanto o líder sofre, o pessoal de baixo aproveita a brecha. O lanterna isolado Urachfc, com 11 pontos, está batendo o Império da Caipira, 7º colocado, por 76,12 a 62,94. E o penúltimo Mandrackefc, com 12, aplica 78,12 a 53,14 no Parizi 01, que ocupa a 5ª posição. Se os dois resultados aguentarem, é dia de alívio puro lá no fundo do poço."
       },
       {
-        "icone": "⏰",
-        "titulo": "O que ainda falta",
-        "texto": "Faltam três jogos reais para a noite deste dia 19: Brocador do Bonja contra HORST BRAUN, SampaMissiones FC contra Madalena Club e Corticeira's Farm FC contra Gaudérios FC. Com sete confrontos em campo e mais três chegando, a rodada 35 ainda tem bastante história para contar antes do apito final."
+        "icone": "🏆",
+        "titulo": "Brocador goleia, Barão vê a vantagem derreter",
+        "texto": "O maior placar da rodada até aqui é do Brocador do Bonja, que crava 86,99 contra meros 44,05 do HORST BRAUN, mais de 42 pontos de diferença. Já o Esporte Clube Barão, que vinha com folga de quase 15 pontos sobre o Kidiabense FC na minha última passagem, viu a vantagem encolher para 8,2 pontos (72,74 a 64,54). Ainda dá pro Kidiabense sonhar com uma virada."
+      },
+      {
+        "icone": "⚖️",
+        "titulo": "O único empate no fio do bigode",
+        "texto": "Tricolor Lvfc e Baade FC seguem na faixa do empate: 72,45 a 73,99, diferença de só 1,54 ponto, dentro da regra que reparte 1 ponto pra cada lado. Os dez jogos reais da rodada 35 já terminaram e não falta mais nenhum confronto pra começar, mas a pontuação ainda é parcial e pode virar até o último decimal. Ninguém descansa até o fechamento oficial."
       }
     ],
-    "geradaEm": "2026-11-19T16:26:01Z",
+    "geradaEm": "2026-11-20T04:25:58Z",
     "estado": {
       "mercado": 2,
-      "jogosIniciados": 7,
-      "assinaturaParciais": "1067774:80.1|13912942:55.6|15282074:39.3|17382079:72.8|25278938:46.7|26079439:78.3|27772103:71.7|2963331:54.5|309735:69.7|3250219:80.7|3419812:52.7|423154:33.5|47572160:69.2|47653263:70.1|487118:52.3|49288650:63.6|4997197:69.9|6742039:62.0|753775:58.8|90277:50.9"
+      "jogosIniciados": 10,
+      "assinaturaParciais": "1067774:93.2|13912942:64.5|15282074:44.0|17382079:72.8|25278938:53.1|26079439:91.6|27772103:78.1|2963331:58.4|309735:76.1|3250219:87.0|3419812:70.0|423154:47.5|47572160:69.2|47653263:72.7|487118:59.9|49288650:67.7|4997197:69.9|6742039:72.5|753775:62.9|90277:59.9"
     }
   }
 ]
