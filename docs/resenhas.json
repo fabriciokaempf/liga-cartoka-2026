@@ -760,5 +760,36 @@
    }
   ],
   "geradaEm": "2026-11-20T08:26:26Z"
+ },
+ {
+  "id": "andamento-rodada-36",
+  "rodada": 36,
+  "aoVivo": true,
+  "rotulo": "Rodada 36 · andamento",
+  "titulo": "Rodada 36 esquenta: líder Kaempfs visita o Gaudérios e o Zé já desconfia da zebra de novo",
+  "blocos": [
+   {
+    "icone": "🎙️",
+    "titulo": "Mercado fechado, bola mal começou",
+    "texto": "A rodada 36 está só no esquenta: de dez confrontos, apenas um tem jogo real rolando, Urachfc recebendo o Berwinha FC com o Palmeiras batendo o Flamengo por 1 a 0 em campo. Mesmo assim, no Cartola, os dois times estão zerados, porque os atletas escalados por eles ainda não entraram em campo. Faltam nove confrontos pra começar e quase ninguém pontuou, então ninguém aí embaixo pode chorar vexame ainda."
+   },
+   {
+    "icone": "👑",
+    "titulo": "Os chamarizes da rodada",
+    "texto": "O prato principal é o líder Kaempfs F.C. visitando o Gaudérios FC, que está só na 14ª posição, de olho em se recuperar da zebra que o VIERTRICOLOR aplicou na rodada passada. No encalço, o vice Madalena Club, colado no Kaempfs e só atrás no desempate de PG turno, recebe o Brocador do Bonja em casa. E o Baade FC, firme no terceiro lugar, recebe o Kidiabense FC de olho em não deixar a zona de premiação escapar."
+   },
+   {
+    "icone": "📊",
+    "titulo": "Quem chega bem e quem chega torto",
+    "texto": "O Kaempfs F.C. segue na ponta com 34 pontos corridos, na frente do Madalena Club só pelo desempate de PG turno, 1544,06 a 1531,46. Na outra ponta da tabela, o Urachfc é lanterna isolado com 14 pontos e já está em campo contra o Berwinha FC, décimo colocado, tentando sair do fundo do poço logo nessa rodada. De quebra, o duelo entre VIERTRICOLOR e Mandrackefc, 17º contra 19º, foi marcado pra depois e só entra em campo no fim de semana."
+   },
+   {
+    "icone": "🔮",
+    "titulo": "Palpite do Zé",
+    "texto": "Com o mercado recém fechado, o Zé aposta que o Kaempfs F.C. segura a liderança isolada batendo o Gaudérios, mas de olho no Madalena Club, que não folga e pode encostar de novo se vencer o Brocador do Bonja. Fica o aviso: é só o começo, pontuação parcial ainda não vale nada, e quem quiser se empolgar com zero a zero melhor esperar o jogo rolar primeiro."
+   }
+  ],
+  "estado": { "mercado": 2, "jogosIniciados": 1, "assinaturaParciais": "1067774:0.0|13912942:0.0|15282074:0.0|17382079:7.1|25278938:3.6|26079439:16.8|27772103:3.6|2963331:0.0|309735:0.0|3250219:0.0|3419812:0.0|423154:0.0|47572160:3.6|47653263:1.3|487118:3.6|49288650:4.8|4997197:9.4|6742039:0.0|753775:2.3|90277:7.1" },
+  "geradaEm": "2026-11-21T20:00:00Z"
  }
 ]
