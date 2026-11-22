@@ -766,34 +766,34 @@
   "rodada": 36,
   "aoVivo": true,
   "rotulo": "Rodada 36 · andamento",
-  "titulo": "Rodada 36 engata o andamento: Alemonstro e Império brigam ponto a ponto e Baade já dispara nos parciais",
+  "titulo": "Baade e Madalena disparam nos parciais da rodada 36, enquanto Império segura a vantagem mínima sobre o Alemonstro",
   "blocos": [
    {
-    "icone": "🎙️",
-    "titulo": "Esquenta vira andamento",
-    "texto": "A rodada 36 saiu do banco: agora são três confrontos com bola rolando de verdade, Urachfc contra Berwinha FC, Esporte Clube Barão contra Tricolor Lvfc e Alemonstro FBPA contra Império da Caipira. Ainda faltam sete jogos pra entrar em campo, então relaxa que é cedo pra cravar qualquer coisa. O Cartola, como sempre, já está pontuando esses times mesmo com o placar real ainda andando devagar."
+    "icone": "🚀",
+    "titulo": "Quem está mitando (sem nem ter jogado o próprio confronto)",
+    "texto": "O Baade FC segue na artilharia dos parciais da rodada 36, agora com 61,02 pontos, mesmo com o duelo contra o Kidiabense FC marcado só para domingo à noite. O Madalena Club vem logo atrás, com 59,52, também sem o confronto contra o Brocador do Bonja ter começado. É atleta de clube avulso rendendo bonito enquanto o time titular do dono ainda nem entrou em campo."
+   },
+   {
+    "icone": "😴",
+    "titulo": "Quem está apagado",
+    "texto": "Na outra ponta, Tricolor Lvfc e Kidiabense FC seguem travados em 11,6 pontos cada, os mais discretos da rodada até aqui. O Tricolor já está em campo de verdade, perdendo nos parciais por 26,87 a 11,6 pro Esporte Clube Barão (0 a 1 no jogo real), então tem motivo de sobra pra crescer se a escalação acordar."
    },
    {
     "icone": "🔥",
     "titulo": "Duelo mais quente do momento",
-    "texto": "Quem está roubando a cena agora é o confronto entre Alemonstro FBPA e Império da Caipira: 0 a 0 no jogo real, mas separados por míseros 0,79 ponto no Cartola, 31,30 a 32,09 pro Império. É o tipo de marcador que pode virar de um lance pra outro, então ninguém troca de canal."
-   },
-   {
-    "icone": "🚀",
-    "titulo": "Quem já está mitando (e quem está apagado)",
-    "texto": "O Baade FC aparece com a maior pontuação parcial da rodada até aqui, 44,59, mesmo sem o próprio jogo contra o Kidiabense FC ter começado: são atletas de outros clubes que já entraram em campo rendendo. Do outro lado, Tricolor Lvfc e Kidiabense FC seguem empatados na lanterna dos parciais, com 2,5 pontos cada, mas é cedo pra chamar isso de vexame, o grosso da escalação ainda nem jogou."
+    "texto": "Alemonstro FBPA contra Império da Caipira continua sendo o confronto mais eletrizante: a vantagem do Império, que era de só 0,79 ponto na última cobertura, cresceu para 3,57 (43,97 a 40,40), mas ainda está longe de estar decidida. No jogo real o Império já venceu por 2 a 1, só que aqui quem decide é o Cartola, e a conta ainda está aberta."
    },
    {
     "icone": "👑",
     "titulo": "O prato principal ainda está no forno",
-    "texto": "O confronto que todo mundo quer ver só começa à noite: o líder Kaempfs F.C. visita o Gaudérios FC às 18h30, de olho em esquecer a zebra da rodada passada, e o vice Madalena Club recebe o Brocador do Bonja às 19h30 tentando encostar de vez na ponta. Por enquanto, Kaempfs aparece com 34,79 contra 31,69 do Gaudérios, e Madalena já surge na frente do Brocador por 41,09 a 17,39, mas isso tudo é parcial e pode desmoronar assim que a bola rolar pros dois lados."
+    "texto": "Dos dez confrontos da rodada, só três tiveram o jogo real rolado até agora, ainda faltam sete. O duelo mais esperado, Kaempfs F.C. contra Gaudérios FC, só começa às 18h30 de hoje, e o mandante já aparece na frente nos parciais por 48,12 a 46,67, uma vantagem mínima que pode sumir no primeiro minuto de bola rolando. O Madalena Club mede forças com o Brocador do Bonja às 19h30, hoje com 59,52 a 33,82 nos parciais, mas isso ainda é só esboço."
    }
   ],
   "estado": {
    "mercado": 2,
    "jogosIniciados": 3,
-   "assinaturaParciais": "1067774:5.0|13912942:2.5|15282074:32.1|17382079:20.3|25278938:32.3|26079439:31.3|27772103:30.7|2963331:4.6|309735:11.7|3250219:17.4|3419812:21.6|423154:6.4|47572160:41.1|47653263:15.0|487118:34.8|49288650:35.8|4997197:44.6|6742039:2.5|753775:32.1|90277:31.7"
+   "assinaturaParciais": "1067774:17.7|13912942:11.6|15282074:51.3|17382079:32.7|25278938:40.6|26079439:40.4|27772103:39.8|2963331:13.7|309735:18.7|3250219:33.8|3419812:29.9|423154:15.5|47572160:59.5|47653263:26.9|487118:46.7|49288650:47.7|4997197:61.0|6742039:11.6|753775:44.0|90277:48.1"
   },
-  "geradaEm": "2026-11-22T00:24:37.000Z"
+  "geradaEm": "2026-11-22T07:22:00.000Z"
  }
 ]
