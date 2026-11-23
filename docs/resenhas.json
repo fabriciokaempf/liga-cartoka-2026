@@ -766,34 +766,34 @@
   "rodada": 36,
   "aoVivo": true,
   "rotulo": "Rodada 36 · andamento",
-  "titulo": "Baade e Madalena disparam nos parciais da rodada 36, enquanto Império segura a vantagem mínima sobre o Alemonstro",
+  "titulo": "Gaudérios derruba o líder Kaempfs e vira o mito da rodada 36, enquanto o Madalena faz o dever de casa contra o Brocador",
   "blocos": [
    {
     "icone": "🚀",
-    "titulo": "Quem está mitando (sem nem ter jogado o próprio confronto)",
-    "texto": "O Baade FC segue na artilharia dos parciais da rodada 36, agora com 61,02 pontos, mesmo com o duelo contra o Kidiabense FC marcado só para domingo à noite. O Madalena Club vem logo atrás, com 59,52, também sem o confronto contra o Brocador do Bonja ter começado. É atleta de clube avulso rendendo bonito enquanto o time titular do dono ainda nem entrou em campo."
+    "titulo": "Quem está mitando",
+    "texto": "O Gaudérios FC assumiu a artilharia dos parciais da rodada 36 com 81,66 pontos, e não é só isso: o time também derrubou o líder Kaempfs F.C. no jogo real, 1 a 0, e segue na frente no Cartola por quase sete pontos (81,66 a 75,41). O Baade FC aparece logo depois, com 75,46, mesmo com o próprio confronto contra o Kidiabense FC ainda nem tendo começado, previsto só para hoje às 21h."
    },
    {
     "icone": "😴",
     "titulo": "Quem está apagado",
-    "texto": "Na outra ponta, Tricolor Lvfc e Kidiabense FC seguem travados em 11,6 pontos cada, os mais discretos da rodada até aqui. O Tricolor já está em campo de verdade, perdendo nos parciais por 26,87 a 11,6 pro Esporte Clube Barão (0 a 1 no jogo real), então tem motivo de sobra pra crescer se a escalação acordar."
+    "texto": "Na outra ponta, quem mais apanha no placar do Cartola é o Urachfc, com meros 28,5 pontos, mesmo tendo empatado o jogo real por 1 a 1 com o Berwinha FC, que já dispara lá na frente com 50,57. Empatar em campo ajuda na súmula do Brasileirão, mas aqui quem decide é a escalação, e a do Urachfc ainda não apareceu."
    },
    {
     "icone": "🔥",
-    "titulo": "Duelo mais quente do momento",
-    "texto": "Alemonstro FBPA contra Império da Caipira continua sendo o confronto mais eletrizante: a vantagem do Império, que era de só 0,79 ponto na última cobertura, cresceu para 3,57 (43,97 a 40,40), mas ainda está longe de estar decidida. No jogo real o Império já venceu por 2 a 1, só que aqui quem decide é o Cartola, e a conta ainda está aberta."
+    "titulo": "O duelo que pode virar a liderança de cabeça pra baixo",
+    "texto": "O prato principal que eu avisei ontem de manhã já saiu do forno, e saiu fumegando: o líder Kaempfs F.C. perdeu pro Gaudérios FC não só no jogo real (0 a 1) como também no Cartola (75,41 a 81,66). Enquanto isso o colega de liderança, Madalena Club, fez o dever de casa certinho contra o Brocador do Bonja: venceu o jogo real por 1 a 0 e segue na frente no Cartola por quase 9 pontos (66,56 a 57,66). Se a rodada fechar assim, o Madalena tem tudo pra sair na ponta isolada, e o Kaempfs relembra o gosto amargo da zebra que levou do VIERTRICOLOR na rodada passada."
    },
    {
-    "icone": "👑",
-    "titulo": "O prato principal ainda está no forno",
-    "texto": "Dos dez confrontos da rodada, só três tiveram o jogo real rolado até agora, ainda faltam sete. O duelo mais esperado, Kaempfs F.C. contra Gaudérios FC, só começa às 18h30 de hoje, e o mandante já aparece na frente nos parciais por 48,12 a 46,67, uma vantagem mínima que pode sumir no primeiro minuto de bola rolando. O Madalena Club mede forças com o Brocador do Bonja às 19h30, hoje com 59,52 a 33,82 nos parciais, mas isso ainda é só esboço."
+    "icone": "⏳",
+    "titulo": "O que ainda falta",
+    "texto": "Dos dez confrontos da rodada 36, seis já tiveram o jogo real encerrado. Faltam quatro: HORST BRAUN x SampaMissiones FC (19h30) e Parizi 01 x Corticeira's Farm FC (20h) ainda hoje, Baade FC x Kidiabense FC também hoje (21h), e VIERTRICOLOR x Mandrackefc só na quarta, dia 25/11. Com tanto jogo pela frente e atleta de clube avulso espalhado em quase todo time, esse placar parcial ainda pode virar da água pro vinho até o fechamento oficial."
    }
   ],
   "estado": {
    "mercado": 2,
-   "jogosIniciados": 3,
-   "assinaturaParciais": "1067774:17.7|13912942:11.6|15282074:51.3|17382079:32.7|25278938:40.6|26079439:40.4|27772103:39.8|2963331:13.7|309735:18.7|3250219:33.8|3419812:29.9|423154:15.5|47572160:59.5|47653263:26.9|487118:46.7|49288650:47.7|4997197:61.0|6742039:11.6|753775:44.0|90277:48.1"
+   "jogosIniciados": 6,
+   "assinaturaParciais": "1067774:18.0|13912942:61.3|15282074:53.0|17382079:71.3|25278938:65.1|26079439:65.5|27772103:48.6|2963331:30.5|309735:28.5|3250219:57.7|3419812:47.6|423154:50.6|47572160:66.6|47653263:46.2|487118:75.4|49288650:63.7|4997197:75.5|6742039:73.1|753775:68.0|90277:81.7"
   },
-  "geradaEm": "2026-11-22T07:22:00.000Z"
+  "geradaEm": "2026-11-23T00:25:55.000Z"
  }
 ]
