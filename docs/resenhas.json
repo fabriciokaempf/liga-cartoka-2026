@@ -766,34 +766,34 @@
   "rodada": 36,
   "aoVivo": true,
   "rotulo": "Rodada 36 · andamento",
-  "titulo": "Gaudérios derruba o líder Kaempfs e vira o mito da rodada 36, enquanto o Madalena faz o dever de casa contra o Brocador",
+  "titulo": "Madalena assumiria a ponta sozinho se a rodada parasse agora, enquanto HORST BRAUN ri do próprio resultado real contra o Sampa",
   "blocos": [
    {
+    "icone": "👑",
+    "titulo": "Se parasse agora, troca de líder",
+    "texto": "Mais um jogo real começou e a foto da ponta não mudou, só ficou mais clara: o Madalena Club continua batendo o Brocador do Bonja no Cartola, 65,06 a 56,16, o que levaria o time a 37 pontos corridos. Do outro lado, o Kaempfs F.C. segue perdendo pro Gaudérios FC, 73,91 a 80,66, e travaria nos mesmos 34. Fechando assim, a liderança deixa de depender de PG turno e vira do Madalena, sozinho na ponta."
+   },
+   {
     "icone": "🚀",
-    "titulo": "Quem está mitando",
-    "texto": "O Gaudérios FC assumiu a artilharia dos parciais da rodada 36 com 81,66 pontos, e não é só isso: o time também derrubou o líder Kaempfs F.C. no jogo real, 1 a 0, e segue na frente no Cartola por quase sete pontos (81,66 a 75,41). O Baade FC aparece logo depois, com 75,46, mesmo com o próprio confronto contra o Kidiabense FC ainda nem tendo começado, previsto só para hoje às 21h."
+    "titulo": "Baade e pietro filho correndo por fora",
+    "texto": "Enquanto a treta da ponta rola, o Baade FC crava 75,46 contra os 61,18 do Kidiabense FC e, se confirmar, sobe para 33 pontos, o mais perto que já chegou do topo. O pietro filho também não dorme: vence o Resina Club no Cartola por 71,74 a 62,21 e iria a 32, dentro do pelotão que corre atrás da ponta do returno."
    },
    {
-    "icone": "😴",
-    "titulo": "Quem está apagado",
-    "texto": "Na outra ponta, quem mais apanha no placar do Cartola é o Urachfc, com meros 28,5 pontos, mesmo tendo empatado o jogo real por 1 a 1 com o Berwinha FC, que já dispara lá na frente com 50,57. Empatar em campo ajuda na súmula do Brasileirão, mas aqui quem decide é a escalação, e a do Urachfc ainda não apareceu."
-   },
-   {
-    "icone": "🔥",
-    "titulo": "O duelo que pode virar a liderança de cabeça pra baixo",
-    "texto": "O prato principal que eu avisei ontem de manhã já saiu do forno, e saiu fumegando: o líder Kaempfs F.C. perdeu pro Gaudérios FC não só no jogo real (0 a 1) como também no Cartola (75,41 a 81,66). Enquanto isso o colega de liderança, Madalena Club, fez o dever de casa certinho contra o Brocador do Bonja: venceu o jogo real por 1 a 0 e segue na frente no Cartola por quase 9 pontos (66,56 a 57,66). Se a rodada fechar assim, o Madalena tem tudo pra sair na ponta isolada, e o Kaempfs relembra o gosto amargo da zebra que levou do VIERTRICOLOR na rodada passada."
+    "icone": "🤷",
+    "titulo": "O jogo que ri do próprio placar real",
+    "texto": "O duelo entre HORST BRAUN e SampaMissiones FC é um daqueles que mostram como o Cartola não liga pro resultado do jogo de verdade: o Sampa venceu em campo por 1 a 0, mas no Cartola é o HORST BRAUN quem está na frente, 52,96 a 30,94. Se continuar assim, o 18º colocado despacha o 5º colocado e ainda sobe pra 19 pontos. Escalação é escalação, placar do jogo real é só pano de fundo."
    },
    {
     "icone": "⏳",
     "titulo": "O que ainda falta",
-    "texto": "Dos dez confrontos da rodada 36, seis já tiveram o jogo real encerrado. Faltam quatro: HORST BRAUN x SampaMissiones FC (19h30) e Parizi 01 x Corticeira's Farm FC (20h) ainda hoje, Baade FC x Kidiabense FC também hoje (21h), e VIERTRICOLOR x Mandrackefc só na quarta, dia 25/11. Com tanto jogo pela frente e atleta de clube avulso espalhado em quase todo time, esse placar parcial ainda pode virar da água pro vinho até o fechamento oficial."
+    "texto": "Dos dez confrontos da rodada 36, sete já tiveram o jogo real começado. Faltam três: Parizi 01 x Corticeira's Farm FC e Baade FC x Kidiabense FC, com a escalação de ambos os lados já pontuando mesmo antes do próprio confronto entrar em campo, e VIERTRICOLOR x Mandrackefc, que só joga na quarta, dia 25/11. Com tanta coisa em aberto, essa foto ainda pode mudar de novo até o fechamento oficial."
    }
   ],
   "estado": {
    "mercado": 2,
-   "jogosIniciados": 6,
-   "assinaturaParciais": "1067774:18.0|13912942:61.3|15282074:53.0|17382079:71.3|25278938:65.1|26079439:65.5|27772103:48.6|2963331:30.5|309735:28.5|3250219:57.7|3419812:47.6|423154:50.6|47572160:66.6|47653263:46.2|487118:75.4|49288650:63.7|4997197:75.5|6742039:73.1|753775:68.0|90277:81.7"
+   "jogosIniciados": 7,
+   "assinaturaParciais": "1067774:18.0|13912942:61.2|15282074:53.0|17382079:71.7|25278938:63.8|26079439:64.4|27772103:48.4|2963331:30.9|309735:27.0|3250219:56.2|3419812:46.1|423154:49.0|47572160:65.1|47653263:45.0|487118:73.9|49288650:62.2|4997197:75.5|6742039:72.3|753775:66.5|90277:80.7"
   },
-  "geradaEm": "2026-11-23T00:25:55.000Z"
+  "geradaEm": "2026-11-24T00:25:41.000Z"
  }
 ]
