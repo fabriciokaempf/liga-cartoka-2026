@@ -762,38 +762,41 @@
   "geradaEm": "2026-11-20T08:26:26Z"
  },
  {
-  "id": "andamento-rodada-36",
+  "id": "rodada-36",
   "rodada": 36,
-  "aoVivo": true,
-  "rotulo": "Rodada 36 · andamento",
-  "titulo": "Madalena dispara na frente se a rodada parar agora, Kaempfs escapa num empate no fio e só falta um jogo pra fechar a 36",
+  "titulo": "Madalena vira líder isolado como eu avisei, Baade dispara pro terceiro e Urachfc não sai do fundo na rodada 36",
   "blocos": [
    {
+    "icone": "🏆",
+    "titulo": "Cartoleiro da rodada",
+    "texto": "Quem fechou a rodada 36 com a melhor pontuação da liga foi o Baade FC, que atropelou o Kidiabense FC por 95,76 a 69,28. Eu avisei ainda na cobertura ao vivo que o time tinha dado um salto e tanto, saindo de 75,46 para quase 96 pontos, e o fechamento só confirmou a mitada. Com a vitória, o Baade chega aos 33 pontos corridos e sobe para o terceiro lugar, exatamente os quatro pontos atrás do topo que eu já desenhava no sábado."
+   },
+   {
+    "icone": "🤡",
+    "titulo": "Vexame da rodada",
+    "texto": "Quem levou a pior na rodada 36 foi o Urachfc, derrotado pelo Berwinha FC por 57,08 a 54,67. É mais um tropeço numa temporada de poucas alegrias, e o time segue isolado na lanterna da tabela, agora com 14 pontos corridos. A distância pro resto do pelotão só aumenta."
+   },
+   {
+    "icone": "🔥",
+    "titulo": "Jogo da rodada",
+    "texto": "O confronto mais apertado da rodada 36 era também um dos mais importantes: Gaudérios FC e Kaempfs F.C. brigaram ponto a ponto até fechar em 80,66 a 81,01, diferença de meros 0,35, dentro da regra que transforma o resultado em empate. Eu avisei na cobertura ao vivo que a vantagem do Gaudérios tinha caído para esse fio de navalha, e foi exatamente esse o desfecho: o Kaempfs escapou da derrota no susto."
+   },
+   {
     "icone": "👑",
-    "titulo": "Se parasse agora, é Madalena sozinho na ponta",
-    "texto": "Desde a última atualização a treta da liderança andou pro lado do Madalena Club: o time segue batendo o Brocador do Bonja no Cartola, agora por 73,56 a 64,86, o que levaria o Madalena a 37 pontos corridos. Já o Kaempfs F.C. deixou de perder pro Gaudérios FC: a diferença caiu para 0,35 ponto (81,01 a 80,66), dentro da regra do empate. Se a rodada parasse exatamente assim, o Madalena vira líder isolado com 37, dois pontos na frente do Kaempfs, que travaria em 35."
-   },
-   {
-    "icone": "🚀",
-    "titulo": "Os dois jogos que faltavam entraram em campo",
-    "texto": "Os dois confrontos que ainda não tinham bola rolando no jogo real agora têm: o Parizi 01 abriu vantagem sobre o Corticeira's Farm FC nos parciais, 72,88 a 55,63, e o Baade FC deu um salto e tanto, de 75,46 para 95,76 contra o Kidiabense FC, que segue nos 69,28. Se fechar assim, o Baade chega a 33 pontos e cola ainda mais perto do G4, enquanto o Kidiabense perde essa."
-   },
-   {
-    "icone": "⏳",
-    "titulo": "Falta só um jogo pra rodada fechar",
-    "texto": "Dos dez confrontos da rodada 36, nove já tiveram bola rolando no jogo real. Só falta VIERTRICOLOR x Mandrackefc, que entra em campo na quarta-feira, dia 25/11, mas atenção: os dois já pontuam nos parciais mesmo sem o jogo real ter começado, e por ora o Mandrackefc vence por 78,67 a 65,86, o que tiraria o time da zona de baixo. Até esse confronto rolar, a rodada 36 não fecha de verdade."
+    "titulo": "Sobe e desce da tabela",
+    "texto": "Bateu certinho o que eu desenhei na cobertura ao vivo de sábado: se a rodada parasse ali, o Madalena Club virava líder isolado com 37 pontos, dois na frente do Kaempfs, que travaria nos 35. Foi isso mesmo que aconteceu depois que o Madalena confirmou a vitória sobre o Brocador do Bonja por 73,56 a 64,86, enquanto o Kaempfs seguiu com o empate contra o Gaudérios. O Brocador, aliás, segue sem conseguir se aproximar do topo e cai para a nona posição, com 26 pontos."
    },
    {
     "icone": "🤷",
-    "titulo": "HORST BRAUN ainda ri do próprio placar real, Barão e Tricolor no fio do empate",
-    "texto": "O duelo entre HORST BRAUN e SampaMissiones FC continua de cabeça para baixo: no jogo de verdade o Sampa venceu por 1 a 0, mas no Cartola é o HORST BRAUN quem está na frente, agora por 52,96 a 44,94, com a vantagem bem mais curta do que antes. Já Esporte Clube Barão e Tricolor Lvfc seguem roçando o empate, 71,61 a 72,24, diferença de 0,63 ponto, dentro da margem que a liga carimba como divisão de pontos."
+    "titulo": "Recado pra quem acompanhou ao vivo",
+    "texto": "Também bateu a zoeira que eu soltei ao vivo sobre o HORST BRAUN: no jogo real da rodada, o time colorado saiu derrotado, mas no Cartola a história foi outra, 52,96 a 44,94, garantindo os 3 pontos da rodada mesmo com a derrota em campo. Resultado de Cartola é resultado de Cartola, o resto é só curiosidade de torcedor."
+   },
+   {
+    "icone": "🔮",
+    "titulo": "Espiada na próxima rodada",
+    "texto": "A rodada 37 já separa confrontos de peso: o líder isolado Madalena Club visita o HORST BRAUN, que vem dessa vitória estranha no Cartola. O vice Kaempfs F.C. recebe o pietro filho, quarto colocado, num duelo direto do pelotão de cima. De quebra, o Mandrackefc mede forças com o Kidiabense FC, que amargou o vexame desta rodada, e o VIERTRICOLOR encara o Brocador do Bonja de olho em sair do fundo da tabela."
    }
   ],
-  "estado": {
-   "mercado": 2,
-   "jogosIniciados": 9,
-   "assinaturaParciais": "1067774:65.9|13912942:69.3|15282074:53.0|17382079:78.8|25278938:72.9|26079439:73.9|27772103:78.7|2963331:44.9|309735:54.7|3250219:64.9|3419812:55.6|423154:57.1|47572160:73.6|47653263:71.6|487118:81.0|49288650:70.9|4997197:95.8|6742039:72.2|753775:80.3|90277:80.7"
-  },
-  "geradaEm": "2026-11-24T08:24:56.000Z"
+  "geradaEm": "2026-11-24T19:05:00Z"
  }
 ]
