@@ -798,5 +798,36 @@
    }
   ],
   "geradaEm": "2026-11-24T19:05:00Z"
+ },
+ {
+  "id": "andamento-rodada-37",
+  "rodada": 37,
+  "aoVivo": true,
+  "rotulo": "Rodada 37 · andamento",
+  "titulo": "Esquenta da rodada 37: Madalena visita a casa estranha do HORST BRAUN e Kaempfs mede forças com pietro filho",
+  "blocos": [
+   {
+    "icone": "🎙️",
+    "titulo": "Esquenta da rodada 37",
+    "texto": "A rodada 37 está só começando: o único confronto com jogo real rolando até agora é Alemonstro FBPA contra Urachfc, que terminou 2 a 0 no mundo real, mas o Cartola ainda não soltou pontuação nenhuma pra ninguém. Os outros nove confrontos nem começaram, com bola rolando de verdade só a partir de quinta, então relaxa que ainda não é hora de chorar nem de abrir champanhe."
+   },
+   {
+    "icone": "👑",
+    "titulo": "Duelo direto do pelotão de cima",
+    "texto": "O vice Kaempfs F.C., com 35 pontos, recebe o pietro filho, quarto colocado com 32, num confronto que pode encostar o pietro no G-2 ou devolver o Kaempfs pra cola do líder. No mesmo pacote, o Baade FC, terceiro colocado com 33, visita o SampaMissiones FC, que soma 28 pontos e briga pra não cair pro meio da tabela."
+   },
+   {
+    "icone": "🤝",
+    "titulo": "O líder visita a toca do HORST BRAUN, e a parte de baixo também tem jogo",
+    "texto": "O líder isolado Madalena Club, com 37 pontos, visita o HORST BRAUN, o mesmo time que na rodada passada venceu no Cartola mesmo perdendo o jogo real, aquela zoeira ninguém esquece tão rápido. Enquanto isso, o VIERTRICOLOR, na 19ª posição com 18 pontos, tenta escapar da parte de baixo da tabela contra o Brocador do Bonja, nono colocado, que ainda sonha com o G-5."
+   },
+   {
+    "icone": "🔮",
+    "titulo": "Palpite do Zé",
+    "texto": "O Zé aposta que o Madalena não vai tropeçar duas vezes na mesma pegadinha do HORST BRAUN e segue isolado na ponta depois do fim de semana. Mas é só palpite de bar: com o mercado recém fechado e quase nenhum atleta em campo, qualquer pontuação que aparecer por aqui ainda é fotografia borrada, pode virar de ponta a cabeça até o fechamento oficial."
+   }
+  ],
+  "geradaEm": "2026-11-25T00:24:44Z",
+  "estado": { "mercado": 1, "jogosIniciados": 1, "assinaturaParciais": "sem-parciais" }
  }
 ]
