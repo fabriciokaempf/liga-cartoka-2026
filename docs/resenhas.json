@@ -804,30 +804,30 @@
   "rodada": 37,
   "aoVivo": true,
   "rotulo": "Rodada 37 · andamento",
-  "titulo": "Esquenta da rodada 37: Madalena visita a casa estranha do HORST BRAUN e Kaempfs mede forças com pietro filho",
+  "titulo": "Chapecoense e São Paulo já jogaram, mas o Cartola da rodada 37 ainda não soltou ponto",
   "blocos": [
    {
-    "icone": "🎙️",
-    "titulo": "Esquenta da rodada 37",
-    "texto": "A rodada 37 está só começando: o único confronto com jogo real rolando até agora é Alemonstro FBPA contra Urachfc, que terminou 2 a 0 no mundo real, mas o Cartola ainda não soltou pontuação nenhuma pra ninguém. Os outros nove confrontos nem começaram, com bola rolando de verdade só a partir de quinta, então relaxa que ainda não é hora de chorar nem de abrir champanhe."
+    "icone": "⚽",
+    "titulo": "Dois jogos reais no bolso, Cartola zerado",
+    "texto": "A rodada 37 ganhou corpo: a Chapecoense bateu o Palmeiras por 3 a 0 (duelo de Alemonstro FBPA contra Urachfc) e o São Paulo fez 3 a 1 no Remo (Corticeira's Farm FC contra Resina Club), os dois jogos já no apito final. Só que até agora nenhum dos 20 times recebeu ponto no Cartola, a pontuação segue zerada pra todo mundo. Ainda são 8 confrontos que nem começaram, então relaxa que a festa só está esquentando."
    },
    {
     "icone": "👑",
-    "titulo": "Duelo direto do pelotão de cima",
-    "texto": "O vice Kaempfs F.C., com 35 pontos, recebe o pietro filho, quarto colocado com 32, num confronto que pode encostar o pietro no G-2 ou devolver o Kaempfs pra cola do líder. No mesmo pacote, o Baade FC, terceiro colocado com 33, visita o SampaMissiones FC, que soma 28 pontos e briga pra não cair pro meio da tabela."
+    "titulo": "Duelo de cabeça ainda por vir",
+    "texto": "O prato principal da rodada continua intacto: o líder isolado Madalena Club, com 37 pontos, visita o HORST BRAUN, o mesmo time que zoou todo mundo vencendo no Cartola mesmo perdendo em campo na rodada passada. Logo atrás, o vice Kaempfs F.C., com 35, recebe o pietro filho, quarto colocado com 32, num confronto que pode embolar ainda mais o pelotão de cima."
    },
    {
-    "icone": "🤝",
-    "titulo": "O líder visita a toca do HORST BRAUN, e a parte de baixo também tem jogo",
-    "texto": "O líder isolado Madalena Club, com 37 pontos, visita o HORST BRAUN, o mesmo time que na rodada passada venceu no Cartola mesmo perdendo o jogo real, aquela zoeira ninguém esquece tão rápido. Enquanto isso, o VIERTRICOLOR, na 19ª posição com 18 pontos, tenta escapar da parte de baixo da tabela contra o Brocador do Bonja, nono colocado, que ainda sonha com o G-5."
+    "icone": "🆘",
+    "titulo": "A fuga da lanterna também está na mesa",
+    "texto": "Enquanto isso, o VIERTRICOLOR, 19º colocado com 18 pontos, tenta escapar da parte de baixo da tabela contra o Brocador do Bonja, que sonha com o G-5 na nona posição com 26. E o Baade FC, terceiro colocado com 33, visita o SampaMissiones FC, sétimo com 28, num duelo que pode reembaralhar o meio da tabela."
    },
    {
     "icone": "🔮",
     "titulo": "Palpite do Zé",
-    "texto": "O Zé aposta que o Madalena não vai tropeçar duas vezes na mesma pegadinha do HORST BRAUN e segue isolado na ponta depois do fim de semana. Mas é só palpite de bar: com o mercado recém fechado e quase nenhum atleta em campo, qualquer pontuação que aparecer por aqui ainda é fotografia borrada, pode virar de ponta a cabeça até o fechamento oficial."
+    "texto": "Com dois jogos reais já resolvidos e zero ponto distribuído, essa rodada ainda está na fase de aquecimento pro Cartola. Assim que o resto da galera entrar em campo o placar muda rápido, então guarda esse texto e compara depois. Ainda tem oito confrontos pra abrir o apetite."
    }
   ],
-  "geradaEm": "2026-11-25T00:24:44Z",
-  "estado": { "mercado": 1, "jogosIniciados": 1, "assinaturaParciais": "sem-parciais" }
+  "geradaEm": "2026-11-27T08:25:08Z",
+  "estado": { "mercado": 1, "jogosIniciados": 2, "assinaturaParciais": "sem-parciais" }
  }
 ]
