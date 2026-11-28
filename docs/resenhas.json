@@ -804,30 +804,30 @@
   "rodada": 37,
   "aoVivo": true,
   "rotulo": "Rodada 37 · andamento",
-  "titulo": "Chapecoense e São Paulo já jogaram, mas o Cartola da rodada 37 ainda não soltou ponto",
+  "titulo": "Terceiro jogo real fecha e o Cartola da rodada 37 continua sem soltar um ponto",
   "blocos": [
    {
     "icone": "⚽",
-    "titulo": "Dois jogos reais no bolso, Cartola zerado",
-    "texto": "A rodada 37 ganhou corpo: a Chapecoense bateu o Palmeiras por 3 a 0 (duelo de Alemonstro FBPA contra Urachfc) e o São Paulo fez 3 a 1 no Remo (Corticeira's Farm FC contra Resina Club), os dois jogos já no apito final. Só que até agora nenhum dos 20 times recebeu ponto no Cartola, a pontuação segue zerada pra todo mundo. Ainda são 8 confrontos que nem começaram, então relaxa que a festa só está esquentando."
+    "titulo": "Mais um jogo real decidido, painel do Cartola ainda mudo",
+    "texto": "A rodada 37 somou mais um resultado real: o Fluminense perdeu para o Cruzeiro por 0 a 1 em casa, duelo que na Cartoka é Gaudérios FC contra Império da Caipira. Antes dele já tinham fechado a Chapecoense 3 a 0 no Palmeiras (Alemonstro FBPA contra Urachfc) e o São Paulo 3 a 1 no Remo (Corticeira's Farm FC contra Resina Club). São três confrontos reais no bolso, mas o painel do Cartola segue zerado para os 20 times, sem ponto creditado pra ninguém ainda."
    },
    {
     "icone": "👑",
-    "titulo": "Duelo de cabeça ainda por vir",
-    "texto": "O prato principal da rodada continua intacto: o líder isolado Madalena Club, com 37 pontos, visita o HORST BRAUN, o mesmo time que zoou todo mundo vencendo no Cartola mesmo perdendo em campo na rodada passada. Logo atrás, o vice Kaempfs F.C., com 35, recebe o pietro filho, quarto colocado com 32, num confronto que pode embolar ainda mais o pelotão de cima."
+    "titulo": "Duelo de cabeça ainda intacto",
+    "texto": "O prato principal da rodada nem começou: o líder isolado Madalena Club, com 37 pontos, ainda vai visitar o HORST BRAUN. Logo atrás, o vice Kaempfs F.C., com 35, recebe o pietro filho, quarto colocado com 32, de olho em esticar a diferença lá na frente."
    },
    {
     "icone": "🆘",
-    "titulo": "A fuga da lanterna também está na mesa",
-    "texto": "Enquanto isso, o VIERTRICOLOR, 19º colocado com 18 pontos, tenta escapar da parte de baixo da tabela contra o Brocador do Bonja, que sonha com o G-5 na nona posição com 26. E o Baade FC, terceiro colocado com 33, visita o SampaMissiones FC, sétimo com 28, num duelo que pode reembaralhar o meio da tabela."
+    "titulo": "Lanterna e meio de tabela também esperam a bola rolar",
+    "texto": "O VIERTRICOLOR, 19º colocado com 18 pontos, ainda tenta a fuga contra o Brocador do Bonja, que sonha alto na nona posição com 26. E o Baade FC, terceiro colocado com 33, visita o SampaMissiones FC, sétimo com 28, num confronto que pode embaralhar o meio da tabela assim que o apito soar."
    },
    {
     "icone": "🔮",
     "titulo": "Palpite do Zé",
-    "texto": "Com dois jogos reais já resolvidos e zero ponto distribuído, essa rodada ainda está na fase de aquecimento pro Cartola. Assim que o resto da galera entrar em campo o placar muda rápido, então guarda esse texto e compara depois. Ainda tem oito confrontos pra abrir o apetite."
+    "texto": "Com sete confrontos ainda sem começar e zero ponto distribuído, essa rodada 37 continua na fase de aquecimento. Guarda esse textinho que a paisagem muda rápido assim que o resto da galera entrar em campo."
    }
   ],
-  "geradaEm": "2026-11-27T08:25:08Z",
-  "estado": { "mercado": 1, "jogosIniciados": 2, "assinaturaParciais": "sem-parciais" }
+  "geradaEm": "2026-11-28T00:25:09Z",
+  "estado": { "mercado": 1, "jogosIniciados": 3, "assinaturaParciais": "sem-parciais" }
  }
 ]
